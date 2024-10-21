@@ -1,0 +1,1 @@
+O portal cockpit possui diversas finalidades. A primeira aprendida delas é ver a [linha de montagem dos E-Jets](https://cockpit.embraer.com.br/montadores/indiceejet.aspx).

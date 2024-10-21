@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "c6ac7f122f7ce4a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec35ab738e191ba4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d04eef4914832668",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Esquemático.canvas",
+                "viewState": {
+                  "x": 697.0484312080547,
+                  "y": 464.69959060402704,
+                  "zoom": -0.9695439442025382
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78d544de8bec4699",
+    "type": "split",
+    "children": [
+      {
+        "id": "4956243f9b32b545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b77a6f98554cd374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "ccbefba3e4610e0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "901e1d8ef624a617",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "174ecb7d8d9327a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9049eda46a925ac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "242901a0a4f7f466",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Esquemático.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a11c405870d26afa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Esquemático.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dc336fad99846b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c8b91af77e5f894",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Esquemático.canvas"
+              }
+            }
+          },
+          {
+            "id": "29403eed50a4a29b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false
+    }
+  },
+  "active": "d04eef4914832668",
+  "lastOpenFiles": [
+    "Imagens/Pasted image 20241019093731.png",
+    "Imagens",
+    "Esquemático.canvas",
+    "Modified Bloom's Taxonomy.md",
+    "5. Criar/Criar.md",
+    "4. Análise e Avaliação/Análise e Avaliação.md",
+    "4. Análise e Avaliação/Aplicação Acadêmica.md",
+    "3. Apply/Componente Prático Diversificado.md",
+    "3. Apply/Apply.md",
+    "2. Understand/Understand.md",
+    "2. Understand/Descrições Profundas.md",
+    "2. Understand/Explicando.md",
+    "1. Recall/Recall.md",
+    "1. Recall/Recordação Espaçada.md",
+    "1. Recall/Recordação Ativa.md",
+    "1. Recall/Categorizações.md",
+    "1. Recall/Obsidian como Flash-Card.md",
+    "Sem título/desktop.ini",
+    "5. Criar",
+    "4. Análise e Avaliação",
+    "3. Apply",
+    "2. Understand",
+    "1. Recall",
+    "Sem título 1.md",
+    "Sem título.md",
+    "Portal Cockpit.md",
+    "Embraer Ozires Silva.md",
+    "Fluxo de vida padrão.md",
+    "Ordem de Produção - Aeronaves.md",
+    "Imagens/Pasted image 20241018092454.png",
+    "Imagens",
+    "Imagens/Pasted image 20241018093205.png",
+    "Imagens/Pasted image 20241018093047.png",
+    "Imagens/Pasted image 20241018093017.png",
+    "Informações Sortidas.md",
+    "Mapas Ozires Silva.md",
+    "Imagens/Pasted image 20241018092501.png",
+    "3. Apply/Proporção de 1.2.1.md",
+    "().md",
+    "Recodação Espaçada.md",
+    "desktop.ini"
+  ]
+}

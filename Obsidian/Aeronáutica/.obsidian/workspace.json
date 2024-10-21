@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "c6ac7f122f7ce4a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc2b0d21fccd9d93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27290b1343e3d29c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aeronáutica/International Standard Atmosphere.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "901a403942589fe4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a878677530d52b6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78d544de8bec4699",
+    "type": "split",
+    "children": [
+      {
+        "id": "4956243f9b32b545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b77a6f98554cd374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ccbefba3e4610e0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#aeronaves",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "901e1d8ef624a617",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "174ecb7d8d9327a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9049eda46a925ac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "242901a0a4f7f466",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aeronáutica/International Standard Atmosphere.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a11c405870d26afa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aeronáutica/International Standard Atmosphere.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dc336fad99846b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c8b91af77e5f894",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aeronáutica/International Standard Atmosphere.md"
+              }
+            }
+          },
+          {
+            "id": "29403eed50a4a29b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false
+    }
+  },
+  "active": "27290b1343e3d29c",
+  "lastOpenFiles": [
+    "Aeronáutica/Forças Atuantes no Voo.md",
+    "Aeronáutica/Aeronáutica.md",
+    "Aeronáutica/Princípio Básico do Voo.md",
+    "Aeronáutica/International Standard Atmosphere.md",
+    "Aeronáutica/Partes da Aeronave.md",
+    "Embraer/Portal Cockpit.md",
+    "Embraer/Ordem de Produção - Aeronaves.md",
+    "Embraer/Mapas Ozires Silva.md",
+    "Embraer/Informações Sortidas.md",
+    "Embraer/Embraer Ozires Silva.md",
+    "Sem título/desktop.ini",
+    "Aeronáutica",
+    "Imagens/Pasted image 20241018103918.png",
+    "Imagens/Pasted image 20241018103755.png",
+    "Imagens/Pasted image 20241018103659.png",
+    "Imagens/Pasted image 20241018102329.png",
+    "Embraer/Fluxo de vida padrão.md",
+    "Imagens/Pasted image 20241018102322.png",
+    "Imagens/Pasted image 20241018102100.png",
+    "Imagens/Pasted image 20241018101707.png",
+    "Imagens/Pasted image 20241018095924.png",
+    "Embraer",
+    "Sem título 1.md",
+    "Imagens/Pasted image 20241018092454.png",
+    "Imagens",
+    "Imagens/Pasted image 20241018093205.png",
+    "Recall.md",
+    "Componente Prático Diversificado.md",
+    "Sem título.canvas",
+    "Modified Bloom's Taxonomy.md",
+    "Apply.md",
+    "Análise e Avaliação.md",
+    "Proporção de 1.2.1.md",
+    "Descrições Profundas.md",
+    "Understand.md",
+    "Recordação Espaçada.md",
+    "Recordação Ativa.md",
+    "Obsidian como Flash-Card.md",
+    "Criar.md",
+    "Criando Explicações.md",
+    "desktop.ini"
+  ]
+}

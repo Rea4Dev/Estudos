@@ -1,0 +1,3 @@
+Esta é uma etapa difícil de definir, mas auto-explicativa. Eu diria que cada caso é um caso, neste caso (haha).
+
+Fazer algo maker, um projeto do trabalho, um projeto de estudo, uma publicação (em todos os sentidos)...
