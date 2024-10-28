@@ -1,0 +1,7 @@
+- [[Início]]
+- [[Tipos de Estrutura]]
+- [[Definição da Equipe de Projeto]]
+- [[Comunicação dentro da TI]]
+- [[Conflitos e planejamento preventivo]]
+- [[Mitos referente ao desenvolvimento]]
+- [[Conclusão]]

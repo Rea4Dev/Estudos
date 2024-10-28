@@ -4,31 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0071f40485249640",
+        "id": "b924cb6cc25280d3",
         "type": "tabs",
         "children": [
           {
-            "id": "9c8d2b9ae386af84",
+            "id": "97a6161c02dcfe36",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tabela formatos.md",
+                "mode": "source",
+                "source": false
+              }
             },
-            "group": "c7e67d76db19ed20"
+            "group": "57b50c4d495f546e"
           }
         ]
       },
       {
-        "id": "4bd1f3c0172cdad7",
+        "id": "61458228c7a1419a",
         "type": "tabs",
         "children": [
           {
-            "id": "b945237c1b4db3f3",
+            "id": "5935c41ff4f49495",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Lógica de Programação/Lógica de Programação.md",
+                "file": "Tabela formatos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,8 +45,8 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
+                  "collapse-display": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -51,12 +55,20 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.2901109132432786,
                   "close": true
                 }
               }
             },
-            "group": "c7e67d76db19ed20"
+            "group": "57b50c4d495f546e"
+          },
+          {
+            "id": "b88f8511408a1a6f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -87,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flashcards/Logica_de_programação/variaveis/tipos/char",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "174ecb7d8d9327a7",
@@ -125,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tabela formatos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tabela formatos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tabela formatos.md"
+              }
             }
           },
           {
@@ -192,53 +207,54 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "9c8d2b9ae386af84",
+  "active": "97a6161c02dcfe36",
   "lastOpenFiles": [
-    "2. Lógica de Programação/Lógica de Programação.md",
-    "2. Lógica de Programação/2.5 Variáveis/Atribuição.md",
-    "2. Lógica de Programação/2.6 Tipos de Dados Básicos/Tipos de Dados Básicos.md",
-    "2. Lógica de Programação/2.6 Tipos de Dados Básicos/Modificadores de Tipo.md",
-    "Imagens/Pasted image 20241020140256.png",
-    "2. Lógica de Programação/2.6 Tipos de Dados Básicos/Variações de Espaço.md",
-    "2. Lógica de Programação/2.6 Tipos de Dados Básicos/Inteiros.md",
-    "Imagens/Pasted image 20241020135814.png",
-    "Imagens/Pasted image 20241020135425.png",
-    "Imagens/Pasted image 20241020135419.png",
-    "Imagens/Pasted image 20241020135214.png",
-    "2. Lógica de Programação/2.5 Variáveis/Variáveis.md",
-    "2. Lógica de Programação/2.5 Variáveis/Nome de Variáveis.md",
-    "Imagens",
-    "2. Lógica de Programação/2.5 Variáveis/Definição.md",
-    "Imagens/Pasted image 20241020134326.png",
-    "2. Lógica de Programação/2.4 Comentários/Comentários.md",
-    "2. Lógica de Programação/2.3 O caractere especial/O Caractere Especial.md",
-    "Imagens/Pasted image 20241020125504.png",
-    "1. Sobre C/Razões do C.md",
-    "1. Sobre C/Razões da Terceira Geração.md",
-    "2. Lógica de Programação/2.2 Funções Externas de Entrada e Saída/(Externo) Função de saída - puts().md",
-    "Sem título/desktop.ini",
-    "Lógica de Programação/Variáveis/desktop.ini",
-    "Lógica de Programação/Comentários/desktop.ini",
-    "2. Lógica de Programação/2.6 Tipos de Dados Básicos",
-    "2. Lógica de Programação/2.5 Variáveis",
-    "2. Lógica de Programação/2.4 Comentários",
-    "2. Lógica de Programação/2.3 O caractere especial",
-    "Linguagem C/Linguagem C.md",
-    "Linguagem C",
-    "Lógica de Programação/Funções Externas de Entrada e Saída/desktop.ini",
-    "2. Lógica de Programação/2.1 Introdução/Introdução.md",
-    "2. Lógica de Programação/2.2 Funções Externas de Entrada e Saída/(Externo) Função de entrada - scanf().md",
-    "2. Lógica de Programação/2.2 Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
-    "2. Lógica de Programação/2.2 Funções Externas de Entrada e Saída/(Externo) Função de saída - print().md",
-    "2. Lógica de Programação/2.2 Funções Externas de Entrada e Saída/Definição Biblioteca.md",
-    "1. Sobre C/Fatos Sobre C.md",
-    "1. Sobre C/Filosofia da Programação em C.md",
-    "1. Sobre C/História.md",
-    "Imagens/Pasted image 20241019093731.png",
-    "Esquemático.canvas",
-    "Modified Bloom's Taxonomy.md",
-    "5. Criar/Criar.md",
-    "Imagens/Pasted image 20241018092454.png",
-    "Imagens/Pasted image 20241018093205.png"
+    "Lógica de Programação/6. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Float e Double.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Inteiros.md",
+    "Tabela formatos.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Char.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Caracteres e Inteiros.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Consequências de uso indevido.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Casting, o uso correto.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Diversas formas de representar.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Operando diferentes tipos.md",
+    "Imagens/Pasted image 20241025224707.png",
+    "Lógica de Programação/Lógica de Programação.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Modificadores de Tipo.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Variações de Espaço.md",
+    "Lógica de Programação/5. Variáveis/Variáveis.md",
+    "Lógica de Programação/5. Variáveis/Atribuição.md",
+    "Imagens/Pasted image 20241025215616.png",
+    "Lógica de Programação/5. Variáveis/Cuidados com nome de Variáveis.md",
+    "Lógica de Programação/5. Variáveis/Definição.md",
+    "Lógica de Programação/4. Comentários/Comentários.md",
+    "Lógica de Programação/3. O caractere especial/O Caractere Especial.md",
+    "Lógica de Programação/2. Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
+    "Lógica de Programação/2. Funções Externas de Entrada e Saída/(Externo) Função de entrada - scanf().md",
+    "Lógica de Programação/2. Funções Externas de Entrada e Saída/(Externo) Função de Saída - print().md",
+    "Lógica de Programação/2. Funções Externas de Entrada e Saída/(Externo) Função de saída - puts().md",
+    "Lógica de Programação/2. Funções Externas de Entrada e Saída/Definição Biblioteca.md",
+    "Lógica de Programação/1. Introdução/Introdução.md",
+    "Lógica de Programação/1. Introdução/Case Sensitive.md",
+    "Imagens/Pasted image 20241025211633.png",
+    "Imagens/Pasted image 20241025211444.png",
+    "Imagens/Pasted image 20241025211419.png",
+    "Imagens/Pasted image 20241025210944.png",
+    "Pasted image 20241025210549.png",
+    "Imagens/Pasted image 20241025115700.png",
+    "Imagens/Pasted image 20241024233800.png",
+    "Imagens/Pasted image 20241024222054.png",
+    "2. Lógica de Programação/2.6 Tipos de Dados Básicos/desktop.ini",
+    "2. Lógica de Programação/2.3 O caractere especial/desktop.ini",
+    "2. Lógica de Programação/desktop.ini",
+    "Lógica de Programação/6. Tipos de Dados Básicos",
+    "Lógica de Programação/5. Variáveis",
+    "Lógica de Programação/4. Comentários",
+    "Lógica de Programação/3. O caractere especial",
+    "Lógica de Programação/2. Funções Externas de Entrada e Saída",
+    "Lógica de Programação/1. Introdução",
+    "Lógica de Programação",
+    "Esquemático.canvas"
   ]
 }

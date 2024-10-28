@@ -1,0 +1,4 @@
+- [[Empírico]]
+- [[Científico]]
+- [[Filosófico]]
+- [[Religioso]]

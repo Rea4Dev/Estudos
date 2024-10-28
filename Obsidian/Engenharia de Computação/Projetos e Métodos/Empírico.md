@@ -1,0 +1,7 @@
+O conhecimento empírico, erroneamente chamado vulgar ou de senso comum, é aquele que é *adquirido pela própria pessoa* na sua *relação com o meio ambiente ou com o meio social*, obtido por meio de interação contínua na forma de ensaios e tentativas que resultam em erros e em acertos.
+
+---
+# Revisão Espaçada
+#flashcards/Projetos_e_Métodos 
+
+Qual o conhecimento empírico;;O conhecimento empírico, erroneamente chamado vulgar ou de senso comum, é aquele que é *adquirido pela própria pessoa* na sua *relação com o meio ambiente ou com o meio social*, obtido por meio de interação contínua na forma de ensaios e tentativas que resultam em erros e em acertos.

@@ -1,0 +1,1 @@
+O ARINC 429 foi publicado em 1977 para definir *como os sistemas aviônicos e componentes devem se comunicar*.

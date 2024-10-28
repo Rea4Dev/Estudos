@@ -1,6 +1,4 @@
-Este é meu documento de estudos individual com o intuito de familiarização aeronáutica, utilizando de diversas fontes.
-
-- [[Forças Atuantes no Voo]]
-- [[International Standard Atmosphere]]
-- [[Princípio Básico do Voo]]
-- [[Partes da Aeronave]]
+1. [[Forças Atuantes no Voo]]
+2. [[Movimentos da Aeronave]]
+3. [[Partes da Aeronave]]
+4. [[ARINC 429]]
