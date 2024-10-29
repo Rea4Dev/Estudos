@@ -6,6 +6,7 @@
       {
         "id": "b924cb6cc25280d3",
         "type": "tabs",
+        "dimension": 74.73190348525469,
         "children": [
           {
             "id": "97a6161c02dcfe36",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto de Software/Gerenciamento de Projetos em Cascata/Ciclos de Vida.md",
+                "file": "Implementação.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +26,7 @@
       {
         "id": "61458228c7a1419a",
         "type": "tabs",
+        "dimension": 25.26809651474531,
         "children": [
           {
             "id": "5935c41ff4f49495",
@@ -32,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projeto de Software/Gerenciamento de Projetos em Cascata/Ciclos de Vida.md",
+                "file": "Implementação.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -55,7 +57,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4769860980686516,
+                  "scale": 0.8108484735168732,
                   "close": true
                 }
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projeto de Software/Gerenciamento de Projetos em Cascata/Ciclos de Vida.md",
+                "file": "Implementação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projeto de Software/Gerenciamento de Projetos em Cascata/Ciclos de Vida.md",
+                "file": "Implementação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto de Software/Gerenciamento de Projetos em Cascata/Ciclos de Vida.md"
+                "file": "Implementação.md"
               }
             }
           },
@@ -189,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,9 +209,14 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "b77a6f98554cd374",
+  "active": "97a6161c02dcfe36",
   "lastOpenFiles": [
     "Projeto de Software/Gerenciamento de Projetos em Cascata/Gerenciamento de Projetos em Cascata.md",
+    "Implementação.md",
+    "ITIL.md",
+    "COBIT.md",
+    "Projeto de Software/Gerenciamento de Projetos em Cascata/Áreas do Conhecimento para otimizar gestão.md",
+    "Pasted image 20241028205313.png",
     "Projeto de Software/Gerenciamento de Projetos em Cascata/Ciclos de Vida.md",
     "Projeto de Software/Gerenciamento de Projetos em Cascata/PMBOK.md",
     "Projeto de Software/Projeto de Software.md",
@@ -244,12 +251,7 @@
     "Lógica de Programação/6. Tipos de Dados Básicos/Consequências de uso indevido.md",
     "Lógica de Programação/6. Tipos de Dados Básicos/Casting, o uso correto.md",
     "Lógica de Programação/6. Tipos de Dados Básicos/Diversas formas de representar.md",
-    "Lógica de Programação/6. Tipos de Dados Básicos/Operando diferentes tipos.md",
     "Pasted image 20241025224707.png",
-    "Lógica de Programação/Lógica de Programação.md",
-    "Lógica de Programação/6. Tipos de Dados Básicos/Modificadores de Tipo.md",
-    "Lógica de Programação/6. Tipos de Dados Básicos/Variações de Espaço.md",
-    "Pasted image 20241025215616.png",
     "2. Lógica de Programação/2.6 Tipos de Dados Básicos/desktop.ini",
     "2. Lógica de Programação/2.3 O caractere especial/desktop.ini",
     "2. Lógica de Programação/desktop.ini",

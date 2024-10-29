@@ -55,7 +55,7 @@ Esta será a abordagem até que se prove útil, necessário e vantajoso saber pr
 #flashcards/Aeronáutica/Física
 
 Qual é a **fórmula** da Sustentação, o qual a **unidade** de cada elemento e o que **significa**;;$$ L=\frac{1}{2}\cdot p\cdot V^2\cdot S\cdot C_l $$![[Pasted image 20241021115758.png]]
-<!--SR:!2024-10-29,1,190-->
+<!--SR:!2024-11-01,3,210-->
 
 Qual a definição de sustentação;;Sustentação (Lift) é a **força aerodinâmica** produzida por um [aerofólio](https://www2.anac.gov.br/anacpedia/por_ing/tr428.htm#:~:text=Corpo%20de%20formato%20aerodin%C3%A2mico%20capaz,aerodin%C3%A2mica%20quando%20atravessa%20o%20ar.). Age em um ponto conhecido como **centro de sustentação** (pressão) localizado ligeiramente atrás do centro de gravidade.
 <!--SR:!2024-10-30,2,250-->

@@ -13,4 +13,4 @@ eSolve é uma ferramenta para tratar *desvios recorrentes referentes aos process
 #flashcards/Embraer
 
 Defina E-Solve.;;eSolve é uma ferramenta para tratar *desvios recorrentes referentes aos processos de fabricação* e/ou *desvios relacionados ao produto* através de um passo a passo que consiste na identificação da causa-raiz, plano de ação e verificação de eficácia.
-<!--SR:!2024-10-29,1,190-->
+<!--SR:!2024-10-30,1,170-->

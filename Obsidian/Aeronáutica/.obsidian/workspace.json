@@ -19,8 +19,21 @@
               }
             },
             "group": "4cd82f27864cb37f"
+          },
+          {
+            "id": "c1176e0fcfd4fc5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aeronáutica/Protocolos de Comunicação/Revisão Espaçada.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "34288a4d6428bc28",
@@ -128,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aeronáutica/Protocolos de Comunicação/ARINC 429.md",
+                "file": "Aeronáutica/Protocolos de Comunicação/Revisão Espaçada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aeronáutica/Protocolos de Comunicação/ARINC 429.md",
+                "file": "Aeronáutica/Protocolos de Comunicação/Revisão Espaçada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aeronáutica/Protocolos de Comunicação/ARINC 429.md"
+                "file": "Aeronáutica/Protocolos de Comunicação/Revisão Espaçada.md"
               }
             }
           },
@@ -199,11 +212,12 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "b77a6f98554cd374",
+  "active": "c1176e0fcfd4fc5d",
   "lastOpenFiles": [
+    "Aeronáutica/Protocolos de Comunicação/ARINC 429.md",
+    "Aeronáutica/Protocolos de Comunicação/Revisão Espaçada.md",
     "Aeronáutica/Protocolos de Comunicação",
     "Aeronáutica/Aeronáutica.md",
-    "Aeronáutica/Protocolos de Comunicação/ARINC 429.md",
     "Aeronáutica/Partes da Aeronave/Controles Primários.md",
     "Aeronáutica/Forças Atuantes no Voo/Sustentação ⭡.md",
     "Imagens/Pasted image 20241024082204.png",
@@ -243,7 +257,6 @@
     "Embraer/Mapas Ozires Silva.md",
     "Embraer/Informações Sortidas.md",
     "Embraer/Embraer Ozires Silva.md",
-    "Aeronáutica",
     "Embraer/Fluxo de vida padrão.md",
     "Sem título 1.md",
     "Recall.md",
