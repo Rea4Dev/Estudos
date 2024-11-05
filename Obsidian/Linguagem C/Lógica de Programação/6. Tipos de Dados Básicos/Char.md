@@ -172,30 +172,8 @@ main(){
 - Outra solução é utilizar o [[getchar( )]] ao invés de scanf().
 - Uma outra forma de resolver o problema consiste em limpar todos os caracteres que existam no buffer do teclado utilizando a função **fflush(stdin)**;
 
----
-# Revisão Espaçada
-#flashcards/Logica_de_programação/variaveis/tipos/char
+# Natureza com inteiro
 
-Qual a quantidade de caracteres que o **char** consegue representar;;![[Pasted image 20241025115700.png]]
-Qual o formato de escrita do **char**;;<center style="font-size:180%">%c</center>
-<!--SR:!2024-10-29,4,270-->
+> -_"As variáveis do tipo char não são mais do que pequenos inteiros guardados num único byte. Assim, podem ser realizadas todas as operações numéricas que se podem realizar com inteiros."_
 
-Qual outra função usável no lugar de scanf para **char**;;<center>getchar()</center>
-<!--SR:!2024-10-29,4,270-->
 
-Quantos caracteres **char** aguenta, quantos bytes é reservado e como é sua representação para o caractere *a*;;apenas um / 1 byte / 'a'
-<!--SR:!2024-10-29,4,270-->
-
-\\n conta como caractere (sim ou não);;sim
-<!--SR:!2024-10-29,4,270-->
-
-qual o problema clássico dos **char** e qual a solução;;armazenar dois char seguidos com scanf(). A solução para ter a resposta esperada é colocar um espaço antes do segundo %c.
-<!--SR:!2024-10-29,4,270-->
-
-qual outra solução para o problema clássico dos **char**;;usar fflush(stdin) para limpar todos caracteres no buffer do teclado
-<!--SR:!2024-10-28,3,250-->
-
-você lembra o porque do problema clássico dos **char**;;sim = fácil | não = difícil
-<!--SR:!2024-10-29,4,270-->
-
-Comente sobre unsigned e signed char;;Por padrão, é unsigned. Entretanto, alguns famosos compiladores utilizam com sinal.<br>Continua sendo %c para todos os casos.

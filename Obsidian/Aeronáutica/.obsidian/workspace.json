@@ -6,6 +6,7 @@
       {
         "id": "dc2b0d21fccd9d93",
         "type": "tabs",
+        "dimension": 69.27207637231503,
         "children": [
           {
             "id": "e97cf46264f36278",
@@ -13,69 +14,84 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aeronáutica/Protocolos de Comunicação/ARINC 429.md",
+                "file": "Aeronáutica/Protocolos de Comunicação/Ethernet.md",
                 "mode": "source",
                 "source": false
-              }
-            },
-            "group": "4cd82f27864cb37f"
-          },
-          {
-            "id": "c1176e0fcfd4fc5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aeronáutica/Protocolos de Comunicação/Revisão Espaçada.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "34288a4d6428bc28",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff2fe3d4bc2eb3b7",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Aeronáutica/Protocolos de Comunicação/ARINC 429.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Ethernet"
             },
             "group": "4cd82f27864cb37f"
           }
         ]
+      },
+      {
+        "id": "58adab53b3280e8f",
+        "type": "split",
+        "dimension": 30.72792362768497,
+        "children": [
+          {
+            "id": "948ed4538378e34d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ff2fe3d4bc2eb3b7",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Aeronáutica/Protocolos de Comunicação/Ethernet.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7132754626224421,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Gráfico de Ethernet"
+                },
+                "group": "4cd82f27864cb37f"
+              }
+            ]
+          },
+          {
+            "id": "2f7e4533efcddfed",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c38ee375ca40a143",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Visualização em gráfico"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -95,7 +111,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -110,7 +128,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -118,14 +138,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "174ecb7d8d9327a7",
@@ -141,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aeronáutica/Protocolos de Comunicação/Revisão Espaçada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +170,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -158,10 +181,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aeronáutica/Protocolos de Comunicação/Revisão Espaçada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
             }
           },
           {
@@ -172,7 +196,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -180,9 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Aeronáutica/Protocolos de Comunicação/Revisão Espaçada.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
             }
           },
           {
@@ -190,11 +216,53 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "ea4a9f02d39655c7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c4ef6d40579fa625",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "04f7f6c5c8ec55d7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "724ec5423c0c0202",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -212,54 +280,54 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "c1176e0fcfd4fc5d",
+  "active": "b77a6f98554cd374",
   "lastOpenFiles": [
-    "Aeronáutica/Protocolos de Comunicação/ARINC 429.md",
-    "Aeronáutica/Protocolos de Comunicação/Revisão Espaçada.md",
-    "Aeronáutica/Protocolos de Comunicação",
+    "Imagens/Pasted image 20241105144753.png",
+    "Aeronáutica/Protocolos de Comunicação/Protocolos de Comunicação.md",
+    "Aeronáutica/Protocolos de Comunicação/Ethernet.md",
     "Aeronáutica/Aeronáutica.md",
+    "Embraer/F220 Posições.md",
+    "Embraer/Embraer.md",
+    "XP SIT/XP SIT.md",
+    "Imagens/Pasted image 20241105094638.png",
+    "XP SIT/MMC por Hardware.md",
+    "XP SIT/Rack E2 + Datatap.md",
+    "Imagens/Pasted image 20241105093803.png",
+    "XP SIT/Servidores.md",
+    "XP SIT/tex-com.emb.md",
+    "Aeronáutica/Protocolos de Comunicação/ARINC 429.md",
+    "Aeronáutica/Protocolos de Comunicação/AFDX.md",
+    "XP SIT/flmap10218.sjk.emb;9090.md",
+    "XP SIT/sitbkpflm.sjk.emb;9090.md",
+    "XP SIT/Reportes.md",
+    "Aeronáutica/Protocolos de Comunicação/Revisão Espaçada.md",
+    "XP SIT/E2 Power On.md",
+    "XP SIT/Bridge Backlash.md",
+    "XP SIT/IO de Baixa.md",
+    "XP SIT/IO de Alta.md",
+    "XP SIT/Estação E1.md",
+    "I/desktop.ini",
+    "I",
+    "Embraer/Sem título/desktop.ini",
+    "XP SIT",
+    "Imagens/Pasted image 20241101111838.png",
+    "Aeronáutica/Partes da Aeronave/Partes da Aeronave.md",
     "Aeronáutica/Partes da Aeronave/Controles Primários.md",
+    "Imagens/Pasted image 20241031102028.png",
+    "Imagens/Pasted image 20241030083021.png",
+    "Sem título.canvas",
+    "Aeronáutica/Protocolos de Comunicação",
     "Aeronáutica/Forças Atuantes no Voo/Sustentação ⭡.md",
     "Imagens/Pasted image 20241024082204.png",
     "Aeronáutica/Movimentos da Aeronave/Movimentos da Aeronave.md",
     "Imagens/11.png",
     "11-removebg-preview.png",
-    "Aeronáutica/Partes da Aeronave/Partes da Aeronave.md",
-    "Aeronáutica/Forças Atuantes no Voo/Forças Atuantes no Voo.md",
-    "Aeronáutica/Forças Atuantes no Voo/Gravidade ⭣.md",
-    "Aeronáutica/Forças Atuantes no Voo/Tração ⭠.md",
-    "Aeronáutica/Forças Atuantes no Voo/Arrasto ⭢.md",
     "Aeronáutica/Partes da Aeronave",
     "Aeronáutica/Movimentos da Aeronave",
     "Imagens/Movimentos_da_aeronave-removebg-preview.png",
     "Imagens/Pasted image 20241022081455.png",
-    "Imagens/Pasted image 20241021115758.png",
-    "Imagens/Pasted image 20241021103639.png",
-    "Imagens/Pasted image 20241021103334.png",
-    "Imagens/Pasted image 20241021103006.png",
-    "Embraer/Termos e Processos/E-Solve.md",
-    "Embraer/Embraer.md",
     "Sem título/desktop.ini",
     "Aeronáutica/Forças Atuantes no Voo",
-    "Embraer/Termos e Processos/Termos e processos.md",
-    "Imagens/Forcas-removebg-preview.png",
-    "Embraer/Termos e Processos",
-    "Embraer",
-    "Imagens/desktop.ini",
-    "E-solve.md",
-    "Imagens",
-    "Aeronáutica",
-    "Aeronáutica/International Standard Atmosphere.md",
-    "Aeronáutica/Princípio Básico do Voo.md",
-    "Aeronáutica/Partes da Aeronave.md",
-    "Embraer/Portal Cockpit.md",
-    "Embraer/Ordem de Produção - Aeronaves.md",
-    "Embraer/Mapas Ozires Silva.md",
-    "Embraer/Informações Sortidas.md",
-    "Embraer/Embraer Ozires Silva.md",
-    "Embraer/Fluxo de vida padrão.md",
-    "Sem título 1.md",
-    "Recall.md",
-    "Sem título.canvas"
+    "Embraer/Termos e Processos"
   ]
 }

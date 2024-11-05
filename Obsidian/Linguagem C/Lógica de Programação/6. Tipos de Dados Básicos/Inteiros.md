@@ -60,12 +60,3 @@ int main(){
     printf("Em hexa: %X \n",num);
 }
 ```
-
----
-# Revisão Espaçada
-#flashcards/Logica_de_programação 
-
-Quais os operadores aritméticos em C;;\+  \-  \*  /  %
-<!--SR:!2024-10-29,4,270-->
-
-Quais os outros formatos para inteiros;;%i para inteiro<br>%o para octal<br>%x para hexa<br>%X para hexa

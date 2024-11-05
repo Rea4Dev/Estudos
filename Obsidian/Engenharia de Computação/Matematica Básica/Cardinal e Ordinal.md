@@ -3,9 +3,3 @@ O número **cardinal** expressa uma *quantidade*, enquanto o número **ordinal**
 
 ## Códigos numerais
 Existem situações em que os números não se encaixam nem de forma cardinal nem ordinal; são chamados códigos numerais. Um exemplo desse tipo de número são os códigos de barra.
-
----
-# Revisão Espaçada
-#flashcards/numeros
-
-O que são códigos numerais;;Existem situações em que os números não se encaixam nem de forma cardinal nem ordinal; são chamados códigos numerais. Um exemplo desse tipo de número são os códigos de barra: aquelas faixas brancas e pretas presentes nos produtos que compramos.

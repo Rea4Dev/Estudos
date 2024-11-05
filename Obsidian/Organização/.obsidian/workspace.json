@@ -17,9 +17,10 @@
                 "file": "Estudos.md",
                 "mode": "source",
                 "source": false
-              }
-            },
-            "group": "9e2ddfd7c31b1b5b"
+              },
+              "icon": "lucide-file",
+              "title": "Estudos"
+            }
           }
         ]
       },
@@ -29,40 +30,14 @@
         "dimension": 50,
         "children": [
           {
-            "id": "f093a23800d97ce0",
+            "id": "9aab3800a9757531",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Estudos.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.4019828977761015,
-                  "close": true
-                }
-              }
-            },
-            "group": "9e2ddfd7c31b1b5b"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
           }
         ]
       }
@@ -84,7 +59,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -99,7 +76,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -107,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -138,7 +119,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Estudos"
             }
           },
           {
@@ -150,7 +133,9 @@
                 "file": "Estudos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Estudos"
             }
           },
           {
@@ -161,7 +146,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -171,7 +158,9 @@
               "type": "outline",
               "state": {
                 "file": "Estudos.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Estudos"
             }
           },
           {
@@ -179,11 +168,83 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "303b0f7e9091ebcc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c70b3cd2de0827f1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "6b6267607e4b10b2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "8690eead4fabdfd8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "8ba36ff3b4b2b974",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "480f71de8ba16354",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5d8393e3b37e33fd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -201,26 +262,28 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "f093a23800d97ce0",
+  "active": "5d8393e3b37e33fd",
   "lastOpenFiles": [
     "Atribuições.md",
+    "Acompanhar.md",
     "Estudos.md",
+    "Atribuições/Hoje.md",
+    "Atribuições/Projeto AFDX.md",
+    "Atribuições/Roteiro de Testes.md",
+    "Atribuições/Kaizen/Kaizen.md",
     "Images/Pasted image 20241025205608.png",
     "Images/Pasted image 20241025205439.png",
     "Images/Pasted image 20241025201422.png",
     "Images/Pasted image 20241025201353.png",
     "Images/Pasted image 20241025201326.png",
-    "Acompanhar.md",
     "Pessoais/Imigração EUA.md",
     "Pessoais/Pessoais.md",
     "Sem título.md",
     "Pessoais",
     "Atribuições/Levantamento Ativos.md",
-    "Atribuições/Roteiro de Testes.md",
     "Images/Pasted image 20241024085350.png",
     "Atribuições/Kaizen/Kaizen de produto.md",
     "Atribuições/Kaizen/Kaizen de Célula.md",
-    "Atribuições/Kaizen/Kaizen.md",
     "Atribuições/Kaizen",
     "Image Align 1.css",
     "Image Align.css",
@@ -243,7 +306,6 @@
     "Estudos/Embarcados.md",
     "Estudos",
     "Atribuições/Suporte.md",
-    "2024-10-23.md",
     "Atribuições",
     "Imagens/Pasted image 20241022181002.png",
     "2. Lógica de Programação/2.6 Tipos de Dados Básicos/desktop.ini",

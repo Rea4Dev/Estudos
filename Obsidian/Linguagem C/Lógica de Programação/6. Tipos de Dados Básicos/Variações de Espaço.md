@@ -9,7 +9,7 @@ A sintaxe do operador sizeof é:
 sizeof <expressão> ou sizeof ( <tipo> )
 ```
 
-```
+```c
 #include <stdio.h>
 
 main(){
@@ -18,10 +18,3 @@ main(){
 
 }
 ```
-
----
-# Revisão Espaçada
-#flashcards/Logica_de_programação/espaço
-
-Qual operador disponibilizado pelo C para saber a dimensão de uma variável e como é sua declaração;;sizeof expressão<br>ou<br>sizeof(tipo)
-<!--SR:!2024-10-29,4,270-->

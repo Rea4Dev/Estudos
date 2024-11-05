@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "3f917cc2fb2682f0",
+        "id": "e37bd27b1ac5745b",
         "type": "tabs",
+        "dimension": 51.87667560321716,
         "children": [
           {
             "id": "af3c50d1e283861c",
@@ -18,72 +19,79 @@
                 "source": false
               }
             },
-            "group": "a5c8346965f16133"
-          },
-          {
-            "id": "2b2ec4c55c0b2362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ferramentas Teóricas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "46145893737ce4a6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ad197365f02264e4",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Projetos e Métodos/Projetos e Métodos.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "a5c8346965f16133"
-          },
-          {
-            "id": "8f340166b9772c1f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            "group": "34087a541bbbdb9d"
           }
         ]
+      },
+      {
+        "id": "97572259daa18489",
+        "type": "split",
+        "dimension": 48.12332439678284,
+        "children": [
+          {
+            "id": "f3440836d950aabe",
+            "type": "tabs",
+            "dimension": 33.217592592592595,
+            "children": [
+              {
+                "id": "173eafb0aaa05e42",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Projetos e Métodos/Projetos e Métodos.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.61091027343388,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "34087a541bbbdb9d"
+              }
+            ]
+          },
+          {
+            "id": "f91974e24fe375d5",
+            "type": "tabs",
+            "dimension": 66.7824074074074,
+            "children": [
+              {
+                "id": "20ff4eaf28217d4a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projetos e Métodos/Flashcards.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -133,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "174ecb7d8d9327a7",
@@ -149,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ferramentas Teóricas.md",
+                "file": "Projetos e Métodos/Flashcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ferramentas Teóricas.md",
+                "file": "Projetos e Métodos/Flashcards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ferramentas Teóricas.md"
+                "file": "Projetos e Métodos/Flashcards.md"
               }
             }
           },
@@ -220,47 +229,46 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "2b2ec4c55c0b2362",
+  "active": "20ff4eaf28217d4a",
   "lastOpenFiles": [
     "Projetos e Métodos/Projetos e Métodos.md",
-    "Ferramentas Teóricas.md",
+    "Técnicas de Pesquisa.md",
+    "Projetos e Métodos/Flashcards.md",
+    "Pasted image 20241031180726.png",
+    "Projetos e Métodos/Processos do Método Científico.md",
+    "Pasted image 20241031175535.png",
     "Projetos e Métodos/Postura Científica.md",
-    "Images/Pasted image 20241027164636.png",
-    "Projetos e Métodos/Classificações.md",
-    "Images/Pasted image 20241027163407.png",
-    "Projetos e Métodos/Método e Metodologia.md",
-    "Projetos e Métodos/teológico.md",
-    "Projetos e Métodos/Tipos de Conhecimento.md",
-    "Projetos e Métodos/Religioso.md",
-    "Religioso/desktop.ini",
-    "Religioso",
-    "Projetos e Métodos/Filosófico.md",
-    "Projetos e Métodos/Científico.md",
+    "Projetos e Métodos/O que é conhecer.md",
     "Projetos e Métodos/Empírico.md",
+    "Projetos e Métodos/Tipos de Conhecimento.md",
     "Projetos e Métodos/Senso Comum e Ciência.md",
-    "Images/Pasted image 20241027160552.png",
+    "Matematica Básica/Flashcards.md",
+    "Matematica Básica/Soma e Produto.md",
+    "Images/Pasted image 20241029213046.png",
+    "Images/Pasted image 20241029213030.png",
     "Matematica Básica/Matemática Básica.md",
-    "Projetos e Métodos",
+    "Matematica Básica/Perspectiva História/Gregos e Renascimento.md",
+    "Matematica Básica/Produtos Notáveis.md",
     "Matematica Básica/Onde parei.md",
     "Matematica Básica/Revisadão Mat.md",
-    "Matematica Básica/Produtos Notáveis.md",
     "Matematica Básica/Notação Científica.md",
     "Matematica Básica/Propriedades da Radiciação.md",
     "Matematica Básica/Propriedades da Potenciação.md",
     "Matematica Básica/Conjuntos Numéricos.md",
-    "Matematica Básica/Conjuntos.md",
-    "Matematica Básica/Propriedades dos Conjuntos.md",
     "Matematica Básica/Propriedade da Interseção e União.md",
     "Matematica Básica/Propriedades da Interseção.md",
     "Matematica Básica/Propriedades da União.md",
     "Matematica Básica/Propriedade da Inclusão.md",
+    "Matematica Básica/Propriedades dos Conjuntos.md",
+    "Images/Pasted image 20241027164636.png",
+    "Images/Pasted image 20241027163407.png",
+    "Religioso/desktop.ini",
+    "Religioso",
+    "Images/Pasted image 20241027160552.png",
+    "Projetos e Métodos",
     "Images/Pasted image 20241026160843.png",
     "Images/Produtos Notaveis.png",
     "Images/Pasted image 20241026154857.png",
-    "Images/Pasted image 20241026153812.png",
-    "Images/Pasted image 20241026153349.png",
-    "Images/Pasted image 20241026143808.png",
-    "Images/Pasted image 20241026143043.png",
     "Images",
     "Sem título/desktop.ini",
     "Matematica Básica/Perspectiva História",

@@ -72,10 +72,3 @@ main(){
 
 Entretanto, embora funcione, *não é ideal fazer os códigos desta forma* (leia [[Consequências de uso indevido]]), uma vez que o *%d está esperando um inteiro e não um caractere*. Para isso, será necessário modificar a estrutura usando o conceito de [[Casting, o uso correto]].
 ![[Pasted image 20241024220503.png | center]]
-
----
-# Revisão Espaçada
-#flashcards/Logica_de_programação/variaveis/tipos/char 
-
-Faça um programa com quatro variáveis char, fazendo com que as quatro devolva na saída o caractere A de maneiras diferentes. Descreva o nome de cada uma;;![[Pasted image 20241025210944.png]]
-<!--SR:!2024-10-26,1,230-->

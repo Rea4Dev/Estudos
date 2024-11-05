@@ -7,3 +7,4 @@
 - [[Propriedades da Radiciação]]
 - [[Notação Científica]]
 - [[Produtos Notáveis]]
+- [[Soma e Produto]]

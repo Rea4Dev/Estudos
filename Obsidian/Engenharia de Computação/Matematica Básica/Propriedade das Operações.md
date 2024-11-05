@@ -54,14 +54,3 @@ $$
 $$
 14÷4=3,5
 $$
-
----
-# Revisão Espaçada
-#flashcards/propriedades
-
-Quais as propriedades da Adição;;![[Pasted image 20241026131739.png]]
-Quais as propriedades da Multiplicação;;![[Pasted image 20241026131810.png]]
-
-O que é a *propriedade da compensação da subtração*;;![[Pasted image 20241026131937.png]]
-
-Qual é a *propriedade da compensação da divisão*;;![[Pasted image 20241026160843.png]]

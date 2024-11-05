@@ -13,10 +13,3 @@ printf("Hello, World!");
 ```
 
 Em C, cada instrução deve ser terminada com um ponto-e-vírgula.
-
----
-# Revisão Espaçada
-#flashcards/Logica_de_programação 
-
-Por que é printf e não print;;Pois printf = print + **formatado**.<br>Formatado pois, o uso do **%** e diversos outros artifícios (como %.2f) são possíveis pois printf é formatado.
-<!--SR:!2024-10-29,4,270-->

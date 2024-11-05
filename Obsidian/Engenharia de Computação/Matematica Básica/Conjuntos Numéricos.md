@@ -6,9 +6,3 @@ Fique sempre atento ao fato de que não são “inteiros positivos”, pois inte
 
 ## Conjunto dos Números Racionais
 ![[Pasted image 20241026140953.png]]
-
----
-# Revisão Espaçada
-#flashcards/conjuntos_numericos
-
-Qual a diferença entre *Inteiros não negativos* e *Inteiros positivos* e qual a representação de cada um;;Inteiros não negativos é Z^+ e vão de \[0, infinito+]<br>Inteiros positivos é Z^\*+ e não incluem o zero. Vão de \[1, infinito+]

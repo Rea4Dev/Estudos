@@ -144,8 +144,7 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-spaced-repetition:Revisar flashcards": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "b77a6f98554cd374",

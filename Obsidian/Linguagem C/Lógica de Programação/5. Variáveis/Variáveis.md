@@ -8,6 +8,6 @@ As variáveis são sempre armazenadas em memória, e são uma forma simples de r
 
 ![[Pasted image 20241020134326.png]]
 
-- [[Definição]]
+- [[Declaração]]
 - [[Cuidados com nome de Variáveis]]
 - [[Atribuição]]

@@ -4,12 +4,3 @@ Usamos a notação científica para representar *números muito grandes* ou *nú
 > Por exemplo
 $$470.000.000$$   Pode ser escrito como:
 $$4,7\cdot 10^8$$_
-
----
-# Revisão Espaçada
-#flashcards/notação_cientifica
-
-Transforme 470.000.000 em notação científica;;![[Pasted image 20241026153349.png]]
-
-
-Transforme 0,0000453 em notação científica;; ![[Pasted image 20241026153812.png]]

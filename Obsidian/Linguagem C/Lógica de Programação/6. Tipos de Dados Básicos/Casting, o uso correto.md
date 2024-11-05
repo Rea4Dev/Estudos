@@ -27,10 +27,5 @@ main(){
 }
 ```
 
----
-# Revisão Espaçada
-#flashcards/Logica_de_programação/variaveis/tipos/char 
+> _-"Sempre que é necessário alterar uma expressão para um determinado tipo utiliza-se o casting (tipo). Essa alteração é temporária."._
 
-Declare se há algo de errado com o código abaixo, e caso haja, corrija<br>![[Pasted image 20241025211419.png]];;Sim, há.<br>![[Pasted image 20241025211444.png]]
-
-Faça um programa que colha um caractere digitado e mostre qual o código ASCII decimal dele e qual o caractere posterior a ele e também o código;;![[Pasted image 20241025211633.png]]

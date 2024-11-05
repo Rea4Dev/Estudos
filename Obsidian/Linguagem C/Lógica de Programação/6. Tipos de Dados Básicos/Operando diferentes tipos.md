@@ -1,5 +1,5 @@
 Observe o código abaixo e veja que estamos tentando dividir um inteiro por um float:
-```
+```c
 #include <stdio.h>
 
   

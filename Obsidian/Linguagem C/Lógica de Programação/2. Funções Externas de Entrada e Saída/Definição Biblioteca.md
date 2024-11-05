@@ -10,11 +10,3 @@ O arquivo stdio.h permite o acesso a todas as funções de entrada e saída norm
 
 As linhas começadas por # (#include, #define, etc.) não são C, mas sim diretivas ao pré-processador. Por isso não devem ser seguidas de ponto-e-vírgula.
 
----
-# Revisão Espaçada
-
-O que significa stdio;;Standard Input Output
-
-O que significa o .h;;Header files.
-
-stdio deve ser seguido de ponto e vírgula;;Não, pois não é uma instrução de C, assim como todos que começam com #, ele é uma diretiva ao pré-processador.

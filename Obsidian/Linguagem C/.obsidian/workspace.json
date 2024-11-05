@@ -4,35 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b924cb6cc25280d3",
+        "id": "524534be82585059",
         "type": "tabs",
+        "dimension": 67.4496644295302,
         "children": [
           {
-            "id": "97a6161c02dcfe36",
+            "id": "0c24630b26c15e94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tabela formatos.md",
+                "file": "Lógica de Programação/Flash-Cards.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Flash-Cards"
             },
-            "group": "57b50c4d495f546e"
+            "group": "1c0f99bc21a5ee71"
           }
         ]
       },
       {
-        "id": "61458228c7a1419a",
+        "id": "29b28d4452ba65b6",
         "type": "tabs",
+        "dimension": 32.5503355704698,
         "children": [
           {
-            "id": "5935c41ff4f49495",
+            "id": "3f47d3edd04a3860",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tabela formatos.md",
+                "file": "Lógica de Programação/Flash-Cards.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -45,8 +49,8 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
+                  "collapse-display": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -55,20 +59,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.2901109132432786,
+                  "scale": 1,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Gráfico de Flash-Cards"
             },
-            "group": "57b50c4d495f546e"
-          },
-          {
-            "id": "b88f8511408a1a6f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            "group": "1c0f99bc21a5ee71"
           }
         ]
       }
@@ -90,7 +88,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -105,7 +105,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -113,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -136,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tabela formatos.md",
+                "file": "Lógica de Programação/Lógica de Programação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +148,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Lógica de Programação"
             }
           },
           {
@@ -153,10 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tabela formatos.md",
+                "file": "Lógica de Programação/Lógica de Programação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Lógica de Programação"
             }
           },
           {
@@ -167,7 +175,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -176,8 +186,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tabela formatos.md"
-              }
+                "file": "Lógica de Programação/Lógica de Programação.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Lógica de Programação"
             }
           },
           {
@@ -185,11 +197,53 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "73d152631b5db0a6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9868def7776f481e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5c18c70f190521b6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "14c35b903efe29be",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -207,44 +261,44 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "97a6161c02dcfe36",
+  "active": "b77a6f98554cd374",
   "lastOpenFiles": [
-    "Lógica de Programação/6. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
-    "Lógica de Programação/6. Tipos de Dados Básicos/Float e Double.md",
-    "Lógica de Programação/6. Tipos de Dados Básicos/Inteiros.md",
-    "Tabela formatos.md",
-    "Lógica de Programação/6. Tipos de Dados Básicos/Char.md",
-    "Lógica de Programação/6. Tipos de Dados Básicos/Caracteres e Inteiros.md",
-    "Lógica de Programação/6. Tipos de Dados Básicos/Consequências de uso indevido.md",
-    "Lógica de Programação/6. Tipos de Dados Básicos/Casting, o uso correto.md",
-    "Lógica de Programação/6. Tipos de Dados Básicos/Diversas formas de representar.md",
-    "Lógica de Programação/6. Tipos de Dados Básicos/Operando diferentes tipos.md",
-    "Imagens/Pasted image 20241025224707.png",
-    "Lógica de Programação/Lógica de Programação.md",
-    "Lógica de Programação/6. Tipos de Dados Básicos/Modificadores de Tipo.md",
-    "Lógica de Programação/6. Tipos de Dados Básicos/Variações de Espaço.md",
-    "Lógica de Programação/5. Variáveis/Variáveis.md",
-    "Lógica de Programação/5. Variáveis/Atribuição.md",
-    "Imagens/Pasted image 20241025215616.png",
-    "Lógica de Programação/5. Variáveis/Cuidados com nome de Variáveis.md",
-    "Lógica de Programação/5. Variáveis/Definição.md",
-    "Lógica de Programação/4. Comentários/Comentários.md",
+    "Imagens/Pasted image 20241105193449.png",
+    "Imagens/Pasted image 20241105193343.png",
+    "Imagens/Pasted image 20241105192112.png",
+    "Imagens/Pasted image 20241105191213.png",
     "Lógica de Programação/3. O caractere especial/O Caractere Especial.md",
-    "Lógica de Programação/2. Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
+    "Lógica de Programação/Flash-Cards.md",
+    "Imagens/Pasted image 20241104214540.png",
+    "Lógica de Programação/Lógica de Programação.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Casting, o uso correto.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Caracteres e Inteiros.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Char.md",
     "Lógica de Programação/2. Funções Externas de Entrada e Saída/(Externo) Função de entrada - scanf().md",
-    "Lógica de Programação/2. Funções Externas de Entrada e Saída/(Externo) Função de Saída - print().md",
-    "Lógica de Programação/2. Funções Externas de Entrada e Saída/(Externo) Função de saída - puts().md",
-    "Lógica de Programação/2. Funções Externas de Entrada e Saída/Definição Biblioteca.md",
+    "Lógica de Programação/2. Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
+    "Pasted image 20241101104132.png",
+    "Lógica de Programação/6. Tipos de Dados Básicos/getchar( ).md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Operando diferentes tipos.md",
+    "Lógica de Programação/5. Variáveis/Variáveis.md",
+    "Lógica de Programação/5. Variáveis/Declaração.md",
+    "Imagens/Pasted image 20241031213313.png",
     "Lógica de Programação/1. Introdução/Introdução.md",
-    "Lógica de Programação/1. Introdução/Case Sensitive.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Tabela formatos.md",
+    "2024-10-01.md",
+    "2024-10-09.md",
+    "2024-10-31.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Variações de Espaço.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Modificadores de Tipo.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Inteiros.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Consequências de uso indevido.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Diversas formas de representar.md",
+    "Lógica de Programação/6. Tipos de Dados Básicos/Float e Double.md",
+    "Lógica de Programação/5. Variáveis/Atribuição.md",
+    "Imagens/Pasted image 20241025224707.png",
+    "Imagens/Pasted image 20241025215616.png",
     "Imagens/Pasted image 20241025211633.png",
     "Imagens/Pasted image 20241025211444.png",
-    "Imagens/Pasted image 20241025211419.png",
-    "Imagens/Pasted image 20241025210944.png",
-    "Pasted image 20241025210549.png",
-    "Imagens/Pasted image 20241025115700.png",
-    "Imagens/Pasted image 20241024233800.png",
-    "Imagens/Pasted image 20241024222054.png",
     "2. Lógica de Programação/2.6 Tipos de Dados Básicos/desktop.ini",
     "2. Lógica de Programação/2.3 O caractere especial/desktop.ini",
     "2. Lógica de Programação/desktop.ini",

@@ -12,9 +12,3 @@ A ciência está pautada na teoria, objetividade, ir além do cotidiano.
 
 **Senso Comum**
 Está pautada na percepção e ação.
-
----
-# Revisão Espaçada
-#flashcards/Projetos_e_Métodos 
-
-Ciência ou Senso comum é resultado da relação homem natureza;;Ambos.

@@ -7,10 +7,3 @@ Uma vez que os comentários não têm qualquer interferência num programa, serv
 - Mesmo que por grande parte das vezes não recomendável, os comentários podem sempre ser colocados dentro de códigos. Apenas não serão tratados como comentários se você os colocar dentro de uma string.
 
 - Os compiladores não permitem, em geral, a existência de comentários dentro de comentários. Porque seguindo a regra dos comentários em C, o comentário inicial terminava quando encontrasse o símbolo * /, que encerra o comentário. A extensão do comentário variaria então apenas entre a primeira ocorrência de /* e a primeira ocorrência de * /, detectando então um final de comentário sem o correspondente início.
-
----
-# Revisão Espaçada
-#flashcards/Logica_de_programação
-
-É possível comentários dentro de códigos?;;Sim, só não é recomendável.
-<!--SR:!2024-10-29,4,270-->

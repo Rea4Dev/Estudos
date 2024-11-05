@@ -46,25 +46,3 @@ Ao trabalhar com valores sem sinal, o conjunto de valores com que podemos trabal
 ![[Pasted image 20241022181002.png]]
 ### Signed
 > O prefixo signed, antes de um inteiro, não é necessário, pois por padrão todos os inteiros quando são criados são sinalizados (signed).
-
----
-# Revisão Espaçada
-#flashcards/Logica_de_programação/modificadores_de_tipos
-
-Para um inteiro de 2 bytes, qual o menor e qual o maior valor possível;;32.768 | 32.767
-<!--SR:!2024-10-26,1,230-->
-
-Para um inteiro de 4 bytes, qual o menor e qual o maior valor possível;;2.147.483.648 | 2.147.483.647
-<!--SR:!2024-10-26,1,230-->
-
-Para que serve o **short** em um **inteiro**;;Fixá-lo como 2 bytes independente da arquitetura. Operador %hd
-<!--SR:!2024-10-26,1,230-->
-
-Para que serve o **long** em um **inteiro**;;Fixá-lo como 4 bytes independente da arquitetura. Operador %ld
-<!--SR:!2024-10-28,3,250-->
-
-Para que serve o **signed** em um **inteiro**;;Incluir sinal, ou seja, não muda nada.
-<!--SR:!2024-10-29,4,270-->
-
-Para que serve o **unsigned** em um **inteiro**;;Retirar sinal, ou seja, apenas positivos. Operador %u.<br>Obviamente, por consequencia, o valor máximo torna-se o dobro do que era.
-<!--SR:!2024-10-29,4,270-->

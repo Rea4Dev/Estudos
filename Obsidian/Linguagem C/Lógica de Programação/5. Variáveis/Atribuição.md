@@ -51,16 +51,3 @@ A resposta é simples, todas ficam com o valor 5. A razão tem muito a ver com a
 
 ![[Pasted image 20241020135425.png]]
 
----
-# Revisão
-#flashcards/Logica_de_programação
-
-O que acontece quando declaramos uma variável;;Indicamos ao compilador para reservar um espaço na memória.
-<!--SR:!2024-10-29,4,270-->
-
-Qual o tamanho em bytes de um int;;Na verdade, depende da arquitetura. Em microcontroladores, costuma ser 2 bytes - já em computadores, costuma ser 4 bytes.
-<!--SR:!2024-10-29,4,270-->
-
-Qual o resultado<br>![[Pasted image 20241025215616.png]];;A resposta é 5. Quando são escritas várias atribuições consecutivas, estas são realizadas não da esquerda para a direita, mas sim da direita para a esquerda.
-<!--SR:!2024-10-29,4,270-->
-

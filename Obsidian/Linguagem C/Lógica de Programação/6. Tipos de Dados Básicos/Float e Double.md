@@ -15,22 +15,3 @@ Qualquer operação que inclua um dos operandos do tipo real obtém um resultado
 
 O conjunto de operações disponíveis para os números de ponto flutuante é igual ao dos números inteiros (à exceção do operador % — Módulo).
 ![[Pasted image 20241023182541.png]]
-
----
-# Revisão Espaçada
-#flashcards/Logica_de_programação 
-
-Qual os outros nomes para float e double;;Reais ou ponto flutuante
-<!--SR:!2024-10-29,4,270-->
-
-Quais as diferenças de float e double;;Float ocupa 4 bytes, double ocupa 8
-<!--SR:!2024-10-29,4,270-->
-
-Quais as precisões;;Float é dito precisão simples e double é dito precisão dupla
-<!--SR:!2024-10-29,4,270-->
-
-Qual o resultado da operação de qualquer tipo com um real;;Resultado real.
-<!--SR:!2024-10-29,4,270-->
-
-Quais os formatos de leitura que podem ser usados para pontos flutuantes;;%f<br>%e<br>%E
-
