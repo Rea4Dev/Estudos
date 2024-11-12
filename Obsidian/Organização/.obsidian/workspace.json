@@ -6,7 +6,7 @@
       {
         "id": "204bd76886f374e7",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 55.87248322147651,
         "children": [
           {
             "id": "1fb8bc750d10f3e8",
@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Estudos.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -27,16 +27,26 @@
       {
         "id": "b999b88dcb2604b6",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 44.12751677852349,
         "children": [
           {
-            "id": "9aab3800a9757531",
+            "id": "615b5f5a0d95e060",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "9aab3800a9757531",
+            "type": "leaf",
+            "state": {
+              "type": "3d-graph-view-global",
+              "state": {},
+              "icon": "orbit",
+              "title": "Global 3D Graph"
             }
           }
         ]
@@ -239,12 +249,62 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "661427d50aae77b4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "2d0a85709538d794",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "cb4ab0a5c0e09701",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "61e0c6ef69b863b7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5dcefd2c2fff6959",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -259,17 +319,18 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-spaced-repetition:Revisar flashcards": false
+      "obsidian-spaced-repetition:Revisar flashcards": false,
+      "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "5d8393e3b37e33fd",
+  "active": "615b5f5a0d95e060",
   "lastOpenFiles": [
-    "Atribuições.md",
-    "Acompanhar.md",
     "Estudos.md",
+    "Acompanhar.md",
+    "Atribuições.md",
     "Atribuições/Hoje.md",
-    "Atribuições/Projeto AFDX.md",
     "Atribuições/Roteiro de Testes.md",
+    "Atribuições/Projeto AFDX.md",
     "Atribuições/Kaizen/Kaizen.md",
     "Images/Pasted image 20241025205608.png",
     "Images/Pasted image 20241025205439.png",

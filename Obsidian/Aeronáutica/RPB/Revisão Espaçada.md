@@ -1,7 +1,7 @@
 #flashcards/Aeronáutica/Protocolos
 
 O que significa ARINC;;(**A**eronautical **R**adio **Inc**)
-<!--SR:!2024-11-07,3,230-->
+<!--SR:!2024-11-21,10,250-->
 
 Quando ARINC foi publicado;; Em 1977
 <!--SR:!2024-11-19,15,290-->

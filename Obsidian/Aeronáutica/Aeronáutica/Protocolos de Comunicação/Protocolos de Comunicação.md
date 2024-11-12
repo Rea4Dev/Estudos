@@ -1,3 +1,0 @@
-- [[ARINC 429]]
-- [[Ethernet]]
-- [[AFDX]]

@@ -1,3 +1,6 @@
 - [[Definição de Programa]]
 - [[Função principal main]]
 - [[Case Sensitive]]
+- [[Funções Externas de Entrada e Saída]]
+- [[O Caractere Especial]]
+- [[Comentários]]

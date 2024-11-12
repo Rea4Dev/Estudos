@@ -29,3 +29,10 @@ main(){
 
 > _-"Sempre que é necessário alterar uma expressão para um determinado tipo utiliza-se o casting (tipo). Essa alteração é temporária."._
 
+---
+## Casting tamanho
+A multiplicação entre dois inteiros devolve sempre um número inteiro. Caso quiséssemos que retornasse um long, teríamos que fazer o casting com pelo menos um dos valores operados.
+
+Essa promoção pode ser realizada através de *(long)* ou colocando um L imediatamente após (se constante).
+
+>seg = (hrs < 0) ? (0) : (n_horas * 3600L);

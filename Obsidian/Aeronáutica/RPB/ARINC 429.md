@@ -32,3 +32,4 @@ Bit do encerramento do pacote. Diz respeito ao pacote em si.
 Categoriza o dado, tal qual uma classe numa programação orientada a objeto.
 
 ![[Pasted image 20241101111838.png | center]]
+

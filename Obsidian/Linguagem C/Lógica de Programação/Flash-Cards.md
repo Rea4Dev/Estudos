@@ -1,7 +1,7 @@
 #flashcards/LinguagemC
 
 O que fazer para conseguir devidamente declarar caracteres especiais;;Sempre contra-barra, exceto operação com módulo, aí é duas %%%%  é o operador.
-<!--SR:!2024-11-09,4,295-->
+<!--SR:!2024-11-27,16,315-->
 
 O que significa o nome da função puts, qual suas diferenças em relação ao printf;;"put string"<br>(1)Inclui automaticamente quebra de linha no fim da string.<br>(2)Não é formatada.
 <!--SR:!2024-11-14,15,290-->
@@ -25,7 +25,7 @@ Quais os dois usos do caractere especial \\;;(1). Quando queremos representar um
 <!--SR:!2024-11-14,15,290-->
 
 O que acontece quando declaramos uma variável;;Indicamos ao compilador para reservar um espaço na memória.
-<!--SR:!2024-11-10,11,270-->
+<!--SR:!2024-12-22,41,290-->
 
 Qual o tamanho em bytes de um int;;Na verdade, depende da arquitetura. Em microcontroladores, costuma ser 2 bytes - já em computadores, costuma ser 4 bytes.
 <!--SR:!2024-11-14,15,290-->
@@ -38,13 +38,13 @@ Quais os operadores aritméticos em C;;\+  \-  \*  /  %
 <!--SR:!2024-11-14,15,290-->
 
 Quais os outros formatos para inteiros;;%i para inteiro<br>%o para octal<br>%x para hexa<br>%X para hexa
-<!--SR:!2024-11-07,3,240-->
+<!--SR:!2024-11-17,10,260-->
 
 Qual operador disponibilizado pelo C para saber a dimensão de uma variável e como é sua declaração;;sizeof expressão<br>ou<br>sizeof(tipo)
 <!--SR:!2024-11-14,15,290-->
 
 Para um inteiro de 2 bytes, qual o menor e qual o maior valor possível;;32.768 | 32.767
-<!--SR:!2024-11-11,7,250-->
+<!--SR:!2024-11-29,18,250-->
 
 Para um inteiro de 4 bytes, qual o menor e qual o maior valor possível;;2.147.483.648 | 2.147.483.647
 <!--SR:!2024-11-15,11,270-->
@@ -53,28 +53,28 @@ Para que serve o **short** em um **inteiro** e qual o operador;;Fixá-lo como 2 
 <!--SR:!2024-11-15,11,270-->
 
 Para que serve o **long** em um **inteiro** e qual o operador;;Fixá-lo como 4 bytes independente da arquitetura. Operador %ld
-<!--SR:!2024-11-08,3,230-->
+<!--SR:!2024-11-21,10,250-->
 
 Para que serve o **signed** em um **inteiro** e qual o operador;;Incluir sinal, ou seja, não muda nada.
 <!--SR:!2024-11-14,15,290-->
 
 Para que serve o **unsigned** em um **inteiro** e qual o operador;;Retirar sinal, ou seja, apenas positivos. Operador %u.<br>Obviamente, por consequencia, o valor máximo torna-se o dobro do que era.
-<!--SR:!2024-11-08,3,250-->
+<!--SR:!2024-11-22,11,270-->
 
 Qual os outros nomes para float e double;;Reais ou ponto flutuante
-<!--SR:!2024-11-10,11,270-->
+<!--SR:!2024-12-22,41,290-->
 
 Quais as diferenças de float e double;;Float ocupa 4 bytes, double ocupa 8
 <!--SR:!2024-11-14,15,290-->
 
 Quais as precisões do Float e Double;;Float é dito precisão simples e double é dito precisão dupla
-<!--SR:!2024-11-11,7,270-->
+<!--SR:!2024-12-07,26,290-->
 
 Qual o resultado da operação de qualquer tipo com um real;;Resultado real.
 <!--SR:!2024-11-14,15,290-->
 
 Quais os formatos de leitura que podem ser usados para pontos flutuantes;;%f<br>%e<br>%E
-<!--SR:!2024-11-06,2,260-->
+<!--SR:!2024-11-12,1,200-->
 
 Qual a quantidade de caracteres que o **char** consegue representar;;![[Pasted image 20241025115700.png]]
 <!--SR:!2024-11-20,16,300-->
@@ -95,7 +95,7 @@ qual o problema clássico dos **char** e qual a solução;;armazenar dois char s
 <!--SR:!2024-11-14,15,290-->
 
 qual outra solução para o problema clássico dos **char**;;usar fflush(stdin) para limpar todos caracteres no buffer do teclado
-<!--SR:!2024-11-10,11,270-->
+<!--SR:!2024-12-22,41,290-->
 
 você lembra o porque do problema clássico dos **char**;;sim = fácil | não = difícil
 <!--SR:!2024-11-14,15,290-->
@@ -104,28 +104,55 @@ Comente sobre unsigned e signed char;;Por padrão, é unsigned. Entretanto, algu
 <!--SR:!2024-11-20,16,300-->
 
 Faça um programa com quatro variáveis char, fazendo com que as quatro devolva na saída o caractere A de maneiras diferentes. Descreva o nome de cada uma;;![[Pasted image 20241025210944.png]]
-<!--SR:!2024-11-06,1,150-->
+<!--SR:!2024-11-15,4,170-->
 
 Declare se há algo de errado com o código abaixo, e caso haja, corrija<br>![[Pasted image 20241025211419.png]];;Sim, há.<br>![[Pasted image 20241025211444.png]]
 <!--SR:!2024-11-20,16,300-->
 
 Faça um programa que colha um número digitado e mostre qual a letra relativo ao código ASCII decimal dele - qual o caractere posterior a ele e também o código ASCII decimal;;![[Pasted image 20241025211633.png]]
-<!--SR:!2024-11-09,4,295-->
+<!--SR:!2024-11-27,16,315-->
 
 De que forma fica uma variável declarada sem atribuir um valor a ela;;A variável assume um valor aleatório.
-<!--SR:!2024-11-08,4,290-->
+<!--SR:!2024-11-27,16,310-->
 
 Uma variável pode ser declarada e imediatamente atribuída \[Sim | Não]<br>![[Pasted image 20241031213313.png | center]];;Sim
-<!--SR:!2024-11-08,4,290-->
+<!--SR:!2024-11-27,16,310-->
 
 Qual a relação da natureza de um char e os inteiros;;As variáveis do tipo char não são mais do que pequenos inteiros guardados num único byte.<br>Assim, podem ser realizadas todas as operações numéricas que se podem realizar com inteiros.
-<!--SR:!2024-11-08,4,290-->
+<!--SR:!2024-11-27,16,310-->
 
 O que fazemos quando precisamos alterar uma determinada expressão para um determinado tipo;;Sempre que é necessário alterar uma expressão para um determinado tipo utiliza-se o casting (tipo). Essa alteração é temporária.<br>Não se deve realizar a leitura de variáveis de um determinado tipo usando um formato de leitura que não corresponda a esse tipo.
-<!--SR:!2024-11-08,4,290-->
+<!--SR:!2024-11-27,16,310-->
 
 Escreva um programa em C que solicite um determinado número real e mostre qual a sua parte inteira e a sua parte fracionária.;;![[Pasted image 20241105191213.png]]
+<!--SR:!2024-11-26,15,297-->
 
 ![[Pasted image 20241105192112.png]]<br>Isso funciona ou não;;Não
+<!--SR:!2024-11-27,16,317-->
 
 Escreva um programa que solicite ao usuário uma determinada data no formato aaaa-mm-dd e a mostre em seguida no formato dd/mm/aaaa;;![[Pasted image 20241105193449.png]]
+<!--SR:!2024-11-27,16,317-->
+
+O que representa o valor lógico FALSO e VERDADEIRO em C;;**0** = Falso<br>**Qualquer valor diferente de 0** = Verdadeiro
+<!--SR:!2024-11-27,16,317-->
+
+Uma expressão que contenha um operador relacional devolve sempre como resultado o que;;O valor lógico *VERDADE* ou *FALSO*.
+<!--SR:!2024-11-27,16,317-->
+
+Cite a respeito da Unicidade em estruturas condicionais;;![[Pasted image 20241106214937.png]]
+<!--SR:!2024-11-27,16,317-->
+
+Por que este trecho de código está certo<br>![[Pasted image 20241106221307.png]];;Por que x é um valor diferente de zero, então escrever **x!=0** ou **x** da na mesma.<br>Entretanto, *não é recomendado usar apenas o x neste caso*, pois matamos uma fadinha do código limpo.
+<!--SR:!2024-11-23,12,297-->
+
+A estrutura lógica não funcionou como esperado. Por quê? ![[Pasted image 20241111120106.png]];; Pois este código queria que o else fosse do primeiro IF, entretanto, sempre que existam instruções if-else encadeadas, cada else pertence sempre ao último if sem else. 
+
+Lembra disso? ![[Pasted image 20241111123949.png]] ;; Se sim, OK ou Fácil<br>Se não, Difícil
+
+Ainda se lembra disso? ![[Pasted image 20241111135131.png]];;Se sim, OK ou Fácil<br>Se não, Difícil
+
+Ainda se lembra disso![[Pasted image 20241111135606.png]];;Se sim, OK ou Fácil<br>Se não, Difícil
+
+É possível fazer casting de modificador (como long, short, unsigned)? ;;<br>Sim. Todos podem ser feitos da forma como se espera (long), mas se constante pode ser colocado imediatamente depois do valor, como *3600***L**.
+
+Num if são necessários parênteses em torno da condição?;;Sim.
