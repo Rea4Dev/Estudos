@@ -1,5 +1,4 @@
 - [[Ethernet]]
 - [[OSI]]
-- [[TCP IP]]
 - [[AFDX]]
 - [[ARINC 429]]

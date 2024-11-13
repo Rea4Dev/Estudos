@@ -1,3 +1,5 @@
 - [[MMC por Hardware]]
 - [[Reportes]]
 - [[Servidores]]
+- [[Troca de Loads]]
+- [[Cablagens]]

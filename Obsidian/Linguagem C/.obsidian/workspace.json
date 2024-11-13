@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Lógica de Programação/Lógica de Programação.md",
+                    "file": "Lógica de Programação/5. Operadores Lógicos/Operadores Lógicos.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Lógica de Programação"
+                  "title": "Operadores Lógicos"
                 },
                 "group": "9f4e70457fd3de53"
               }
@@ -38,37 +38,14 @@
                 "id": "a231f257301def82",
                 "type": "leaf",
                 "state": {
-                  "type": "localgraph",
+                  "type": "markdown",
                   "state": {
-                    "file": "Lógica de Programação/Lógica de Programação.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1,
-                      "close": true
-                    }
+                    "file": "Lógica de Programação/5. Operadores Lógicos/Operadores Lógicos.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-git-fork",
-                  "title": "Gráfico de Lógica de Programação"
+                  "icon": "lucide-file",
+                  "title": "Operadores Lógicos"
                 },
                 "group": "9f4e70457fd3de53"
               },
@@ -330,12 +307,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "38e1eb3240d287d1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5588685a50c07eae",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
@@ -344,7 +341,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "3d-graph:3D Graph": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -356,11 +352,15 @@
   },
   "active": "9d3828445fcdce3e",
   "lastOpenFiles": [
-    "Lógica de Programação/6. Estruturas Condicionais/Estruturas Condicionais.md",
     "Lógica de Programação/Lógica de Programação.md",
+    "Lógica de Programação/6. Estruturas Condicionais/Estruturas Condicionais.md",
+    "Lógica de Programação/6. Estruturas Condicionais/If.md",
+    "Lógica de Programação/6. Estruturas Condicionais/If-Else.md",
+    "Lógica de Programação/6. Estruturas Condicionais/Else-If.md",
+    "Lógica de Programação/6. Estruturas Condicionais/Operador Ternário.md",
+    "Lógica de Programação/6. Estruturas Condicionais/Switch Case.md",
     "Lógica de Programação/7. Estruturas de Repetição/Estruturas de Repetição.md",
     "Lógica de Programação/7. Estruturas de Repetição/While.md",
-    "Lógica de Programação/6. Estruturas Condicionais/Operador Ternário.md",
     "Lógica de Programação/5. Operadores Lógicos/Operadores Lógicos.md",
     "Lógica de Programação/1. Introdução/Introdução.md",
     "Lógica de Programação/1. Introdução/Comentários/Comentários.md",
@@ -377,7 +377,6 @@
     "Lógica de Programação/3. Tipos de Dados Básicos/Operando diferentes tipos.md",
     "Lógica de Programação/3. Tipos de Dados Básicos/Tabela formatos.md",
     "Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
-    "Lógica de Programação/6. Estruturas Condicionais/Switch Case.md",
     "Imagens/Pasted image 20241111135606.png",
     "Imagens/Pasted image 20241111135524.png",
     "Imagens/Pasted image 20241111135131.png",
@@ -390,11 +389,8 @@
     "Imagens/Pasted image 20241111121300.png",
     "Lógica de Programação/3. Tipos de Dados Básicos/Float e Double.md",
     "Lógica de Programação/5. Operadores Lógicos",
-    "Lógica de Programação/6. Estruturas Condicionais/If-Else.md",
     "Imagens/Pasted image 20241111120106.png",
     "Imagens/Pasted image 20241111115648.png",
-    "Lógica de Programação/6. Estruturas Condicionais/If.md",
-    "Lógica de Programação/6. Estruturas Condicionais/Else-If.md",
     "Lógica de Programação/6. Estruturas Condicionais",
     "Lógica de Programação/4. Valores lógicos",
     "2. Lógica de Programação/2.6 Tipos de Dados Básicos/desktop.ini",

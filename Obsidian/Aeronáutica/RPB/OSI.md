@@ -1,23 +1,41 @@
 O modelo OSI (Open Systems Interconection) nada mais é do que um modelo teórico *criado para auxiliar que toda a comunicação entre computadores e dispositivos ocorra na mesma língua*, a fim de que todos os envolvidos possam se entender e que as mensagens sejam entregues da forma correta.
 
+Vídeo referência: [Modelo OSI e TCP/IP](https://www.youtube.com/watch?v=KOrWZnGbx7s)
+
+---
+
+<center><h1>Modelos</h1></center>
+O modelo OSI é o mais atual e aceito, sendo o nosso escolhido para estudo. Entretanto, o modelo TCP/IP (de Andrews) e modelo TCP/IP (de Kurose) são análogos ao OSI, com apenas diferenciação na forma que categorizam cada etapa.
+
+![[Pasted image 20241112110011.png]]
+
 ---
 <center><h1>Camadas</h1></center>
 Assim, o modelo OSI divide um sistema de comunicação em **7 camadas** (AASTREF), cada uma com sua função e seus **protocolos de comunicação** específicos:
-![[Pasted image 20241108081513.png]]
-![[Pasted image 20241111094721.png | center]]
+
+![[Pasted image 20241111094721.png | center | 500]]
 ## 7: Camada de Aplicação
-É nessa camada que ocorre a interação entre o usuário e os dados, apresentados por meio de interfaces e aplicações como navegadores de internet e servidores de email. Alguns dos protocolos de comunicação mais populares utilizados na camada de aplicação são [**HTTP**](https://www.azion.com/pt-br/blog/o-que-e-http-e-como-ele-funciona/), **FTP**, **POP** e [**DNS**](https://www.azion.com/pt-br/blog/o-que-e-dns-e-como-ele-funciona/).
+
+> Interação dos usuários com os dados.
+> HTTP (sem criptografia SSL ou TLS), HTTPS (com criptografia), FTP, POP e DNS.
 
 ## 6: Camada de Apresentação
-Camada que funciona como um tradutor de dados para a rede, responsável por criptografar, compactar e apresentar os dados.
+
+> Prepara o pacote para ser apresentado.
+> Criptografia.
+> Codificação de caracteres.
+> Compactação
 
 ## 5: Camada de Sessão
-Camada onde se inicia, gerencia e encerra sessões de transferência de dados entre dispositivos. Ela também pode realizar verificações para garantir, caso uma sessão seja encerrada bruscamente, que uma nova sessão de transferência seja retomada do início para que não haja corrupção dos dados e informações.
 
+> <small><small>Estabelece sessão de início (Start) e fim de conexão (End). Responsável por restabelecer a conexão perdida.</small> </small>
 ## 4: Camada de Transporte
 
 > A informação, que é pacote, recebe um transmissor. Transmissor este UDP ou TCP.
 > TCP: <small>Confiável, Garante a entrega, Handshake, orientado a conexão, unicast.</small>
+> UDP: <small><small>Não confiável, Não garante a entrega, não orientado a conexão, Broadcast/Multicast/Unicast (vantagem).</small></small>
+
+![[Pasted image 20241112104755.png]]
 
 ## 3: Camada de Rede
 
@@ -45,6 +63,7 @@ Camada onde se inicia, gerencia e encerra sessões de transferência de dados en
 
 ---
 <center><h3>Termos</h3></center>
+
 **Handshake**
 	Composto por *SYN ->* (envio inicial), *<- SYNACK* (feedback), *ACK ->* (estabelecimento).
 
@@ -59,6 +78,7 @@ Camada onde se inicia, gerencia e encerra sessões de transferência de dados en
 
 ---
 <center><h3>Observações</h3></center>
+
 - O cabo de conexão Ethernet (o clássico azul), é denominado RJ-45;
 - Roteador não conecta computadores e sim redes;
-- 
+- TCP "**T**em **C**ompromisso com **P**acote"
