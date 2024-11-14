@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:Aeronáutica",
@@ -27,11 +27,18 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "file:Flashcards",
+      "color": {
+        "a": 1,
+        "rgb": 14717522
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
@@ -39,6 +46,6 @@
   "repelStrength": 13.3471933471933,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855792639,
+  "scale": 0.4123510805314568,
   "close": true
 }

@@ -18,16 +18,31 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Lógica de Programação/5. Operadores Lógicos/Operadores Lógicos.md",
+                    "file": "Lógica de Programação/Lógica de Programação.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Operadores Lógicos"
+                  "title": "Lógica de Programação"
                 },
                 "group": "9f4e70457fd3de53"
+              },
+              {
+                "id": "66a0f18286968522",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Lógica de Programação/6. Estruturas Condicionais/Operador Ternário.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Operador Ternário"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "eab0eee5c3df4714",
@@ -40,12 +55,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Lógica de Programação/5. Operadores Lógicos/Operadores Lógicos.md",
+                    "file": "Lógica de Programação/Lógica de Programação.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Operadores Lógicos"
+                  "title": "Lógica de Programação"
                 },
                 "group": "9f4e70457fd3de53"
               },
@@ -327,12 +342,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9a23a12ceed3de5b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "horizontal",
@@ -350,9 +375,10 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "9d3828445fcdce3e",
+  "active": "66a0f18286968522",
   "lastOpenFiles": [
     "Lógica de Programação/Lógica de Programação.md",
+    "Lógica de Programação/5. Operadores Lógicos/Operadores Lógicos.md",
     "Lógica de Programação/6. Estruturas Condicionais/Estruturas Condicionais.md",
     "Lógica de Programação/6. Estruturas Condicionais/If.md",
     "Lógica de Programação/6. Estruturas Condicionais/If-Else.md",
@@ -361,7 +387,6 @@
     "Lógica de Programação/6. Estruturas Condicionais/Switch Case.md",
     "Lógica de Programação/7. Estruturas de Repetição/Estruturas de Repetição.md",
     "Lógica de Programação/7. Estruturas de Repetição/While.md",
-    "Lógica de Programação/5. Operadores Lógicos/Operadores Lógicos.md",
     "Lógica de Programação/1. Introdução/Introdução.md",
     "Lógica de Programação/1. Introdução/Comentários/Comentários.md",
     "Lógica de Programação/1. Introdução/O caractere especial/O Caractere Especial.md",

@@ -6,6 +6,7 @@
       {
         "id": "dc2b0d21fccd9d93",
         "type": "tabs",
+        "dimension": 55.72792362768496,
         "children": [
           {
             "id": "e97cf46264f36278",
@@ -19,6 +20,27 @@
               },
               "icon": "lucide-file",
               "title": "AFDX"
+            }
+          }
+        ]
+      },
+      {
+        "id": "03f61fb5c703018d",
+        "type": "tabs",
+        "dimension": 44.272076372315034,
+        "children": [
+          {
+            "id": "8007257f33ca4101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPB/Flashcards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flashcards"
             }
           }
         ]
@@ -291,12 +313,15 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "e97cf46264f36278",
+  "active": "8007257f33ca4101",
   "lastOpenFiles": [
-    "Redes, Protocolos de Comunicação e Barramentos.md",
-    "RPB/OSI.md",
-    "RPB/AFDX.md",
     "XP SIT.md",
+    "Cablagens.md",
+    "RPB/Flashcards.md",
+    "RPB/AFDX.md",
+    "Redes, Protocolos de Comunicação e Barramentos.md",
+    "XP SIT/MMC por Hardware.md",
+    "RPB/OSI.md",
     "XP SIT/flmap10218.sjk.emb;9090.md",
     "XP SIT/Servidores.md",
     "XP SIT/sitbkpflm.sjk.emb;9090.md",
@@ -304,9 +329,7 @@
     "RPB/ARINC 429.md",
     "Imagens/Pasted image 20241113131247.png",
     "Imagens/Pasted image 20241113114924.png",
-    "RPB/Flashcards.md",
     "RPB/Ethernet.md",
-    "Cablagens.md",
     "XP SIT/Troca de Loads.md",
     "Embraer.md",
     "Imagens/Pasted image 20241112110011.png",
@@ -328,7 +351,6 @@
     "Redes/Protocolos de Comunicação/Protocolos de Comunicação.md",
     "RPB",
     "Embraer/F220 Posições.md",
-    "XP SIT/MMC por Hardware.md",
     "XP SIT/Rack E2 + Datatap.md",
     "I/desktop.ini",
     "I",

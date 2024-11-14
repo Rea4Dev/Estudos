@@ -4,7 +4,7 @@ O Operador Condicional **?** é o único operador ternário de C, o que indica q
 condição ? Resultado_Verdade : Resultado_Falso
 
 /*Teste de Maioridade*/
-idade = idade >= 18 ? (1) : (0)
+idade = (idade >= 18) ? (1) : (0)
 ```
 
 
