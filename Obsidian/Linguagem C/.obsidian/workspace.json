@@ -26,23 +26,8 @@
                   "title": "Lógica de Programação"
                 },
                 "group": "9f4e70457fd3de53"
-              },
-              {
-                "id": "66a0f18286968522",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Lógica de Programação/6. Estruturas Condicionais/Operador Ternário.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Operador Ternário"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "eab0eee5c3df4714",
@@ -68,14 +53,10 @@
                 "id": "1fc5f0184ecaa64e",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Lógica de Programação/Flash-Cards.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Flash-Cards"
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Visualização em gráfico"
                 }
               }
             ],
@@ -352,12 +333,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "6599a5460aae94f6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "4b5a5bb4b3a44bbd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
       }
     ],
     "direction": "horizontal",
@@ -375,17 +376,27 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "66a0f18286968522",
+  "active": "9d3828445fcdce3e",
   "lastOpenFiles": [
+    "Lógica de Programação/3. Tipos de Dados Básicos/Tabela formatos.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Variações de Espaço.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Float e Double.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Modificadores de Tipo.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Caracteres e Inteiros.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Casting, o uso correto.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
     "Lógica de Programação/Lógica de Programação.md",
+    "Lógica de Programação/4. Valores lógicos/Valores Lógicos.md",
     "Lógica de Programação/5. Operadores Lógicos/Operadores Lógicos.md",
     "Lógica de Programação/6. Estruturas Condicionais/Estruturas Condicionais.md",
-    "Lógica de Programação/6. Estruturas Condicionais/If.md",
-    "Lógica de Programação/6. Estruturas Condicionais/If-Else.md",
     "Lógica de Programação/6. Estruturas Condicionais/Else-If.md",
     "Lógica de Programação/6. Estruturas Condicionais/Operador Ternário.md",
-    "Lógica de Programação/6. Estruturas Condicionais/Switch Case.md",
+    "Lógica de Programação/Flash-Cards.md",
     "Lógica de Programação/7. Estruturas de Repetição/Estruturas de Repetição.md",
+    "Lógica de Programação/6. Estruturas Condicionais/If.md",
+    "Lógica de Programação/6. Estruturas Condicionais/If-Else.md",
+    "Lógica de Programação/6. Estruturas Condicionais/Switch Case.md",
     "Lógica de Programação/7. Estruturas de Repetição/While.md",
     "Lógica de Programação/1. Introdução/Introdução.md",
     "Lógica de Programação/1. Introdução/Comentários/Comentários.md",
@@ -393,26 +404,16 @@
     "Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
     "Sem título/desktop.ini",
     "Lógica de Programação/7. Estruturas de Repetição",
-    "Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
-    "Lógica de Programação/Flash-Cards.md",
-    "Lógica de Programação/3. Tipos de Dados Básicos/Caracteres e Inteiros.md",
-    "Lógica de Programação/3. Tipos de Dados Básicos/Casting, o uso correto.md",
-    "Lógica de Programação/3. Tipos de Dados Básicos/Variações de Espaço.md",
     "Lógica de Programação/3. Tipos de Dados Básicos/Inteiros.md",
     "Lógica de Programação/3. Tipos de Dados Básicos/Operando diferentes tipos.md",
-    "Lógica de Programação/3. Tipos de Dados Básicos/Tabela formatos.md",
-    "Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
     "Imagens/Pasted image 20241111135606.png",
     "Imagens/Pasted image 20241111135524.png",
     "Imagens/Pasted image 20241111135131.png",
-    "Lógica de Programação/4. Valores lógicos/Valores Lógicos.md",
-    "Lógica de Programação/5. Operadores Lógicos/Precedência dos Operadores Lógicos e Relacionais.md",
     "Imagens/Pasted image 20241111124533.png",
     "Imagens/Pasted image 20241111123949.png",
     "Imagens/Pasted image 20241111121727.png",
     "Imagens/Pasted image 20241111121521.png",
     "Imagens/Pasted image 20241111121300.png",
-    "Lógica de Programação/3. Tipos de Dados Básicos/Float e Double.md",
     "Lógica de Programação/5. Operadores Lógicos",
     "Imagens/Pasted image 20241111120106.png",
     "Imagens/Pasted image 20241111115648.png",

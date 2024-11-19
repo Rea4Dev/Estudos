@@ -19,4 +19,4 @@
 #flashcards/Aeronáutica/Partes 
 
 Descreva quais são os controles primários, a localização e a função de cada um deles. <br><br> Exemplo <br><br>**Parte X**<br>- Localização:<br>- Função: Controle de xxxx (eixo xxxx);;![[Pasted image 20241024082204.png]]
-<!--SR:!2024-11-15,11,270-->
+<!--SR:!2024-12-30,41,290-->

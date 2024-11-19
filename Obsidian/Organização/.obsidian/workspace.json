@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Estudos.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -33,10 +33,14 @@
             "id": "615b5f5a0d95e060",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Bitcoin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bitcoin"
             }
           },
           {
@@ -299,12 +303,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "501505c43892425e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
@@ -326,6 +340,7 @@
   "active": "615b5f5a0d95e060",
   "lastOpenFiles": [
     "Estudos.md",
+    "Bitcoin.md",
     "Acompanhar.md",
     "Atribuições.md",
     "Atribuições/Hoje.md",
@@ -366,7 +381,6 @@
     "Estudos/Cálculo.md",
     "Estudos/Embarcados.md",
     "Estudos",
-    "Atribuições/Suporte.md",
     "Atribuições",
     "Imagens/Pasted image 20241022181002.png",
     "2. Lógica de Programação/2.6 Tipos de Dados Básicos/desktop.ini",

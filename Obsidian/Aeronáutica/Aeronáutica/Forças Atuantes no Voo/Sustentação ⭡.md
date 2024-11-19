@@ -67,4 +67,4 @@ Por que a velocidade influencia na pressão;;A velocidade influencia a pressão 
 <!--SR:!2024-12-22,41,290-->
 
 Por que o centro de sustentação se encontra ligeiramente atrás do de gravidade;;Com o centro de sustentação ligeiramente atrás do CG, o avião tem uma tendência natural a retornar a uma posição de equilíbrio caso haja uma pequena perturbação, como uma rajada de vento. Esse *momento estabilizador é complementado pela cauda do avião*, que gera uma força de ajuste para contrabalancear essa diferença. Tudo isso tem haver com o **momento de equilíbrio**. <br><br>Se o centro de sustentação estivesse na frente do centro de gravidade, o avião tenderia a "cabecear" para cima, tornando o voo instável. <br><br>Essa disposição gera um efeito chamado de **estabilidade estática positiva**, que ajuda o avião a manter uma trajetória mais estável, corrigindo pequenos desvios sem que o piloto tenha que intervir constantemente.
-<!--SR:!2024-11-16,5,190-->
+<!--SR:!2024-11-29,10,190-->
