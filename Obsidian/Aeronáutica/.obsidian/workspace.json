@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPB/ASCB-D.md",
+                "file": "RPB/ARINC 429.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASCB-D"
+              "title": "ARINC 429"
             }
           }
         ]
@@ -277,12 +277,52 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "1dd14bddfd98b741",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "793f69236c7832c5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "629f357badd48f60",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "3f184199b03ec4fb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 21
       }
     ],
     "direction": "horizontal",
@@ -304,20 +344,22 @@
   "active": "e97cf46264f36278",
   "lastOpenFiles": [
     "Redes, Protocolos de Comunicação e Barramentos.md",
-    "RPB/ASCB-D.md",
-    "RPB/ARINC 429.md",
-    "RPB/AFDX.md",
-    "RPB/OSI.md",
-    "RPB/Ethernet.md",
-    "RPB/Flashcards.md",
-    "Embraer.md",
-    "Cablagens.md",
-    "XP SIT.md",
-    "XP SIT/MMC por Hardware.md",
+    "Aeronáutica.md",
     "XP SIT/flmap10218.sjk.emb;9090.md",
     "XP SIT/Servidores.md",
     "XP SIT/sitbkpflm.sjk.emb;9090.md",
     "XP SIT/tex-com.emb.md",
+    "XP SIT.md",
+    "RPB/ARINC 429.md",
+    "RPB/AFDX.md",
+    "RPB/ASCB-D.md",
+    "Embraer/Termos e Processos/Termos e processos.md",
+    "Embraer.md",
+    "RPB/OSI.md",
+    "RPB/Ethernet.md",
+    "RPB/Flashcards.md",
+    "Cablagens.md",
+    "XP SIT/MMC por Hardware.md",
     "Imagens/Pasted image 20241113131247.png",
     "Imagens/Pasted image 20241113114924.png",
     "XP SIT/Troca de Loads.md",
@@ -330,9 +372,7 @@
     "Imagens/Pasted image 20241111095240.png",
     "Imagens/Pasted image 20241111094721.png",
     "Imagens/Pasted image 20241111094422.png",
-    "Aeronáutica.md",
     "Embraer/Termos e Processos/E-Solve.md",
-    "Embraer/Termos e Processos/Termos e processos.md",
     "RPB/OSI - Camada Física (Layer 1).md",
     "RPB/OSI - Camada de Enlace (Layer 2).md",
     "Protocolos de Comunicação.md",

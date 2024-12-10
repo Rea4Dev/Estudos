@@ -1,0 +1,20 @@
+{
+  "filters": {
+    "doShowOrphans": true,
+    "doShowAttachments": false
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "file:Lógica de Programação",
+        "color": "#c81414"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 2,
+    "linkThickness": 2,
+    "particleSize": 2,
+    "particleCount": 11
+  }
+}

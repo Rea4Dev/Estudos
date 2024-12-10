@@ -1,0 +1,456 @@
+{
+  "main": {
+    "id": "c6ac7f122f7ce4a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "29b28d4452ba65b6",
+        "type": "tabs",
+        "dimension": 74.66442953020133,
+        "children": [
+          {
+            "id": "9d3828445fcdce3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcritor ARINC-429.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transcritor ARINC-429"
+            }
+          }
+        ]
+      },
+      {
+        "id": "524d2e1c830859b7",
+        "type": "tabs",
+        "dimension": 25.335570469798657,
+        "children": [
+          {
+            "id": "67d25d30bb81741f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78d544de8bec4699",
+    "type": "split",
+    "children": [
+      {
+        "id": "4956243f9b32b545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b77a6f98554cd374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "ccbefba3e4610e0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#flashcards/Logica_de_programação/variaveis/tipos/char",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "901e1d8ef624a617",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "174ecb7d8d9327a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9049eda46a925ac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "242901a0a4f7f466",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lógica de Programação/Lógica de Programação.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Lógica de Programação"
+            }
+          },
+          {
+            "id": "a11c405870d26afa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lógica de Programação/Lógica de Programação.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Lógica de Programação"
+            }
+          },
+          {
+            "id": "8dc336fad99846b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3c8b91af77e5f894",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lógica de Programação/Lógica de Programação.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Lógica de Programação"
+            }
+          },
+          {
+            "id": "29403eed50a4a29b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "73d152631b5db0a6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9868def7776f481e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5c18c70f190521b6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "14c35b903efe29be",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "0b2f3167643aee2e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9243420ae0f56fe2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9aba2421d6aa43f5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "292c9e56895c7fdc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "fc9ba1f3cab2d512",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "89c3c87b661d44e3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "62c99066c9a7c4b5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "38e1eb3240d287d1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5588685a50c07eae",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9a23a12ceed3de5b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "6599a5460aae94f6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "4b5a5bb4b3a44bbd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "aaefa08788a8e199",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "6d6a48a4e8af8bb1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "bb02a8ad78417914",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "fba2d877728ff19c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "14d5260ea751a1b4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
+          }
+        ],
+        "currentTab": 25
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+  "active": "9d3828445fcdce3e",
+  "lastOpenFiles": [
+    "sinal diferencial.md",
+    "Transcritor ARINC-429.md",
+    "Hardware utilizado.md",
+    "Leitor ARINC 429.md",
+    "Lógica de Programação/Lógica de Programação.md",
+    "Lógica de Programação/2. Variáveis/Variáveis.md",
+    "Lógica de Programação/1. Introdução/Introdução.md",
+    "Lógica de Programação/7. Estruturas de Repetição/Estruturas de Repetição.md",
+    "Lógica de Programação/7. Estruturas de Repetição/While.md",
+    "Lógica de Programação/Flash-Cards.md",
+    "Lógica de Programação/6. Estruturas Condicionais/Switch Case.md",
+    "Lógica de Programação/6. Estruturas Condicionais/Estruturas Condicionais.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Caracteres e Inteiros.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Casting, o uso correto.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Tabela formatos.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Variações de Espaço.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Float e Double.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Modificadores de Tipo.md",
+    "Lógica de Programação/4. Valores lógicos/Valores Lógicos.md",
+    "Lógica de Programação/5. Operadores Lógicos/Operadores Lógicos.md",
+    "Lógica de Programação/6. Estruturas Condicionais/Else-If.md",
+    "Lógica de Programação/6. Estruturas Condicionais/Operador Ternário.md",
+    "Lógica de Programação/6. Estruturas Condicionais/If.md",
+    "Lógica de Programação/6. Estruturas Condicionais/If-Else.md",
+    "Sem título/desktop.ini",
+    "Lógica de Programação/7. Estruturas de Repetição",
+    "Imagens/Pasted image 20241111135606.png",
+    "Imagens/Pasted image 20241111135524.png",
+    "Imagens/Pasted image 20241111135131.png",
+    "Imagens/Pasted image 20241111124533.png",
+    "Imagens/Pasted image 20241111123949.png",
+    "Imagens/Pasted image 20241111121727.png",
+    "Imagens/Pasted image 20241111121521.png",
+    "Imagens/Pasted image 20241111121300.png",
+    "Lógica de Programação/5. Operadores Lógicos",
+    "Imagens/Pasted image 20241111120106.png",
+    "Imagens/Pasted image 20241111115648.png",
+    "Lógica de Programação/6. Estruturas Condicionais",
+    "Lógica de Programação/4. Valores lógicos",
+    "2. Lógica de Programação/2.6 Tipos de Dados Básicos/desktop.ini",
+    "2. Lógica de Programação/2.3 O caractere especial/desktop.ini",
+    "2. Lógica de Programação/desktop.ini",
+    "Lógica de Programação/3. Tipos de Dados Básicos",
+    "Lógica de Programação/2. Variáveis",
+    "Esquemático.canvas"
+  ]
+}

@@ -55,10 +55,10 @@ Esta será a abordagem até que se prove útil, necessário e vantajoso saber pr
 #flashcards/Aeronáutica/Física
 
 Qual é a **fórmula** da Sustentação, o qual a **unidade** de cada elemento e o que **significa**;;$$ L=\frac{1}{2}\cdot p\cdot V^2\cdot S\cdot C_l $$![[Pasted image 20241021115758.png]]
-<!--SR:!2024-11-26,15,230-->
+<!--SR:!2024-12-13,8,210-->
 
 Qual a definição de sustentação;;Sustentação (Lift) é a **força aerodinâmica** produzida por um [aerofólio](https://www2.anac.gov.br/anacpedia/por_ing/tr428.htm#:~:text=Corpo%20de%20formato%20aerodin%C3%A2mico%20capaz,aerodin%C3%A2mica%20quando%20atravessa%20o%20ar.). Age em um ponto conhecido como **centro de sustentação** (pressão) localizado ligeiramente atrás do centro de gravidade.
-<!--SR:!2024-12-02,26,290-->
+<!--SR:!2025-03-20,105,310-->
 
 Por que ocorre a sustentação;;Num voo, devido ao deslocamento e a geometria do aerofólio, o fluxo de ar possui menor velocidade no intradorso e maior velocidade no extradorso, o que segundo o princípio de Bernoulli, resulta em maior pressão no intradorso e menor pressão no extradorso. Tudo isso acaba por resultar na força de sustentação (seu ponto se encontra ligeiramente atrás do ponto de gravidade).
 <!--SR:!2025-01-11,60,310-->
@@ -67,4 +67,4 @@ Por que a velocidade influencia na pressão;;A velocidade influencia a pressão 
 <!--SR:!2024-12-22,41,290-->
 
 Por que o centro de sustentação se encontra ligeiramente atrás do de gravidade;;Com o centro de sustentação ligeiramente atrás do CG, o avião tem uma tendência natural a retornar a uma posição de equilíbrio caso haja uma pequena perturbação, como uma rajada de vento. Esse *momento estabilizador é complementado pela cauda do avião*, que gera uma força de ajuste para contrabalancear essa diferença. Tudo isso tem haver com o **momento de equilíbrio**. <br><br>Se o centro de sustentação estivesse na frente do centro de gravidade, o avião tenderia a "cabecear" para cima, tornando o voo instável. <br><br>Essa disposição gera um efeito chamado de **estabilidade estática positiva**, que ajuda o avião a manter uma trajetória mais estável, corrigindo pequenos desvios sem que o piloto tenha que intervir constantemente.
-<!--SR:!2024-11-29,10,190-->
+<!--SR:!2024-12-24,19,190-->
