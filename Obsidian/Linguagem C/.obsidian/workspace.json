@@ -4,24 +4,108 @@
     "type": "split",
     "children": [
       {
-        "id": "29b28d4452ba65b6",
+        "id": "c72f39c6fb91059b",
         "type": "tabs",
+        "dimension": 70.03154574132492,
         "children": [
           {
-            "id": "9d3828445fcdce3e",
+            "id": "61ef980f748ff068",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lógica de Programação/Lógica de Programação.md",
+                "file": "Lógica de Programação/7. Estruturas de Repetição/For.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lógica de Programação"
+              "title": "For"
+            },
+            "group": "9b8c82af25c42fbf"
+          },
+          {
+            "id": "92abe6b36a8a61e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica de Programação/Flash-Cards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flash-Cards"
             }
           }
         ]
+      },
+      {
+        "id": "004dd83a59a2d9bc",
+        "type": "split",
+        "dimension": 29.96845425867508,
+        "children": [
+          {
+            "id": "d39c24bd5a90f850",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c9e76189f102c2c1",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Lógica de Programação/7. Estruturas de Repetição/For.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.713275462622442,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Gráfico de For"
+                },
+                "group": "9b8c82af25c42fbf"
+              }
+            ]
+          },
+          {
+            "id": "6da9f802bc7d194c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a1786fe4a1dc7325",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Visualização em gráfico"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -77,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 224.5
   },
   "right": {
     "id": "174ecb7d8d9327a7",
@@ -331,12 +415,62 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "3c4143f3eb02d39a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "279a695c3494c26e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "e25c231a0337d269",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c4301060aeefb78d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c075d3e8f3e11527",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 27
       }
     ],
     "direction": "horizontal",
@@ -351,13 +485,26 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-spaced-repetition:Revisar flashcards": false
+      "obsidian-spaced-repetition:Revisar flashcards": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "9d3828445fcdce3e",
+  "active": "61ef980f748ff068",
   "lastOpenFiles": [
-    "Lógica de Programação/Flash-Cards.md",
+    "Pasted image 20241212180919.png",
+    "Pasted image 20241212180440.png",
+    "Lógica de Programação/7. Estruturas de Repetição/Estruturas de Repetição.md",
+    "Lógica de Programação/7. Estruturas de Repetição/For.md",
     "Lógica de Programação/Lógica de Programação.md",
+    "Lógica de Programação/1. Introdução/Introdução.md",
+    "Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
+    "Lógica de Programação/1. Introdução/(Externo) Função de Saída - putchar().md",
+    "Lógica de Programação/Flash-Cards.md",
+    "Imagens/Pasted image 20241212175933.png",
+    "Lógica de Programação/2. Variáveis/Variáveis.md",
+    "Lógica de Programação/2. Variáveis/Declaração.md",
+    "Sem título.canvas",
+    "2024-12-12.md",
     "Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
     "Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
     "Lógica de Programação/3. Tipos de Dados Básicos/Operando diferentes tipos.md",
@@ -365,10 +512,7 @@
     "Lógica de Programação/5. Operadores Lógicos/Operadores Lógicos.md",
     "Lógica de Programação/6. Estruturas Condicionais/Estruturas Condicionais.md",
     "Lógica de Programação/6. Estruturas Condicionais/Switch Case.md",
-    "Lógica de Programação/7. Estruturas de Repetição/Estruturas de Repetição.md",
     "Lógica de Programação/7. Estruturas de Repetição/While.md",
-    "Lógica de Programação/2. Variáveis/Variáveis.md",
-    "Lógica de Programação/1. Introdução/Introdução.md",
     "Lógica de Programação/3. Tipos de Dados Básicos/Caracteres e Inteiros.md",
     "Lógica de Programação/3. Tipos de Dados Básicos/Casting, o uso correto.md",
     "Lógica de Programação/3. Tipos de Dados Básicos/Tabela formatos.md",
@@ -376,12 +520,6 @@
     "Lógica de Programação/3. Tipos de Dados Básicos/Float e Double.md",
     "Lógica de Programação/3. Tipos de Dados Básicos/Modificadores de Tipo.md",
     "Lógica de Programação/6. Estruturas Condicionais/Else-If.md",
-    "Lógica de Programação/6. Estruturas Condicionais/Operador Ternário.md",
-    "Lógica de Programação/6. Estruturas Condicionais/If.md",
-    "Lógica de Programação/6. Estruturas Condicionais/If-Else.md",
-    "Lógica de Programação/1. Introdução/Comentários/Comentários.md",
-    "Lógica de Programação/1. Introdução/O caractere especial/O Caractere Especial.md",
-    "Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
     "Sem título/desktop.ini",
     "Lógica de Programação/7. Estruturas de Repetição",
     "Imagens/Pasted image 20241111135606.png",
@@ -393,8 +531,6 @@
     "Imagens/Pasted image 20241111121521.png",
     "Imagens/Pasted image 20241111121300.png",
     "Lógica de Programação/5. Operadores Lógicos",
-    "Imagens/Pasted image 20241111120106.png",
-    "Imagens/Pasted image 20241111115648.png",
     "Lógica de Programação/6. Estruturas Condicionais",
     "Lógica de Programação/4. Valores lógicos",
     "2. Lógica de Programação/2.6 Tipos de Dados Básicos/desktop.ini",

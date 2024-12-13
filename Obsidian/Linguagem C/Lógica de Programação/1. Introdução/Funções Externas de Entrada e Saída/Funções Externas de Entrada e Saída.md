@@ -3,4 +3,5 @@ A linguagem C *não possui mecanismos de Entrada e Saída*. Para resolver esse p
 - [[Definição Biblioteca]]
 - [[(Externo) Função de Saída - print()]]
 - [[(Externo) Função de saída - puts()]]
+- [[(Externo) Função de Saída - putchar()]]
 - [[(Externo) Função de entrada - scanf()]]

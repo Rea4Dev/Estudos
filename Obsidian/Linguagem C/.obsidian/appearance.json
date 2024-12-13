@@ -1,9 +1,10 @@
 {
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "Tirar-link",
-    "Image Align"
+    "Image Align",
+    "Tirar-link"
   ],
   "cssTheme": "Red-Shadow",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 15
 }
