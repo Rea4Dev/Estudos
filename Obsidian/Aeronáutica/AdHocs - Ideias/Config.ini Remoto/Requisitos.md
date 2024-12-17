@@ -11,3 +11,12 @@
 > [!Warning] Estrutura de Pastas
 > Ao criar a estrutura de pastas, atente-se a separar por SIT > Aplicação.
 > A estrutura de pastas será utilizada para a devida organização de onde será pego os CONFIG.ini de cada aplicação
+
+---
+
+## Pós-final
+
+- Atualizar certificados de segurança.
+- Testar na produção (atenção se também roda devidamente com usuários sem permissões especiais).
+- Organizar cada um dos códigos em uma estrutura de pastas do SINTEGT.
+- Lidar com a mesma questão só que em relação aos stand-alone e afins.
