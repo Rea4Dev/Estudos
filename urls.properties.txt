@@ -1,1 +1,1 @@
-sitteste:9090/sit/api/hardwares/activation
+tex-com.emb/sit/api/hardwares/activation/
