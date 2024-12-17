@@ -1,6 +1,7 @@
 #flashcards/LinguagemC
 
 Como funciona, quando usar e quais as limitações do putchar();;![[Pasted image 20241212175933.png]]
+<!--SR:!2024-12-20,4,321-->
 
 O que fazer para conseguir devidamente declarar caracteres especiais;;Sempre contra-barra, exceto operação com módulo, aí é duas %%%%  é o operador.
 <!--SR:!2024-12-19,8,295-->
@@ -76,7 +77,7 @@ Qual o resultado da operação de qualquer tipo com um real;;Resultado real.
 <!--SR:!2025-01-18,60,310-->
 
 Quais os formatos de leitura que podem ser usados para pontos flutuantes;;%f<br>%e<br>%E
-<!--SR:!2024-12-13,2,200-->
+<!--SR:!2024-12-20,3,200-->
 
 Qual a quantidade de caracteres que o **char** consegue representar;;![[Pasted image 20241025115700.png]]
 <!--SR:!2025-01-27,67,320-->
@@ -106,7 +107,7 @@ Comente sobre unsigned e signed char;;Por padrão, é unsigned. Entretanto, algu
 <!--SR:!2025-01-15,35,300-->
 
 Faça um programa com quatro variáveis char, fazendo com que as quatro devolva na saída o caractere A de maneiras diferentes. Descreva o nome de cada uma;;![[Pasted image 20241025210944.png]]
-<!--SR:!2024-12-16,5,170-->
+<!--SR:!2024-12-27,11,190-->
 
 Declare se há algo de errado com o código abaixo, e caso haja, corrija<br>![[Pasted image 20241025211419.png]];;Sim, há.<br>![[Pasted image 20241025211444.png]]
 <!--SR:!2025-01-27,67,320-->
@@ -148,7 +149,7 @@ Por que este trecho de código está certo<br>![[Pasted image 20241106221307.png
 <!--SR:!2025-01-29,49,317-->
 
 A estrutura lógica não funcionou como esperado. Por quê? ![[Pasted image 20241111120106.png]];; Pois este código queria que o else fosse do primeiro IF, entretanto, sempre que existam instruções if-else encadeadas, cada else pertence sempre ao último if sem else.
-<!--SR:!2024-12-13,2,267-->
+<!--SR:!2024-12-20,4,267-->
 
 Lembra disso? ![[Pasted image 20241111123949.png]] ;; Se sim, OK ou Fácil<br>Se não, Difícil
 <!--SR:!2024-12-28,16,307-->
@@ -160,10 +161,10 @@ Ainda se lembra disso![[Pasted image 20241111135606.png]];;Se sim, OK ou Fácil<
 <!--SR:!2024-12-21,10,287-->
 
 Num if são necessários parênteses em torno da condição?;;Sim.
-<!--SR:!2024-12-13,2,287-->
+<!--SR:!2024-12-24,8,307-->
 
 O que é "corpo do laço"? ;; São as instruções dentro de um laço
-<!--SR:!2024-12-16,4,317-->
+<!--SR:!2025-01-03,18,337-->
 
 Para que serve utilizar %2d? ;; Propósito de alinhamento
-<!--SR:!2024-12-16,4,317-->
+<!--SR:!2025-01-03,18,337-->

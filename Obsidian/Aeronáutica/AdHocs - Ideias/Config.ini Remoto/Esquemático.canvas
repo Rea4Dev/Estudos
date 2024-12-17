@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"6bc73614bbfe5ed5","type":"text","text":"Aplicação MMC","x":-600,"y":-340,"width":185,"height":50},
+		{"id":"20e25372ad7d8ff5","type":"text","text":"Aplicação MMC","x":-600,"y":-40,"width":185,"height":50},
+		{"id":"21a76f2088a831be","type":"text","text":"Aplicação MMC","x":-600,"y":260,"width":185,"height":50},
+		{"id":"ab23d6813eb6fa35","type":"text","text":"Config.ini local","x":-320,"y":-345,"width":180,"height":60},
+		{"id":"57892b130bb6ab3e","type":"text","text":"Funcionamento","x":240,"y":-340,"width":185,"height":60},
+		{"id":"c9b68b438baf834d","type":"text","text":"Arrumar localmente","x":-60,"y":-260,"width":220,"height":60,"color":"1"},
+		{"id":"cc977d924af09065","type":"text","text":"Config.ini Shortcut","x":-330,"y":-45,"width":200,"height":60},
+		{"id":"5e8311a93c54480b","type":"text","text":"Servidor (sjkfs ou afins)","x":-70,"y":-45,"width":230,"height":60},
+		{"id":"909701728c89c76d","type":"text","text":"Arrumar remotamente","x":240,"y":40,"width":160,"height":60,"color":"4"},
+		{"id":"a0b451b8f2bdcca1","type":"text","text":"Funcionamento","x":480,"y":-45,"width":185,"height":60},
+		{"id":"4c07ba53e8b2ddfb","type":"text","text":"Script StartUp","x":-330,"y":257,"width":130,"height":56},
+		{"id":"ebd2718b6466a3d0","type":"text","text":"Config.ini Atualizado","x":-40,"y":255,"width":223,"height":60},
+		{"id":"ea9abe148f27e139","type":"text","text":"Funcionamento","x":295,"y":255,"width":185,"height":60},
+		{"id":"1510fb25cb634349","type":"text","text":"Arrumar remotamente","x":-330,"y":340,"width":160,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"510dbce8e1489d35","fromNode":"6bc73614bbfe5ed5","fromSide":"right","toNode":"ab23d6813eb6fa35","toSide":"left"},
+		{"id":"4e45b6cde8c7a826","fromNode":"ab23d6813eb6fa35","fromSide":"right","toNode":"c9b68b438baf834d","toSide":"left"},
+		{"id":"a466bd290f529bbd","fromNode":"c9b68b438baf834d","fromSide":"right","toNode":"57892b130bb6ab3e","toSide":"left"},
+		{"id":"6c4a523944289259","fromNode":"ab23d6813eb6fa35","fromSide":"right","toNode":"57892b130bb6ab3e","toSide":"left"},
+		{"id":"132c32aa43e556aa","fromNode":"20e25372ad7d8ff5","fromSide":"right","toNode":"cc977d924af09065","toSide":"left"},
+		{"id":"0b19794d8b3ef00a","fromNode":"cc977d924af09065","fromSide":"right","toNode":"5e8311a93c54480b","toSide":"left"},
+		{"id":"3beb95e932103fb7","fromNode":"5e8311a93c54480b","fromSide":"right","toNode":"909701728c89c76d","toSide":"left"},
+		{"id":"1e834da09094799b","fromNode":"5e8311a93c54480b","fromSide":"right","toNode":"a0b451b8f2bdcca1","toSide":"left"},
+		{"id":"4cf21bbe9039bc91","fromNode":"909701728c89c76d","fromSide":"right","toNode":"a0b451b8f2bdcca1","toSide":"left"},
+		{"id":"7879c0e9b9a4d893","fromNode":"21a76f2088a831be","fromSide":"right","toNode":"4c07ba53e8b2ddfb","toSide":"left"},
+		{"id":"c751756e8c8c946c","fromNode":"4c07ba53e8b2ddfb","fromSide":"right","toNode":"ebd2718b6466a3d0","toSide":"left"},
+		{"id":"feeb6ab46e39d930","fromNode":"ebd2718b6466a3d0","fromSide":"right","toNode":"ea9abe148f27e139","toSide":"left"},
+		{"id":"476c09e4d9576a22","fromNode":"21a76f2088a831be","fromSide":"right","toNode":"1510fb25cb634349","toSide":"left"},
+		{"id":"582b9b44ffe30b7c","fromNode":"1510fb25cb634349","fromSide":"right","toNode":"ebd2718b6466a3d0","toSide":"left"}
+	]
+}

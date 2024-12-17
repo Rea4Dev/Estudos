@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lógica de Programação/7. Estruturas de Repetição/For.md",
-                "mode": "preview",
+                "file": "Lógica de Programação/7. Estruturas de Repetição/Laços infinitos.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "For"
+              "title": "Laços infinitos"
             },
             "group": "9b8c82af25c42fbf"
           },
@@ -42,7 +42,7 @@
       {
         "id": "004dd83a59a2d9bc",
         "type": "split",
-        "dimension": 29.96845425867508,
+        "dimension": 29.968454258675084,
         "children": [
           {
             "id": "d39c24bd5a90f850",
@@ -54,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Lógica de Programação/7. Estruturas de Repetição/For.md",
+                    "file": "Lógica de Programação/7. Estruturas de Repetição/Laços infinitos.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -82,7 +82,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Gráfico de For"
+                  "title": "Gráfico de Laços infinitos"
                 },
                 "group": "9b8c82af25c42fbf"
               }
@@ -465,12 +465,52 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5851eba1be77183a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "19996237ab8801cc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "709ef7fca4046dfd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "e24d89c6043fb36b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 31
       }
     ],
     "direction": "horizontal",
@@ -491,22 +531,30 @@
   },
   "active": "61ef980f748ff068",
   "lastOpenFiles": [
-    "Pasted image 20241212180919.png",
-    "Pasted image 20241212180440.png",
+    "Imagens/Pasted image 20241217125540.png",
+    "Imagens/Pasted image 20241217125430.png",
     "Lógica de Programação/7. Estruturas de Repetição/Estruturas de Repetição.md",
-    "Lógica de Programação/7. Estruturas de Repetição/For.md",
+    "Lógica de Programação/7. Estruturas de Repetição/Laços infinitos.md",
     "Lógica de Programação/Lógica de Programação.md",
+    "Lógica de Programação/7. Estruturas de Repetição/do while.md",
     "Lógica de Programação/1. Introdução/Introdução.md",
     "Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
+    "Lógica de Programação/1. Introdução/(Externo)] Função de entrada - getchar().md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
+    "Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
+    "Lógica de Programação/1. Introdução/Função principal main.md",
     "Lógica de Programação/1. Introdução/(Externo) Função de Saída - putchar().md",
+    "Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/(Externo) Função de entrada - scanf().md",
+    "Lógica de Programação/7. Estruturas de Repetição/For.md",
+    "Imagens/Pasted image 20241216120631.png",
+    "Imagens/Pasted image 20241212180919.png",
+    "Pasted image 20241212180440.png",
     "Lógica de Programação/Flash-Cards.md",
     "Imagens/Pasted image 20241212175933.png",
     "Lógica de Programação/2. Variáveis/Variáveis.md",
     "Lógica de Programação/2. Variáveis/Declaração.md",
     "Sem título.canvas",
     "2024-12-12.md",
-    "Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
-    "Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
     "Lógica de Programação/3. Tipos de Dados Básicos/Operando diferentes tipos.md",
     "Lógica de Programação/4. Valores lógicos/Valores Lógicos.md",
     "Lógica de Programação/5. Operadores Lógicos/Operadores Lógicos.md",
@@ -515,11 +563,6 @@
     "Lógica de Programação/7. Estruturas de Repetição/While.md",
     "Lógica de Programação/3. Tipos de Dados Básicos/Caracteres e Inteiros.md",
     "Lógica de Programação/3. Tipos de Dados Básicos/Casting, o uso correto.md",
-    "Lógica de Programação/3. Tipos de Dados Básicos/Tabela formatos.md",
-    "Lógica de Programação/3. Tipos de Dados Básicos/Variações de Espaço.md",
-    "Lógica de Programação/3. Tipos de Dados Básicos/Float e Double.md",
-    "Lógica de Programação/3. Tipos de Dados Básicos/Modificadores de Tipo.md",
-    "Lógica de Programação/6. Estruturas Condicionais/Else-If.md",
     "Sem título/desktop.ini",
     "Lógica de Programação/7. Estruturas de Repetição",
     "Imagens/Pasted image 20241111135606.png",
@@ -527,9 +570,6 @@
     "Imagens/Pasted image 20241111135131.png",
     "Imagens/Pasted image 20241111124533.png",
     "Imagens/Pasted image 20241111123949.png",
-    "Imagens/Pasted image 20241111121727.png",
-    "Imagens/Pasted image 20241111121521.png",
-    "Imagens/Pasted image 20241111121300.png",
     "Lógica de Programação/5. Operadores Lógicos",
     "Lógica de Programação/6. Estruturas Condicionais",
     "Lógica de Programação/4. Valores lógicos",

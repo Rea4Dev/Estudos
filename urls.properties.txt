@@ -1,0 +1,1 @@
+sitteste:9090/sit/api/hardwares/activation

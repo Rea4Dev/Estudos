@@ -11,17 +11,55 @@
             "id": "e97cf46264f36278",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "RPB/ARINC 429.md",
-                "mode": "source",
-                "source": false
+                "file": "Cablagens/Visão Geral.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": -0.08593752682209016
+                }
               },
-              "icon": "lucide-file",
-              "title": "ARINC 429"
+              "icon": "lucide-layout-dashboard",
+              "title": "Visão Geral"
+            }
+          },
+          {
+            "id": "fa9445bcc50c20e7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "AdHocs - Ideias/Config.ini Remoto/Esquemático.canvas",
+                "viewState": {
+                  "x": 32.5,
+                  "y": 46.53080882352942,
+                  "zoom": -0.10703483863768257
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Esquemático"
+            }
+          },
+          {
+            "id": "d487d00eb1afbfe9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "AdHocs - Ideias/Config.ini Remoto/Esquemático.canvas",
+                "viewState": {
+                  "x": 32.5,
+                  "y": 41.52270123839009,
+                  "zoom": -0.10703483863768257
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Esquemático"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -317,12 +355,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "93735aa05aa6014f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "1a829f4a9be5eb45",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 23
       }
     ],
     "direction": "horizontal",
@@ -341,16 +399,27 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "e97cf46264f36278",
+  "active": "1a829f4a9be5eb45",
   "lastOpenFiles": [
+    "AdHocs - Ideias/Config.ini Remoto/Config.ini Remoto.md",
+    "Imagens/Pasted image 20241216121514.png",
+    "AdHocs - Ideias/Config.ini Remoto/Esquemático.canvas",
+    "AdHocs - Ideias/Sem título/desktop.ini",
+    "AdHocs - Ideias/Config.ini Remoto",
+    "Sem título/desktop.ini",
+    "AdHocs - Ideias",
+    "Cablagens/Visão Geral.canvas",
+    "Cablagens/Mapear cablagens.md",
+    "Cablagens/Cablagens.md",
+    "Cablagens",
+    "XP SIT.md",
+    "RPB/ARINC 429.md",
     "Redes, Protocolos de Comunicação e Barramentos.md",
     "Aeronáutica.md",
     "XP SIT/flmap10218.sjk.emb;9090.md",
     "XP SIT/Servidores.md",
     "XP SIT/sitbkpflm.sjk.emb;9090.md",
     "XP SIT/tex-com.emb.md",
-    "XP SIT.md",
-    "RPB/ARINC 429.md",
     "RPB/AFDX.md",
     "RPB/ASCB-D.md",
     "Embraer/Termos e Processos/Termos e processos.md",
@@ -358,7 +427,6 @@
     "RPB/OSI.md",
     "RPB/Ethernet.md",
     "RPB/Flashcards.md",
-    "Cablagens.md",
     "XP SIT/MMC por Hardware.md",
     "Imagens/Pasted image 20241113131247.png",
     "Imagens/Pasted image 20241113114924.png",
@@ -371,24 +439,14 @@
     "Imagens/Pasted image 20241111095541.png",
     "Imagens/Pasted image 20241111095240.png",
     "Imagens/Pasted image 20241111094721.png",
-    "Imagens/Pasted image 20241111094422.png",
     "Embraer/Termos e Processos/E-Solve.md",
     "RPB/OSI - Camada Física (Layer 1).md",
     "RPB/OSI - Camada de Enlace (Layer 2).md",
     "Protocolos de Comunicação.md",
-    "RPB/Revisão Espaçada.md",
-    "Redes/Protocolos de Comunicação/Protocolos de Comunicação.md",
     "RPB",
-    "Embraer/F220 Posições.md",
     "I/desktop.ini",
     "I",
     "Embraer/Sem título/desktop.ini",
-    "XP SIT",
-    "Sem título.canvas",
-    "Redes/Protocolos de Comunicação",
-    "Aeronáutica/Partes da Aeronave",
-    "Aeronáutica/Movimentos da Aeronave",
-    "Sem título/desktop.ini",
-    "Aeronáutica/Forças Atuantes no Voo"
+    "XP SIT"
   ]
 }

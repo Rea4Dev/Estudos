@@ -5,3 +5,4 @@ A linguagem C *não possui mecanismos de Entrada e Saída*. Para resolver esse p
 - [[(Externo) Função de saída - puts()]]
 - [[(Externo) Função de Saída - putchar()]]
 - [[(Externo) Função de entrada - scanf()]]
+- [[(Externo)] Função de entrada - getchar()]]
