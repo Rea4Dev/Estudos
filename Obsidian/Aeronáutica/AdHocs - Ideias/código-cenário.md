@@ -1,0 +1,2 @@
+Este código irá ter pequenas alterações a cada MMC e computador diferente que estiver, devido a sua natureza. 
+Desta forma, em cada implementação estarei presencial em cada máquina adaptando e implementando diretamente.

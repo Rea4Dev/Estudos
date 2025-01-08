@@ -1,4 +1,6 @@
-- ~~~Alterar o código para não mais mudar apenas a URL, e sim o config.ini inteiro~
+- ~~~Alterar o código para não mais mudar apenas a URL, e sim o config.ini inteiro
+- ~~Alterar o código e retirar bug de começar com "Pingurl ="
+- ~~Fazer com que o código delete primeiramente tudo que está presente no txt
 - Transformar o código em uma função (ou módulo) com a passagem dos parâmetros URL_FONTE e MMC_CONFIG para a alteração.
 - Transformar a aplicação em um executável <small>(clinômetro por enquanto)</small>.
 - Fazer com que o executável rode o script e posteriormente o MMC <small>(clinômetro por enquanto)</small>

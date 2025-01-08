@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "6a0641aed17b0554",
+    "type": "split",
+    "children": [
+      {
+        "id": "9122fb0ea087b0f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3712b2f5a5d24742",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
+            }
+          },
+          {
+            "id": "8f540b657dc0407e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como manter Saudável.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Como manter Saudável"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abf40d2ab6f196c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "32b426e7aab523b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84086b250694b7c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "bd13081106fa4f37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "3f1490e15b4d604a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a74cc10387a5ff50",
+    "type": "split",
+    "children": [
+      {
+        "id": "22caf81ab99508be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d9ff69d0a216045",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Como manter Saudável.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Como manter Saudável"
+            }
+          },
+          {
+            "id": "1c945966c6217aac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Como manter Saudável.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Como manter Saudável"
+            }
+          },
+          {
+            "id": "ee5b070dfab1ca58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4ae4815b47c1244d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Como manter Saudável.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Como manter Saudável"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "8f540b657dc0407e",
+  "lastOpenFiles": [
+    "Sem título.canvas",
+    "Como manter Saudável.md",
+    "Superorganização.md",
+    "Images/desktop.ini",
+    "Images",
+    "J1.md",
+    "Images/Pasted image 20250107121758.png",
+    "Superorganização Saudável.md",
+    "Welcome.md",
+    "desktop.ini"
+  ]
+}

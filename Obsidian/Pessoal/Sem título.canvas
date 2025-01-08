@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4e823b08de4b3565","x":-160,"y":-220,"width":201,"height":60,"type":"text","text":"[[Superorganização]]"},
+		{"id":"edc7194da25b8867","x":41,"y":-100,"width":241,"height":60,"color":"4","type":"text","text":"[[Como manter saudável]]"}
+	],
+	"edges":[
+		{"id":"585916b7f8d809d1","fromNode":"4e823b08de4b3565","fromSide":"right","toNode":"edc7194da25b8867","toSide":"top","color":"4","label":"O que fazer"}
+	]
+}

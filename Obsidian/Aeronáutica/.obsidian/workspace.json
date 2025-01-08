@@ -4,76 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "dc2b0d21fccd9d93",
+        "id": "e3aa1342a5246a65",
         "type": "tabs",
         "children": [
           {
-            "id": "e97cf46264f36278",
+            "id": "a7073ce166f66fc1",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Cablagens/Visão Geral.canvas",
+                "file": "AdHocs - Ideias/Cenário.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -0.08593752682209016
+                  "x": 502.4102075195315,
+                  "y": 281.9412744140632,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Visão Geral"
-            }
-          },
-          {
-            "id": "fa9445bcc50c20e7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "AdHocs - Ideias/Config.ini Remoto/Esquemático.canvas",
-                "viewState": {
-                  "x": 32.5,
-                  "y": 46.53080882352942,
-                  "zoom": -0.10703483863768257
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Esquemático"
-            }
-          },
-          {
-            "id": "d487d00eb1afbfe9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "AdHocs - Ideias/Config.ini Remoto/Esquemático.canvas",
-                "viewState": {
-                  "x": 32.5,
-                  "y": 41.52270123839009,
-                  "zoom": -0.10703483863768257
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Esquemático"
-            }
-          },
-          {
-            "id": "fb71a3dccfa3cdbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AdHocs - Ideias/Config.ini Remoto/Requisitos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Requisitos"
+              "title": "Cenário"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -399,12 +350,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "de3a2bb0fdb0788c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "df4860854f5550a4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 26
       }
     ],
     "direction": "horizontal",
@@ -423,17 +394,25 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "fb71a3dccfa3cdbd",
+  "active": "b77a6f98554cd374",
   "lastOpenFiles": [
-    "AdHocs - Ideias/Config.ini Remoto/Esquemático.canvas",
-    "AdHocs - Ideias/Config.ini Remoto/Requisitos.md",
+    "Sem título/desktop.ini",
+    "Sem título",
+    "1 - 𝗗𝗶𝗮𝗹𝗼𝗴𝘀/Caso questionado Projeto de Estágio semana 01.md",
+    "AdHocs - Ideias/Cenário.canvas",
+    "1 - 𝗗𝗶𝗮𝗹𝗼𝗴𝘀",
+    "AdHocs - Ideias/Organizar Repositório.md",
+    "AdHocs - Ideias/código-cenário.md",
+    "AdHocs - Ideias/levantamento.md",
+    "AdHocs - Ideias/1.0 Funcional.md",
     "AdHocs - Ideias/Config.ini Remoto/Config.ini Remoto.md",
+    "AdHocs - Ideias/Config.ini Remoto/Esquemático.canvas",
+    "Cablagens/Visão Geral.canvas",
+    "AdHocs - Ideias/Config.ini Remoto/Requisitos.md",
     "Imagens/Pasted image 20241216121514.png",
     "AdHocs - Ideias/Sem título/desktop.ini",
     "AdHocs - Ideias/Config.ini Remoto",
-    "Sem título/desktop.ini",
     "AdHocs - Ideias",
-    "Cablagens/Visão Geral.canvas",
     "Cablagens/Mapear cablagens.md",
     "Cablagens/Cablagens.md",
     "Cablagens",
@@ -455,22 +434,16 @@
     "XP SIT/MMC por Hardware.md",
     "Imagens/Pasted image 20241113131247.png",
     "Imagens/Pasted image 20241113114924.png",
-    "XP SIT/Troca de Loads.md",
     "Imagens/Pasted image 20241112110011.png",
-    "RPB/TCP IP.md",
     "Imagens/Pasted image 20241112104755.png",
     "Imagens/Pasted image 20241112104718.png",
     "Imagens/Pasted image 20241112104533.png",
     "Imagens/Pasted image 20241111095541.png",
     "Imagens/Pasted image 20241111095240.png",
     "Imagens/Pasted image 20241111094721.png",
-    "Embraer/Termos e Processos/E-Solve.md",
-    "RPB/OSI - Camada Física (Layer 1).md",
-    "RPB/OSI - Camada de Enlace (Layer 2).md",
     "RPB",
     "I/desktop.ini",
     "I",
-    "Embraer/Sem título/desktop.ini",
-    "XP SIT"
+    "Embraer/Sem título/desktop.ini"
   ]
 }

@@ -354,12 +354,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9cc88c359ba58b8a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "horizontal",
@@ -378,7 +388,7 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "0023d2ec08f4816e",
+  "active": "9cc88c359ba58b8a",
   "lastOpenFiles": [
     "Bitcoin.md",
     "Atribuições.md",
