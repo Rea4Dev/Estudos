@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"7ecb0ddd0fd1f3bb","type":"text","text":"GRASIT (Beta 1.0)\n-  Código Simplificado \n-  Melhorias aplicadas\n-  CMD escondido\n-  Mesma imagem","x":-125,"y":-100,"width":245,"height":190,"color":"4"},
+		{"id":"ccfcb405222a996b","type":"text","text":"Próximos passos","x":-92,"y":140,"width":180,"height":50,"color":"6"},
+		{"id":"8e0a3e736e5f1599","type":"text","text":"Adaptação de [[código-cenário]]","x":738,"y":-100,"width":285,"height":60},
+		{"id":"7e5b48397ea15bac","type":"text","text":"Teste in-loco","x":738,"y":-10,"width":170,"height":60},
+		{"id":"f69b1359543bd50d","type":"text","text":"Realizar [[‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/levantamento]]","x":220,"y":-65,"width":234,"height":60},
+		{"id":"2534276452468c56","type":"text","text":"[[Organizar Repositório]]","x":500,"y":-65,"width":160,"height":60},
+		{"id":"81406d04cc254283","type":"text","text":"GRASIT 1.0","x":673,"y":105,"width":150,"height":60},
+		{"id":"31d01ddff25b0d59","type":"text","text":"Criar aplicativo a parte para reconfigurar e criar executável com base nos parâmetros individuais","x":-111,"y":383,"width":250,"height":115},
+		{"id":"eda7dcd326bac0b7","type":"text","text":"Caso sobre tempo","x":-92,"y":263,"width":212,"height":60,"color":"2"},
+		{"id":"d1193e513e63e103","type":"text","text":"- Democratização na futura configuração de destinos, sem necessitar entender ou alterar códigos.\n- Maior agilidade na implementação do GRASIT 1.0.","x":-146,"y":593,"width":321,"height":178},
+		{"id":"b541ac14b02dd33a","type":"text","text":"Requisitos","x":432,"y":261,"width":136,"height":60,"color":"1"},
+		{"id":"f971ef8edcd61a76","type":"text","text":"Preciso fazer com que o app crie o executável (terminal) e também com a imagem dos MMC","x":312,"y":407,"width":256,"height":129},
+		{"id":"d7691a300805e945","type":"text","text":"Criar popup quando sem net","x":312,"y":559,"width":259,"height":60},
+		{"id":"284832b1f9c9a1cf","type":"text","text":"[[Código Obtido]]\n","x":337,"y":105,"width":183,"height":60,"color":"2"},
+		{"id":"2d63fce3e9723f3b","type":"text","text":"deletar atalho original","x":312,"y":632,"width":256,"height":50}
+	],
+	"edges":[
+		{"id":"da2a8dfc9714656a","fromNode":"7ecb0ddd0fd1f3bb","fromSide":"bottom","toNode":"ccfcb405222a996b","toSide":"top"},
+		{"id":"4fee58c745b51197","fromNode":"eda7dcd326bac0b7","fromSide":"bottom","toNode":"31d01ddff25b0d59","toSide":"top"},
+		{"id":"3c32bcb4014e73e9","fromNode":"ccfcb405222a996b","fromSide":"right","toNode":"f69b1359543bd50d","toSide":"left"},
+		{"id":"6cd4d6f5034f2e67","fromNode":"f69b1359543bd50d","fromSide":"right","toNode":"2534276452468c56","toSide":"left"},
+		{"id":"693e34fe06745571","fromNode":"2534276452468c56","fromSide":"right","toNode":"8e0a3e736e5f1599","toSide":"left"},
+		{"id":"29f30ee044130db5","fromNode":"2534276452468c56","fromSide":"right","toNode":"7e5b48397ea15bac","toSide":"left"},
+		{"id":"0b6cd65e330b32b3","fromNode":"8e0a3e736e5f1599","fromSide":"right","toNode":"81406d04cc254283","toSide":"right","color":"2"},
+		{"id":"c84d72a2bf2b11c5","fromNode":"7e5b48397ea15bac","fromSide":"right","toNode":"81406d04cc254283","toSide":"right"},
+		{"id":"bebabfe144d9b50e","fromNode":"31d01ddff25b0d59","fromSide":"bottom","toNode":"d1193e513e63e103","toSide":"top","label":"Ganhos"},
+		{"id":"55bdcd9d707b1a21","fromNode":"b541ac14b02dd33a","fromSide":"right","toNode":"f971ef8edcd61a76","toSide":"right"},
+		{"id":"1f4443a7f7375b1b","fromNode":"b541ac14b02dd33a","fromSide":"right","toNode":"d7691a300805e945","toSide":"right"},
+		{"id":"50d96ac33f42b48f","fromNode":"b541ac14b02dd33a","fromSide":"right","toNode":"2d63fce3e9723f3b","toSide":"right"}
+	]
+}

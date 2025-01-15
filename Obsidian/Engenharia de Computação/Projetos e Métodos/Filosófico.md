@@ -1,2 +1,0 @@
-É *valorativo*, *emerge da experiência* objeto advém de *realidades imperceptíveis aos sentidos* dados de ordem metafísica, *não sensíveis*, razão da existência **parte do particular ao universal** filosofar é interrogar sobre fatos e problemas dos seres humanos de forma concreta em seu contexto histórico.
-*Verificável* – limitado ao âmbito diário, o que se percebe no dia a dia.

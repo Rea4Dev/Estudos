@@ -1,0 +1,553 @@
+{
+  "main": {
+    "id": "c6ac7f122f7ce4a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6da9f802bc7d194c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df4db66646a623bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1c499c663dc1ee26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1786fe4a1dc7325",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78d544de8bec4699",
+    "type": "split",
+    "children": [
+      {
+        "id": "4956243f9b32b545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b77a6f98554cd374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "ccbefba3e4610e0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#flashcards/Logica_de_programação/variaveis/tipos/char",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "901e1d8ef624a617",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "right": {
+    "id": "174ecb7d8d9327a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9049eda46a925ac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "242901a0a4f7f466",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lógica de Programação/Lógica de Programação.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Lógica de Programação"
+            }
+          },
+          {
+            "id": "a11c405870d26afa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lógica de Programação/Lógica de Programação.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Lógica de Programação"
+            }
+          },
+          {
+            "id": "8dc336fad99846b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3c8b91af77e5f894",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lógica de Programação/Lógica de Programação.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Lógica de Programação"
+            }
+          },
+          {
+            "id": "29403eed50a4a29b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "73d152631b5db0a6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9868def7776f481e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5c18c70f190521b6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "14c35b903efe29be",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "0b2f3167643aee2e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9243420ae0f56fe2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9aba2421d6aa43f5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "292c9e56895c7fdc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "fc9ba1f3cab2d512",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "89c3c87b661d44e3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "62c99066c9a7c4b5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "38e1eb3240d287d1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5588685a50c07eae",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9a23a12ceed3de5b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "6599a5460aae94f6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "4b5a5bb4b3a44bbd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "aaefa08788a8e199",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "e1d342374f349641",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "3c4143f3eb02d39a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "279a695c3494c26e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "e25c231a0337d269",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c4301060aeefb78d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c075d3e8f3e11527",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5851eba1be77183a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "19996237ab8801cc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "709ef7fca4046dfd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "e24d89c6043fb36b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9d03043c6ede98a6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "a97c9dd7783461e5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "63b0f5f1473edd8f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "66e343810b634119",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
+          }
+        ],
+        "currentTab": 35
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+  "active": "b77a6f98554cd374",
+  "lastOpenFiles": [
+    "Dev/Linguagem C/Exercícios/Conceitual/desktop.ini",
+    "Dev/Linguagem C/Exercícios/Prático/desktop.ini",
+    "Dev/Linguagem C/Exercícios/Prático/Imprimindo quatro char A diferentes.md",
+    "Dev/Linguagem C/Exercícios/Prático",
+    "Dev/Linguagem C/Exercícios/Conceitual",
+    "Dev/Linguagem C/Exercícios/Sem título.md",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/desktop.ini",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/desktop.ini",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/desktop.ini",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/desktop.ini",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/x64/Debug/desktop.ini",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/x64/desktop.ini",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/desktop.ini",
+    "Dev/Linguagem C/Estudos/Lógica de Programação.md",
+    "Pessoal/Características operante/Ilustração.canvas",
+    "Organização/Pessoais/Imigração EUA.md",
+    "Organização/Bitcoin.md",
+    "Organização/Acompanhar.md",
+    "Organização/Estudos.md",
+    "Organização/Atribuições.md",
+    "Organização/Pessoais/Pessoais.md",
+    "Organização/Estudos/Livros.md",
+    "Organização/Estudos/Ampli.md",
+    "Organização/Estudos/Matéria 01.md",
+    "Organização/Estudos/Cálculo.md",
+    "Organização/Estudos/Embarcados.md",
+    "Organização/Estudos/Linguagem C.md",
+    "‎ Projetos/Projeto de Estágio/Projeto AFDX.md",
+    "Aeronáutica/Demandas/Hoje.md",
+    "Aeronáutica/Demandas/Suporte.md",
+    "Aeronáutica/Demandas/Roteiro de Testes.md",
+    "Aeronáutica/Noções/Embraer/Termos e Processos/Kaizen/On-Track.md",
+    "Aeronáutica/Noções/Embraer/Termos e Processos/Kaizen/Kaizen.md",
+    "Organização/Acompanhar/E-mail corporativo.md",
+    "Organização/Acompanhar/Reclame Aqui.md",
+    "‎ Projetos/Projeto de Estágio/Estudos/sinal diferencial.md",
+    "Dev/Software/Implementação.md",
+    "Engenharia de Computação/Pasted image 20241031175535.png",
+    "Aeronáutica/Demandas/Cablagens/Visão Geral.canvas",
+    "Imagens/Pasted image 20241217125540.png",
+    "Imagens/Pasted image 20241217125430.png",
+    "Imagens/Pasted image 20241216120631.png",
+    "Imagens/Pasted image 20241212180919.png",
+    "Pasted image 20241212180440.png",
+    "Imagens/Pasted image 20241212175933.png",
+    "Sem título.canvas",
+    "Imagens/Pasted image 20241111135606.png",
+    "Imagens/Pasted image 20241111135524.png",
+    "Imagens/Pasted image 20241111135131.png",
+    "Esquemático.canvas"
+  ]
+}

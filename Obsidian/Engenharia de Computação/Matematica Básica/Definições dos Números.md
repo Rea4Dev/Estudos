@@ -1,2 +1,0 @@
-- [[Numero e numeral]]
-- [[Cardinal e Ordinal]]
