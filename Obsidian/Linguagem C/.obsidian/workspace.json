@@ -515,12 +515,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "a97c9dd7783461e5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 33
       }
     ],
     "direction": "horizontal",
@@ -539,7 +549,7 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "9d03043c6ede98a6",
+  "active": "a97c9dd7783461e5",
   "lastOpenFiles": [
     "Imagens/Pasted image 20241217125540.png",
     "Imagens/Pasted image 20241217125430.png",

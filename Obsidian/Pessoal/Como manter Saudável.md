@@ -12,7 +12,8 @@ Desta forma, separaremos em três campos:
 > - Curtir love time e afins de tempo sem pensar no trabalho ou quando parar.
 > - "O jeito como você faz qualquer coisa é o jeito como faz tudo."
 > - Emocional: Evitar interações em grupos, priorizar individual.
->  - Afetivo: Não ser impulsivo, ser amoroso, perdoativo e se isolar em casos de descontrole. Priorizar afetividade à tempo, resultado ou foco.
+>  - Afetivo: Não ser impulsivo, ser amoroso, ser perdoativo e se isolar em casos de descontrole. Priorizar afetividade à tempo, resultado ou foco.
+>  - Liberdade e conforto para escolher o que estudar, como e quando. Para poder escolher bem, ter um [[levantamento]] de tudo que quer desenvolver.
 
 > [!Warning] Evitando
 > - Evite permitir que a eficiência de tempo quebre as restrições impostas, a custo de ter a superorganização tendendo ao não saudável.

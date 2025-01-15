@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"4a5fc17df32366ed","x":-214,"y":-69,"width":194,"height":60,"color":"4","type":"text","text":"GRASIT Beta 2.0"},
+		{"id":"ecb2061b974ef7f2","x":-282,"y":100,"width":331,"height":300,"type":"text","text":"- Rotina executada ao iniciar o computador.\n- Um único aplicativo configurável relativo a *1. endereço Config.ini*, *2. qual o MMC* e *3. URL que consultará*.\n- App na área de trabalho para atualização ao clicar.\n- Consulta não feita no bitbucket e sim em ambiente fornecido por Wendel."},
+		{"id":"4dd7fef70311aa3f","x":300,"y":-76,"width":220,"height":74,"type":"text","text":"Criar script base que executará ao iniciar "},
+		{"id":"6cdea2673ca8b291","x":600,"y":-83,"width":250,"height":89,"type":"text","text":"Mesmo script mas que pode ser executado no Desktop"},
+		{"id":"97f9deb296fcf202","x":635,"y":40,"width":180,"height":60,"type":"text","text":"Gerar interface"},
+		{"id":"7d64431f1c1ecaca","x":300,"y":30,"width":250,"height":80,"type":"text","text":"Iniciar funcionalidade de modificação de arquivo (ainda on-line)"},
+		{"id":"b3baa46cd1db5ddd","x":300,"y":140,"width":250,"height":87,"type":"text","text":"Adaptar funcionalidade com base em ambiente fornecido por Wendel"}
+	],
+	"edges":[
+		{"id":"e0d07b85230f42bc","fromNode":"4a5fc17df32366ed","fromSide":"bottom","toNode":"ecb2061b974ef7f2","toSide":"top","color":"4","label":"Requisitos"},
+		{"id":"b0a2c29f2b5e09f3","fromNode":"4a5fc17df32366ed","fromSide":"right","toNode":"4dd7fef70311aa3f","toSide":"left","color":"4","label":"Desenvolvimento"},
+		{"id":"696339a133fda605","fromNode":"4dd7fef70311aa3f","fromSide":"right","toNode":"6cdea2673ca8b291","toSide":"left"},
+		{"id":"39cba5ae0f83cef6","fromNode":"6cdea2673ca8b291","fromSide":"right","toNode":"97f9deb296fcf202","toSide":"right"},
+		{"id":"4093770693108b44","fromNode":"97f9deb296fcf202","fromSide":"left","toNode":"7d64431f1c1ecaca","toSide":"right"},
+		{"id":"14fddabb8ae9cc23","fromNode":"7d64431f1c1ecaca","fromSide":"left","toNode":"b3baa46cd1db5ddd","toSide":"left"}
+	]
+}

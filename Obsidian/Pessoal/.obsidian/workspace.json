@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Como manter Saudável.md",
+                "file": "levantamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Como manter Saudável"
+              "title": "levantamento"
             }
           }
         ],
@@ -182,8 +182,11 @@
   },
   "active": "8f540b657dc0407e",
   "lastOpenFiles": [
-    "Sem título.canvas",
     "Como manter Saudável.md",
+    "levantamento.md",
+    "Sem título/desktop.ini",
+    "Sem título",
+    "Sem título.canvas",
     "Superorganização.md",
     "Images/desktop.ini",
     "Images",
