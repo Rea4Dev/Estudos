@@ -16,7 +16,7 @@
 - Função: Controle de guinada (eixo vertical)
 
 # Revisão Espaçada
-#flashcards/Aeronáutica/Partes 
+(retirado)
 
 Descreva quais são os controles primários, a localização e a função de cada um deles. <br><br> Exemplo <br><br>**Parte X**<br>- Localização:<br>- Função: Controle de xxxx (eixo xxxx);;![[Pasted image 20241024082204.png]]
 <!--SR:!2025-06-27,164,310-->

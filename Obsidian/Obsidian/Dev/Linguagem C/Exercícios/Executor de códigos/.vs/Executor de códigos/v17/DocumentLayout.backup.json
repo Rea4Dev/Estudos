@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RENGCARV.ADPRDEMB\\OneDrive - Embraer\\Documents\\GitHub\\Estudos\\Obsidian\\Obsidian\\Dev\\Linguagem C\\Exerc\u00EDcios\\Executor de c\u00F3digos\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Estudos\\Obsidian\\Obsidian\\Dev\\Linguagem C\\Exerc\u00EDcios\\Executor de c\u00F3digos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F1C75D0-5220-4BE1-9B63-6771F59D0449}|Executor de c\u00F3digos.vcxproj|C:\\Users\\RENGCARV.ADPRDEMB\\OneDrive - Embraer\\Documents\\GitHub\\Estudos\\Obsidian\\Obsidian\\Dev\\Linguagem C\\Exerc\u00EDcios\\Executor de c\u00F3digos\\Executor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1F1C75D0-5220-4BE1-9B63-6771F59D0449}|Executor de c\u00F3digos.vcxproj|solutionrelative:Executor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\GitHub\\Estudos\\Obsidian\\Obsidian\\Dev\\Linguagem C\\Exerc\u00EDcios\\Executor de c\u00F3digos\\Executor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Executor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Executor.c",
-              "DocumentMoniker": "C:\\Users\\RENGCARV.ADPRDEMB\\OneDrive - Embraer\\Documents\\GitHub\\Estudos\\Obsidian\\Obsidian\\Dev\\Linguagem C\\Exerc\u00EDcios\\Executor de c\u00F3digos\\Executor.c",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Estudos\\Obsidian\\Obsidian\\Dev\\Linguagem C\\Exerc\u00EDcios\\Executor de c\u00F3digos\\Executor.c",
               "RelativeDocumentMoniker": "Executor.c",
-              "ToolTip": "C:\\Users\\RENGCARV.ADPRDEMB\\OneDrive - Embraer\\Documents\\GitHub\\Estudos\\Obsidian\\Obsidian\\Dev\\Linguagem C\\Exerc\u00EDcios\\Executor de c\u00F3digos\\Executor.c",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Estudos\\Obsidian\\Obsidian\\Dev\\Linguagem C\\Exerc\u00EDcios\\Executor de c\u00F3digos\\Executor.c",
               "RelativeToolTip": "Executor.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-01-15T17:32:04.873Z",
               "EditorCaption": ""

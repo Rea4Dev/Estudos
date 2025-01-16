@@ -6,47 +6,29 @@
       {
         "id": "6da9f802bc7d194c",
         "type": "tabs",
-        "dimension": 76.18296529968454,
+        "dimension": 60.17350157728707,
         "children": [
           {
             "id": "df4db66646a623bc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Cenário.canvas",
-                "viewState": {
-                  "x": 294.53871730762773,
-                  "y": 351.1512501133202,
-                  "zoom": -0.33112128542894337
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Cenário"
-            },
-            "group": "9ace8fbf07f357ed"
-          },
-          {
-            "id": "705b2b67145d5f15",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/armazenado nesta página.md",
+                "file": "Pessoal/Característica operante/Como manter Saudável.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "armazenado nesta página"
-            }
+              "title": "Como manter Saudável"
+            },
+            "group": "9ace8fbf07f357ed"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0fbfa02a84b8d45e",
         "type": "split",
-        "dimension": 23.817034700315457,
+        "dimension": 39.82649842271294,
         "children": [
           {
             "id": "57fcb8484179c420",
@@ -58,7 +40,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Cenário.canvas",
+                    "file": "Pessoal/Característica operante/Como manter Saudável.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -81,12 +63,12 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 0.713275462622442,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Gráfico de Cenário"
+                  "title": "Gráfico de Como manter Saudável"
                 },
                 "group": "9ace8fbf07f357ed"
               }
@@ -559,12 +541,42 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "457374c0f28d4ae0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "ed2e3612d470998f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "04b52eaa38ff5353",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 36
+        "currentTab": 39
       }
     ],
     "direction": "horizontal",
@@ -582,45 +594,49 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "705b2b67145d5f15",
+  "active": "df4db66646a623bc",
   "lastOpenFiles": [
+    "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
+    "Dev/Linguagem C/Estudos/Índice.md",
+    "Aeronáutica/Noções/Aeronaves/Partes da Aeronave/Controles Primários.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/7. Estruturas de Repetição/Estruturas de Repetição.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/7. Estruturas de Repetição/Laços infinitos.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Variáveis.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Introdução.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Definição de Programa.md",
+    "Images/Horses.gif",
+    "Behind.mp4",
+    "ssstwitter.com_1733076342310.mp4",
+    "Join with us.gif",
+    "12f (1).gif",
+    "Dev/Linguagem C/Estudos/Lógica de Programação",
+    "Flashcards/Linguagem C/Prático/Flash-Cards.md",
+    "Flashcards/RPB/Revisão Espaçada.md",
+    "Flashcards/RPB/Flashcards.md",
+    "Flashcards/Linguagem C/Flash-Cards.md",
+    "Pessoal/Característica operante/Como manter Saudável.md",
+    "Pessoal/Característica operante/Superorganização.md",
+    "Pessoal/Característica operante/Ilustração.canvas",
+    "Dev/Linguagem C/Exercícios/Prático/Imprimindo quatro char A diferentes.md",
     "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Cenário.canvas",
+    "Flashcards/Linguagem C/Prático",
+    "Flashcards/Linguagem C/Conceitual",
+    "Pessoal/Característica operante/levantamento.md",
+    "Organização/Registro de Estudos.xlsx",
+    "Pessoal/teste.md",
     "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/armazenado nesta página.md",
     "Dev/Linguagem C/Exercícios/Conceitual/desktop.ini",
     "Dev/Linguagem C/Exercícios/Prático/desktop.ini",
-    "Dev/Linguagem C/Exercícios/Prático/Imprimindo quatro char A diferentes.md",
     "Dev/Linguagem C/Exercícios/Prático",
     "Dev/Linguagem C/Exercícios/Conceitual",
     "Dev/Linguagem C/Exercícios/Sem título.md",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/desktop.ini",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/desktop.ini",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/desktop.ini",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/desktop.ini",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/x64/Debug/desktop.ini",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/x64/desktop.ini",
     "Dev/Linguagem C/Estudos/Lógica de Programação.md",
-    "Pessoal/Características operante/Ilustração.canvas",
     "Organização/Pessoais/Imigração EUA.md",
     "Organização/Bitcoin.md",
     "Organização/Acompanhar.md",
     "Organização/Estudos.md",
     "Organização/Atribuições.md",
-    "Organização/Pessoais/Pessoais.md",
-    "Organização/Estudos/Livros.md",
-    "Organização/Estudos/Ampli.md",
-    "Organização/Estudos/Matéria 01.md",
-    "Organização/Estudos/Cálculo.md",
-    "Organização/Estudos/Embarcados.md",
-    "Organização/Estudos/Linguagem C.md",
-    "‎ Projetos/Projeto de Estágio/Projeto AFDX.md",
-    "Aeronáutica/Demandas/Hoje.md",
-    "Aeronáutica/Demandas/Suporte.md",
-    "Aeronáutica/Demandas/Roteiro de Testes.md",
-    "Aeronáutica/Noções/Embraer/Termos e Processos/Kaizen/On-Track.md",
-    "Aeronáutica/Noções/Embraer/Termos e Processos/Kaizen/Kaizen.md",
-    "Organização/Acompanhar/E-mail corporativo.md",
-    "Organização/Acompanhar/Reclame Aqui.md",
-    "‎ Projetos/Projeto de Estágio/Estudos/sinal diferencial.md",
     "Engenharia de Computação/Pasted image 20241031175535.png",
     "Aeronáutica/Demandas/Cablagens/Visão Geral.canvas",
     "Imagens/Pasted image 20241217125540.png",
@@ -630,9 +646,6 @@
     "Pasted image 20241212180440.png",
     "Imagens/Pasted image 20241212175933.png",
     "Sem título.canvas",
-    "Imagens/Pasted image 20241111135606.png",
-    "Imagens/Pasted image 20241111135524.png",
-    "Imagens/Pasted image 20241111135131.png",
     "Esquemático.canvas"
   ]
 }
