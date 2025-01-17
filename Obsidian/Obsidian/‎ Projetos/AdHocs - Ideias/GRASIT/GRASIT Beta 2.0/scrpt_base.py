@@ -1,8 +1,8 @@
-import requests 
-import json  
+import requests
+import subprocess
 
 config_endereco_final = "C:\ProgramData\Embraer\SIT\MMC-0761 WLS Clinometer\Teste.txt"
-URL_endereco_final = ""
+URL_endereco_final = "https://raw.githubusercontent.com/Rea4Dev/Estudos/refs/heads/main/Obsidian/Obsidian/%E2%80%8E%20Projetos/AdHocs%20-%20Ideias/GRASIT/hospedado.txt"
 MMC = r"C:\Users\RENGCARV.ADPRDEMB\OneDrive^ -^ Embraer\Desktop\MMC-0761^ WLS^ Clinometer.lnk"
 
 #Pega só o texto da URL
@@ -23,4 +23,4 @@ limpar_arquivo()
 mudar_arquivo(conteudo_atualizado)
 
 # Abrir o MMC
-# subprocess.Popen(MMC, shell=True)
+subprocess.Popen(MMC, shell=True)
