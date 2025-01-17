@@ -7,3 +7,4 @@
 5. [[Operadores Lógicos]]
 6. [[Estruturas Condicionais]]
 7. [[Estruturas de Repetição]]
+8. [[Incremento e Decremento]]

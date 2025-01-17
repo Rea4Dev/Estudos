@@ -2,7 +2,7 @@
 > [!NOTE] Listado
 > - <big>Embarcado</big>: <small> Linguagem C, Computação Embarcada, Eletrônica Embarcada, Documentação Embarcada.</small>
 > <br>
-> - <big>Dev</big>: <small> Python, JavaScript+CSS+HTML+Frameworks, Backend</small>
+> - <big>Dev</big>: <small> Python, JavaScript+CSS+HTML+Frameworks, Backend, Ampli, Código Limpo</small>
 > <br>
 > - <big>Geral</big>:<small>  Matemática, Cálculo</small>
 

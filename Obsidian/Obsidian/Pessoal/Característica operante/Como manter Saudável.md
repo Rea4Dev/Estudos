@@ -14,7 +14,7 @@ Desta forma, separaremos em três campos:
 > - Emocional: Evitar interações em grupos, priorizar individual.
 >  - Afetivo: Não ser impulsivo, ser amoroso, ser perdoativo e se isolar em casos de descontrole. Priorizar afetividade à tempo, resultado ou foco.
 >  - Liberdade e conforto para escolher o que estudar, como e quando. Para poder escolher bem, ter um [[Pessoal/Característica operante/levantamento]] de tudo que quer desenvolver.
->  - Responder no máximo 10 flashcards por dia.
+>  - Responder no máximo uns 10 flashcards por dia.
 
 > [!Warning] Evitando
 > - Evite permitir que a eficiência de tempo quebre as restrições impostas, a custo de ter a superorganização tendendo ao não saudável.

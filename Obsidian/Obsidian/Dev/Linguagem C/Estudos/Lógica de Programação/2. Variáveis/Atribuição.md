@@ -51,3 +51,6 @@ A resposta é simples, todas ficam com o valor 5. A razão tem muito a ver com a
 
 ![[Pasted image 20241020135425.png]]
 
+## Atribuição Composta
+Essa escrita das atribuições é um pouco menos legível do que uma atribuição normal. No entanto, é particularmente útil quando o nome da variável à esquerda é grande ou particularmente complexo.
+![[Pasted image 20250116141525.png]]
