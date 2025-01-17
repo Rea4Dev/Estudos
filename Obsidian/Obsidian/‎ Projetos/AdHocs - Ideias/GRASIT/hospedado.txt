@@ -1,0 +1,10 @@
+[Gerenciador]
+TCP Port = 5554
+PingUrl = "http://sitbkpflm:9090/sit/api/hardwares/activation/"
+#Bases = 1
+
+[Base Config 01]
+ServerAddress = "192.167.0.100"
+ServerPort = 5000
+Timeout = 2000
+BaseFrequency = 19
