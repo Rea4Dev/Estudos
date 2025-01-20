@@ -2,11 +2,11 @@
 	"nodes":[
 		{"id":"4a5fc17df32366ed","type":"text","text":"GRASIT Beta 2.0","x":-214,"y":-69,"width":194,"height":60,"color":"4"},
 		{"id":"ecb2061b974ef7f2","type":"text","text":"- Rotina executada ao iniciar o computador.\n- Um único aplicativo configurável relativo a *1. endereço Config.ini*, *2. qual o MMC* e *3. URL que consultará*.\n- App na área de trabalho para atualização ao clicar.\n- Consulta não feita no bitbucket e sim em ambiente fornecido por Wendel.\n- O script deve pingar a url para garantir que ela está funcional\n- Adaptar a bitbucket","x":-282,"y":100,"width":331,"height":300},
-		{"id":"4dd7fef70311aa3f","type":"text","text":"Criar script base que executará ao iniciar ","x":240,"y":-76,"width":220,"height":74},
-		{"id":"6cdea2673ca8b291","type":"text","text":"Mesmo script mas que pode ser executado no Desktop","x":540,"y":-83,"width":250,"height":89},
-		{"id":"97f9deb296fcf202","type":"text","text":"Gerar interface","x":575,"y":40,"width":180,"height":60},
-		{"id":"7d64431f1c1ecaca","type":"text","text":"Iniciar funcionalidade de modificação de arquivo (ainda on-line)","x":240,"y":30,"width":250,"height":80},
-		{"id":"b3baa46cd1db5ddd","type":"text","text":"Adaptar funcionalidade com base em ambiente fornecido por Wendel","x":240,"y":140,"width":250,"height":87}
+		{"id":"7d64431f1c1ecaca","type":"text","text":"Alterar forma de consulta (BitBucket ou Servidor)","x":240,"y":30,"width":250,"height":80},
+		{"id":"6cdea2673ca8b291","type":"text","text":"Configurador com interface e Executável no Desktop","x":540,"y":-66,"width":250,"height":56},
+		{"id":"4dd7fef70311aa3f","type":"text","text":"<center>Script base</center>","x":295,"y":-63,"width":140,"height":50},
+		{"id":"97f9deb296fcf202","type":"text","text":"<center>Executar ao iniciar</center>","x":575,"y":45,"width":180,"height":50},
+		{"id":"b3baa46cd1db5ddd","type":"text","text":"Script avisar se atualização não foi efetuada (Internet).","x":240,"y":140,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"e0d07b85230f42bc","fromNode":"4a5fc17df32366ed","fromSide":"bottom","toNode":"ecb2061b974ef7f2","toSide":"top","color":"4","label":"Requisitos"},
