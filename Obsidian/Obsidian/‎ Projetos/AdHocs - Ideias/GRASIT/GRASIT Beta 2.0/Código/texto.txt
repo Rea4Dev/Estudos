@@ -1,0 +1,2 @@
+C:\ProgramData\Embraer\SIT\MMC-0761 WLS Clinometer\Config.ini.txt
+https://raw.githubusercontent.com/Rea4Dev/Estudos/refs/heads/main/Obsidian/Obsidian/%E2%80%8E%20Projetos/AdHocs%20-%20Ideias/GRASIT/GRASIT%20Beta%202.0/Tempor%C3%A1rio/config.txt

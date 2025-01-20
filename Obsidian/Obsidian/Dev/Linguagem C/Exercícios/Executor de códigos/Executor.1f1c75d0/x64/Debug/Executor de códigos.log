@@ -1,2 +1,3 @@
 ﻿  Executor.c
-  Executor de códigos.vcxproj -> C:\Users\RENGCARV.ADPRDEMB\OneDrive - Embraer\Documents\GitHub\Estudos\Obsidian\Obsidian\Dev\Linguagem C\Exercícios\Executor de códigos\x64\Debug\Executor de códigos.exe
+C:\Users\RENGCARV.ADPRDEMB\OneDrive - Embraer\Documents\GitHub\Estudos\Obsidian\Obsidian\Dev\Linguagem C\Exercícios\Executor de códigos\Executor.c(8,8): error C2143: erro de sintaxe: ')' ausente antes de 'tipo'
+C:\Users\RENGCARV.ADPRDEMB\OneDrive - Embraer\Documents\GitHub\Estudos\Obsidian\Obsidian\Dev\Linguagem C\Exercícios\Executor de códigos\Executor.c(8,12): error C2059: erro de sintaxe: ')'

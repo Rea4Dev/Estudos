@@ -28,3 +28,13 @@ else
 	return n2;
 }
 ```
+
+---
+
+## O "tipo" void
+Podemos utilizar a palavra reservada - void - para indicar que a função em questão não retorna qualquer valor. Ainda é possível utilizar "return" como finalizadora, entretanto não retornará algo de fato.
+>Ao não declarar um tipo, a função admite retorno inteiro. Ao indicar "void", o procedimento sequer possui um retorno.
+
+Há também o uso do void para reforçar sobre a inexistência da presença de um parâmetro.
+
+Por fim, adote como boa prática sempre o uso "semântico" nestes casos (principalmente em utilizar void quando não se utilizará o retorno de uma função).
