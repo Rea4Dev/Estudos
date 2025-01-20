@@ -1,7 +1,7 @@
 #flashcards/LinguagemC/Prático
 
 P 1 - Faça um programa com quatro variáveis char, fazendo com que as quatro devolva na saída o caractere A de maneiras diferentes. Descreva o nome de cada uma;;![[Pasted image 20241025210944.png]]
-<!--SR:!2025-01-17,1,230-->
+<!--SR:!2025-01-20,3,250-->
 
 P 2 - **1.** Faça um programa que colha um número digitado e mostre qual a letra relativo ao código ASCII decimal dele<br>**2.** qual o caractere posterior a ele e também o código ASCII decimal;;![[Pasted image 20241025211633.png]]
 <!--SR:!2025-01-20,4,270-->

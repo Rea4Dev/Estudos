@@ -4,6 +4,7 @@ Ao utilizar o getchar(), você não precisa passar parâmetros adicionais.
 ---
 <center><h1>Uso alternativo</h1></center>
 getchar() também possui um uso alternativo, este, associado a programas de terminal quando se deseja deixar com que o programa fique estabilizado esperando alguma ação (ou invés de simplesmente fechar). 
+
 ```C
 #include <stdio.h>
 

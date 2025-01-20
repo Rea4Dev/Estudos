@@ -6,32 +6,43 @@
       {
         "id": "6da9f802bc7d194c",
         "type": "tabs",
-        "dimension": 60.17350157728707,
+        "dimension": 61.43533123028391,
         "children": [
           {
             "id": "df4db66646a623bc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Cenário.canvas",
-                "viewState": {
-                  "x": 254,
-                  "y": 158.5,
-                  "zoom": -0.628053467373177
-                }
+                "file": "Dev/Linguagem C/Índice.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Cenário"
+              "icon": "lucide-file",
+              "title": "Índice"
             },
             "group": "9ace8fbf07f357ed"
+          },
+          {
+            "id": "f8ee61d152e58750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flash-Cards"
+            }
           }
         ]
       },
       {
         "id": "0fbfa02a84b8d45e",
         "type": "split",
-        "dimension": 39.82649842271294,
+        "dimension": 38.564668769716086,
         "children": [
           {
             "id": "57fcb8484179c420",
@@ -43,7 +54,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Cenário.canvas",
+                    "file": "Dev/Linguagem C/Índice.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -71,7 +82,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Gráfico de Cenário"
+                  "title": "Gráfico de Índice"
                 },
                 "group": "9ace8fbf07f357ed"
               }
@@ -604,12 +615,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "51321a39e1a46824",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 42
+        "currentTab": 43
       }
     ],
     "direction": "horizontal",
@@ -629,27 +650,35 @@
   },
   "active": "df4db66646a623bc",
   "lastOpenFiles": [
+    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Introdução.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/(Externo)] Função de entrada - getchar().md",
     "Dev/Linguagem C/Índice.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Variáveis.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
+    "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/10. Funções/Funções.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/10. Funções/Retorno.md",
+    "Images/Pasted image 20250117202518.png",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/10. Funções/Parâmetros.md",
+    "Images/Pasted image 20250117201929.png",
+    "Images/Pasted image 20250117201602.png",
+    "Images/Pasted image 20250117194515.png",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/10. Funções",
+    "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Cenário.canvas",
     "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Atribuição.md",
     "Images/Pasted image 20250116141525.png",
     "Pasted image 20250116141507.png",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Introdução.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Definição de Programa.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/8. Incremento e Decremento/Incremento e Decremento.md",
     "Images/Pasted image 20250116140113.png",
     "Images/Pasted image 20250116140047.png",
     "Images/Pasted image 20250116135805.png",
     "Pasted image 20250116135744.png",
-    "Images/Pasted image 20250116135550.png",
     "Sem título/desktop.ini",
     "Dev/Linguagem C/Estudos/Lógica de Programação/8. Incremento e Decremento",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Inteiros.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/5. Operadores Lógicos/Operadores Lógicos.md",
-    "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
-    "Images/Pasted image 20250116134726.png",
     "Dev/Linguagem C/Estudos/Lógica de Programação/7. Estruturas de Repetição/do while.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/7. Estruturas de Repetição/Estruturas de Repetição.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/7. Estruturas de Repetição/While.md",
@@ -662,21 +691,13 @@
     "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.452.read.2.tlog",
     "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.452-cvtres.write.1.tlog",
     "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.452-cvtres.read.1.tlog",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.452-rc.write.1.tlog",
-    "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Cenário.canvas",
     "Flashcards/Linguagem C/Prático/Flash-Cards.md",
     "Pessoal/Característica operante/Como manter Saudável.md",
     "Aeronáutica/Noções/Aeronaves/Partes da Aeronave/Controles Primários.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/7. Estruturas de Repetição/Laços infinitos.md",
-    "Images/Horses.gif",
-    "Join with us.gif",
     "Flashcards/RPB/Revisão Espaçada.md",
     "Flashcards/RPB/Flashcards.md",
-    "Flashcards/Linguagem C/Flash-Cards.md",
-    "Pessoal/Característica operante/Superorganização.md",
     "Pessoal/Característica operante/Ilustração.canvas",
-    "Dev/Linguagem C/Exercícios/Prático/Imprimindo quatro char A diferentes.md",
-    "Pessoal/teste.md",
     "Aeronáutica/Demandas/Cablagens/Visão Geral.canvas",
     "Sem título.canvas",
     "Esquemático.canvas"

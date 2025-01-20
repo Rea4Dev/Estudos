@@ -8,3 +8,4 @@
 6. [[Estruturas Condicionais]]
 7. [[Estruturas de Repetição]]
 8. [[Incremento e Decremento]]
+9. [[Funções]]

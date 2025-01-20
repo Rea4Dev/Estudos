@@ -5,7 +5,7 @@ C 1 - Como funciona, quando usar e quais as limitações do putchar();;![[Pasted
 
 
 C 2 - O que fazer para conseguir devidamente declarar caracteres especiais;;Sempre contra-barra, exceto operação com módulo, aí é duas %%%%  é o operador.
-<!--SR:!2025-01-17,1,237-->
+<!--SR:!2025-01-19,2,237-->
 
 
 C 3 - O que significa o nome da função puts, qual suas diferenças em relação ao printf;;"put string"<br>(1)Inclui automaticamente quebra de linha no fim da string.<br>(2)Não é formatada.
@@ -29,7 +29,7 @@ C 7 - Por que é printf e não print;;Pois printf = print + **formatado**.<br>Fo
 
 
 C 8 - Quais os dois usos do caractere especial;;(1). Quando queremos representar um caractere que, de outro modo, seria difícil ou quase impossível de representar, como o \\n.<br>(2). Quando queremos retirar a especialidade de um caractere, como \ \.
-<!--SR:!2025-01-17,1,237-->
+<!--SR:!2025-01-20,3,257-->
 
 
 C 9 - É possível comentários dentro de códigos?;;Sim, só não é recomendável.
@@ -54,11 +54,11 @@ C 13 - Quais os operadores aritméticos em C;;\+  \-  \*  /  %
 
 
 C 14 - Quais os outros formatos para inteiros;;%i para inteiro<br>%o para octal<br>%x para hexa<br>%X para hexa
-<!--SR:!2025-01-17,1,237-->
+<!--SR:!2025-01-19,2,237-->
 
 
 C 15 - Qual operador disponibilizado pelo C para saber a dimensão de uma variável e como é sua declaração;;sizeof expressão<br>ou<br>sizeof(tipo)
-<!--SR:!2025-01-17,1,237-->
+<!--SR:!2025-01-20,3,257-->
 
 
 C 16 - Para um inteiro de 2 bytes, qual o menor e qual o maior valor possível;;-32.768 | 32.767
@@ -82,11 +82,11 @@ C 20 - Para que serve o **signed** em um **inteiro** e qual o operador;;Incluir 
 
 
 C 21 - Para que serve o **unsigned** em um **inteiro** e qual o operador;;Retirar sinal, ou seja, apenas positivos. Operador %u.<br>Obviamente, por consequencia, o valor máximo torna-se o dobro do que era.
-<!--SR:!2025-01-17,1,237-->
+<!--SR:!2025-01-18,1,217-->
 
 
 C 22 - Qual os outros nomes para float e double;;Reais ou ponto flutuante
-<!--SR:!2025-01-17,1,237-->
+<!--SR:!2025-01-18,1,217-->
 
 
 C 23 - Quais as diferenças de float e double;;Float ocupa 4 bytes, double ocupa 8
@@ -102,7 +102,7 @@ C 25 - Qual o resultado da operação de qualquer tipo com um real;;Resultado re
 
 
 C 26 - Quais os formatos de leitura que podem ser usados para pontos flutuantes;;%f<br>%e<br>%E
-<!--SR:!2025-01-17,1,237-->
+<!--SR:!2025-01-18,1,217-->
 
 
 C 27 - Qual a quantidade de caracteres que o **char** consegue representar;;![[Pasted image 20241025115700.png]]
@@ -201,7 +201,7 @@ C 47 - Ainda se lembra disso![[Pasted image 20241111135606.png]];;Se sim, OK ou 
 
 
 C 48 - É possível fazer casting de modificador (como long, short, unsigned)? ;;<br>Sim. Todos podem ser feitos da forma como se espera (long), mas se constante pode ser colocado imediatamente depois do valor, como *3600***L**.
-<!--SR:!2025-01-17,1,237-->
+<!--SR:!2025-01-20,3,257-->
 
 
 C 49 - Num if são necessários parênteses em torno da condição?;;Sim.
@@ -220,9 +220,36 @@ C 51 - Para que serve utilizar %2d? ;; Propósito de alinhamento
 <!--SR:!2025-01-20,4,277-->
 
 C 53 - Qual uma outra situação onde um Break pode ser empregado?;;Não só da forma usual, mas criativamente também em outras estruturas (tanto condicionais quanto de repetição) quando se deseja sair de toda a estrutura sem executar o restante.
+<!--SR:!2025-01-21,4,289-->
 
 C 54 - Qual a diferença do Break e do Continue?;;Break sai de toda a estrutura sem executar o restante. Aplicável em qualquer estrutura (seja condicional ou repetição).<br>Continue finaliza a iteração atual e executa o restante da estrutura passando para a próxima iteração. Aplicável somente em estruturas de repetição.
+<!--SR:!2025-01-21,4,289-->
 
 C 55 - O que acontece com um for(  ;  ;  )?;;É um loop infinito.![[Pasted image 20250116134726.png]]
+<!--SR:!2025-01-21,4,289-->
 
 C 56 - O que acontece com uma estrutura de repetição com a condição em branco?;;Quando no laço for não é colocada qualquer condição, esta é substituída por VERDADE.
+<!--SR:!2025-01-20,3,269-->
+
+C 57 - Onde deve ser definido o tipo de um parâmetro de função?;;Dentro dos parênteses da função<br>![[Pasted image 20250117194515.png | center]]
+C 58 - Isso é permitido?<br>![[Pasted image 20250117201602.png]];;Sim
+
+59 - Quantos valores pode retornar uma função?;;Apenas 1
+
+60 - O que acontece quando não se declara o tipo de uma função?;;Ela assume int como tipo
+
+61 - Pode-se definir funções dentro de funções?;;Não
+
+62 - Podemos utilizar do retorno de uma função como argumento para outra função?<br>![[Pasted image 20250117201929.png]];;Sim
+
+63 - Qual a diferença entre argumento e parâmetro?;;Argumento é passado na chamada, parâmetro é utilizado na função.
+
+64 - Qual a diferença entre função e procedimento?;;Não há procedimentos em C, mas procedimento seria uma função sem retorno (logo, sem tipo também).
+
+65 - Os nomes dos argumentos precisam ser o mesmo dos parâmetros?;;Não
+
+66 - Por que definimos tipo de uma função?;;Na verdade, é o tipo do retorno.
+
+67 - Isso é permitido?<br>![[Pasted image 20250117202518.png]];;Sim
+
+68 - O que acontece ao chamar o return?;;A função deste return é finalizada e retorna o valor.
