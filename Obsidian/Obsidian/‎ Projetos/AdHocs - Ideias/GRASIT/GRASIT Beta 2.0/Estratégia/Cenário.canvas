@@ -1,23 +1,27 @@
 {
 	"nodes":[
 		{"id":"4a5fc17df32366ed","type":"text","text":"GRASIT Beta 2.0","x":-214,"y":-69,"width":194,"height":60,"color":"4"},
-		{"id":"6cdea2673ca8b291","type":"text","text":"Configurador com interface e Executável no Desktop","x":450,"y":-69,"width":250,"height":56},
-		{"id":"4dd7fef70311aa3f","type":"text","text":"<center>Script base</center>","x":205,"y":-66,"width":140,"height":50},
-		{"id":"550376308e6a2da1","type":"text","text":"[[TXT como intermediário]]","x":459,"y":17,"width":241,"height":60},
-		{"id":"97f9deb296fcf202","type":"text","text":"<center>Executar ao iniciar</center>","x":205,"y":22,"width":180,"height":50},
-		{"id":"7d64431f1c1ecaca","type":"text","text":"Alterar forma de consulta (BitBucket ou Servidor)","x":200,"y":97,"width":250,"height":80},
 		{"id":"b3baa46cd1db5ddd","type":"text","text":"Script avisar se atualização não foi efetuada (Internet).","x":490,"y":107,"width":250,"height":60},
-		{"id":"ecb2061b974ef7f2","type":"text","text":"- Rotina executada ao iniciar o computador.\n- Um único aplicativo configurável relativo a *1. endereço Config.ini*, *2. qual o MMC* e *3. URL que consultará*.\n- App na área de trabalho para atualização ao clicar.\n- Consulta não feita no bitbucket e sim em ambiente fornecido por Wendel.\n- O script deve pingar a url para garantir que ela está funcional\n- Adaptar a bitbucket\n- Proteger acesso ao FTP","x":-282,"y":72,"width":331,"height":328},
-		{"id":"db6612e5b84d3376","x":205,"y":342,"width":336,"height":78,"type":"text","text":"- Transformar .txt em .ini ou json\n- Não utilizar tela configuradora"}
+		{"id":"ecb2061b974ef7f2","type":"text","text":"- Rotina executada ao iniciar o computador.\n- Um único aplicativo configurável relativo a *1. endereço Config.ini*, *2. qual o MMC* e *3. URL que consultará*.\n- App na área de trabalho para atualização ao clicar.\n- Consulta não feita no bitbucket e sim em ambiente fornecido por Wendel.\n- O script deve pingar a url para garantir que ela está funcional\n- Adaptar a bitbucket\n- Proteger acesso ao FTP","x":-236,"y":72,"width":238,"height":448},
+		{"id":"db6612e5b84d3376","type":"text","text":"- Transformar .txt em .ini ou json\n- Não utilizar tela configuradora","x":79,"y":442,"width":336,"height":78},
+		{"id":"550376308e6a2da1","type":"text","text":"[[TXT]] como intermediário","x":584,"y":17,"width":156,"height":60},
+		{"id":"7d64431f1c1ecaca","type":"text","text":"Alterar forma de consulta (BitBucket ou Servidor)","x":122,"y":97,"width":250,"height":80},
+		{"id":"97f9deb296fcf202","type":"text","text":"<center>Executar ao iniciar</center>","x":135,"y":22,"width":180,"height":50},
+		{"id":"c65d2496c484024b","type":"text","text":"[[bat]] para rotina","x":365,"y":17,"width":159,"height":60},
+		{"id":"93d237b4a49afeee","type":"text","text":"- A utilidade da presença de um executável é para o código não depender de Python instalado","x":-239,"y":-312,"width":245,"height":120},
+		{"id":"6cdea2673ca8b291","type":"text","text":"Configurador com interface e Executável no Desktop","x":490,"y":-69,"width":250,"height":56},
+		{"id":"4dd7fef70311aa3f","type":"text","text":"<center>Script base</center>","x":280,"y":-66,"width":135,"height":50}
 	],
 	"edges":[
-		{"id":"e0d07b85230f42bc","fromNode":"4a5fc17df32366ed","fromSide":"bottom","toNode":"ecb2061b974ef7f2","toSide":"top","color":"4","label":"Requisitos"},
+		{"id":"e0d07b85230f42bc","fromNode":"4a5fc17df32366ed","fromSide":"bottom","toNode":"ecb2061b974ef7f2","toSide":"top","color":"6","label":"Requisitos"},
 		{"id":"b0a2c29f2b5e09f3","fromNode":"4a5fc17df32366ed","fromSide":"right","toNode":"4dd7fef70311aa3f","toSide":"left","color":"4","label":"Desenvolvimento"},
-		{"id":"696339a133fda605","fromNode":"4dd7fef70311aa3f","fromSide":"right","toNode":"6cdea2673ca8b291","toSide":"left"},
-		{"id":"e062df02a6f657ad","fromNode":"6cdea2673ca8b291","fromSide":"right","toNode":"550376308e6a2da1","toSide":"right"},
-		{"id":"f92aae4352f9f5de","fromNode":"550376308e6a2da1","fromSide":"left","toNode":"97f9deb296fcf202","toSide":"right"},
-		{"id":"4f1e9a9e4e223a8d","fromNode":"97f9deb296fcf202","fromSide":"left","toNode":"7d64431f1c1ecaca","toSide":"left"},
+		{"id":"696339a133fda605","fromNode":"4dd7fef70311aa3f","fromSide":"right","toNode":"6cdea2673ca8b291","toSide":"left","color":"4"},
+		{"id":"4f1e9a9e4e223a8d","fromNode":"97f9deb296fcf202","fromSide":"left","toNode":"7d64431f1c1ecaca","toSide":"left","color":"4"},
 		{"id":"338fb1ac26551faa","fromNode":"7d64431f1c1ecaca","fromSide":"right","toNode":"b3baa46cd1db5ddd","toSide":"left"},
-		{"id":"cb70b00c6bff892f","fromNode":"4a5fc17df32366ed","fromSide":"bottom","toNode":"db6612e5b84d3376","toSide":"top","color":"5","label":"Opcional"}
+		{"id":"cb70b00c6bff892f","fromNode":"4a5fc17df32366ed","fromSide":"bottom","toNode":"db6612e5b84d3376","toSide":"top","color":"6","label":"Opcional"},
+		{"id":"69546979934c8ff8","fromNode":"550376308e6a2da1","fromSide":"left","toNode":"c65d2496c484024b","toSide":"right","color":"4"},
+		{"id":"65cdefbc9af6ad16","fromNode":"c65d2496c484024b","fromSide":"left","toNode":"97f9deb296fcf202","toSide":"right","color":"4"},
+		{"id":"de9a03c00fbaefda","fromNode":"4a5fc17df32366ed","fromSide":"top","toNode":"93d237b4a49afeee","toSide":"bottom","color":"6","label":"Observações"},
+		{"id":"bf05250c98f0d3cc","fromNode":"6cdea2673ca8b291","fromSide":"right","toNode":"550376308e6a2da1","toSide":"right","color":"4"}
 	]
 }

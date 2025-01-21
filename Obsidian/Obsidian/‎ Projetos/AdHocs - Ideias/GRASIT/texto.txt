@@ -1,2 +1,0 @@
-C:\ProgramData\Embraer\SIT\MMC-0761 WLS Clinometer\Teste.txt
-https://git.embraer.com.br/projects/ITS-MUL/repos/app-0167_grasi/raw/hospedado.txt?at=refs%2Fheads%2Fmaster

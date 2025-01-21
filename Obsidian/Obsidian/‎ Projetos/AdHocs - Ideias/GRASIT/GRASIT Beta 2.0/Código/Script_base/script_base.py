@@ -9,7 +9,7 @@ conteudo_atualizado = ""
 
 # Lê o log do configurador e define os conteudos
 def ler_log():
-    with open("texto.txt", "r") as file:
+    with open("script_base/texto.txt", "r") as file: # Problemático
         for line in file:
             lista.append(line)
 

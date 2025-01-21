@@ -243,7 +243,7 @@ C 58 - Isso é permitido?<br>![[Pasted image 20250117201602.png]];;Sim
 <!--SR:!2025-01-24,4,291-->
 
 61 - Pode-se definir funções dentro de funções?;;Não
-<!--SR:!2025-01-21,1,251-->
+<!--SR:!2025-01-25,4,271-->
 
 62 - Podemos utilizar do retorno de uma função como argumento para outra função?<br>![[Pasted image 20250117201929.png]];;Sim
 <!--SR:!2025-01-24,4,291-->
@@ -267,3 +267,5 @@ C 58 - Isso é permitido?<br>![[Pasted image 20250117201602.png]];;Sim
 <!--SR:!2025-01-24,4,291-->
 
 69 - Um procedimento ("tipo" void) pode ainda utilizar return como finalizador?;;Sim
+
+70 - Qual a cor do céu?;;Azul
