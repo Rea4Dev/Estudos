@@ -11,3 +11,4 @@ As variáveis são sempre armazenadas em memória, e são uma forma simples de r
 - [[Declaração]]
 - [[Cuidados com nome de Variáveis]]
 - [[Atribuição]]
+- [[Escopo - Variáveis locais e Variáveis globais]]

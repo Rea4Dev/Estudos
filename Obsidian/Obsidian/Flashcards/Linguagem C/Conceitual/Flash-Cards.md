@@ -268,4 +268,6 @@ C 58 - Isso é permitido?<br>![[Pasted image 20250117201602.png]];;Sim
 
 69 - Um procedimento ("tipo" void) pode ainda utilizar return como finalizador?;;Sim
 
-70 - Qual a cor do céu?;;Azul
+70 - Em que podemos utilizar o void?;;Para declarar uma função sem retorno ou para reforçar a inexistência de parâmetros.
+
+71 - Você sugere alguma alteração?<br>![[Pasted image 20250122155648.png]];;É melhor que utilize<br>![[Pasted image 20250122155706.png]]

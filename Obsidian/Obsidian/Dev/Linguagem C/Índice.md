@@ -1,5 +1,5 @@
 ## Lógica de programação
-![[Horses.gif]]
+![[Horses.gif | center]]
 1. [[Introdução]]
 2. [[Variáveis]]
 3. [[Tipos de Dados Básicos]]

@@ -22,3 +22,4 @@ if (soma(x,y) > 0 )
 ## Elementos de uma Função
 -  [[Parâmetros]]
 -  [[Retorno]]
+-  [[Protótipo de Função]]

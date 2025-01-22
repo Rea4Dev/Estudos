@@ -1,5 +1,13 @@
 Quando estamos manipulando a entrada de dados do tipo char, é especialmente útil utilizar a função getchar() se possível pois esta é otimizada para este tipo de dado e situação. 
 Ao utilizar o getchar(), você não precisa passar parâmetros adicionais.
+```C
+void x_isdigit() {
+	char x;
+	printf("Tipe something: ");
+	x = getchar();
+	printf("%c",x);
+}
+```
 
 ---
 <center><h1>Uso alternativo</h1></center>

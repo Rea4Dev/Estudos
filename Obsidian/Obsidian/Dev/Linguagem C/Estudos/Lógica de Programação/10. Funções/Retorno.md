@@ -17,6 +17,8 @@ int main(void) {
 
 >[!TIP] Após a instrução return pode ser colocada qualquer expressão válida em C.
 
+>[!note] Uma vez que a linguagem C não possui, na sua estrutura, um tipo de dados específico para representar os valores lógicos Verdade e Falso, é necessário que funções que tenham que devolver como resultado um valor lógico sejam declaradas como devolvendo um valor do tipo int.
+
 Observe um possível uso do return:
 ```C
 int max(int n1,int n2){
