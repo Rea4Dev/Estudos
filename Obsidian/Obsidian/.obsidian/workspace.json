@@ -651,12 +651,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "1c5fbb9590c9a4aa",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 47
+        "currentTab": 48
       }
     ],
     "direction": "horizontal",
@@ -674,7 +684,7 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "df4db66646a623bc",
+  "active": "1c5fbb9590c9a4aa",
   "lastOpenFiles": [
     "Dev/Linguagem C/Estudos/Lógica de Programação/10. Funções/Protótipo de Função.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/10. Funções/Funções.md",
