@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiIndentIncrease",
-      "LiExperiment",
-      "LiListTodo",
-      "LiCircuitBoard",
-      "LiCode"
+      "LiHeart",
+      "🐵",
+      "LiBook",
+      "LiChartColumnDecreasing",
+      "😖"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,11 @@
   "Embarcados": "LiCircuitBoard",
   "Aeronáutica/Demandas": "LiListTodo",
   "‎ Projetos": "LiExperiment",
-  "Dev/Linguagem C/Índice.md": "LiIndentIncrease"
+  "Dev/Linguagem C/Índice.md": "LiIndentIncrease",
+  "Temporario/EstudoCun/Images": "LiImage",
+  "Temporario/EstudoCun/Disciplinas": "LiPen",
+  "Temporario/EstudoCun/Flashcards": "LiWalletCards",
+  "Temporario/EstudoCun/Disciplinas/Matemática": "LiChartColumnDecreasing",
+  "Temporario/EstudoCun/Disciplinas/Português": "LiBook",
+  "Temporario/EstudoCun/Dicas do Monky.md": "LiHeart"
 }
