@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:\"Dev/Linguagem C/Estudos/Lógica de programação\"",
+      "color": {
+        "a": 1,
+        "rgb": 13119307
+      }
     }
   ],
   "collapse-display": false,
@@ -25,6 +32,6 @@
   "repelStrength": 15.987525987526,
   "linkStrength": 1,
   "linkDistance": 206,
-  "scale": 0.08258685957362896,
+  "scale": 0.08258685957362899,
   "close": true
 }

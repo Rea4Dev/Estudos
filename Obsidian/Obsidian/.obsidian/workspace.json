@@ -4,47 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6da9f802bc7d194c",
+        "id": "03e8360a04f6ba3d",
         "type": "tabs",
-        "dimension": 74.0139211136891,
+        "dimension": 74.609375,
         "children": [
           {
-            "id": "df4db66646a623bc",
+            "id": "5a33c2a459d78d28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Linguagem C/Estudos/Lógica de Programação/10. Funções/Funções.md",
-                "mode": "source",
+                "file": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Funções"
             },
-            "group": "9ace8fbf07f357ed"
+            "group": "723d60ab626df58a"
           }
         ]
       },
       {
-        "id": "0fbfa02a84b8d45e",
+        "id": "57bd96e2046bbc34",
         "type": "split",
-        "dimension": 25.986078886310903,
+        "dimension": 25.390625,
         "children": [
           {
-            "id": "57fcb8484179c420",
+            "id": "e25e3046accd478b",
             "type": "tabs",
             "children": [
               {
-                "id": "60a66d7861a3b142",
+                "id": "e836c4ec3f446051",
                 "type": "leaf",
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Dev/Linguagem C/Estudos/Lógica de Programação/10. Funções/Funções.md",
+                    "file": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
-                      "localJumps": 1,
+                      "localJumps": 2,
                       "localBacklinks": true,
                       "localForelinks": true,
                       "localInterlinks": false,
@@ -53,9 +53,9 @@
                       "hideUnresolved": false,
                       "collapse-color-groups": true,
                       "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -0.2,
                       "nodeSizeMultiplier": 1,
                       "lineSizeMultiplier": 1,
                       "collapse-forces": true,
@@ -63,23 +63,23 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.713275462622442,
+                      "scale": 0.5087618855792602,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
                   "title": "Gráfico de Funções"
                 },
-                "group": "9ace8fbf07f357ed"
+                "group": "723d60ab626df58a"
               }
             ]
           },
           {
-            "id": "dcb961dd4f6b0473",
+            "id": "90e6644d287ddf6b",
             "type": "tabs",
             "children": [
               {
-                "id": "0d473ba6983ab9d9",
+                "id": "a68abdd2f4585aab",
                 "type": "leaf",
                 "state": {
                   "type": "graph",
@@ -147,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 211.5
   },
   "right": {
     "id": "174ecb7d8d9327a7",
@@ -661,12 +661,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "7b9582884415a7e0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5bc13e65f3828ac7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 48
+        "currentTab": 50
       }
     ],
     "direction": "horizontal",
@@ -684,13 +704,25 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "1c5fbb9590c9a4aa",
+  "active": "b77a6f98554cd374",
   "lastOpenFiles": [
-    "Dev/Linguagem C/Estudos/Lógica de Programação/10. Funções/Protótipo de Função.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/10. Funções/Funções.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/10. Funções/Parâmetros.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/10. Funções/Retorno.md",
     "Dev/Linguagem C/Índice.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Retorno.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Protótipo de Função.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Introdução.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Comentários/Comentários.md",
+    "TagsRoutes/logMessage.md",
+    "TagsRoutes/logs",
+    "TagsRoutes",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Escopo - Variáveis locais e Variáveis globais.md",
+    "Embarcados/Redes, protocolos e barramentos/AFDX.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Atribuição.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Variáveis.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Parâmetros.md",
     "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
     "Temporario/EstudoCun/Planejamentos/Matemática.canvas",
     "Temporario/EstudoCun/Planejamentos/Planejamento.md",
@@ -719,21 +751,10 @@
     "Temporario/CosCun/Colinha.md",
     "Temporario/CosCun/Planejamentos.md",
     "Temporario/EstudoCun",
-    "Temporario/CosCun",
-    "Temporario",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Variáveis.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Escopo - Variáveis locais e Variáveis globais.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Introdução.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/(Externo)] Função de entrada - getchar().md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
     "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/Cenário.canvas",
     "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/TXT.md",
     "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/bat.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/8. Incremento e Decremento/Incremento e Decremento.md",
-    "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Temporário/Configurations folder/readme.md",
-    "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Temporário/𝗦𝘁𝘂𝗱𝘆 𝗡𝗼𝘁𝗲𝗯𝗼𝗼𝗸𝘀/readme.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Atribuição.md",
     "Pessoal/Característica operante/Ilustração.canvas",
     "Aeronáutica/Demandas/Cablagens/Visão Geral.canvas",
     "Sem título.canvas",

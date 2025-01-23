@@ -66,7 +66,7 @@ C 16 - Para um inteiro de 2 bytes, qual o menor e qual o maior valor possível;;
 
 
 C 17 - Para um inteiro de 4 bytes, qual o menor e qual o maior valor possível;;-2.147.483.648 | 2.147.483.647
-<!--SR:!2025-01-22,2,257-->
+<!--SR:!2025-01-29,7,277-->
 
 
 C 18 - Para que serve o **short** em um **inteiro** e qual o operador;;Fixá-lo como 2 bytes independente da arquitetura. Operador %hd
@@ -82,7 +82,7 @@ C 20 - Para que serve o **signed** em um **inteiro** e qual o operador;;Incluir 
 
 
 C 21 - Para que serve o **unsigned** em um **inteiro** e qual o operador;;Retirar sinal, ou seja, apenas positivos. Operador %u.<br>Obviamente, por consequencia, o valor máximo torna-se o dobro do que era.
-<!--SR:!2025-01-21,1,197-->
+<!--SR:!2025-01-25,3,217-->
 
 
 C 22 - Qual os outros nomes para float e double;;Reais ou ponto flutuante
@@ -220,13 +220,13 @@ C 51 - Para que serve utilizar %2d? ;; Propósito de alinhamento
 <!--SR:!2025-02-04,15,297-->
 
 C 53 - Qual uma outra situação onde um Break pode ser empregado?;;Não só da forma usual, mas criativamente também em outras estruturas (tanto condicionais quanto de repetição) quando se deseja sair de toda a estrutura sem executar o restante.
-<!--SR:!2025-01-21,4,289-->
+<!--SR:!2025-02-07,16,309-->
 
 C 54 - Qual a diferença do Break e do Continue?;;Break sai de toda a estrutura sem executar o restante. Aplicável em qualquer estrutura (seja condicional ou repetição).<br>Continue finaliza a iteração atual e executa o restante da estrutura passando para a próxima iteração. Aplicável somente em estruturas de repetição.
-<!--SR:!2025-01-21,4,289-->
+<!--SR:!2025-02-07,16,309-->
 
 C 55 - O que acontece com um for(  ;  ;  )?;;É um loop infinito.![[Pasted image 20250116134726.png]]
-<!--SR:!2025-01-21,4,289-->
+<!--SR:!2025-02-07,16,309-->
 
 C 56 - O que acontece com uma estrutura de repetição com a condição em branco?;;Quando no laço for não é colocada qualquer condição, esta é substituída por VERDADE.
 <!--SR:!2025-01-31,11,289-->
@@ -267,7 +267,10 @@ C 58 - Isso é permitido?<br>![[Pasted image 20250117201602.png]];;Sim
 <!--SR:!2025-01-24,4,291-->
 
 69 - Um procedimento ("tipo" void) pode ainda utilizar return como finalizador?;;Sim
+<!--SR:!2025-01-26,4,308-->
 
 70 - Em que podemos utilizar o void?;;Para declarar uma função sem retorno ou para reforçar a inexistência de parâmetros.
+<!--SR:!2025-01-26,4,308-->
 
 71 - Você sugere alguma alteração?<br>![[Pasted image 20250122155648.png]];;É melhor que utilize<br>![[Pasted image 20250122155706.png]]
+<!--SR:!2025-01-26,4,308-->
