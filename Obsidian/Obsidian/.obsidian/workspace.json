@@ -4,47 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "03e8360a04f6ba3d",
+        "id": "6da9f802bc7d194c",
         "type": "tabs",
-        "dimension": 74.609375,
+        "dimension": 74.0139211136891,
         "children": [
           {
-            "id": "5a33c2a459d78d28",
+            "id": "df4db66646a623bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Variações de Espaço.md",
-                "mode": "preview",
-                "source": false
+                "file": "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/Cenário.canvas",
+                "viewState": {
+                  "x": 250.5,
+                  "y": 104,
+                  "zoom": -0.22139439811203776
+                }
               },
-              "icon": "lucide-file",
-              "title": "Variações de Espaço"
+              "icon": "lucide-layout-dashboard",
+              "title": "Cenário"
             },
-            "group": "723d60ab626df58a"
+            "group": "9ace8fbf07f357ed"
           }
         ]
       },
       {
-        "id": "57bd96e2046bbc34",
+        "id": "0fbfa02a84b8d45e",
         "type": "split",
-        "dimension": 25.390625,
+        "dimension": 25.986078886310903,
         "children": [
           {
-            "id": "e25e3046accd478b",
+            "id": "57fcb8484179c420",
             "type": "tabs",
             "children": [
               {
-                "id": "e836c4ec3f446051",
+                "id": "60a66d7861a3b142",
                 "type": "leaf",
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Variações de Espaço.md",
+                    "file": "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/Cenário.canvas",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
-                      "localJumps": 2,
+                      "localJumps": 1,
                       "localBacklinks": true,
                       "localForelinks": true,
                       "localInterlinks": false,
@@ -53,9 +56,9 @@
                       "hideUnresolved": false,
                       "collapse-color-groups": true,
                       "colorGroups": [],
-                      "collapse-display": false,
-                      "showArrow": true,
-                      "textFadeMultiplier": -0.2,
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
                       "nodeSizeMultiplier": 1,
                       "lineSizeMultiplier": 1,
                       "collapse-forces": true,
@@ -63,23 +66,23 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.5087618855792602,
+                      "scale": 0.713275462622442,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Gráfico de Variações de Espaço"
+                  "title": "Gráfico de Cenário"
                 },
-                "group": "723d60ab626df58a"
+                "group": "9ace8fbf07f357ed"
               }
             ]
           },
           {
-            "id": "90e6644d287ddf6b",
+            "id": "dcb961dd4f6b0473",
             "type": "tabs",
             "children": [
               {
-                "id": "a68abdd2f4585aab",
+                "id": "0d473ba6983ab9d9",
                 "type": "leaf",
                 "state": {
                   "type": "graph",
@@ -122,8 +125,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tag:#flashcards/Logica_de_programação/variaveis/tipos/char",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -147,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 200
   },
   "right": {
     "id": "174ecb7d8d9327a7",
@@ -666,7 +669,7 @@
             }
           },
           {
-            "id": "7b9582884415a7e0",
+            "id": "962f23a0083c1f8e",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -676,7 +679,7 @@
             }
           },
           {
-            "id": "5bc13e65f3828ac7",
+            "id": "79cb0d31c6c025db",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -704,56 +707,56 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "b77a6f98554cd374",
+  "active": "df4db66646a623bc",
   "lastOpenFiles": [
+    "Dev/Linguagem C/Exercícios/Prático/Isdigit().md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Operador Ternário.md",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.read.2.tlog",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/unsuccessfulbuild",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/CL.write.1.tlog",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/CL.read.1.tlog",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.obj",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Estruturas Condicionais.md",
     "Dev/Linguagem C/Índice.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/4. Valores lógicos/Valores Lógicos.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tabela formatos.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Float e Double.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Modificadores de Tipo.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Variações de Espaço.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Variáveis.md",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.32412.write.1.tlog",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.32412.read.1.tlog",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.32412.read.2.tlog",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.32412-cvtres.write.1.tlog",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.32412-cvtres.read.1.tlog",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Inteiros.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Introdução.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Variáveis.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Operando diferentes tipos.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/5. Operadores Lógicos/Operadores Lógicos.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Estruturas Condicionais.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Operador Ternário.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Retorno.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Caracteres e Inteiros.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/(Externo) Função de entrada - scanf().md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/(Externo)] Função de entrada - getchar().md",
+    "‎ Projetos/Projeto de Estg/Estudos/sinal diferencial.md",
+    "‎ Projetos/Projeto de Estg/Estudos/Transcritor ARINC-429.md",
+    "‎ Projetos/Projeto de Estg/Estudos/Leitor ARINC 429.md",
+    "‎ Projetos/Projeto de Estg/Estudos/Hardware utilizado.md",
+    "‎ Projetos/Projeto de Estg/Projeto AFDX.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/10. Funções/Funções.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Protótipo de Função.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Comentários/Comentários.md",
-    "TagsRoutes/logMessage.md",
-    "TagsRoutes/logs",
-    "TagsRoutes",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Escopo - Variáveis locais e Variáveis globais.md",
-    "Embarcados/Redes, protocolos e barramentos/AFDX.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Atribuição.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Retorno.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Parâmetros.md",
-    "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
+    "Aeronáutica/Noções/Emb/Termos e Processos/Kaizen/On-Track.md",
+    "Aeronáutica/Noções/Emb/Termos e Processos/Kaizen/Kaizen.md",
     "Temporario/EstudoCun/Planejamentos/Matemática.canvas",
-    "Temporario/EstudoCun/Planejamentos/Planejamento.md",
     "Temporario/EstudoCun/Planejamentos/Lingua PT.canvas",
-    "Temporario/EstudoCun/Planejamentos",
     "Temporario/EstudoCun/Images/Pasted image 20250121210043.png",
     "Temporario/EstudoCun/Images/Pasted image 20250121205851.png",
     "Temporario/EstudoCun/Images/Pasted image 20250121205620.png",
-    "Temporario/EstudoCun/Disciplinas/Matemática/Matemática Fundamental",
     "Temporario/EstudoCun/Images/Pasted image 20250121202055.png",
     "Temporario/EstudoCun/Images/Pasted image 20250121202109.png",
     "Temporario/EstudoCun/Images/Pasted image 20250121202103.png",
     "Temporario/EstudoCun/Images/Pasted image 20250121202035.png",
     "Temporario/EstudoCun/Images/Pasted image 20250121202016.png",
-    "Temporario/EstudoCun/Disciplinas/Matemática",
-    "Temporario/EstudoCun/Flashcards/Matemática",
-    "Temporario/EstudoCun/Images",
-    "Temporario/EstudoCun/Disciplinas",
-    "Temporario/EstudoCun/Flashcards",
     "Temporario/CosCun/{F4B9B964-81C8-4DCE-8F00-932F22942B09}.png",
     "Temporario/CosCun/{44658825-4968-45EA-AC2F-4FE6EBAC8DBB}.png",
-    "Temporario/EstudoCun",
     "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/Cenário.canvas",
     "Pessoal/Característica operante/Ilustração.canvas",
     "Aeronáutica/Demandas/Cablagens/Visão Geral.canvas",

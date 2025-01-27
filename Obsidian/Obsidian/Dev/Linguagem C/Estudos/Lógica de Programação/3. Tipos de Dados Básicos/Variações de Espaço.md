@@ -5,7 +5,7 @@ Como foi mencionado anteriormente, o tamanho em bytes de um inteiro varia de arq
 Para saber qual a dimensão de um inteiro (ou de qualquer tipo ou variável), o C disponibiliza um operador denominado sizeof, cuja sintaxe é semelhante à utilizada para invocar uma função.
 
 A sintaxe do operador sizeof é:
-```
+```C
 sizeof <expressão> ou sizeof ( <tipo> )
 ```
 
@@ -16,5 +16,14 @@ main(){
 
      printf("O Tamanho em bytes de um Inteiro = %d\n", sizeof(int));
 
+}
+```
+
+```C
+main(){
+
+	int myInt;
+	printf("%lu\n", sizeof(myInt));
+	
 }
 ```
