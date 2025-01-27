@@ -86,7 +86,7 @@ C 21 - Para que serve o **unsigned** em um **inteiro** e qual o operador;;Retira
 
 
 C 22 - Qual os outros nomes para float e double;;Reais ou ponto flutuante
-<!--SR:!2025-01-23,3,237-->
+<!--SR:!2025-02-02,10,257-->
 
 
 C 23 - Quais as diferenças de float e double;;Float ocupa 4 bytes, double ocupa 8
@@ -102,7 +102,7 @@ C 25 - Qual o resultado da operação de qualquer tipo com um real;;Resultado re
 
 
 C 26 - Quais os formatos de leitura que podem ser usados para pontos flutuantes;;%f<br>%e<br>%E
-<!--SR:!2025-01-23,3,237-->
+<!--SR:!2025-02-02,10,257-->
 
 
 C 27 - Qual a quantidade de caracteres que o **char** consegue representar;;![[Pasted image 20241025115700.png]]

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
+                "file": "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Variações de Espaço.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funções"
+              "title": "Variações de Espaço"
             },
             "group": "723d60ab626df58a"
           }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
+                    "file": "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Variações de Espaço.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -68,7 +68,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Gráfico de Funções"
+                  "title": "Gráfico de Variações de Espaço"
                 },
                 "group": "723d60ab626df58a"
               }
@@ -122,8 +122,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards/Logica_de_programação/variaveis/tipos/char",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -707,11 +707,23 @@
   "active": "b77a6f98554cd374",
   "lastOpenFiles": [
     "Dev/Linguagem C/Índice.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/4. Valores lógicos/Valores Lógicos.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tabela formatos.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Float e Double.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Modificadores de Tipo.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Variações de Espaço.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Variáveis.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Introdução.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Operando diferentes tipos.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/5. Operadores Lógicos/Operadores Lógicos.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Estruturas Condicionais.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Operador Ternário.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Retorno.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Protótipo de Função.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Introdução.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Comentários/Comentários.md",
     "TagsRoutes/logMessage.md",
     "TagsRoutes/logs",
@@ -719,22 +731,16 @@
     "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Escopo - Variáveis locais e Variáveis globais.md",
     "Embarcados/Redes, protocolos e barramentos/AFDX.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Atribuição.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Variáveis.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Parâmetros.md",
     "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
     "Temporario/EstudoCun/Planejamentos/Matemática.canvas",
     "Temporario/EstudoCun/Planejamentos/Planejamento.md",
     "Temporario/EstudoCun/Planejamentos/Lingua PT.canvas",
-    "Temporario/EstudoCun/Planejamentos/Como estudar.md",
     "Temporario/EstudoCun/Planejamentos",
     "Temporario/EstudoCun/Images/Pasted image 20250121210043.png",
     "Temporario/EstudoCun/Images/Pasted image 20250121205851.png",
     "Temporario/EstudoCun/Images/Pasted image 20250121205620.png",
-    "Temporario/EstudoCun/Disciplinas/Matemática/Matemática Fundamental/Razão e Proporção.md",
     "Temporario/EstudoCun/Disciplinas/Matemática/Matemática Fundamental",
-    "Temporario/EstudoCun/Flashcards/Matemática/Flashcards.md",
     "Temporario/EstudoCun/Images/Pasted image 20250121202055.png",
     "Temporario/EstudoCun/Images/Pasted image 20250121202109.png",
     "Temporario/EstudoCun/Images/Pasted image 20250121202103.png",
@@ -745,16 +751,10 @@
     "Temporario/EstudoCun/Images",
     "Temporario/EstudoCun/Disciplinas",
     "Temporario/EstudoCun/Flashcards",
-    "Temporario/EstudoCun/Dicas do Monky.md",
     "Temporario/CosCun/{F4B9B964-81C8-4DCE-8F00-932F22942B09}.png",
     "Temporario/CosCun/{44658825-4968-45EA-AC2F-4FE6EBAC8DBB}.png",
-    "Temporario/CosCun/Colinha.md",
-    "Temporario/CosCun/Planejamentos.md",
     "Temporario/EstudoCun",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/(Externo)] Função de entrada - getchar().md",
     "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/Cenário.canvas",
-    "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/TXT.md",
-    "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/bat.md",
     "Pessoal/Característica operante/Ilustração.canvas",
     "Aeronáutica/Demandas/Cablagens/Visão Geral.canvas",
     "Sem título.canvas",
