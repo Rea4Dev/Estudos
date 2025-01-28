@@ -6,23 +6,20 @@
       {
         "id": "6da9f802bc7d194c",
         "type": "tabs",
-        "dimension": 74.0139211136891,
+        "dimension": 74.92260061919505,
         "children": [
           {
             "id": "df4db66646a623bc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/Cenário.canvas",
-                "viewState": {
-                  "x": 250.5,
-                  "y": 104,
-                  "zoom": -0.22139439811203776
-                }
+                "file": "Engenharia/Software/Gerenciamento e Qualidade de Software/1 - Planejamento Estratégico.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Cenário"
+              "icon": "lucide-file",
+              "title": "1 - Planejamento Estratégico"
             },
             "group": "9ace8fbf07f357ed"
           }
@@ -31,7 +28,7 @@
       {
         "id": "0fbfa02a84b8d45e",
         "type": "split",
-        "dimension": 25.986078886310903,
+        "dimension": 25.077399380804955,
         "children": [
           {
             "id": "57fcb8484179c420",
@@ -43,7 +40,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/Cenário.canvas",
+                    "file": "Engenharia/Software/Gerenciamento e Qualidade de Software/1 - Planejamento Estratégico.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -71,7 +68,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Gráfico de Cenário"
+                  "title": "Gráfico de 1 - Planejamento Estratégico"
                 },
                 "group": "9ace8fbf07f357ed"
               }
@@ -684,12 +681,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "f9eaea298ad91bd7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 50
+        "currentTab": 51
       }
     ],
     "direction": "horizontal",
@@ -709,6 +716,11 @@
   },
   "active": "df4db66646a623bc",
   "lastOpenFiles": [
+    "Engenharia/Software/Gerenciamento e Qualidade de Software",
+    "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/Cenário.canvas",
+    "Engenharia/Software/Gerenciamento e Qualidade de Software/1 - Planejamento Estratégico.md",
+    "Engenharia/Computação",
+    "Engenharia/Software",
     "Dev/Linguagem C/Exercícios/Prático/Isdigit().md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Operador Ternário.md",
     "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.read.2.tlog",
@@ -723,8 +735,6 @@
     "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.32412.write.1.tlog",
     "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.32412.read.1.tlog",
     "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.32412.read.2.tlog",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.32412-cvtres.write.1.tlog",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.32412-cvtres.read.1.tlog",
     "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Inteiros.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Introdução.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
@@ -743,8 +753,6 @@
     "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Retorno.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Parâmetros.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
-    "Aeronáutica/Noções/Emb/Termos e Processos/Kaizen/On-Track.md",
-    "Aeronáutica/Noções/Emb/Termos e Processos/Kaizen/Kaizen.md",
     "Temporario/EstudoCun/Planejamentos/Matemática.canvas",
     "Temporario/EstudoCun/Planejamentos/Lingua PT.canvas",
     "Temporario/EstudoCun/Images/Pasted image 20250121210043.png",
@@ -757,7 +765,6 @@
     "Temporario/EstudoCun/Images/Pasted image 20250121202016.png",
     "Temporario/CosCun/{F4B9B964-81C8-4DCE-8F00-932F22942B09}.png",
     "Temporario/CosCun/{44658825-4968-45EA-AC2F-4FE6EBAC8DBB}.png",
-    "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/Cenário.canvas",
     "Pessoal/Característica operante/Ilustração.canvas",
     "Aeronáutica/Demandas/Cablagens/Visão Geral.canvas",
     "Sem título.canvas",

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiComputer",
+      "LiCode2",
       "LiHeart",
       "🐵",
-      "LiBook",
-      "LiChartColumnDecreasing",
-      "😖"
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,7 +37,6 @@
   "Aeronáutica": "LiPlane",
   "Pessoal": "LiHeart",
   "Organização": "LiCalendar",
-  "Engenharia de Computação": "⚙",
   "Dev": "LiCode",
   "Embarcados": "LiCircuitBoard",
   "Aeronáutica/Demandas": "LiListTodo",
@@ -48,5 +47,8 @@
   "Temporario/EstudoCun/Flashcards": "LiWalletCards",
   "Temporario/EstudoCun/Disciplinas/Matemática": "LiChartColumnDecreasing",
   "Temporario/EstudoCun/Disciplinas/Português": "LiBook",
-  "Temporario/EstudoCun/Dicas do Monky.md": "LiHeart"
+  "Temporario/EstudoCun/Dicas do Monky.md": "LiHeart",
+  "Engenharia": "⚙",
+  "Engenharia/Software": "LiCode2",
+  "Engenharia/Computação": "LiComputer"
 }
