@@ -1,14 +1,16 @@
-/* Escreva a função x_isdigit, que verifica se um determinado caractere é dígito ou não. Escreva um programa de teste da função. */
-
 #include <stdio.h>
 
-void isdigit(char ch1) {
-	return (ch1 >= '0' && ch1 <= '9') ? printf("Is digit") : printf("Is not a digit");
-}
-
-int main() {
-	char ch1;
-	printf("Input anything: ");
-	ch1 = getchar();
-	isdigit(ch1);
+void main() {
+	float salario[12];
+	float total = 0;
+	for (int i = 0 ; i < 12 ; i++){
+		printf("Insira o pagamento do mes %d: ", i+1);
+		scanf_s("%f",&salario[i]);
+		total = total + salario[i];
+	}
+	puts("Mes    |       Valor");
+	for (int i = 0 ; i < 12 ; i++) {
+		printf("\n%3.d %15.2f", i, salario[i]);
+	}
+	printf("\nTotal anual %.2f",total);
 }

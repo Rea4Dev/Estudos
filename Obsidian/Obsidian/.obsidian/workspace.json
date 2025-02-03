@@ -4,108 +4,114 @@
     "type": "split",
     "children": [
       {
-        "id": "6da9f802bc7d194c",
-        "type": "tabs",
-        "dimension": 74.92260061919505,
-        "children": [
-          {
-            "id": "df4db66646a623bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Funções"
-            },
-            "group": "9ace8fbf07f357ed"
-          },
-          {
-            "id": "cc946a42e1c8a5e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flash-Cards"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0fbfa02a84b8d45e",
+        "id": "97ca5bb500e17673",
         "type": "split",
-        "dimension": 25.077399380804955,
         "children": [
           {
             "id": "57fcb8484179c420",
             "type": "tabs",
+            "dimension": 67.56965944272446,
             "children": [
               {
-                "id": "60a66d7861a3b142",
+                "id": "933c84be0cd41dd2",
                 "type": "leaf",
                 "state": {
-                  "type": "localgraph",
+                  "type": "markdown",
                   "state": {
-                    "file": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.713275462622442,
-                      "close": true
-                    }
+                    "file": "Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores.md",
+                    "mode": "preview",
+                    "source": false
                   },
-                  "icon": "lucide-git-fork",
-                  "title": "Gráfico de Funções"
-                },
-                "group": "9ace8fbf07f357ed"
+                  "icon": "lucide-file",
+                  "title": "Variáveis Compostas - Vetores"
+                }
               }
             ]
           },
           {
-            "id": "dcb961dd4f6b0473",
-            "type": "tabs",
+            "id": "1d8bffcd77259871",
+            "type": "split",
+            "dimension": 32.43034055727554,
             "children": [
               {
-                "id": "0d473ba6983ab9d9",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Visualização em gráfico"
-                }
+                "id": "5d9feed800d72bc6",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b48fa5875a3ac5c8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.713275462622442,
+                          "close": true
+                        }
+                      },
+                      "icon": "lucide-git-fork",
+                      "title": "Gráfico de Variáveis Compostas - Vetores"
+                    }
+                  },
+                  {
+                    "id": "e9e0dacbd34e2b27",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
+                        "mode": "preview",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Flash-Cards"
+                    }
+                  }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "3d889e4ccc70b1d4",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "bae342f04f1756ae",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "Visualização em gráfico"
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "horizontal"
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -715,12 +721,42 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "1bb701ca2d9f922a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "d48ab59f38404f65",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5bf0d26bdca9c3db",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 52
+        "currentTab": 55
       }
     ],
     "direction": "horizontal",
@@ -738,14 +774,24 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "df4db66646a623bc",
+  "active": "933c84be0cd41dd2",
   "lastOpenFiles": [
-    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Protótipo de Função.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
     "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
+    "Images/Pasted image 20250203125640.png",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores.md",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.read.2.tlog",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.obj",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/unsuccessfulbuild",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/CL.write.1.tlog",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/CL.read.1.tlog",
+    "Dev/Linguagem C/Índice.md",
+    "Images/yeah9.png",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/xd4tvhxv.b4z~",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/n3c3eglt.cuy~",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Protótipo de Função.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Retorno.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Parâmetros.md",
-    "Dev/Linguagem C/Índice.md",
     "Flashcards/Linguagem C/Prático/Flash-Cards.md",
     "Images/Pasted image 20250129221529.png",
     "Dev/Linguagem C/Exercícios/Prático/Isdigit().md",
@@ -755,16 +801,9 @@
     "Engenharia/Computação",
     "Engenharia/Software",
     "Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Operador Ternário.md",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.read.2.tlog",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/unsuccessfulbuild",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/CL.write.1.tlog",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/CL.read.1.tlog",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.obj",
     "Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Estruturas Condicionais.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Variações de Espaço.md",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.32412.write.1.tlog",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.32412.read.1.tlog",
     "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Inteiros.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Introdução.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
@@ -776,8 +815,6 @@
     "‎ Projetos/Projeto de Estg/Estudos/sinal diferencial.md",
     "‎ Projetos/Projeto de Estg/Estudos/Transcritor ARINC-429.md",
     "‎ Projetos/Projeto de Estg/Estudos/Leitor ARINC 429.md",
-    "‎ Projetos/Projeto de Estg/Estudos/Hardware utilizado.md",
-    "‎ Projetos/Projeto de Estg/Projeto AFDX.md",
     "Temporario/EstudoCun/Planejamentos/Matemática.canvas",
     "Temporario/EstudoCun/Planejamentos/Lingua PT.canvas",
     "Temporario/EstudoCun/Images/Pasted image 20250121210043.png",
@@ -787,8 +824,6 @@
     "Temporario/EstudoCun/Images/Pasted image 20250121202109.png",
     "Temporario/EstudoCun/Images/Pasted image 20250121202103.png",
     "Temporario/EstudoCun/Images/Pasted image 20250121202035.png",
-    "Temporario/EstudoCun/Images/Pasted image 20250121202016.png",
-    "Temporario/CosCun/{F4B9B964-81C8-4DCE-8F00-932F22942B09}.png",
     "Pessoal/Característica operante/Ilustração.canvas",
     "Aeronáutica/Demandas/Cablagens/Visão Geral.canvas",
     "Sem título.canvas",

@@ -29,7 +29,7 @@ C 7 - Por que é printf e não print;;Pois printf = print + **formatado**.<br>Fo
 
 
 C 8 - Quais os dois usos do caractere especial;;(1). Quando queremos representar um caractere que, de outro modo, seria difícil ou quase impossível de representar, como o \\n.<br>(2). Quando queremos retirar a especialidade de um caractere, como \ \.
-<!--SR:!2025-01-31,11,277-->
+<!--SR:!2025-03-17,42,297-->
 
 
 C 9 - É possível comentários dentro de códigos?;;Sim, só não é recomendável.
@@ -58,7 +58,7 @@ C 14 - Quais os outros formatos para inteiros;;%i para inteiro<br>%o para octal<
 
 
 C 15 - Qual operador disponibilizado pelo C para saber a dimensão de uma variável e como é sua declaração;;sizeof expressão<br>ou<br>sizeof(tipo)
-<!--SR:!2025-01-31,11,277-->
+<!--SR:!2025-03-05,30,277-->
 
 
 C 16 - Para um inteiro de 2 bytes, qual o menor e qual o maior valor possível;;-32.768 | 32.767
@@ -86,7 +86,7 @@ C 21 - Para que serve o **unsigned** em um **inteiro** e qual o operador;;Retira
 
 
 C 22 - Qual os outros nomes para float e double;;Reais ou ponto flutuante
-<!--SR:!2025-02-02,10,257-->
+<!--SR:!2025-03-11,36,277-->
 
 
 C 23 - Quais as diferenças de float e double;;Float ocupa 4 bytes, double ocupa 8
@@ -102,7 +102,7 @@ C 25 - Qual o resultado da operação de qualquer tipo com um real;;Resultado re
 
 
 C 26 - Quais os formatos de leitura que podem ser usados para pontos flutuantes;;%f<br>%e<br>%E
-<!--SR:!2025-02-02,10,257-->
+<!--SR:!2025-03-11,36,277-->
 
 
 C 27 - Qual a quantidade de caracteres que o **char** consegue representar;;![[Pasted image 20241025115700.png]]
@@ -197,11 +197,11 @@ C 46 - Lembra disso? ![[Pasted image 20241111123949.png]] ;; Se sim, OK ou Fáci
 
 
 C 47 - Ainda se lembra disso![[Pasted image 20241111135606.png]];;Se sim, OK ou Fácil<br>Se não, Difícil
-<!--SR:!2025-01-31,11,277-->
+<!--SR:!2025-03-17,42,297-->
 
 
 C 48 - É possível fazer casting de modificador (como long, short, unsigned)? ;;<br>Sim. Todos podem ser feitos da forma como se espera (long), mas se constante pode ser colocado imediatamente depois do valor, como *3600***L**.
-<!--SR:!2025-01-31,11,277-->
+<!--SR:!2025-03-17,42,297-->
 
 
 C 49 - Num if são necessários parênteses em torno da condição?;;Sim.
@@ -229,10 +229,10 @@ C 55 - O que acontece com um for(  ;  ;  )?;;É um loop infinito.![[Pasted image
 <!--SR:!2025-02-07,16,309-->
 
 C 56 - O que acontece com uma estrutura de repetição com a condição em branco?;;Quando no laço for não é colocada qualquer condição, esta é substituída por VERDADE.
-<!--SR:!2025-01-31,11,289-->
+<!--SR:!2025-03-07,32,289-->
 
 C 57 - Onde deve ser definido o tipo de um parâmetro de função?;;Dentro dos parênteses da função<br>![[Pasted image 20250117194515.png | center]]
-<!--SR:!2025-01-31,2,271-->
+<!--SR:!2025-02-11,8,291-->
 C 58 - Isso é permitido?<br>![[Pasted image 20250117201602.png]];;Sim
 <!--SR:!2025-02-14,16,311-->
 
@@ -276,11 +276,18 @@ C 58 - Isso é permitido?<br>![[Pasted image 20250117201602.png]];;Sim
 <!--SR:!2025-02-15,17,328-->
 
 72 - Deve-se declarar o tipo de um parâmetro em uma função?;;Sim
+<!--SR:!2025-02-07,4,316-->
 
 73 - Qualquer expressão válida em C pode ser enviada como argumento para uma função?;;Sim
+<!--SR:!2025-02-07,4,316-->
 
 74 - Após a instrução return pode ser colocada qualquer expressão válida em C?;;Sim
+<!--SR:!2025-02-07,4,316-->
 
 75 - Você se lembra do problema dos tipos das funções e como mitigar?;;Vote de acordo.
+<!--SR:!2025-02-07,4,316-->
 
 76 - Para que serve protótipos de funções?;;Serve apenas para indicar ao compilador qual será o tipo, pois é isso que improta. Informações a respeito dos parâmetros não são relevantes.
+<!--SR:!2025-02-07,4,316-->
+
+77 - Escreva um programa que realize a leitura dos salários pagos a um indivíduo durante um ano. Em seguida, o programa deverá mostrar os valores mensais e o valor anual;;![[Pasted image 20250203125640.png | center]]
