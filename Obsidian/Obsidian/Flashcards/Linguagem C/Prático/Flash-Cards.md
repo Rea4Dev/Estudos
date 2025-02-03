@@ -13,3 +13,6 @@ P 3 - Escreva um programa em C que solicite um determinado número real e mostre
 
 P 4 - Escreva um programa que solicite ao usuário uma determinada data no formato aaaa-mm-dd e a mostre em seguida no formato dd/mm/aaaa;;![[Pasted image 20241105193449.png]]
 <!--SR:!2025-02-04,15,290-->
+
+P 5 - Escreva a função x_isdigit, que verifica se um determinado caractere é dígito ou não. Escreva um programa de teste da função
+![[Pasted image 20250129221529.png | center]]
