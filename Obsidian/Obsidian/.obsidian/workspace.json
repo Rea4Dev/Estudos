@@ -1,134 +1,96 @@
 {
   "main": {
-    "id": "c6ac7f122f7ce4a5",
+    "id": "5d3951898baf249f",
     "type": "split",
     "children": [
       {
-        "id": "b9ab29d2fa43b153",
-        "type": "split",
+        "id": "cefec4e800264dd0",
+        "type": "tabs",
+        "dimension": 75.15479876160991,
         "children": [
           {
-            "id": "57fcb8484179c420",
-            "type": "tabs",
-            "dimension": 66.64086687306502,
-            "children": [
-              {
-                "id": "c271ad0ccc16ae67",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dev/Linguagem C/Índice.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Índice"
-                }
-              }
-            ]
+            "id": "e615d1894cf40334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Funções"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9547d937da3d17af",
+        "type": "tabs",
+        "dimension": 24.845201238390093,
+        "children": [
+          {
+            "id": "3385c01c4d5caaa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flash-Cards"
+            }
           },
           {
-            "id": "0fbe2125f7815bfd",
-            "type": "split",
-            "dimension": 33.359133126934985,
-            "children": [
-              {
-                "id": "9e20405dd3adca5e",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "482784505c548f1f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "Dev/Linguagem C/Índice.md",
-                        "options": {
-                          "collapse-filter": true,
-                          "search": "",
-                          "localJumps": 1,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": true,
-                          "colorGroups": [],
-                          "collapse-display": true,
-                          "showArrow": false,
-                          "textFadeMultiplier": 0,
-                          "nodeSizeMultiplier": 1,
-                          "lineSizeMultiplier": 1,
-                          "collapse-forces": true,
-                          "centerStrength": 0.518713248970312,
-                          "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 0.6449150616173054,
-                          "close": true
-                        }
-                      },
-                      "icon": "lucide-git-fork",
-                      "title": "Gráfico de Índice"
-                    }
-                  }
-                ]
+            "id": "a59d9db7236665c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flashcards/Linguagem C/Prático/Flash-Cards.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "e7c8dd41476daf80",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "1ce99c52073b05eb",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {},
-                      "icon": "lucide-git-fork",
-                      "title": "Visualização em gráfico"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
+              "icon": "lucide-file",
+              "title": "Flash-Cards"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "78d544de8bec4699",
+    "id": "304264ee8fd8e711",
     "type": "split",
     "children": [
       {
-        "id": "4956243f9b32b545",
+        "id": "37c4b45ef8df5189",
         "type": "tabs",
-        "dimension": 70.97560975609755,
+        "dimension": 75.6394640682095,
         "children": [
           {
-            "id": "b77a6f98554cd374",
+            "id": "8d102bfc8ca0fe02",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
             }
           },
           {
-            "id": "ccbefba3e4610e0c",
+            "id": "16af3f6d8665db49",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards/Logica_de_programação/variaveis/tipos/char",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +102,7 @@
             }
           },
           {
-            "id": "901e1d8ef624a617",
+            "id": "8869fd37e0483e14",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -152,12 +114,12 @@
         ]
       },
       {
-        "id": "8b722b631213ce61",
+        "id": "fb3e90d37c3c012b",
         "type": "tabs",
-        "dimension": 29.024390243902438,
+        "dimension": 24.3605359317905,
         "children": [
           {
-            "id": "565eaf286e96d8d4",
+            "id": "3c9fd692fa502646",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -173,20 +135,19 @@
     "width": 200
   },
   "right": {
-    "id": "174ecb7d8d9327a7",
+    "id": "532c7051395d91f2",
     "type": "split",
     "children": [
       {
-        "id": "9049eda46a925ac3",
+        "id": "262d3cb449f64ae8",
         "type": "tabs",
         "children": [
           {
-            "id": "242901a0a4f7f466",
+            "id": "572163cd1ac973f2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lógica de Programação/Lógica de Programação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,50 +157,73 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Lógica de Programação"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "a11c405870d26afa",
+            "id": "fec272d5450db9d5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lógica de Programação/Lógica de Programação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Lógica de Programação"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "8dc336fad99846b6",
+            "id": "fa47f03b8b3cca55",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "3c8b91af77e5f894",
+            "id": "f5f21a9c9c34d0ab",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lógica de Programação/Lógica de Programação.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Lógica de Programação"
+              "title": "Sumário"
             }
           },
           {
-            "id": "139285e3ca6635ae",
+            "id": "13c2da0cc6b66cb6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "72c658dd56f2d3a6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "83fe10e0a46de6e1",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -249,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -267,63 +251,12 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "139285e3ca6635ae",
+  "active": "8d102bfc8ca0fe02",
   "lastOpenFiles": [
-    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Introdução.md",
-    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Switch Case.md",
-    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Operador Ternário.md",
-    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/If-Else.md",
-    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/If.md",
-    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Estruturas Condicionais.md",
-    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Else-If.md",
-    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais",
-    "remote/Obsidian/Obsidian/Teste.md",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/Código/v3.py",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/Código/v4.py",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/Cenário.canvas",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/TXT.md",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/bat.md",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Temporário/config.txt",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/Organizar Repositório.md",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/levantamento.md",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/código-cenário.md",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/Código Obtido.md",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/Código",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/Cenário.canvas",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/armazenado nesta página.md",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Temporário",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Codigo.lnk",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/A idealização/Requisitos.md",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/A idealização/Esquemático.canvas",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/A idealização/Config.ini Remoto.md",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0",
-    "remote/Obsidian/Obsidian/‎ Projetos/Projeto de Estg/Estudos/Transcritor ARINC-429.md",
-    "remote/Obsidian/Obsidian/‎ Projetos/Projeto de Estg/Estudos/sinal diferencial.md",
-    "remote/Obsidian/Obsidian/‎ Projetos/Projeto de Estg/Estudos/Leitor ARINC 429.md",
-    "remote/Obsidian/Obsidian/‎ Projetos/Projeto de Estg/Estudos/Hardware utilizado.md",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0",
-    "remote/Obsidian/Obsidian/‎ Projetos/Projeto de Estg/Projeto AFDX.md",
-    "remote/Obsidian/Obsidian/Pessoal/Característica operante/levantamento.md",
-    "remote/Obsidian/Obsidian/Pessoal/Característica operante/Ilustração.canvas",
-    "remote/Obsidian/Obsidian/Pessoal/Característica operante/Superorganização.md",
-    "remote/Obsidian/Obsidian/Pessoal/Característica operante/J1.md",
-    "remote/Obsidian/Obsidian/Pessoal/Característica operante/Como manter Saudável.md",
-    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241025205608.png",
-    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241025201422.png",
-    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241025201353.png",
-    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241025205439.png",
-    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241025201326.png",
-    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241024085350.png",
-    "remote/Obsidian/Obsidian/Images/Imagens 2/Pasted image 20241105193449.png",
-    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241023150842.png",
-    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241023150831.png",
-    "remote/Obsidian/Obsidian/Images/Images 1/Pasted image 20250107121758.png",
-    "remote/Obsidian/Obsidian/Aeronáutica/Demandas/Cablagens/Visão Geral.canvas",
-    "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/Cenário.canvas",
-    "Temporario/EstudoCun/Planejamentos/Matemática.canvas",
-    "Temporario/EstudoCun/Planejamentos/Lingua PT.canvas",
-    "Pessoal/Característica operante/Ilustração.canvas",
-    "Aeronáutica/Demandas/Cablagens/Visão Geral.canvas"
+    "Flashcards/Linguagem C/Prático/Flash-Cards.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
+    "Dev/Linguagem C/Índice.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores.md",
+    "Flashcards/Linguagem C/Conceitual/Flash-Cards.md"
   ]
 }

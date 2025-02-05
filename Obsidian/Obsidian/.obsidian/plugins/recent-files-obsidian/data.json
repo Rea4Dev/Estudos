@@ -1,32 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Índice",
-      "path": "Dev/Linguagem C/Índice.md"
+      "basename": "Flash-Cards",
+      "path": "Flashcards/Linguagem C/Conceitual/Flash-Cards.md"
     },
     {
-      "basename": "Teste",
-      "path": "remote/Obsidian/Obsidian/Teste.md"
-    },
-    {
-      "basename": "Variáveis Compostas - Vetores",
-      "path": "Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores.md"
+      "basename": "Flash-Cards",
+      "path": "Flashcards/Linguagem C/Prático/Flash-Cards.md"
     },
     {
       "basename": "Funções",
       "path": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md"
     },
     {
-      "basename": "Retorno",
-      "path": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Retorno.md"
-    },
-    {
-      "basename": "Flash-Cards",
-      "path": "Flashcards/Linguagem C/Conceitual/Flash-Cards.md"
+      "basename": "Índice",
+      "path": "Dev/Linguagem C/Índice.md"
     }
   ],
   "omittedPaths": [],
-  "omittedTags": [],
+  "omittedTags": [
+    "ignore",
+    "Images/"
+  ],
   "updateOn": "file-open",
-  "omitBookmarks": false
+  "omitBookmarks": false,
+  "maxLength": 4
 }
