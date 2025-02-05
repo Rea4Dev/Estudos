@@ -4,85 +4,99 @@
     "type": "split",
     "children": [
       {
-        "id": "0fbfa02a84b8d45e",
+        "id": "b9ab29d2fa43b153",
         "type": "split",
         "children": [
           {
             "id": "57fcb8484179c420",
             "type": "tabs",
+            "dimension": 66.64086687306502,
             "children": [
-              {
-                "id": "60a66d7861a3b142",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "remote/Obsidian/Obsidian/Teste.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.6449150616173054,
-                      "close": true
-                    }
-                  },
-                  "icon": "lucide-git-fork",
-                  "title": "Gráfico de Teste"
-                }
-              },
               {
                 "id": "c271ad0ccc16ae67",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "remote/Obsidian/Obsidian/Teste.md",
+                    "file": "Dev/Linguagem C/Índice.md",
                     "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Teste"
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "dcb961dd4f6b0473",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0d473ba6983ab9d9",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Visualização em gráfico"
+                  "title": "Índice"
                 }
               }
             ]
+          },
+          {
+            "id": "0fbe2125f7815bfd",
+            "type": "split",
+            "dimension": 33.359133126934985,
+            "children": [
+              {
+                "id": "9e20405dd3adca5e",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "482784505c548f1f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Dev/Linguagem C/Índice.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.6449150616173054,
+                          "close": true
+                        }
+                      },
+                      "icon": "lucide-git-fork",
+                      "title": "Gráfico de Índice"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "e7c8dd41476daf80",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "1ce99c52073b05eb",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "Visualização em gráfico"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -250,12 +264,19 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-spaced-repetition:Revisar flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "c271ad0ccc16ae67",
+  "active": "139285e3ca6635ae",
   "lastOpenFiles": [
+    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Introdução.md",
+    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Switch Case.md",
+    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Operador Ternário.md",
+    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/If-Else.md",
+    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/If.md",
+    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Estruturas Condicionais.md",
+    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Else-If.md",
+    "remote/Obsidian/Obsidian/Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais",
     "remote/Obsidian/Obsidian/Teste.md",
     "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/Código/v3.py",
     "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/Código/v4.py",
@@ -282,7 +303,6 @@
     "remote/Obsidian/Obsidian/‎ Projetos/Projeto de Estg/Estudos/Leitor ARINC 429.md",
     "remote/Obsidian/Obsidian/‎ Projetos/Projeto de Estg/Estudos/Hardware utilizado.md",
     "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0",
-    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/A idealização",
     "remote/Obsidian/Obsidian/‎ Projetos/Projeto de Estg/Projeto AFDX.md",
     "remote/Obsidian/Obsidian/Pessoal/Característica operante/levantamento.md",
     "remote/Obsidian/Obsidian/Pessoal/Característica operante/Ilustração.canvas",
@@ -299,13 +319,6 @@
     "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241023150842.png",
     "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241023150831.png",
     "remote/Obsidian/Obsidian/Images/Images 1/Pasted image 20250107121758.png",
-    "remote/Obsidian/Obsidian/Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
-    "remote/Obsidian/Obsidian/Flashcards/Linguagem C/Prático/Flash-Cards.md",
-    "remote/Obsidian/Obsidian/Engenharia/Software/Gerenciamento e Qualidade de Software/1 - Planejamento Estratégico.md",
-    "remote/Obsidian/Obsidian/Embarcados/Redes, protocolos e barramentos/Redes, Protocolos de Comunicação e Barramentos.md",
-    "remote/Obsidian/Obsidian/Embarcados/Redes, protocolos e barramentos/OSI - Camada Física (Layer 1).md",
-    "remote/Obsidian/Obsidian/Embarcados/Redes, protocolos e barramentos/OSI.md",
-    "remote/Obsidian/Obsidian/Embarcados/Redes, protocolos e barramentos/OSI - Camada de Enlace (Layer 2).md",
     "remote/Obsidian/Obsidian/Aeronáutica/Demandas/Cablagens/Visão Geral.canvas",
     "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/Cenário.canvas",
     "Temporario/EstudoCun/Planejamentos/Matemática.canvas",

@@ -1,4 +1,3 @@
-
 ## Lógica de programação
 1. [[Introdução]]
 2. [[Variáveis]]
