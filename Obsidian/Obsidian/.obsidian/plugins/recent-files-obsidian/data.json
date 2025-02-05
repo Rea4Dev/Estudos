@@ -1,0 +1,32 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Teste",
+      "path": "remote/Obsidian/Obsidian/Teste.md"
+    },
+    {
+      "basename": "Índice",
+      "path": "Dev/Linguagem C/Índice.md"
+    },
+    {
+      "basename": "Variáveis Compostas - Vetores",
+      "path": "Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores.md"
+    },
+    {
+      "basename": "Funções",
+      "path": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md"
+    },
+    {
+      "basename": "Retorno",
+      "path": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Retorno.md"
+    },
+    {
+      "basename": "Flash-Cards",
+      "path": "Flashcards/Linguagem C/Conceitual/Flash-Cards.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

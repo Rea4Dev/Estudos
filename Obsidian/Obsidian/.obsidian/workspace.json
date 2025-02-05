@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
-                "mode": "preview",
+                "file": "remote/Obsidian/Obsidian/Teste.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flash-Cards"
+              "title": "Teste"
             },
             "group": "9ace8fbf07f357ed"
           }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
+                    "file": "remote/Obsidian/Obsidian/Teste.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -63,12 +63,12 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.713275462622442,
+                      "scale": 0.6449150616173054,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Gráfico de Flash-Cards"
+                  "title": "Gráfico de Teste"
                 },
                 "group": "9ace8fbf07f357ed"
               }
@@ -103,6 +103,7 @@
       {
         "id": "4956243f9b32b545",
         "type": "tabs",
+        "dimension": 70.97560975609755,
         "children": [
           {
             "id": "b77a6f98554cd374",
@@ -110,8 +111,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -142,6 +142,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Marcadores"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8b722b631213ce61",
+        "type": "tabs",
+        "dimension": 29.024390243902438,
+        "children": [
+          {
+            "id": "565eaf286e96d8d4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -217,507 +234,7 @@
             }
           },
           {
-            "id": "29403eed50a4a29b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "73d152631b5db0a6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "9868def7776f481e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "5c18c70f190521b6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "14c35b903efe29be",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "0b2f3167643aee2e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "9243420ae0f56fe2",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "9aba2421d6aa43f5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "292c9e56895c7fdc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "fc9ba1f3cab2d512",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "89c3c87b661d44e3",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "62c99066c9a7c4b5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "38e1eb3240d287d1",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "5588685a50c07eae",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "9a23a12ceed3de5b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "6599a5460aae94f6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "4b5a5bb4b3a44bbd",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "aaefa08788a8e199",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "e1d342374f349641",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "3c4143f3eb02d39a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "279a695c3494c26e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "e25c231a0337d269",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "c4301060aeefb78d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "c075d3e8f3e11527",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "5851eba1be77183a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "19996237ab8801cc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "709ef7fca4046dfd",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "e24d89c6043fb36b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "9d03043c6ede98a6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "a97c9dd7783461e5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "63b0f5f1473edd8f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "66e343810b634119",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "af46d9f79887bbd4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "457374c0f28d4ae0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "ed2e3612d470998f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "04b52eaa38ff5353",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "0865d94a28d329ed",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "858d07453ac3040c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "d2922480f402a479",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "51321a39e1a46824",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "74552cb2a14f5116",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "985e327d749e46a0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "8f08632b524c0d66",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "548a65fdcfcd8445",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "1c5fbb9590c9a4aa",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "962f23a0083c1f8e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "79cb0d31c6c025db",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "f9eaea298ad91bd7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "23853c8cba1e9a00",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "a973079433bd5b23",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "995a6a7caaa4f9a3",
+            "id": "139285e3ca6635ae",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -727,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 54
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -742,63 +259,67 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-spaced-repetition:Revisar flashcards": false
+      "obsidian-spaced-repetition:Revisar flashcards": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77a6f98554cd374",
+  "active": "df4db66646a623bc",
   "lastOpenFiles": [
-    "‎ Projetos/AdHocs - Ideias/GRASIT/Nova pasta",
-    "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT 1.0/Codigo.lnk",
-    "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT 1.0",
-    "Images/Pasted image 20250203125640.png",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
-    "Dev/Linguagem C/Índice.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Introdução.md",
-    "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Protótipo de Função.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Retorno.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Parâmetros.md",
-    "Flashcards/Linguagem C/Prático/Flash-Cards.md",
-    "Images/Pasted image 20250129221529.png",
-    "Dev/Linguagem C/Exercícios/Prático/Isdigit().md",
-    "Engenharia/Software/Gerenciamento e Qualidade de Software/1 - Planejamento Estratégico.md",
-    "Engenharia/Software/Gerenciamento e Qualidade de Software",
+    "remote/Obsidian/Obsidian/Teste.md",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/Código/v3.py",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/Código/v4.py",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/Cenário.canvas",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/TXT.md",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/bat.md",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Temporário/config.txt",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/Organizar Repositório.md",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/levantamento.md",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/código-cenário.md",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/Código Obtido.md",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/Código",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/Cenário.canvas",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0/armazenado nesta página.md",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Temporário",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Codigo.lnk",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/A idealização/Requisitos.md",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/A idealização/Esquemático.canvas",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/A idealização/Config.ini Remoto.md",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 1.0",
+    "remote/Obsidian/Obsidian/‎ Projetos/Projeto de Estg/Estudos/Transcritor ARINC-429.md",
+    "remote/Obsidian/Obsidian/‎ Projetos/Projeto de Estg/Estudos/sinal diferencial.md",
+    "remote/Obsidian/Obsidian/‎ Projetos/Projeto de Estg/Estudos/Leitor ARINC 429.md",
+    "remote/Obsidian/Obsidian/‎ Projetos/Projeto de Estg/Estudos/Hardware utilizado.md",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0",
+    "remote/Obsidian/Obsidian/‎ Projetos/AdHocs - Ideias/GRASIT/A idealização",
+    "remote/Obsidian/Obsidian/‎ Projetos/Projeto de Estg/Projeto AFDX.md",
+    "remote/Obsidian/Obsidian/Pessoal/Característica operante/levantamento.md",
+    "remote/Obsidian/Obsidian/Pessoal/Característica operante/Ilustração.canvas",
+    "remote/Obsidian/Obsidian/Pessoal/Característica operante/Superorganização.md",
+    "remote/Obsidian/Obsidian/Pessoal/Característica operante/J1.md",
+    "remote/Obsidian/Obsidian/Pessoal/Característica operante/Como manter Saudável.md",
+    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241025205608.png",
+    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241025201422.png",
+    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241025201353.png",
+    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241025205439.png",
+    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241025201326.png",
+    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241024085350.png",
+    "remote/Obsidian/Obsidian/Images/Imagens 2/Pasted image 20241105193449.png",
+    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241023150842.png",
+    "remote/Obsidian/Obsidian/Images/Images/Pasted image 20241023150831.png",
+    "remote/Obsidian/Obsidian/Images/Images 1/Pasted image 20250107121758.png",
+    "remote/Obsidian/Obsidian/Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
+    "remote/Obsidian/Obsidian/Flashcards/Linguagem C/Prático/Flash-Cards.md",
+    "remote/Obsidian/Obsidian/Engenharia/Software/Gerenciamento e Qualidade de Software/1 - Planejamento Estratégico.md",
+    "remote/Obsidian/Obsidian/Embarcados/Redes, protocolos e barramentos/Redes, Protocolos de Comunicação e Barramentos.md",
+    "remote/Obsidian/Obsidian/Embarcados/Redes, protocolos e barramentos/OSI - Camada Física (Layer 1).md",
+    "remote/Obsidian/Obsidian/Embarcados/Redes, protocolos e barramentos/OSI.md",
+    "remote/Obsidian/Obsidian/Embarcados/Redes, protocolos e barramentos/OSI - Camada de Enlace (Layer 2).md",
+    "remote/Obsidian/Obsidian/Aeronáutica/Demandas/Cablagens/Visão Geral.canvas",
     "‎ Projetos/AdHocs - Ideias/GRASIT/GRASIT Beta 2.0/Estratégia/Cenário.canvas",
-    "Engenharia/Computação",
-    "Engenharia/Software",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Operador Ternário.md",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.read.2.tlog",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/unsuccessfulbuild",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/CL.write.1.tlog",
-    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/CL.read.1.tlog",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/6. Estruturas Condicionais/Estruturas Condicionais.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Variações de Espaço.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Inteiros.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/Funções Externas de Entrada e Saída.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Variáveis.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Operando diferentes tipos.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Caracteres e Inteiros.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/Funções Externas de Entrada e Saída/(Externo) Função de entrada - scanf().md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/1. Introdução/(Externo)] Função de entrada - getchar().md",
-    "‎ Projetos/Projeto de Estg/Estudos/sinal diferencial.md",
-    "‎ Projetos/Projeto de Estg/Estudos/Transcritor ARINC-429.md",
-    "‎ Projetos/Projeto de Estg/Estudos/Leitor ARINC 429.md",
     "Temporario/EstudoCun/Planejamentos/Matemática.canvas",
     "Temporario/EstudoCun/Planejamentos/Lingua PT.canvas",
-    "Temporario/EstudoCun/Images/Pasted image 20250121210043.png",
-    "Temporario/EstudoCun/Images/Pasted image 20250121205851.png",
-    "Temporario/EstudoCun/Images/Pasted image 20250121205620.png",
-    "Temporario/EstudoCun/Images/Pasted image 20250121202055.png",
-    "Temporario/EstudoCun/Images/Pasted image 20250121202109.png",
-    "Temporario/EstudoCun/Images/Pasted image 20250121202103.png",
-    "Temporario/EstudoCun/Images/Pasted image 20250121202035.png",
-    "Temporario/EstudoCun/Images/Pasted image 20250121202016.png",
     "Pessoal/Característica operante/Ilustração.canvas",
-    "Aeronáutica/Demandas/Cablagens/Visão Geral.canvas",
-    "Sem título.canvas",
-    "Esquemático.canvas"
+    "Aeronáutica/Demandas/Cablagens/Visão Geral.canvas"
   ]
 }
