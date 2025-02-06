@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
+                "file": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Passagem de Vetores para Funções.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funções"
+              "title": "Passagem de Vetores para Funções"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "9547d937da3d17af",
         "type": "tabs",
-        "dimension": 24.845201238390093,
+        "dimension": 24.84520123839009,
         "children": [
           {
             "id": "3385c01c4d5caaa7",
@@ -228,12 +228,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "944380e168bac948",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "90fa75fbe0c6d527",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -253,10 +273,12 @@
   },
   "active": "8d102bfc8ca0fe02",
   "lastOpenFiles": [
-    "Flashcards/Linguagem C/Prático/Flash-Cards.md",
+    "Images/Pasted image 20250205210813.png",
     "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Passagem de Vetores para Funções.md",
     "Dev/Linguagem C/Índice.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores.md",
+    "Flashcards/Linguagem C/Prático/Flash-Cards.md",
     "Flashcards/Linguagem C/Conceitual/Flash-Cards.md"
   ]
 }

@@ -23,3 +23,4 @@ if (soma(x,y) > 0 )
 -  [[Parâmetros]]
 -  [[Retorno]]
 -  [[Protótipo de Função]]
+- [[Passagem de Vetores para Funções]]

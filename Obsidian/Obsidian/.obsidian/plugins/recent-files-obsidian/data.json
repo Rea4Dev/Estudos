@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Flash-Cards",
-      "path": "Flashcards/Linguagem C/Conceitual/Flash-Cards.md"
-    },
-    {
-      "basename": "Flash-Cards",
-      "path": "Flashcards/Linguagem C/Prático/Flash-Cards.md"
+      "basename": "Passagem de Vetores para Funções",
+      "path": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Passagem de Vetores para Funções.md"
     },
     {
       "basename": "Funções",
@@ -15,6 +11,10 @@
     {
       "basename": "Índice",
       "path": "Dev/Linguagem C/Índice.md"
+    },
+    {
+      "basename": "Variáveis Compostas - Vetores",
+      "path": "Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores.md"
     }
   ],
   "omittedPaths": [],

@@ -1,4 +1,8 @@
 {
   "cssTheme": "Red-Shadow",
-  "baseFontSize": 13
+  "baseFontSize": 13,
+  "enabledCssSnippets": [
+    "Image Align",
+    "Tirar-link"
+  ]
 }
