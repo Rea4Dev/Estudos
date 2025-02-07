@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Constantes",
+      "path": "Dev/Linguagem C/Estudos/Lógica de Programação/11. Constantes/Constantes.md"
+    },
+    {
+      "basename": "Índice",
+      "path": "Dev/Linguagem C/Índice.md"
+    },
+    {
       "basename": "Passagem de Vetores para Funções",
       "path": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Passagem de Vetores para Funções.md"
     },
     {
       "basename": "Flash-Cards",
       "path": "Flashcards/Linguagem C/Conceitual/Flash-Cards.md"
-    },
-    {
-      "basename": "Funções",
-      "path": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md"
-    },
-    {
-      "basename": "Índice",
-      "path": "Dev/Linguagem C/Índice.md"
     }
   ],
   "omittedPaths": [],
