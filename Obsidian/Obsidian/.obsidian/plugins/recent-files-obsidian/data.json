@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Semanal",
+      "path": "Organização/Semanal.md"
+    },
+    {
+      "basename": "Conteúdos",
+      "path": "Organização/Conteúdos.canvas"
+    },
+    {
       "basename": "Constantes",
       "path": "Dev/Linguagem C/Estudos/Lógica de Programação/11. Constantes/Constantes.md"
     },
     {
       "basename": "Índice",
       "path": "Dev/Linguagem C/Índice.md"
-    },
-    {
-      "basename": "Funções",
-      "path": "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md"
-    },
-    {
-      "basename": "Flash-Cards",
-      "path": "Flashcards/Linguagem C/Conceitual/Flash-Cards.md"
     }
   ],
   "omittedPaths": [],

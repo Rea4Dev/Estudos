@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"77e2da8bd1a0e779","x":-346,"y":-80,"width":160,"height":60,"color":"4","type":"text","text":"Frameworks CSS"},
+		{"id":"889989190c15440a","x":-346,"y":-160,"width":160,"height":60,"color":"4","type":"text","text":"React"},
+		{"id":"44c0f742ac90fe62","x":-346,"y":-240,"width":160,"height":50,"color":"4","type":"text","text":"JavaScript"},
+		{"id":"52807dcad054c5a8","x":-147,"y":-240,"width":241,"height":60,"color":"4","type":"text","text":"Banco de Dados relacional"},
+		{"id":"0402c976ed69fa9b","x":-147,"y":-160,"width":241,"height":60,"color":"4","type":"text","text":"Bancos de Dados não relacional"},
+		{"id":"3e0925c01e8aa6a5","x":300,"y":-240,"width":64,"height":60,"color":"4","type":"text","text":"C"},
+		{"id":"e59c66e1d26c165b","x":140,"y":-240,"width":118,"height":60,"color":"4","type":"text","text":"Python"},
+		{"id":"6d3675ca49a2b292","x":420,"y":-240,"width":160,"height":60,"color":"4","type":"text","text":"Memórias e Registradores"},
+		{"id":"1534d4be32060697","x":420,"y":-160,"width":160,"height":60,"color":"4","type":"text","text":"Arquitetura de Computadores"},
+		{"id":"4f9178211440f44a","x":420,"y":-80,"width":116,"height":60,"color":"4","type":"text","text":"MQTT"},
+		{"id":"f6a5133c567211fd","x":420,"y":0,"width":180,"height":60,"color":"4","type":"text","text":"Redes e protocolos de Comunicação"},
+		{"id":"ecb4ffbc88e3bb72","x":-346,"y":60,"width":102,"height":60,"color":"4","type":"text","text":"Ampli"},
+		{"id":"9728698897926314","x":-209,"y":60,"width":124,"height":60,"color":"4","type":"text","text":"Eletrônica "},
+		{"id":"8d770779854c71ce","x":-51,"y":60,"width":106,"height":60,"color":"4","type":"text","text":"Cálculo"},
+		{"id":"88e002d41af820e0","x":94,"y":60,"width":132,"height":60,"color":"4","type":"text","text":"Docker"}
+	],
+	"edges":[]
+}

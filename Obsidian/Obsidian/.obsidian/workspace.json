@@ -278,12 +278,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "7bbebc37276cf296",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -301,10 +311,23 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "80f3d63c31884ea2",
+  "active": "8d102bfc8ca0fe02",
   "lastOpenFiles": [
-    "Dev/Linguagem C/Índice.md",
+    "Images/Pasted image 20250209193236.png",
+    "Images/Pasted image 20250209193218.png",
+    "Images/Pasted image 20250209193156.png",
+    "Images/Pasted image 20250209193139.png",
+    "Images/Pasted image 20250209193124.png",
+    "Images/Pasted image 20250209193021.png",
+    "Pasted image 20250209192948.png",
+    "Pasted image 20250209192938.png",
+    "Pasted image 20250209192930.png",
+    "Images/Pasted image 20250209192814.png",
+    "Organização/Conteúdos.canvas",
+    "Organização/Semanal.md",
+    "Organização/Separação Matérias.md",
     "Dev/Linguagem C/Estudos/Lógica de Programação/11. Constantes/Constantes.md",
+    "Dev/Linguagem C/Índice.md",
     "Sem título/desktop.ini",
     "Dev/Linguagem C/Estudos/Lógica de Programação/11. Constantes",
     "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Passagem de Vetores para Funções.md",
