@@ -9,17 +9,17 @@
         "dimension": 75.07739938080495,
         "children": [
           {
-            "id": "ed808af810a25308",
+            "id": "2700e99a81436daa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Linguagem C/Estudos/Lógica de Programação/11. Constantes/Constantes.md",
+                "file": "Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores Unidimensionais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Constantes"
+              "title": "Variáveis Compostas - Vetores Unidimensionais"
             }
           }
         ]
@@ -30,7 +30,7 @@
         "dimension": 24.922600619195045,
         "children": [
           {
-            "id": "325027599959086b",
+            "id": "bc8865fd6dd7f461",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -288,12 +287,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "f03c86272109e8e1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -308,33 +317,46 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-spaced-repetition:Revisar flashcards": false
+      "obsidian-spaced-repetition:Revisar flashcards": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "8d102bfc8ca0fe02",
+  "active": "bc8865fd6dd7f461",
   "lastOpenFiles": [
+    "Images/Pasted image 20250210145051.png",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores Unidimensionais.md",
+    "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
+    "Flashcards/Linguagem C/Prático/Flash-Cards.md",
+    "Dev/Linguagem C/Índice.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Passagem de Vetores para Funções.md",
+    "Images/Pasted image 20250210135509.png",
+    "Images/Pasted image 20250210135214.png",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Protótipo de Função.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/8. Incremento e Decremento/Incremento e Decremento.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/7. Estruturas de Repetição/Estruturas de Repetição.md",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/12. Vetores Multidimensionais/Variáveis Compostas - Vetores Multidimensionais.md",
+    "Images/Pasted image 20250210134246.png",
+    "Images/Pasted image 20250210134152.png",
+    "Images/Pasted image 20250210134020.png",
+    "Sem título",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/12. Vetores Multidimensionais",
+    "Dev/Linguagem C/Estudos/Lógica de Programação/11. Constantes/Constantes.md",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.read.2.tlog",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.obj",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/unsuccessfulbuild",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.16192.write.1.tlog",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.16192.read.1.tlog",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.16192.read.2.tlog",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.16192-cvtres.write.1.tlog",
+    "Dev/Linguagem C/Exercícios/Executor de códigos/Executor.1f1c75d0/x64/Debug/Executor.1f1c75d0.tlog/link.16192-cvtres.read.1.tlog",
     "Images/Pasted image 20250209193236.png",
     "Images/Pasted image 20250209193218.png",
     "Images/Pasted image 20250209193156.png",
     "Images/Pasted image 20250209193139.png",
     "Images/Pasted image 20250209193124.png",
-    "Images/Pasted image 20250209193021.png",
-    "Pasted image 20250209192948.png",
-    "Pasted image 20250209192938.png",
-    "Pasted image 20250209192930.png",
-    "Images/Pasted image 20250209192814.png",
     "Organização/Conteúdos.canvas",
     "Organização/Semanal.md",
-    "Organização/Separação Matérias.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/11. Constantes/Constantes.md",
-    "Dev/Linguagem C/Índice.md",
-    "Sem título/desktop.ini",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/11. Constantes",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Passagem de Vetores para Funções.md",
-    "Flashcards/Linguagem C/Conceitual/Flash-Cards.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
-    "Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores.md",
-    "Images/Pasted image 20250205210813.png",
-    "Flashcards/Linguagem C/Prático/Flash-Cards.md"
+    "Organização/Separação Matérias.md"
   ]
 }

@@ -5,7 +5,7 @@ C 1 - Como funciona, quando usar e quais as limitações do putchar();;![[Pasted
 
 
 C 2 - O que fazer para conseguir devidamente declarar caracteres especiais;;Sempre contra-barra, exceto operação com módulo, aí é duas %%%%  é o operador.
-<!--SR:!2025-02-10,12,237-->
+<!--SR:!2025-03-10,28,237-->
 
 
 C 3 - O que significa o nome da função puts, qual suas diferenças em relação ao printf;;"put string"<br>(1)Inclui automaticamente quebra de linha no fim da string.<br>(2)Não é formatada.
@@ -220,13 +220,13 @@ C 51 - Para que serve utilizar %2d? ;; Propósito de alinhamento
 <!--SR:!2025-04-09,62,317-->
 
 C 53 - Qual uma outra situação onde um Break pode ser empregado?;;Não só da forma usual, mas criativamente também em outras estruturas (tanto condicionais quanto de repetição) quando se deseja sair de toda a estrutura sem executar o restante.
-<!--SR:!2025-02-07,16,309-->
+<!--SR:!2025-03-31,49,309-->
 
 C 54 - Qual a diferença do Break e do Continue?;;Break sai de toda a estrutura sem executar o restante. Aplicável em qualquer estrutura (seja condicional ou repetição).<br>Continue finaliza a iteração atual e executa o restante da estrutura passando para a próxima iteração. Aplicável somente em estruturas de repetição.
-<!--SR:!2025-02-07,16,309-->
+<!--SR:!2025-04-19,68,329-->
 
 C 55 - O que acontece com um for(  ;  ;  )?;;É um loop infinito.![[Pasted image 20250116134726.png]]
-<!--SR:!2025-02-07,16,309-->
+<!--SR:!2025-04-19,68,329-->
 
 C 56 - O que acontece com uma estrutura de repetição com a condição em branco?;;Quando no laço for não é colocada qualquer condição, esta é substituída por VERDADE.
 <!--SR:!2025-03-07,32,289-->
@@ -236,58 +236,69 @@ C 57 - Onde deve ser definido o tipo de um parâmetro de função?;;Dentro dos p
 C 58 - Isso é permitido?<br>![[Pasted image 20250117201602.png]];;Sim
 <!--SR:!2025-02-14,16,311-->
 
-59 - Quantos valores pode retornar uma função?;;Apenas 1
+C 59 - Quantos valores pode retornar uma função?;;Apenas 1
 <!--SR:!2025-02-14,16,311-->
 
-60 - O que acontece quando não se declara o tipo de uma função?;;Ela assume int como tipo
+C 60 - O que acontece quando não se declara o tipo de uma função?;;Ela assume int como tipo
 <!--SR:!2025-02-14,16,311-->
 
-61 - Pode-se definir funções dentro de funções?;;Não
+C 61 - Pode-se definir funções dentro de funções?;;Não
 <!--SR:!2025-02-13,15,291-->
 
-62 - Podemos utilizar do retorno de uma função como argumento para outra função?<br>![[Pasted image 20250117201929.png]];;Sim
+C 62 - Podemos utilizar do retorno de uma função como argumento para outra função?<br>![[Pasted image 20250117201929.png]];;Sim
 <!--SR:!2025-02-14,16,311-->
 
-63 - Qual a diferença entre argumento e parâmetro?;;Argumento é passado na chamada, parâmetro é utilizado na função.
+C 63 - Qual a diferença entre argumento e parâmetro?;;Argumento é passado na chamada, parâmetro é utilizado na função.
 <!--SR:!2025-02-14,16,311-->
 
-64 - Qual a diferença entre função e procedimento?;;Não há procedimentos em C, mas procedimento seria uma função sem retorno (logo, sem tipo também).
+C 64 - Qual a diferença entre função e procedimento?;;Não há procedimentos em C, mas procedimento seria uma função sem retorno (logo, sem tipo também).
 <!--SR:!2025-02-14,16,311-->
 
-65 - Os nomes dos argumentos precisam ser o mesmo dos parâmetros?;;Não
+C 65 - Os nomes dos argumentos precisam ser o mesmo dos parâmetros?;;Não
 <!--SR:!2025-02-14,16,311-->
 
-66 - Por que definimos tipo de uma função?;;Na verdade, é o tipo do retorno.
+C 66 - Por que definimos tipo de uma função?;;Na verdade, é o tipo do retorno.
 <!--SR:!2025-02-14,16,311-->
 
-67 - Isso é permitido?<br>![[Pasted image 20250117202518.png]];;Sim
+C 67 - Isso é permitido?<br>![[Pasted image 20250117202518.png]];;Sim
 <!--SR:!2025-02-14,16,311-->
 
-68 - O que acontece ao chamar o return?;;A função deste return é finalizada e retorna o valor.
+C 68 - O que acontece ao chamar o return?;;A função deste return é finalizada e retorna o valor.
 <!--SR:!2025-02-14,16,311-->
 
-69 - Um procedimento ("tipo" void) pode ainda utilizar return como finalizador?;;Sim
+C 69 - Um procedimento ("tipo" void) pode ainda utilizar return como finalizador?;;Sim
 <!--SR:!2025-02-15,17,328-->
 
-70 - Em que podemos utilizar o void?;;Para declarar uma função sem retorno ou para reforçar a inexistência de parâmetros.
+C 70 - Em que podemos utilizar o void?;;Para declarar uma função sem retorno ou para reforçar a inexistência de parâmetros.
 <!--SR:!2025-02-15,17,328-->
 
-71 - Você sugere alguma alteração?<br>![[Pasted image 20250122155648.png]];;É melhor que utilize<br>![[Pasted image 20250122155706.png]]
+C 71 - Você sugere alguma alteração?<br>![[Pasted image 20250122155648.png]];;É melhor que utilize<br>![[Pasted image 20250122155706.png]]
 <!--SR:!2025-02-15,17,328-->
 
-72 - Deve-se declarar o tipo de um parâmetro em uma função?;;Sim
-<!--SR:!2025-02-07,4,316-->
+C 72 - Deve-se declarar o tipo de um parâmetro em uma função?;;Sim
+<!--SR:!2025-02-27,17,336-->
 
-73 - Qualquer expressão válida em C pode ser enviada como argumento para uma função?;;Sim
-<!--SR:!2025-02-07,4,316-->
+C 73 - Qualquer expressão válida em C pode ser enviada como argumento para uma função?;;Sim
+<!--SR:!2025-02-27,17,336-->
 
-74 - Após a instrução return pode ser colocada qualquer expressão válida em C?;;Sim
-<!--SR:!2025-02-07,4,316-->
+C 74 - Após a instrução return pode ser colocada qualquer expressão válida em C?;;Sim
+<!--SR:!2025-02-27,17,336-->
 
-75 - Você se lembra do problema dos tipos das funções e como mitigar?;;Vote de acordo.
-<!--SR:!2025-02-07,4,316-->
+C 75 - Você se lembra do problema dos tipos das funções e como mitigar?;;Vote de acordo.
+<!--SR:!2025-02-22,12,316-->
 
-76 - Para que serve protótipos de funções?;;Serve apenas para indicar ao compilador qual será o tipo, pois é isso que improta. Informações a respeito dos parâmetros não são relevantes.
-<!--SR:!2025-02-07,4,316-->
+C 76 - Para que serve protótipos de funções?;;Serve apenas para indicar ao compilador qual será o tipo, pois é isso que improta. Informações a respeito dos parâmetros não são relevantes.
+<!--SR:!2025-02-27,17,336-->
 
-77 - Escreva um programa que realize a leitura dos salários pagos a um indivíduo durante um ano. Em seguida, o programa deverá mostrar os valores mensais e o valor anual;;![[Pasted image 20250203125640.png | center]]
+C 77 - Escreva um programa que realize a leitura dos salários pagos a um indivíduo durante um ano. Em seguida, o programa deverá mostrar os valores mensais e o valor anual;;![[Pasted image 20250203125640.png | center]]
+<!--SR:!2025-02-14,4,331-->
+
+C 78 - Descreva o fluxo de funcionamento do pré incremento e do pré decremento comparando-os;;![[Pasted image 20250116135805.png | center]]
+
+C 79 - Qual a natureza do compilador em relação a vetores?;;`Natureza:`<br>- O compilador _consegue saber o tipo_ do vetor passado. Logo, mantenha o tipo do vetor passado correspondente ao tipo do vetor de parâmetro. <br>- O compilador _não consegue saber a quantidade_ no vetor passado. Logo, qualquer valor de quantidade informado no vetor de parâmetro é simplesmente ignorado.
+
+C 80 - Defina Vetores;;Variáveis Compostas - Vetores Unidimensionais (vulgarmente chamado de array) não é mais que um conjunto de elementos consecutivos, *todos do mesmo tipo*, que podem ser acessados individualmente a partir de um único nome.
+
+C 81 - A declaração e a carga inicial de um vetor podem ser realizadas sem indicar qual o número de elementos do vetor?;;Sim<br>tipo var\[ ] = { valor1, valor2, …, valorn }<br>Nesse caso, o compilador vai criar um vetor com tantos elementos quantas as cargas iniciais.
+
+C 82 - Quais as três peculiaridades dos Vetores Unidimensionais?;;![[Pasted image 20250210145051.png]]

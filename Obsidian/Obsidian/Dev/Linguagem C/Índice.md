@@ -8,5 +8,6 @@
 7. [[Estruturas de Repetição]]
 8. [[Incremento e Decremento]]
 9. [[Funções]]
-10. [[Variáveis Compostas - Vetores]]
+10. [[Variáveis Compostas - Vetores Unidimensionais]]
 11. [[Constantes]]
+12. [[Variáveis Compostas - Vetores Multidimensionais]]
