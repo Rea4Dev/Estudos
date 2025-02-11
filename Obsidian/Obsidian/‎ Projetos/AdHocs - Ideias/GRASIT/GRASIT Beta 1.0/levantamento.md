@@ -1,1 +1,0 @@
-Em seu pendrive haverá pastas com os títulos dos MMC, dentro de cada MMC haverá pastas com o nome relativo ao equipamento (exemplo, SIT 05). Dentro da pasta do equipamento haverá o config.ini que ele utiliza.

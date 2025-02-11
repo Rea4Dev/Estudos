@@ -1,1 +1,0 @@
-- [ ] [[Transcritor ARINC-429]]

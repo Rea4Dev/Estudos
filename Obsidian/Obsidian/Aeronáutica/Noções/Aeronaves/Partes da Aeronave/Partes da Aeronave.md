@@ -1,2 +1,0 @@
-- [[Controles Primários]]
-- [[Controles Secundários]]

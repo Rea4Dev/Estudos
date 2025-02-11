@@ -5,16 +5,12 @@
       "path": "Índice.md"
     },
     {
-      "basename": "Flash-Cards",
-      "path": "Flashcards/Linguagem C/Conceitual/Flash-Cards.md"
+      "basename": "Índice de Computação",
+      "path": "Computação/Índice de Computação.md"
     },
     {
       "basename": "Índice de Flashcards",
       "path": "Flashcards/Índice de Flashcards.md"
-    },
-    {
-      "basename": "Componentes",
-      "path": "Dev/Front-End/React/Componentes.md"
     }
   ],
   "omittedPaths": [],

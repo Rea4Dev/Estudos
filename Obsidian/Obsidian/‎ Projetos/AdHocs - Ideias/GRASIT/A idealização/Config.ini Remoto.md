@@ -1,1 +1,0 @@
-Basicamente, desenvolver de alguma forma o controle remoto do config.ini. Existem alternativas de abordagens, no momento em discussão e presente no canvas desta pasta.

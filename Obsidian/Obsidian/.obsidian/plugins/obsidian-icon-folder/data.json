@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPlaneTakeoff",
+      "LiComputer",
       "LiCode",
       "LiCircuitBoard",
-      "⚙",
-      "LiCalendar",
-      "LiHeart"
+      "⚙"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,10 +35,10 @@
     "useInternalPlugins": false
   },
   "Notações interessantes.md": "LiGuitar",
-  "Aeronáutica": "LiPlane",
   "Pessoal": "LiHeart",
   "Organização": "LiCalendar",
   "Engenharia": "⚙",
   "Embarcados": "LiCircuitBoard",
-  "Dev": "LiCode"
+  "Computação": "LiComputer",
+  "‎ Dev": "LiCode"
 }
