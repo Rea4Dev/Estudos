@@ -1,0 +1,7 @@
+/* Substitua pelo caminho correto se necessário */
+body {
+    background-image: url("C:/Users/Usuario/Documents/GitHub/Estudos/Obsidian/Obsidian/Images/back.png");
+    background-size: cover; /* Ajusta o tamanho da imagem para cobrir a tela toda */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita a repetição da imagem */
+}

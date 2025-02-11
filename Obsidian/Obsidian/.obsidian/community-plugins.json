@@ -1,9 +1,9 @@
 [
-  "obsidian-dynamic-background",
-  "code-styler",
-  "obsidian-icon-folder",
-  "obsidian-spaced-repetition",
   "obsidian-tracker",
+  "obsidian-spaced-repetition",
   "recent-files-obsidian",
-  "homepage"
+  "obsidian-icon-folder",
+  "homepage",
+  "code-styler",
+  "obsidian-dynamic-background"
 ]

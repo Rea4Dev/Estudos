@@ -1,0 +1,1 @@
+No React, dividimos a aplicação em pequenos componentes escritos em JSX. Vários componentes, quando combinados, formam grandes estruturas.

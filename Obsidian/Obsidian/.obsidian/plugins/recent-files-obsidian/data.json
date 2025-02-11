@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Índice",
+      "path": "Índice.md"
+    },
+    {
       "basename": "Flash-Cards",
       "path": "Flashcards/Linguagem C/Conceitual/Flash-Cards.md"
     },
     {
-      "basename": "Variáveis Compostas - Vetores Unidimensionais",
-      "path": "Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores Unidimensionais.md"
+      "basename": "Índice de Flashcards",
+      "path": "Flashcards/Índice de Flashcards.md"
     },
     {
-      "basename": "Flash-Cards",
-      "path": "Flashcards/Linguagem C/Prático/Flash-Cards.md"
-    },
-    {
-      "basename": "Índice",
-      "path": "Dev/Linguagem C/Índice.md"
+      "basename": "Componentes",
+      "path": "Dev/Front-End/React/Componentes.md"
     }
   ],
   "omittedPaths": [],
