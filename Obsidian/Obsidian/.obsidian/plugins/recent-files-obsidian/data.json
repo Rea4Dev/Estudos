@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Semanal",
+      "path": "Organização/Semanal.md"
+    },
+    {
+      "basename": "Conteúdos",
+      "path": "Organização/Conteúdos.canvas"
+    },
+    {
       "basename": "Índice",
       "path": "Índice.md"
     },
     {
-      "basename": "Índice de Computação",
-      "path": "Computação/Índice de Computação.md"
-    },
-    {
-      "basename": "Índice de Flashcards",
-      "path": "Flashcards/Índice de Flashcards.md"
+      "basename": "Conceitos e Definições",
+      "path": "Engenharia/Software/Frameworks para Desenvolvimento de Software/Conceitos e Definições.md"
     }
   ],
   "omittedPaths": [],

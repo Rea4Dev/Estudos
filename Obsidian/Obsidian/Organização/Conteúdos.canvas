@@ -1,20 +1,25 @@
 {
 	"nodes":[
-		{"id":"77e2da8bd1a0e779","x":-346,"y":-80,"width":160,"height":60,"color":"4","type":"text","text":"Frameworks CSS"},
-		{"id":"889989190c15440a","x":-346,"y":-160,"width":160,"height":60,"color":"4","type":"text","text":"React"},
-		{"id":"44c0f742ac90fe62","x":-346,"y":-240,"width":160,"height":50,"color":"4","type":"text","text":"JavaScript"},
-		{"id":"52807dcad054c5a8","x":-147,"y":-240,"width":241,"height":60,"color":"4","type":"text","text":"Banco de Dados relacional"},
-		{"id":"0402c976ed69fa9b","x":-147,"y":-160,"width":241,"height":60,"color":"4","type":"text","text":"Bancos de Dados não relacional"},
-		{"id":"3e0925c01e8aa6a5","x":300,"y":-240,"width":64,"height":60,"color":"4","type":"text","text":"C"},
-		{"id":"e59c66e1d26c165b","x":140,"y":-240,"width":118,"height":60,"color":"4","type":"text","text":"Python"},
-		{"id":"6d3675ca49a2b292","x":420,"y":-240,"width":160,"height":60,"color":"4","type":"text","text":"Memórias e Registradores"},
-		{"id":"1534d4be32060697","x":420,"y":-160,"width":160,"height":60,"color":"4","type":"text","text":"Arquitetura de Computadores"},
-		{"id":"4f9178211440f44a","x":420,"y":-80,"width":116,"height":60,"color":"4","type":"text","text":"MQTT"},
-		{"id":"f6a5133c567211fd","x":420,"y":0,"width":180,"height":60,"color":"4","type":"text","text":"Redes e protocolos de Comunicação"},
-		{"id":"ecb4ffbc88e3bb72","x":-346,"y":60,"width":102,"height":60,"color":"4","type":"text","text":"Ampli"},
-		{"id":"9728698897926314","x":-209,"y":60,"width":124,"height":60,"color":"4","type":"text","text":"Eletrônica "},
-		{"id":"8d770779854c71ce","x":-51,"y":60,"width":106,"height":60,"color":"4","type":"text","text":"Cálculo"},
-		{"id":"88e002d41af820e0","x":94,"y":60,"width":132,"height":60,"color":"4","type":"text","text":"Docker"}
+		{"id":"88e002d41af820e0","type":"text","text":"Docker","x":326,"y":-370,"width":132,"height":60,"color":"2"},
+		{"id":"44c0f742ac90fe62","type":"text","text":"JavaScript","x":-142,"y":-370,"width":160,"height":50,"color":"2"},
+		{"id":"889989190c15440a","type":"text","text":"React","x":-142,"y":-290,"width":160,"height":60,"color":"2"},
+		{"id":"77e2da8bd1a0e779","type":"text","text":"Frameworks CSS","x":-142,"y":-210,"width":160,"height":60,"color":"2"},
+		{"id":"52807dcad054c5a8","type":"text","text":"Banco de Dados relacional","x":57,"y":-370,"width":241,"height":60,"color":"2"},
+		{"id":"0402c976ed69fa9b","type":"text","text":"Bancos de Dados não relacional","x":57,"y":-290,"width":241,"height":60,"color":"2"},
+		{"id":"6d3675ca49a2b292","type":"text","text":"Memórias e Registradores","x":98,"y":-510,"width":160,"height":60,"color":"1"},
+		{"id":"3e0925c01e8aa6a5","type":"text","text":"C","x":18,"y":-510,"width":64,"height":60,"color":"1"},
+		{"id":"e59c66e1d26c165b","type":"text","text":"Python","x":115,"y":-210,"width":118,"height":60,"color":"2"},
+		{"id":"1534d4be32060697","type":"text","text":"Arquitetura de Computadores","x":84,"y":-100,"width":180,"height":50,"color":"3"},
+		{"id":"ecb4ffbc88e3bb72","type":"text","text":"Ampli","x":106,"y":0,"width":137,"height":60,"color":"6"},
+		{"id":"9728698897926314","type":"text","text":"Eletrônica ","x":-229,"y":140,"width":158,"height":60},
+		{"id":"8d770779854c71ce","type":"text","text":"Cálculo","x":-47,"y":140,"width":145,"height":60},
+		{"id":"4f9178211440f44a","type":"text","text":"MQTT","x":116,"y":140,"width":116,"height":60},
+		{"id":"f6a5133c567211fd","type":"text","text":"Redes e protocolos de Comunicação","x":254,"y":140,"width":239,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"465515d33ecc2dba","fromNode":"6d3675ca49a2b292","fromSide":"bottom","toNode":"52807dcad054c5a8","toSide":"top","color":"1"},
+		{"id":"974a210c25766966","fromNode":"e59c66e1d26c165b","fromSide":"bottom","toNode":"1534d4be32060697","toSide":"top","color":"2"},
+		{"id":"4ab42a4128f51a25","fromNode":"1534d4be32060697","fromSide":"bottom","toNode":"ecb4ffbc88e3bb72","toSide":"top","color":"3"},
+		{"id":"a0778b9adf729337","fromNode":"ecb4ffbc88e3bb72","fromSide":"bottom","toNode":"4f9178211440f44a","toSide":"top","color":"6"}
+	]
 }
