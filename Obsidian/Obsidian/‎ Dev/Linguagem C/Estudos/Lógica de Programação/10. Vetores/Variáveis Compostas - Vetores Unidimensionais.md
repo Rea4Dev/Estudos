@@ -39,7 +39,7 @@ char vogal[5] = {'a', 'e', 'i', 'o', 'u'};
 
 1. O *compilador não verifica se os índices utilizados em um vetor estão ou não corretos*.
 
-<small>Um exemplo comum de erro de manipulação de um vetor com n elementos é a utilização do índice n (v[n]), que não pertence ao vetor e pode originar problemas graves, pois estaríamos alterando memória que não nos pertence (vazamento de memória?).</small>
+<small>Um exemplo comum de erro de manipulação de um vetor com n elementos é a utilização do índice n (v[n]), que não pertence ao vetor e pode originar problemas graves, pois estaríamos alterando memória que não nos pertence (vazamento de memória).</small>
 
 ---
 

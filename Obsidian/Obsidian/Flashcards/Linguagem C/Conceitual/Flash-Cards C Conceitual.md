@@ -232,7 +232,7 @@ C 56 - O que acontece com uma estrutura de repetição com a condição em branc
 <!--SR:!2025-03-07,32,289-->
 
 C 57 - Onde deve ser definido o tipo de um parâmetro de função?;;Dentro dos parênteses da função<br>![[Pasted image 20250117194515.png | center]]
-<!--SR:!2025-02-11,8,291-->
+<!--SR:!2025-03-18,33,311-->
 C 58 - Isso é permitido?<br>![[Pasted image 20250117201602.png]];;Sim
 <!--SR:!2025-02-14,16,311-->
 
@@ -243,7 +243,7 @@ C 60 - O que acontece quando não se declara o tipo de uma função?;;Ela assume
 <!--SR:!2025-02-14,16,311-->
 
 C 61 - Pode-se definir funções dentro de funções?;;Não
-<!--SR:!2025-02-13,15,291-->
+<!--SR:!2025-02-21,8,271-->
 
 C 62 - Podemos utilizar do retorno de uma função como argumento para outra função?<br>![[Pasted image 20250117201929.png]];;Sim
 <!--SR:!2025-02-14,16,311-->
@@ -294,11 +294,16 @@ C 77 - Escreva um programa que realize a leitura dos salários pagos a um indiv�
 <!--SR:!2025-02-14,4,331-->
 
 C 78 - Descreva o fluxo de funcionamento do pré incremento e do pré decremento comparando-os;;![[Pasted image 20250116135805.png | center]]
+<!--SR:!2025-02-14,1,292-->
 
 C 79 - Qual a natureza do compilador em relação a vetores?;;`Natureza:`<br>- O compilador _consegue saber o tipo_ do vetor passado. Logo, mantenha o tipo do vetor passado correspondente ao tipo do vetor de parâmetro. <br>- O compilador _não consegue saber a quantidade_ no vetor passado. Logo, qualquer valor de quantidade informado no vetor de parâmetro é simplesmente ignorado.
+<!--SR:!2025-02-14,1,292-->
 
 C 80 - Defina Vetores;;Variáveis Compostas - Vetores Unidimensionais (vulgarmente chamado de array) não é mais que um conjunto de elementos consecutivos, *todos do mesmo tipo*, que podem ser acessados individualmente a partir de um único nome.
+<!--SR:!2025-02-14,1,292-->
 
 C 81 - A declaração e a carga inicial de um vetor podem ser realizadas sem indicar qual o número de elementos do vetor?;;Sim<br>tipo var\[ ] = { valor1, valor2, …, valorn }<br>Nesse caso, o compilador vai criar um vetor com tantos elementos quantas as cargas iniciais.
+<!--SR:!2025-02-14,1,292-->
 
 C 82 - Quais as três peculiaridades dos Vetores Unidimensionais?;;![[Pasted image 20250210145051.png]]
+<!--SR:!2025-02-14,1,292-->
