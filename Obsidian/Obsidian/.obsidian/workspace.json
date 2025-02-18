@@ -4,33 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "536f0add3b2887c9",
         "type": "tabs",
-        "dimension": 75.17198248905567,
+        "dimension": 75.0625,
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "39b052fbcccec6a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores Unidimensionais.md",
+                "file": "‎ Dev/Back-End/SQL/Componentes de uma Consulta SQL (Query).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variáveis Compostas - Vetores Unidimensionais"
+              "title": "Componentes de uma Consulta SQL (Query)"
+            }
+          },
+          {
+            "id": "c4603adfca7c8cb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "‎ Dev/Back-End/SQL/Data Types.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Types"
             }
           }
         ]
       },
       {
-        "id": "536f0add3b2887c9",
+        "id": "812e7c207878b545",
         "type": "tabs",
-        "dimension": 24.828017510944342,
+        "dimension": 24.9375,
         "children": [
           {
-            "id": "ea95134e872f1bcc",
+            "id": "3febdca0f596367a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -313,12 +327,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "f8850a7309a7308f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -336,16 +360,26 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "39b052fbcccec6a5",
   "lastOpenFiles": [
+    "‎ Dev/Back-End/SQL/Data Types.md",
+    "‎ Dev/Back-End/SQL/Fonte Primária.md",
+    "Images/w.png",
+    "‎ Dev/Back-End/SQL/Componentes de uma Consulta SQL (Query).md",
+    "‎ Dev/Back-End/SQL/Aggregate Functions.md",
+    "Images/Pasted image 20250218131549.png",
+    "Images/Pasted image 20250218130920.png",
+    "Flashcards/Linguagem C/Conceitual/Flash-Cards C Conceitual.md",
+    "‎ Dev/Back-End/SQL",
+    "Images/Pasted image 20250218123426.png",
+    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores Unidimensionais.md",
+    "‎ Dev/Back-End",
     "‎ Dev/Linguagem C/Índice de C.md",
     "‎ Dev/Índice de Dev.md",
     "Índice.md",
     "Computação/Índice de Computação.md",
-    "Flashcards/Linguagem C/Conceitual/Flash-Cards C Conceitual.md",
     "Flashcards/Linguagem C/Flashcards C.md",
     "Flashcards/Índice de Flashcards.md",
-    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores Unidimensionais.md",
     "‎ Dev/Linguagem C/Estudos/Lógica de Programação/12. Vetores Multidimensionais/Variáveis Compostas - Vetores Multidimensionais.md",
     "Flashcards/Linguagem C/Prático/Flash-Cards C Prático.md",
     "‎ Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Protótipo de Função.md",
@@ -361,11 +395,6 @@
     "Engenharia/Software/Frameworks para Desenvolvimento de Software/Cases de framework em Python, .NET e Mobile.md",
     "Engenharia/Software/Frameworks para Desenvolvimento de Software/Cases de framework em Java, JavaScript e PHP.md",
     "Engenharia/Software/Frameworks para Desenvolvimento de Software/Categorias de frameworks.md",
-    "Engenharia/Software/Frameworks para Desenvolvimento de Software/Frameworks para Desenvolvimento de Software.md",
-    "Engenharia/Software/Índice Engenharia de Software.md",
-    "Engenharia/Índice de Engenharia.md",
-    "Engenharia/Software/Frameworks para Desenvolvimento de Software/Frameworks para Desenvolvimento Destinado para Servidores.md",
-    "Engenharia/Software/Frameworks para Desenvolvimento de Software/Aplicação de Hybernate, Mobile e Ferramentas de Frameworks.md",
     "Aeronáutica",
     "Computação",
     "Dev/Front-End/HTML",
@@ -373,8 +402,6 @@
     "Dev/Front-End/CSS",
     "‎ Dev/Front-End/React",
     "‎ Dev/Python/1. Formatação do Código e Mandamentos",
-    "d.mp4",
-    "‎ Dev/Python",
     "Images/Bonbon 1 fixed.png",
     "Images/Pasted image 20250210175413.png"
   ]
