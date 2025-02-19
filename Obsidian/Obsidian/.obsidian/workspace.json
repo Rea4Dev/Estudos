@@ -9,31 +9,17 @@
         "dimension": 75.0625,
         "children": [
           {
-            "id": "39b052fbcccec6a5",
+            "id": "5968e37841b60bf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Dev/Back-End/SQL/Componentes de uma Consulta SQL (Query).md",
+                "file": "‎ Dev/Back-End/Índice Back-End.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Componentes de uma Consulta SQL (Query)"
-            }
-          },
-          {
-            "id": "c4603adfca7c8cb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "‎ Dev/Back-End/SQL/Data Types.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data Types"
+              "title": "Índice Back-End"
             }
           }
         ]
@@ -77,7 +63,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -337,12 +324,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "7aad97ef17400040",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
@@ -360,48 +357,49 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "39b052fbcccec6a5",
+  "active": "8d102bfc8ca0fe02",
   "lastOpenFiles": [
-    "‎ Dev/Back-End/SQL/Data Types.md",
-    "‎ Dev/Back-End/SQL/Fonte Primária.md",
+    "‎ Dev/Back-End/Conteúdos/Introdução ao Banco de Dados e SQL.md",
+    "‎ Dev/Back-End/Índice Back-End.md",
+    "‎ Dev/Linguagem C/Índice de C.md",
+    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
+    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Caracteres e Inteiros.md",
+    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Casting, o uso correto.md",
+    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
+    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Variáveis.md",
+    "‎ Dev/Índice de Dev.md",
+    "‎ Dev/Back-End/Conteúdos/Projetos para Fixação.md",
+    "‎ Dev/Back-End/Conteúdos/Introdução ao Back-End.md",
+    "‎ Dev/Back-End/Conteúdos/Autenticação e Segurança.md",
+    "‎ Dev/Back-End/Conteúdos/Criação de um Back-End simples.md",
+    "‎ Dev/Back-End/Conteúdos/Conceitos essenciais de API.md",
+    "‎ Dev/Back-End/Conteúdos/Banco de Dados Avançado.md",
+    "‎ Dev/Back-End/Conteúdos/ORMs (Object-Relational Mapping).md",
+    "‎ Dev/Back-End/Conteúdos/Stored Procedures, Triggers e Views.md",
+    "‎ Dev/Back-End/Conteúdos/Índices e Performance.md",
+    "‎ Dev/Back-End/Conteúdos/Consultas SQL Intermediárias.md",
+    "‎ Dev/Back-End/Conteúdos/Ferramentas Sugeridas.md",
+    "‎ Dev/Back-End/Conteúdos/O que é um Banco de Dados.md",
+    "‎ Dev/Back-End/Conteúdos/SQL Básico.md",
+    "‎ Dev/Back-End/Roadmap Backend.md",
+    "Flashcards/Linguagem C/Conceitual/Flash-Cards C Conceitual.md",
+    "‎ Dev/Back-End/Conteúdos",
+    "‎ Dev/Linguagem C/Exercícios/Prático/Imprimindo quatro char A diferentes.md",
+    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Atribuição.md",
+    "Python/Exercícios/1 - Hello World/script.py",
+    "Python/Exercícios/2 - Somando dois números",
+    "Python/Exercícios/1 - Hello World",
+    "Python/Exercícios",
+    "Python/Conceitual",
+    "Python",
     "Images/w.png",
-    "‎ Dev/Back-End/SQL/Componentes de uma Consulta SQL (Query).md",
-    "‎ Dev/Back-End/SQL/Aggregate Functions.md",
     "Images/Pasted image 20250218131549.png",
     "Images/Pasted image 20250218130920.png",
-    "Flashcards/Linguagem C/Conceitual/Flash-Cards C Conceitual.md",
-    "‎ Dev/Back-End/SQL",
+    "‎ Dev/Back-End/Conteúdos/SQL",
     "Images/Pasted image 20250218123426.png",
-    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores Unidimensionais.md",
     "‎ Dev/Back-End",
-    "‎ Dev/Linguagem C/Índice de C.md",
-    "‎ Dev/Índice de Dev.md",
-    "Índice.md",
-    "Computação/Índice de Computação.md",
-    "Flashcards/Linguagem C/Flashcards C.md",
-    "Flashcards/Índice de Flashcards.md",
-    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/12. Vetores Multidimensionais/Variáveis Compostas - Vetores Multidimensionais.md",
-    "Flashcards/Linguagem C/Prático/Flash-Cards C Prático.md",
-    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Protótipo de Função.md",
-    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/9. Funções/Funções.md",
-    "Organização/Semanal.md",
     "Organização/Conteúdos.canvas",
-    "Engenharia/Software/Frameworks para Desenvolvimento de Software/Conceitos e Definições.md",
-    "Flashcards/Engenharia de Software/Flashcards Frameworks.md",
-    "Flashcards/Engenharia de Software/Flashcards Engenharia de Software.md",
-    "Flashcards/Computação/Flashcards Computação.md",
     "Flashcards/Computação",
-    "Engenharia/Software/Frameworks para Desenvolvimento de Software/Frameworks - Conceitos, Categorias e Cases para Aplicações.md",
-    "Engenharia/Software/Frameworks para Desenvolvimento de Software/Cases de framework em Python, .NET e Mobile.md",
-    "Engenharia/Software/Frameworks para Desenvolvimento de Software/Cases de framework em Java, JavaScript e PHP.md",
-    "Engenharia/Software/Frameworks para Desenvolvimento de Software/Categorias de frameworks.md",
-    "Aeronáutica",
-    "Computação",
-    "Dev/Front-End/HTML",
-    "‎ Dev/Front-End",
-    "Dev/Front-End/CSS",
-    "‎ Dev/Front-End/React",
-    "‎ Dev/Python/1. Formatação do Código e Mandamentos",
     "Images/Bonbon 1 fixed.png",
     "Images/Pasted image 20250210175413.png"
   ]

@@ -1,0 +1,3 @@
+- JWT (JSON Web Tokens).
+- Criptografia de senhas com **bcrypt**.
+- Proteção contra SQL Injection.
