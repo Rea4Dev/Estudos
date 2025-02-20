@@ -3,12 +3,13 @@
 3. [[Introdução ao Back-End]]
 4. [[Projetos para Fixação]]
 
-<h1>Índice Plano de Ação</h1>
+# Índice Plano de Ação
 1. [[Fundamentos Essenciais]]
 2. [[Trabalhando com múltiplas tabelas]]
 3. [[Rastreabilidade e otimização das consultas]]
 4. [[Manipulação segura de dados]]
 5. [[Automação e Integração com Python]]
+6. [[Estudos para Projeto]]
 
 ---
 <center><h1>Roadmap</h1></center>

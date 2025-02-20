@@ -1,4 +1,4 @@
--  [[Índice de Dev]]
+-  [[Índice de Linguagens]]
 ‎
 - [[Índice de Computação]]
 ‎

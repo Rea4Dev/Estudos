@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiScreenShareOff",
+      "LiServer",
       "LiWorm",
       "LiPlaneTakeoff",
-      "LiComputer",
-      "LiCode",
-      "LiCircuitBoard"
+      "LiComputer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,7 @@
   "Engenharia": "⚙",
   "Embarcados": "LiCircuitBoard",
   "Computação": "LiComputer",
-  "‎ Dev": "LiCode"
+  "‎ Linguagens": "LiCode",
+  "‎ Back-End": "LiServer",
+  "‎ Front-End": "LiScreenShareOff"
 }

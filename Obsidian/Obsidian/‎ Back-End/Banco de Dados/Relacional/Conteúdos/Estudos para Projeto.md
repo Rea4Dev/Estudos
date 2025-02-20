@@ -8,7 +8,7 @@ Após estes estudos do plano de ação, irei iniciar imediatamente o projeto, en
 
 ---
 
-1. Fundamentos Essenciais (Se ainda não domina, revise rapidamente)
+## 1. Fundamentos Essenciais (Se ainda não domina, revise rapidamente)
 
 🔹 SELECT básico: WHERE, ORDER BY, LIMIT (ou ROWNUM no Oracle).
 🔹 Funções de agregação: COUNT(), SUM(), AVG(), MIN(), MAX().
@@ -20,7 +20,7 @@ Após estes estudos do plano de ação, irei iniciar imediatamente o projeto, en
 
 ---
 
-2. Trabalhando com múltiplas tabelas (Super relevante para seu caso!)
+## 2. Trabalhando com múltiplas tabelas (Super relevante para seu caso!)
 
 🔹 JOINs (Foco em INNER JOIN e LEFT JOIN): Para cruzar informações entre ITS_Test, ITS_Operation e ITS_Action.
 🔹 Subqueries (SELECT dentro de SELECT): Para criar consultas mais organizadas e eficientes.
@@ -31,7 +31,7 @@ Após estes estudos do plano de ação, irei iniciar imediatamente o projeto, en
 
 ---
 
-3. Rastreabilidade e otimização das consultas
+## 3. Rastreabilidade e otimização das consultas
 
 🔹 Uso do EXPLAIN PLAN: Para analisar o desempenho das queries e evitar consultas lentas.
 🔹 Índices (INDEX): Saber quando e como eles melhoram a performance das buscas.
@@ -42,7 +42,7 @@ Após estes estudos do plano de ação, irei iniciar imediatamente o projeto, en
 
 ---
 
-4. Manipulação segura de dados (Para quando precisar modificar a base)
+## 4. Manipulação segura de dados (Para quando precisar modificar a base)
 
 🔹 UPDATE e DELETE seguros: Sempre testar primeiro com SELECT antes de modificar.
 🔹 Transações (BEGIN TRANSACTION, COMMIT, ROLLBACK): Para evitar apagar dados acidentalmente.
@@ -53,7 +53,7 @@ Após estes estudos do plano de ação, irei iniciar imediatamente o projeto, en
 
 ---
 
-5. Automação e Integração com Python
+## 5. Automação e Integração com Python
 
 🔹 Usando bibliotecas como cx_Oracle ou SQLAlchemy para conectar ao Oracle e executar queries via Python.
 🔹 Escrita de logs automáticos com Python: Para registrar execuções das queries e gerar os arquivos CSV.
@@ -63,7 +63,7 @@ Após estes estudos do plano de ação, irei iniciar imediatamente o projeto, en
 
 ---
 
-Como estudar?
+## Como estudar?
 
 ✅ Aplique os conceitos direto no seu projeto → Sempre que surgir um problema, veja qual desses tópicos pode resolvê-lo.
 ✅ Use o banco de desenvolvimento para testar → Assim, você evita impactar dados reais.

@@ -6,7 +6,9 @@
 [Link de onde praticar](https://data.world/jerrys/sql-12-applying-functions-in-sql/workspace/query?filename=vendas.csv&newQueryType=SQL&selectedTable=vendas&tempId=1739892653786)
 A consulta SQL pode ser efetuada sempre juntando estes elementos, tal como:
 ```SQL
-SELECT * FROM vendas LIMIT 10
+SELECT *
+FROM ITS_TEST 
+WHERE ROWNUM <= 10
 ```
 ---
 1. Da tabela vendas, obtenha os 10 primeiros elementos levando em consideração apenas codigo, qty, ship_country e ordenados em ordem crescente de data.

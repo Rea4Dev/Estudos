@@ -4,30 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "536f0add3b2887c9",
-        "type": "tabs",
-        "dimension": 75.0625,
-        "children": [
-          {
-            "id": "5968e37841b60bf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "‎ Dev/Back-End/Índice Back-End.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Índice Back-End"
-            }
-          }
-        ]
-      },
-      {
         "id": "812e7c207878b545",
         "type": "tabs",
-        "dimension": 24.9375,
+        "dimension": 75.5625,
         "children": [
           {
             "id": "3febdca0f596367a",
@@ -35,12 +14,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flashcards/Linguagem C/Conceitual/Flash-Cards C Conceitual.md",
+                "file": "‎ Back-End/Banco de Dados/Relacional/Conteúdos/SQL Básico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flash-Cards C Conceitual"
+              "title": "SQL Básico"
+            }
+          }
+        ]
+      },
+      {
+        "id": "58b826f52da52e07",
+        "type": "tabs",
+        "dimension": 24.4375,
+        "children": [
+          {
+            "id": "58f12371b300f3d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Estudos para Projeto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estudos para Projeto"
             }
           }
         ]
@@ -334,12 +334,72 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "fe7b03ff8fadb133",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "2bd6f85f6d65fa23",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "260cc4255ecd0dd7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "30389985d8b71cc1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "dacbd8025010d2bd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "593b8940c443be6e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 23
       }
     ],
     "direction": "horizontal",
@@ -359,33 +419,36 @@
   },
   "active": "8d102bfc8ca0fe02",
   "lastOpenFiles": [
-    "‎ Dev/Back-End/Conteúdos/Introdução ao Banco de Dados e SQL.md",
-    "‎ Dev/Back-End/Índice Back-End.md",
-    "‎ Dev/Linguagem C/Índice de C.md",
-    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
-    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Caracteres e Inteiros.md",
-    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Casting, o uso correto.md",
-    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
-    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Variáveis.md",
-    "‎ Dev/Índice de Dev.md",
-    "‎ Dev/Back-End/Conteúdos/Projetos para Fixação.md",
-    "‎ Dev/Back-End/Conteúdos/Introdução ao Back-End.md",
-    "‎ Dev/Back-End/Conteúdos/Autenticação e Segurança.md",
-    "‎ Dev/Back-End/Conteúdos/Criação de um Back-End simples.md",
-    "‎ Dev/Back-End/Conteúdos/Conceitos essenciais de API.md",
-    "‎ Dev/Back-End/Conteúdos/Banco de Dados Avançado.md",
-    "‎ Dev/Back-End/Conteúdos/ORMs (Object-Relational Mapping).md",
-    "‎ Dev/Back-End/Conteúdos/Stored Procedures, Triggers e Views.md",
-    "‎ Dev/Back-End/Conteúdos/Índices e Performance.md",
-    "‎ Dev/Back-End/Conteúdos/Consultas SQL Intermediárias.md",
-    "‎ Dev/Back-End/Conteúdos/Ferramentas Sugeridas.md",
-    "‎ Dev/Back-End/Conteúdos/O que é um Banco de Dados.md",
-    "‎ Dev/Back-End/Conteúdos/SQL Básico.md",
-    "‎ Dev/Back-End/Roadmap Backend.md",
+    "‎ Back-End/Banco de Dados/Relacional",
+    "‎ Back-End/Banco de Dados",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Introdução ao Banco de Dados e SQL.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/SQL Básico.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Conceitos SQL.md",
+    "‎ Back-End/Banco de Dados/Índice Back-End.md",
+    "‎ Linguagens/Índice de Linguagens.md",
+    "Computação/Índice de Computação.md",
+    "Images/Pasted image 20250219211540.png",
+    "Pasted image 20250219211515.png",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Definição e tipos.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Banco de Dados Relacional.md",
+    "Índice.md",
     "Flashcards/Linguagem C/Conceitual/Flash-Cards C Conceitual.md",
-    "‎ Dev/Back-End/Conteúdos",
-    "‎ Dev/Linguagem C/Exercícios/Prático/Imprimindo quatro char A diferentes.md",
-    "‎ Dev/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Atribuição.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Estudos para Projeto.md",
+    "‎ Back-End/Banco de Dados/Relacional/Plano de Ação/Fundamentos Essenciais.md",
+    "‎ Back-End/Banco de Dados/Relacional/Plano de Ação/Automação e Integração com Python.md",
+    "‎ Back-End/Banco de Dados/Relacional/Plano de Ação/Manipulação segura de dados.md",
+    "‎ Back-End/Banco de Dados/Relacional/Plano de Ação/Rastreabilidade e otimização das consultas.md",
+    "‎ Back-End/Banco de Dados/Relacional/Plano de Ação/Trabalhando com múltiplas tabelas.md",
+    "‎ Dev/Back-End/Conteúdos/Plano de Estudos - Projeto.md",
+    "‎ Dev/Back-End/Conteúdos/Plano de Estudos do projeto.md",
+    "‎ Linguagens/Linguagem C/Índice de C.md",
+    "‎ Linguagens/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
+    "‎ Linguagens/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Caracteres e Inteiros.md",
+    "‎ Linguagens/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Casting, o uso correto.md",
+    "‎ Linguagens/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
+    "‎ Linguagens/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Variáveis.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Projetos para Fixação.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos",
     "Python/Exercícios/1 - Hello World/script.py",
     "Python/Exercícios/2 - Somando dois números",
     "Python/Exercícios/1 - Hello World",
@@ -395,11 +458,10 @@
     "Images/w.png",
     "Images/Pasted image 20250218131549.png",
     "Images/Pasted image 20250218130920.png",
-    "‎ Dev/Back-End/Conteúdos/SQL",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/SQL",
     "Images/Pasted image 20250218123426.png",
-    "‎ Dev/Back-End",
+    "‎ Back-End",
     "Organização/Conteúdos.canvas",
-    "Flashcards/Computação",
     "Images/Bonbon 1 fixed.png",
     "Images/Pasted image 20250210175413.png"
   ]
