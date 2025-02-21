@@ -3,8 +3,7 @@ Após estes estudos do plano de ação, irei iniciar imediatamente o projeto, en
 
 ---
 <center><h1>Plano de Aprendizado SQL para o Projeto</h1></center>
-^GPT
-Ótimo! Como você já tem noção básica de SQL e precisa aplicá-lo para análise de dados no seu projeto, vou sugerir um plano de aprendizado paralelo focado no que é mais útil para você agora.
+Como você já tem noção de SQL e precisa aplicá-lo para análise de dados no seu projeto, vou sugerir um plano de aprendizado paralelo focado no que é mais útil para você agora.
 
 ---
 

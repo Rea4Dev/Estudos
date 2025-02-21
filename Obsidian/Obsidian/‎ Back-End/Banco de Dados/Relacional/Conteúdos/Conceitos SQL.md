@@ -1,7 +1,3 @@
->[!TODO] A possuir nesta página
->- [ ] *CREATE TABLE*, *INSERT*, *SELECT*, *UPDATE*, *DELETE*.
->- [ ] Tipos de dados (*VARCHAR*, *INT*, *DATE*, *BOOLEAN*)
->- [ ] Constraints (*PRIMARY KEY*, *FOREIGN KEY*, *NOT NULL*)
 ###### Apresentando e História
 Existente há mais de 50 anos e padronizada pela ANSCI em 1986 (entretanto, continua a receber atualizações), SQL - *Linguagem Estruturada de Consulta* - foi criada inicialmente pela IBM e usada para manipulação e processamento de estrutura de dados e um banco de dados relacional. 
 

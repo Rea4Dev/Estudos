@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Back-End/Banco de Dados/Relacional/Conteúdos/SQL Básico.md",
+                "file": "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Banco de Dados Avançado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Básico"
+              "title": "Banco de Dados Avançado"
             }
           }
         ]
@@ -42,8 +42,23 @@
               "icon": "lucide-file",
               "title": "Estudos para Projeto"
             }
+          },
+          {
+            "id": "21ca21ef7a6a7e79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Conceitos SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conceitos SQL"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,8 +78,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -394,12 +408,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "e073abdb656b8ea9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "de28825a5f209461",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 25
       }
     ],
     "direction": "horizontal",
@@ -417,23 +451,34 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "8d102bfc8ca0fe02",
+  "active": "3febdca0f596367a",
   "lastOpenFiles": [
+    "DEVANIOSSS.txt",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Conceitos SQL.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Introdução ao Banco de Dados e SQL.md",
+    "‎ Back-End/Banco de Dados/Índice Back-End.md",
+    "Índice.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Banco de Dados Avançado.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Introdução ao Back-End.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Estudos para Projeto.md",
+    "‎ Dev/Back-End/Conteúdos/SQL/DDL.md",
+    "‎ Linguagens/Índice de Linguagens.md",
+    "‎ Linguagens/Linguagem C/Índice de C.md",
+    "Images/Untitled.png",
+    "Pasted image 20250220114342.png",
+    "Pasted image 20250220114313.png",
+    "Pasted image 20250220114218.png",
+    "Pasted image 20250220114151.png",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Consultas SQL Intermediárias.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Definição e tipos.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/SQL Básico.md",
+    "Computação/Índice de Computação.md",
     "‎ Back-End/Banco de Dados/Relacional",
     "‎ Back-End/Banco de Dados",
-    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Introdução ao Banco de Dados e SQL.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/SQL Básico.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Conceitos SQL.md",
-    "‎ Back-End/Banco de Dados/Índice Back-End.md",
-    "‎ Linguagens/Índice de Linguagens.md",
-    "Computação/Índice de Computação.md",
     "Images/Pasted image 20250219211540.png",
     "Pasted image 20250219211515.png",
-    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Definição e tipos.md",
     "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Banco de Dados Relacional.md",
-    "Índice.md",
     "Flashcards/Linguagem C/Conceitual/Flash-Cards C Conceitual.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Estudos para Projeto.md",
     "‎ Back-End/Banco de Dados/Relacional/Plano de Ação/Fundamentos Essenciais.md",
     "‎ Back-End/Banco de Dados/Relacional/Plano de Ação/Automação e Integração com Python.md",
     "‎ Back-End/Banco de Dados/Relacional/Plano de Ação/Manipulação segura de dados.md",
@@ -441,13 +486,8 @@
     "‎ Back-End/Banco de Dados/Relacional/Plano de Ação/Trabalhando com múltiplas tabelas.md",
     "‎ Dev/Back-End/Conteúdos/Plano de Estudos - Projeto.md",
     "‎ Dev/Back-End/Conteúdos/Plano de Estudos do projeto.md",
-    "‎ Linguagens/Linguagem C/Índice de C.md",
     "‎ Linguagens/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
     "‎ Linguagens/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Caracteres e Inteiros.md",
-    "‎ Linguagens/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Casting, o uso correto.md",
-    "‎ Linguagens/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
-    "‎ Linguagens/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Variáveis.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Projetos para Fixação.md",
     "‎ Back-End/Banco de Dados/Relacional/Conteúdos",
     "Python/Exercícios/1 - Hello World/script.py",
     "Python/Exercícios/2 - Somando dois números",
@@ -459,10 +499,6 @@
     "Images/Pasted image 20250218131549.png",
     "Images/Pasted image 20250218130920.png",
     "‎ Back-End/Banco de Dados/Relacional/Conteúdos/SQL",
-    "Images/Pasted image 20250218123426.png",
-    "‎ Back-End",
-    "Organização/Conteúdos.canvas",
-    "Images/Bonbon 1 fixed.png",
-    "Images/Pasted image 20250210175413.png"
+    "Organização/Conteúdos.canvas"
   ]
 }
