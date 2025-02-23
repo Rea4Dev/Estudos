@@ -1,0 +1,38 @@
+- Wendel: O "core" do que você precisa fazer está dentro destas tabelas (ITS_TEST, ITS_OPERATIONS, ITS_ACTIONS). Veja quais dados você precisa para fazer o agrupamento, pois irá agrupá-los em uma linha só para o monitoramento. 
+
+- Wendel: Quando estamos na tabela ITS_ACTIONS, há a coluna DATETIME_START, que na linha 1, por exemplo, está com "19-FEB-25 12.32.43.230000000 PM". E a coluna STATUS que na mesma linha está com FAILED, e também há a coluna MESSAGE_LAST_RESPONSE com "Nenhum hardware detectado".
+São essas informações, por exemplo, que você usará para gerar um CSV com as colunas: Data-Hora (coluna DATETIME_START tabela ITS_ACTIONS);
+Usuário (coluna USER_ID tabela ITS_TEST);
+OP (coluna OP tabela ITS_TEST);
+MMC (coluna MMC tabela ITS_TEST);
+Aeronave (coluna TEST_ID tabela ITS_TEST);
+Operação (coluna XML_NAME tabela ITS_OPERATIONS);
+Step (coluna PARAMETER_IDENTIFIER tabela ITS_ACTIONS);
+Resultado (coluna STATUS tabela ITS_ACTIONS).
+
+- Wendel: Quando o teste é realizado novamente e com sucesso, é dado um UPDATE nestes dados, e não criado um novo.
+
+- Renan: Então a questão então é adicionarmos a um histórico. Desta forma não perdemos essas ocorrências.
+
+- Wendel: Exatamente. Você salva o status de tempo em tempo, entretanto, se o status não mudar não deverá salvar. Queremos só armazenar quando houver alteração do status.
+
+- Wendel: Você fará tudo isso até então em SQL e obter as informações, só que você não conseguirá salvar, teria que ser feito um trabalho manual de salvar essas informações num arquivo de histórico. O Python irá automatizar essa ação.
+
+- Wendel: Entretanto, antes de automatizar, você precisará entender plenamente este fluxo, por isso, você fará de forma manual sem a automatização, moldando e colocando no seu arquivo csv. Assim, para automatizar, você já terá a consulta do banco e o formato do arquivo.
+Em outras palavras, até semana que vem tente ter isso pronto e consiga fazer isto de forma manual e apresente para mim, disso para frente discutimos como automatizar.
+
+
+
+(parado em 24)
+
+______________________________________________________________
+Dúvida
+
+- Não é possível fazer com que seja salvo em uma nova tabela? Desta forma sequer precisaria de Python, fora que acredito que venha a ser mais otimizado.
+| Não imagino que o problema venha a ser lixo, deve ser possível comparar.
+| Não sei se o problema é periodicidade, pois deve ter como programar um trigger.
+| Entretanto, talvez o problema venha a ser algumas colunas. Wendel disse que não é criada uma nova, é sobrescrita o status. Desta forma, talvez tenhamos um dado de tempo de start e um dado de tempo final, mas fique apenas alternando o status. Desta forma eu deveria buscar ver se é possível fazer com que este "trigger" compare as ALTERAÇÕES de uma nova linha e não "Novas linhas".
+
+DeepSeek deu uma sugestão que talvez seja boa. Veja no zap
+
+Dois GPT talvez seja interessante
