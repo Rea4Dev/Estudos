@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "SQL Básico",
-      "path": "‎ Back-End/Banco de Dados/Relacional/Conteúdos/SQL Básico.md"
-    },
-    {
       "basename": "Introdução ao Banco de Dados e SQL",
-      "path": "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Introdução ao Banco de Dados e SQL.md"
+      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md"
     },
     {
-      "basename": "Conceitos SQL",
-      "path": "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Conceitos SQL.md"
+      "basename": "DML",
+      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DML.md"
     },
     {
       "basename": "Índice Back-End",
-      "path": "‎ Back-End/Banco de Dados/Índice Back-End.md"
+      "path": "‎ Back-End/Banco de Dados/Relacional/Índice Back-End.md"
+    },
+    {
+      "basename": "O que farei",
+      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/O que farei.md"
     }
   ],
   "omittedPaths": [],

@@ -1,7 +1,21 @@
-1. [[Introdução ao Banco de Dados e SQL]]
-2. [[Banco de Dados Avançado]]
-3. [[Introdução ao Back-End]]
-4. [[Projetos para Fixação]]
+
+---
+# Frente 1
+- Conhecimento BD e SQL necess
+- Imitar as três planilhas (e criar planilha Histórico) no seu pc pessoal
+- Elaborar o SQL trigger
+- Adaptar e Aplicar no verdadeiro da empresa
+
+- Use GPT para ajudar nessa lógica
+---
+# Frente 2
+- Conhecimento BD e SQL necessário
+- Terminar de transcrever a reunião
+- Desenvolver a consulta SQL como Wendel disse e manualmente gerar um histórico
+
+- Use GPT com a transcrição para ajudar no processo
+
+---
 
 # Índice Plano de Ação
 1. [[Fundamentos Essenciais]]

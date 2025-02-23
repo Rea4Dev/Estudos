@@ -9,17 +9,17 @@
         "dimension": 75.5625,
         "children": [
           {
-            "id": "3febdca0f596367a",
+            "id": "f381f311a56246fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Back-End/Banco de Dados/Relacional/Conteúdos/SQL Básico.md",
+                "file": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Básico"
+              "title": "Introdução ao Banco de Dados e SQL"
             }
           }
         ]
@@ -30,17 +30,31 @@
         "dimension": 24.4375,
         "children": [
           {
-            "id": "58f12371b300f3d3",
+            "id": "ecae02801dc755ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Estudos para Projeto.md",
+                "file": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Modelo Conceitual - Diagrama Entidade Relacionamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estudos para Projeto"
+              "title": "Modelo Conceitual - Diagrama Entidade Relacionamento"
+            }
+          },
+          {
+            "id": "27a32fb490e65377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "‎ Back-End/Banco de Dados/Relacional/Introdução ao Banco de Dados SQL/1;1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1;1"
             }
           }
         ]
@@ -394,12 +408,112 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "1b58e9b6d33a28a9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "279de0872ad205f6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "6b8705c7438888e8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "7470022d4d106129",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "05e81b59cec9f29e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "d4147f07a9b9c14d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "e46548f79ac17532",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "b7ae601c8c1490d9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "61796b6e8161fe03",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "cec5f8aaea453169",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 33
       }
     ],
     "direction": "horizontal",
@@ -419,50 +533,52 @@
   },
   "active": "8d102bfc8ca0fe02",
   "lastOpenFiles": [
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DML.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md",
+    "‎ Back-End/Banco de Dados/Relacional/Índice Back-End.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/O que farei.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Modelo Relacional.md",
+    "SQL/Índice SQL.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Relacional vs Não Relacional.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Banco de Dados.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Modelo Conceitual - Diagrama Entidade Relacionamento.md",
+    "Images/Pasted image 20250223172831.png",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Engenharia de Informaçao.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Do Mundo Real ao Banco de Dados Relacional.md",
+    "Images/Pasted image 20250223172512.png",
+    "Images/Pasted image 20250223171151.png",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Cardinalidade de Relacionamentos.md",
+    "Images/Pasted image 20250223171003.png",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Relacionamento Obrigatório.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Banco de Dados Avançado.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/n;n.md",
+    "Images/Pasted image 20250223152400.png",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/1;1.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/1;n.md",
+    "Images/Pasted image 20250222202501.png.~tmp",
+    "b.png.~tmp",
+    "Images/b.png",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Estudos para Projeto.md",
+    "Images/Pasted image 20250222214813.png",
+    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Conceitos SQL.md",
+    "Images/Pasted image 20250222202501.png",
+    "Índice.md",
+    "Images/Pasted image 20250222192508.png",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Mundo Real.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/SGBD.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DQL.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DTL.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DCL.md",
+    "Images/Pasted image 20250222175450.png",
+    "SQL",
     "‎ Back-End/Banco de Dados/Relacional",
     "‎ Back-End/Banco de Dados",
-    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Introdução ao Banco de Dados e SQL.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/SQL Básico.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Conceitos SQL.md",
-    "‎ Back-End/Banco de Dados/Índice Back-End.md",
-    "‎ Linguagens/Índice de Linguagens.md",
-    "Computação/Índice de Computação.md",
-    "Images/Pasted image 20250219211540.png",
-    "Pasted image 20250219211515.png",
-    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Definição e tipos.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Banco de Dados Relacional.md",
-    "Índice.md",
-    "Flashcards/Linguagem C/Conceitual/Flash-Cards C Conceitual.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Estudos para Projeto.md",
-    "‎ Back-End/Banco de Dados/Relacional/Plano de Ação/Fundamentos Essenciais.md",
-    "‎ Back-End/Banco de Dados/Relacional/Plano de Ação/Automação e Integração com Python.md",
-    "‎ Back-End/Banco de Dados/Relacional/Plano de Ação/Manipulação segura de dados.md",
-    "‎ Back-End/Banco de Dados/Relacional/Plano de Ação/Rastreabilidade e otimização das consultas.md",
-    "‎ Back-End/Banco de Dados/Relacional/Plano de Ação/Trabalhando com múltiplas tabelas.md",
-    "‎ Dev/Back-End/Conteúdos/Plano de Estudos - Projeto.md",
-    "‎ Dev/Back-End/Conteúdos/Plano de Estudos do projeto.md",
-    "‎ Linguagens/Linguagem C/Índice de C.md",
-    "‎ Linguagens/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Tipos de Dados Básicos.md",
-    "‎ Linguagens/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Caracteres e Inteiros.md",
-    "‎ Linguagens/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Casting, o uso correto.md",
-    "‎ Linguagens/Linguagem C/Estudos/Lógica de Programação/3. Tipos de Dados Básicos/Char.md",
-    "‎ Linguagens/Linguagem C/Estudos/Lógica de Programação/2. Variáveis/Variáveis.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/Projetos para Fixação.md",
     "‎ Back-End/Banco de Dados/Relacional/Conteúdos",
     "Python/Exercícios/1 - Hello World/script.py",
     "Python/Exercícios/2 - Somando dois números",
     "Python/Exercícios/1 - Hello World",
-    "Python/Exercícios",
-    "Python/Conceitual",
-    "Python",
-    "Images/w.png",
-    "Images/Pasted image 20250218131549.png",
-    "Images/Pasted image 20250218130920.png",
-    "‎ Back-End/Banco de Dados/Relacional/Conteúdos/SQL",
-    "Images/Pasted image 20250218123426.png",
-    "‎ Back-End",
-    "Organização/Conteúdos.canvas",
-    "Images/Bonbon 1 fixed.png",
-    "Images/Pasted image 20250210175413.png"
+    "Organização/Conteúdos.canvas"
   ]
 }
