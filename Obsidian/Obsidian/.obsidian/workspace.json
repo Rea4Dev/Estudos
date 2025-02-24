@@ -9,7 +9,7 @@
         "dimension": 75.5625,
         "children": [
           {
-            "id": "f381f311a56246fa",
+            "id": "3febdca0f596367a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,7 +30,7 @@
         "dimension": 24.4375,
         "children": [
           {
-            "id": "85645d8dd18f87ba",
+            "id": "21ca21ef7a6a7e79",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,8 +63,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -399,7 +398,7 @@
             }
           },
           {
-            "id": "1b58e9b6d33a28a9",
+            "id": "e073abdb656b8ea9",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -409,97 +408,7 @@
             }
           },
           {
-            "id": "279de0872ad205f6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "6b8705c7438888e8",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "7470022d4d106129",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "05e81b59cec9f29e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "d4147f07a9b9c14d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "e46548f79ac17532",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "b7ae601c8c1490d9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "61796b6e8161fe03",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "cec5f8aaea453169",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "0dc1363d13849598",
+            "id": "de28825a5f209461",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -509,7 +418,7 @@
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 25
       }
     ],
     "direction": "horizontal",
@@ -527,54 +436,54 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "f381f311a56246fa",
+  "active": "3febdca0f596367a",
   "lastOpenFiles": [
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Chave Composta.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Chave Primária.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Chave Candidata.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Chave Estrangeira.md",
-    "Chaves não Únicas.md",
-    "Chaves Únicas.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Atributos e Chaves.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Generalização - Especialização.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Entidade Associativa.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Relacionamentos.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Instâncias.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Entidades.md",
-    "Organização/Images/Pasted image 20250223203019.png",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Modelo Conceitual - Diagrama Entidade Relacionamento.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Elementos DER e Paralelos.md",
-    "Organização/Images/Pasted image 20250223202932.png",
-    "Organização/Images/Pasted image 20250223202929.png",
-    "Organização/Images/Pasted image 20250223202854.png",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Modelo Relacional.md",
-    "Organização/Images/Pasted image 20250223202227.png",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Do Mundo Real ao Banco de Dados Relacional.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Mundo Real.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md",
     "‎ Back-End/Banco de Dados/Índice Banco de Dados.md",
-    "Índice.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Banco de Dados.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/1;1.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/1;n.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Cardinalidade de Relacionamentos.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/n;n.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/SGBD.md",
-    "Sem título",
     "‎ Back-End/Banco de Dados/Não Relacional",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos",
-    "Organização/Images/Pasted image 20250223172831.png",
-    "Organização/Images/Pasted image 20250223172512.png",
-    "Organização/Images/Pasted image 20250223171151.png",
-    "Organização/Images/Pasted image 20250223171003.png",
-    "Organização/Images/Pasted image 20250223152400.png",
-    "Images/Pasted image 20250222202501.png.~tmp",
-    "b.png.~tmp",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/desktop.ini",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/desktop.ini",
+    "Organização/Flashcards/Engenharia de Software/Flashcards Frameworks.md",
+    "Organização/Flashcards/Engenharia de Software/Flashcards Engenharia de Software.md",
+    "Organização/Flashcards/Engenharia de Software/desktop.ini",
+    "Organização/Flashcards/Engenharia de Software",
+    "Organização/Flashcards/Computação/desktop.ini",
+    "Organização/Flashcards/Computação/Flashcards Computação.md",
+    "Organização/Flashcards/Computação",
+    "Organização/Images/desktop.ini",
+    "Organização/Flashcards/desktop.ini",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/SGBD.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Relacionamento Opcional.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Relacionamentos.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Relacionamento Obrigatório.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/O que farei.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Relacional vs Não Relacional.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Mundo Real.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Modelo Relacional.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/n;n.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Modelo Conceitual - Diagrama Entidade Relacionamento.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Generalização - Especialização.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Entidades.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Instâncias.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Engenharia de Informaçao.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Entidade Associativa.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DTL.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DQL.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DML.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Do Mundo Real ao Banco de Dados Relacional.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL",
-    "SQL",
-    "‎ Back-End/Banco de Dados/Relacional",
-    "‎ Back-End/Banco de Dados",
-    "‎ Back-End/Banco de Dados/Relacional/Conteúdos",
+    "Organização/Images/Images 1/Pasted image 20250107121758.png",
+    "Organização/Images/Images/Pasted image 20241025201422.png",
+    "Organização/Images/Images/Pasted image 20241025205608.png",
+    "Organização/Images/Images/Pasted image 20241025205439.png",
+    "Organização/Images/Images/Pasted image 20241025201353.png",
+    "Organização/Images/Images/Pasted image 20241025201326.png",
+    "Organização/Images/Imagens 2/Pasted image 20241217125540.png",
+    "Organização/Images/Images/Pasted image 20241024085350.png",
+    "Organização/Images/Images/Pasted image 20241023150842.png",
+    "Organização/Images/Images/Pasted image 20241023150831.png",
     "Organização/Conteúdos.canvas"
   ]
 }

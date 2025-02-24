@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiEye",
-      "🍄",
-      "LiBrainCircuit",
-      "LiCodeXml",
-      "LiIndentIncrease"
+      "LiSquareDashedBottomCode",
+      "LiLibrarySquare",
+      "LiSquareCode",
+      "LiCodepen",
+      "LiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,7 +44,7 @@
     "iconColor": "#c82f4b"
   },
   "Engenharia": {
-    "iconName": "LiBrainCircuit",
+    "iconName": "LiCircuitBoard",
     "iconColor": "#c82f4b"
   },
   "Embarcados": {
@@ -67,14 +67,10 @@
     "iconName": "LiScreenShareOff",
     "iconColor": "#c82f4b"
   },
-  "‎ Back-End/Banco de Dados/Relacional": "LiDatabase",
-  "‎ Back-End/Banco de Dados/Não Relacional": "LiIndentIncrease",
   "‎ Dev": {
     "iconName": "LiCodeXml",
     "iconColor": "#c82f4b"
   },
-  "Índice.md": {
-    "iconName": "LiEye",
-    "iconColor": "#c82f4b"
-  }
+  "‎ Back-End/Banco de Dados/Relacional": "LiDatabase",
+  "‎ Back-End/Banco de Dados/Não Relacional": "LiSquareDashedBottomCode"
 }

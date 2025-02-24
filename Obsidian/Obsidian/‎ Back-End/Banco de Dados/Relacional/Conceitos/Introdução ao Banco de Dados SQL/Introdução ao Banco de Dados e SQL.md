@@ -21,12 +21,10 @@
 			3. [[Relacionamentos]]
 			4. [[Generalização - Especialização]]
 			5. [[Entidade Associativa]]
-		
 		2. [[Cardinalidade de Relacionamentos]]
 			1. [[1;1]]
 			2. [[1;n]]
 			3. [[n;n]]
-		
 		3. [[Engenharia de Informaçao]]
 	
 	3. [[Modelo Lógico ]]
