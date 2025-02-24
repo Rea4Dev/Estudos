@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiDatabase",
-      "LiScreenShareOff",
-      "LiServer",
-      "LiWorm",
-      "LiPlaneTakeoff"
+      "LiEye",
+      "🍄",
+      "LiBrainCircuit",
+      "LiCodeXml",
+      "LiIndentIncrease"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,13 +35,46 @@
     "useInternalPlugins": false
   },
   "Notações interessantes.md": "LiGuitar",
-  "Pessoal": "LiHeart",
-  "Organização": "LiCalendar",
-  "Engenharia": "⚙",
-  "Embarcados": "LiCircuitBoard",
-  "Computação": "LiComputer",
-  "‎ Linguagens": "LiCode",
-  "‎ Back-End": "LiServer",
-  "‎ Front-End": "LiScreenShareOff",
-  "‎ Back-End/Banco de Dados/Relacional": "LiDatabase"
+  "Pessoal": {
+    "iconName": "LiHeart",
+    "iconColor": "#c82f4b"
+  },
+  "Organização": {
+    "iconName": "LiCalendar",
+    "iconColor": "#c82f4b"
+  },
+  "Engenharia": {
+    "iconName": "LiBrainCircuit",
+    "iconColor": "#c82f4b"
+  },
+  "Embarcados": {
+    "iconName": "LiCircuitBoard",
+    "iconColor": "#c82f4b"
+  },
+  "Computação": {
+    "iconName": "LiComputer",
+    "iconColor": "#c82f4b"
+  },
+  "‎ Linguagens": {
+    "iconName": "LiCode",
+    "iconColor": "#c82f4b"
+  },
+  "‎ Back-End": {
+    "iconName": "LiServer",
+    "iconColor": "#c82f4b"
+  },
+  "‎ Front-End": {
+    "iconName": "LiScreenShareOff",
+    "iconColor": "#c82f4b"
+  },
+  "‎ Back-End/Banco de Dados/Relacional": "LiDatabase",
+  "‎ Back-End/Banco de Dados/Não Relacional": "LiIndentIncrease",
+  "‎ Dev": {
+    "iconName": "LiCodeXml",
+    "iconColor": "#c82f4b"
+  },
+  "Índice.md": {
+    "iconName": "LiEye",
+    "iconColor": "#c82f4b"
+  }
 }

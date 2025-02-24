@@ -1,0 +1,1 @@
+- *Chave Substituta*: Criada artificialmente, sem significado real para os dados.

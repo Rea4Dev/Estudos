@@ -5,16 +5,16 @@
       "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md"
     },
     {
-      "basename": "DML",
-      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DML.md"
+      "basename": "Chave Composta",
+      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Chave Composta.md"
     },
     {
-      "basename": "Índice Back-End",
-      "path": "‎ Back-End/Banco de Dados/Relacional/Índice Back-End.md"
+      "basename": "Chave Primária",
+      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Chave Primária.md"
     },
     {
-      "basename": "O que farei",
-      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/O que farei.md"
+      "basename": "Chave Candidata",
+      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Chave Candidata.md"
     }
   ],
   "omittedPaths": [],
