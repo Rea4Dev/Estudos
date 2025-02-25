@@ -5,16 +5,16 @@
       "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md"
     },
     {
-      "basename": "Elementos DER e Paralelos",
-      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Elementos DER e Paralelos.md"
-    },
-    {
       "basename": "Índice Banco de Dados",
       "path": "‎ Back-End/Banco de Dados/Índice Banco de Dados.md"
     },
     {
-      "basename": "Banco de Dados",
-      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Banco de Dados.md"
+      "basename": "Conceitos SQL",
+      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Conceitos SQL.md"
+    },
+    {
+      "basename": "DTL",
+      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DTL.md"
     }
   ],
   "omittedPaths": [],

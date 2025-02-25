@@ -28,16 +28,17 @@
 		3. [[Engenharia de Informaçao]]
 	
 	3. [[Modelo Lógico ]]
+	
+	4. [[Modelo Físico]] 
+	
+	5. [[Tipos de Variáveis]] 
 
 3. [[Conceitos SQL]]
-	1. [[DDL]]
-	2. [[DML]]
+	1. [[DQL e DML]]
+	2. [[DDL]]
 	3. [[DCL]]
 	4. [[DTL]]
-	5. [[DQL]]
 
-4. [[SQL Básico]]
+4. [[Consultas SQL Intermediárias]]
 
-5. [[Consultas SQL Intermediárias]]
-
-6. [[Ferramentas Sugeridas]]
+5. [[Ferramentas Sugeridas]]

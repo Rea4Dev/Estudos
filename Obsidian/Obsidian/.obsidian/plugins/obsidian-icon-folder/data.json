@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiIndent",
       "LiSquareDashedBottomCode",
       "LiLibrarySquare",
       "LiSquareCode",
-      "LiCodepen",
-      "LiDatabase"
+      "LiCodepen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -72,5 +72,9 @@
     "iconColor": "#c82f4b"
   },
   "‎ Back-End/Banco de Dados/Relacional": "LiDatabase",
-  "‎ Back-End/Banco de Dados/Não Relacional": "LiSquareDashedBottomCode"
+  "‎ Back-End/Banco de Dados/Não Relacional": "LiSquareDashedBottomCode",
+  "Índice.md": {
+    "iconName": "LiIndent",
+    "iconColor": "#c82f4b"
+  }
 }
