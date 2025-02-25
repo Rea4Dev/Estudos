@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"a78fe583a885910b","type":"text","text":"ITS_TEST","x":-362,"y":-100,"width":152,"height":50},
+		{"id":"dec066d47af3705d","type":"text","text":"- TEST_ID (primária)","x":-411,"y":-40,"width":250,"height":50},
+		{"id":"bb445291b74bed21","type":"text","text":"- USER_ID (candidata)","x":-411,"y":10,"width":250,"height":50},
+		{"id":"0860e6a4d864a3ee","type":"text","text":"- LAST_UPDATE_TIME","x":-411,"y":60,"width":250,"height":50},
+		{"id":"5128e5c4c0e9f7cf","type":"text","text":"- TEST_ID (estrangeira)","x":-2,"y":-40,"width":280,"height":50},
+		{"id":"40463ac4b1ce77fd","type":"text","text":"- OPERATIONS_ID (primária)","x":-2,"y":10,"width":280,"height":50},
+		{"id":"3771db904a593d13","type":"text","text":"- XML_NAME","x":-2,"y":60,"width":280,"height":50},
+		{"id":"c10bd459208dfca4","type":"text","text":"ITS_OPERATIONS","x":46,"y":-100,"width":185,"height":50},
+		{"id":"d2b185864671d203","type":"text","text":"- OP","x":-411,"y":110,"width":250,"height":50},
+		{"id":"dfbde8f4ae5e1c7c","type":"text","text":"- MMC","x":-411,"y":160,"width":250,"height":50},
+		{"id":"5c1710332d941126","type":"text","text":"ITS_ACTIONS","x":492,"y":-100,"width":171,"height":50},
+		{"id":"8415d8dc96563a58","type":"text","text":"- OPERATIONS_ID (estrangeira)","x":420,"y":-40,"width":314,"height":50},
+		{"id":"c65b519de33569b5","type":"text","text":"- ACTION_ID (primária)","x":420,"y":10,"width":314,"height":50},
+		{"id":"0d134ae19a374f0c","type":"text","text":"- PARAMETER_IDENTIFIER","x":420,"y":60,"width":314,"height":50},
+		{"id":"d8ff1da3f8eb4251","type":"text","text":"- BEHAVIOR","x":420,"y":110,"width":314,"height":50},
+		{"id":"07eadb6e50d04aab","type":"text","text":"- STATUS","x":420,"y":160,"width":314,"height":50}
+	],
+	"edges":[
+		{"id":"1996829396f70c40","fromNode":"dec066d47af3705d","fromSide":"right","toNode":"5128e5c4c0e9f7cf","toSide":"left","label":"(1:1)"},
+		{"id":"b6e81e827fe05a39","fromNode":"40463ac4b1ce77fd","fromSide":"right","toNode":"8415d8dc96563a58","toSide":"left","label":"(1:1)"}
+	]
+}

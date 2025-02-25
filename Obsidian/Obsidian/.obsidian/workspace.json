@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md",
+                "file": "Consulta Feita.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introdução ao Banco de Dados e SQL"
+              "title": "Consulta Feita"
             }
           }
         ]
@@ -56,8 +56,26 @@
               "icon": "lucide-file",
               "title": "Conceitos SQL"
             }
+          },
+          {
+            "id": "698cdd909e19cee7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": 575.1133597819844,
+                  "y": 215.15720303118323,
+                  "zoom": -0.3881816319354284
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -448,12 +466,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "357ca3cedb609542",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "horizontal",
@@ -473,17 +501,19 @@
   },
   "active": "3febdca0f596367a",
   "lastOpenFiles": [
-    "‎ Back-End/Banco de Dados/Índice Banco de Dados.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DQL e DML.md",
+    "Sem título.canvas",
+    "Consulta Feita.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Conceitos SQL.md",
+    "‎ Back-End/Banco de Dados/Índice Banco de Dados.md",
+    "Índice.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DTL.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DCL.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DQL e DML.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DML.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DDL.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Tipos de Variáveis.md",
     "Banco de Dados Avançado.md",
-    "Índice.md",
     "Organização/Images/Imagem do WhatsApp de 2025-02-21 à(s) 13.37.12_d46cc056.jpg",
     "Organização/Images/Pasted image 20250224172031.png",
     "Organização/Images/Pasted image 20250224133804.png",
@@ -510,8 +540,6 @@
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Relacional vs Não Relacional.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Mundo Real.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Modelo Relacional.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/n;n.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Modelo Conceitual - Diagrama Entidade Relacionamento.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL",
     "Organização/Images/Images 1/Pasted image 20250107121758.png",
     "Organização/Images/Images/Pasted image 20241025201422.png",
