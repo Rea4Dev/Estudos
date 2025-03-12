@@ -13,15 +13,29 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Algoritmo.canvas",
+                "file": "Gerador_Log/Algoritmo.canvas",
                 "viewState": {
-                  "x": -20.903009019766106,
-                  "y": 472.212970324192,
-                  "zoom": -0.1486540359638313
+                  "x": -36.79597582191269,
+                  "y": 422.93998543837165,
+                  "zoom": -0.25520124205889505
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Algoritmo"
+            }
+          },
+          {
+            "id": "927104351d173cf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organização/Flashcards/Linguagem C/Conceitual/Flash-Cards C Conceitual.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flash-Cards C Conceitual"
             }
           }
         ]
@@ -475,21 +489,41 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-spaced-repetition:Revisar flashcards": false
+      "obsidian-spaced-repetition:Revisar flashcards": false,
+      "open-vscode:VSCode": false
     }
   },
   "active": "3febdca0f596367a",
   "lastOpenFiles": [
-    "Gerador de Log.md",
-    "Algoritmo.canvas",
-    "Relacionamentos.canvas",
+    "Gerador_Log/Gerador de Log.md",
+    "C 77.0 - Valores.canvas",
+    "‎ Linguagem C/Exercicios/output",
+    "‎ Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores Unidimensionais.md",
+    "Organização/Flashcards/Linguagem C/Conceitual/Flash-Cards C Conceitual.md",
+    "‎ Linguagem C/Índice de C.md",
+    "‎ Índice.md",
+    "Índice de Linguagens.md",
+    "Organização/Images/Pasted image 20250311130121.png",
+    "Gerador_Log/Algoritmo.canvas",
+    "Organização/Flashcards/Linguagem C/Flashcards C.md",
+    "Organização/Flashcards/Índice de Flashcards.md",
+    "Organização/Flashcards/Linguagem C/Prático/Flash-Cards C Prático.md",
+    "‎ Linguagem C/Exercicios/C 77.0 - Valores.c",
+    "‎ Linguagem C/Exercícios/C 77 - Valores.c",
+    "‎ Linguagem C/Exercícios/Ex/C 77 - Valores.c",
+    "‎ Linguagem C/Exercícios/Ex",
+    "‎ Linguagem C/Exercícios/New folder",
+    "Sem título",
+    "‎ Linguagens/Índice de Linguagens.md",
+    "‎ Python/1. Formatação do Código e Mandamentos/Formatação do Código e Mandamentos.md",
+    "‎ Back-End/Banco de Dados/Índice Banco de Dados.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md",
+    "Gerador_Log",
+    "Gerador_Log/Relacionamentos.canvas",
     "Pasted image 20250225135237.png",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Elementos DER e Paralelos.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Atributos e Chaves.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Modelo Conceitual - Diagrama Entidade Relacionamento.md",
-    "‎ Back-End/Banco de Dados/Índice Banco de Dados.md",
-    "‎ Índice.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DDL.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DCL.md",
     "Pasted image 20250225150617.png",
@@ -507,26 +541,8 @@
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Banco de Dados.md",
     "‎ Back-End/Banco de Dados/Não Relacional",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/desktop.ini",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/desktop.ini",
-    "Organização/Flashcards/Engenharia de Software/Flashcards Frameworks.md",
-    "Organização/Flashcards/Engenharia de Software/Flashcards Engenharia de Software.md",
-    "Organização/Flashcards/Engenharia de Software/desktop.ini",
-    "Organização/Flashcards/Engenharia de Software",
-    "Organização/Flashcards/Computação/desktop.ini",
-    "Organização/Flashcards/Computação/Flashcards Computação.md",
-    "Organização/Flashcards/Computação",
-    "Organização/Images/desktop.ini",
-    "Organização/Flashcards/desktop.ini",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/SGBD.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Relacionamento Opcional.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Relacionamentos.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Relacionamento Obrigatório.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/O que farei.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Relacional vs Não Relacional.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL",
     "Organização/Images/Images 1/Pasted image 20250107121758.png",
     "Organização/Images/Images/Pasted image 20241025201422.png",
-    "Organização/Images/Images/Pasted image 20241025205608.png",
     "Organização/Conteúdos.canvas"
   ]
 }

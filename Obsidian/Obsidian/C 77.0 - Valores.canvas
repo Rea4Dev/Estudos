@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"7335fb0120f392a4","type":"text","text":"Escreva um programa que realize a leitura dos salários pagos a um indivíduo durante um ano. Em seguida, o programa deverá mostrar os valores mensais e o valor anual;","x":-430,"y":-450,"width":820,"height":60},
+		{"id":"06db207e2813d8a4","type":"text","text":"","x":-139,"y":25,"width":50,"height":60,"color":"5"},
+		{"id":"b77857ad0f9f1346","type":"text","text":"Valor total anual","x":-208,"y":-107,"width":188,"height":60,"color":"3"},
+		{"id":"c49352d5cd725ff1","type":"text","text":"Inserção dos valores pagos nos 12 meses","x":-239,"y":-240,"width":250,"height":60,"color":"4"},
+		{"id":"e1625ed8338d4950","type":"text","text":"Saída no console","x":101,"y":-240,"width":200,"height":60,"color":"3"},
+		{"id":"f64257e79a39cddb","type":"text","text":"","x":-139,"y":-365,"width":50,"height":50,"color":"5"},
+		{"id":"595e479dd3a2c2e8","type":"file","file":"Organização/Images/Pasted image 20250311130121.png","x":-838,"y":-315,"width":408,"height":270},
+		{"id":"b3bfe5de6a99ca28","type":"text","text":"Elipse - Azul\nRetângulo - Verde\nLosango - Laranja\nInclinado - Roxo\nRasgado - Amarelo","x":-759,"y":-30,"width":250,"height":170}
+	],
+	"edges":[
+		{"id":"681db3c5e7205a8a","fromNode":"f64257e79a39cddb","fromSide":"bottom","toNode":"c49352d5cd725ff1","toSide":"top","color":"5","label":"1"},
+		{"id":"84da2b7740e24cbf","fromNode":"c49352d5cd725ff1","fromSide":"right","toNode":"e1625ed8338d4950","toSide":"left","color":"4","label":"2"},
+		{"id":"8b34958ad4c00692","fromNode":"c49352d5cd725ff1","fromSide":"bottom","toNode":"b77857ad0f9f1346","toSide":"top","color":"4","label":"3"},
+		{"id":"c6c1e0ff4bba7fad","fromNode":"b77857ad0f9f1346","fromSide":"bottom","toNode":"06db207e2813d8a4","toSide":"top","color":"3","label":"4"}
+	]
+}

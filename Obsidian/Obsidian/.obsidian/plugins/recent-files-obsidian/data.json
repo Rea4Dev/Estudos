@@ -2,15 +2,19 @@
   "recentFiles": [
     {
       "basename": "Algoritmo",
-      "path": "Algoritmo.canvas"
+      "path": "Gerador_Log/Algoritmo.canvas"
     },
     {
       "basename": "Gerador de Log",
-      "path": "Gerador de Log.md"
+      "path": "Gerador_Log/Gerador de Log.md"
     },
     {
-      "basename": "Relacionamentos",
-      "path": "Relacionamentos.canvas"
+      "basename": "C 77.0 - Valores",
+      "path": "C 77.0 - Valores.canvas"
+    },
+    {
+      "basename": "Variáveis Compostas - Vetores Unidimensionais",
+      "path": "‎ Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores Unidimensionais.md"
     }
   ],
   "omittedPaths": [],

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiIndent",
-      "LiSquareDashedBottomCode",
-      "LiLibrarySquare",
-      "LiSquareCode",
-      "LiCodepen"
+      "LiAppWindow",
+      "LiAppWindowMac",
+      "LiCodeXml",
+      "LiFullscreen",
+      "LiCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -55,26 +55,30 @@
     "iconName": "LiComputer",
     "iconColor": "#c82f4b"
   },
-  "‎ Linguagens": {
-    "iconName": "LiCode",
-    "iconColor": "#c82f4b"
-  },
   "‎ Back-End": {
-    "iconName": "LiServer",
+    "iconName": "LiAppWindowMac",
     "iconColor": "#c82f4b"
   },
   "‎ Front-End": {
-    "iconName": "LiScreenShareOff",
-    "iconColor": "#c82f4b"
-  },
-  "‎ Dev": {
-    "iconName": "LiCodeXml",
+    "iconName": "LiAppWindow",
     "iconColor": "#c82f4b"
   },
   "‎ Back-End/Banco de Dados/Relacional": "LiDatabase",
   "‎ Back-End/Banco de Dados/Não Relacional": "LiSquareDashedBottomCode",
   "‎ Índice.md": {
     "iconName": "LiIndent",
+    "iconColor": "#c82f4b"
+  },
+  "Gerador_Log": {
+    "iconName": "LiLogs",
+    "iconColor": "#ab6312"
+  },
+  "‎ Linguagem C": {
+    "iconName": "LiCode",
+    "iconColor": "#c82f4b"
+  },
+  "‎ Python": {
+    "iconName": "LiCode",
     "iconColor": "#c82f4b"
   }
 }

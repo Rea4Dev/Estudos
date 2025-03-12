@@ -66,7 +66,7 @@ C 16 - Para um inteiro de 2 bytes, qual o menor e qual o maior valor possível;;
 
 
 C 17 - Para um inteiro de 4 bytes, qual o menor e qual o maior valor possível;;-2.147.483.648 | 2.147.483.647
-<!--SR:!2025-02-25,27,297-->
+<!--SR:!2025-06-30,111,317-->
 
 
 C 18 - Para que serve o **short** em um **inteiro** e qual o operador;;Fixá-lo como 2 bytes independente da arquitetura. Operador %hd
@@ -237,7 +237,7 @@ C 58 - Isso é permitido?<br>![[Pasted image 20250117201602.png]];;Sim
 <!--SR:!2025-02-14,16,311-->
 
 C 59 - Quantos valores pode retornar uma função?;;Apenas 1
-<!--SR:!2025-02-14,16,311-->
+<!--SR:!2025-05-19,69,331-->
 
 C 60 - O que acontece quando não se declara o tipo de uma função?;;Ela assume int como tipo
 <!--SR:!2025-02-14,16,311-->
@@ -276,7 +276,7 @@ C 71 - Você sugere alguma alteração?<br>![[Pasted image 20250122155648.png]];
 <!--SR:!2025-02-15,17,328-->
 
 C 72 - Deve-se declarar o tipo de um parâmetro em uma função?;;Sim
-<!--SR:!2025-02-27,17,336-->
+<!--SR:!2025-03-20,9,316-->
 
 C 73 - Qualquer expressão válida em C pode ser enviada como argumento para uma função?;;Sim
 <!--SR:!2025-02-27,17,336-->
@@ -300,7 +300,7 @@ C 79 - Qual a natureza do compilador em relação a vetores?;;`Natureza:`<br>- O
 <!--SR:!2025-02-14,1,292-->
 
 C 80 - Defina Vetores;;Variáveis Compostas - Vetores Unidimensionais (vulgarmente chamado de array) não é mais que um conjunto de elementos consecutivos, *todos do mesmo tipo*, que podem ser acessados individualmente a partir de um único nome.
-<!--SR:!2025-02-14,1,292-->
+<!--SR:!2025-03-14,3,292-->
 
 C 81 - A declaração e a carga inicial de um vetor podem ser realizadas sem indicar qual o número de elementos do vetor?;;Sim<br>tipo var\[ ] = { valor1, valor2, …, valorn }<br>Nesse caso, o compilador vai criar um vetor com tantos elementos quantas as cargas iniciais.
 <!--SR:!2025-02-14,1,292-->
