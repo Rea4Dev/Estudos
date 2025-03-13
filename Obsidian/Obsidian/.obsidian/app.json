@@ -8,5 +8,11 @@
   },
   "showInlineTitle": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Organização/Images"
 }

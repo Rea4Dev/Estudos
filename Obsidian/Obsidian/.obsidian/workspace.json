@@ -6,36 +6,41 @@
       {
         "id": "812e7c207878b545",
         "type": "tabs",
+        "dimension": 76.625,
         "children": [
-          {
-            "id": "3febdca0f596367a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Gerador_Log/Algoritmo.canvas",
-                "viewState": {
-                  "x": -36.79597582191269,
-                  "y": 422.93998543837165,
-                  "zoom": -0.25520124205889505
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Algoritmo"
-            }
-          },
           {
             "id": "927104351d173cf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organização/Flashcards/Linguagem C/Conceitual/Flash-Cards C Conceitual.md",
+                "file": "‎ Front-End/Conceitos Básicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flash-Cards C Conceitual"
+              "title": "Conceitos Básicos"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0e14f8d826958853",
+        "type": "tabs",
+        "dimension": 23.375,
+        "children": [
+          {
+            "id": "8e2eacef4f22fd12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organização/Flashcards/Flashcards Front-End.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flashcards Front-End"
             }
           }
         ]
@@ -469,12 +474,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "a57676f25d2f9015",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "horizontal",
@@ -493,56 +508,56 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "3febdca0f596367a",
+  "active": "927104351d173cf8",
   "lastOpenFiles": [
+    "Organização/Flashcards/Flashcards Front-End.md",
+    "‎ Front-End/Conceitos Básicos.md",
+    "Organização/Images/Pasted image 20250312195559.png",
+    "Organização/Images/Pasted image 20250312195143.png",
+    "Organização/Images/Pasted image 20250312194108.png",
+    "Organização/Images/Pasted image 20250312193722.png",
+    "Organização/Images/Pasted image 20250312192546.png",
+    "Organização/Flashcards/Índice de Flashcards.md",
+    "Organização/Flashcards/Computação/Flashcards Computação.md",
+    "Organização/Flashcards/Engenharia de Software/Flashcards Engenharia de Software.md",
+    "Organização/Flashcards/Engenharia de Software/Flashcards Frameworks.md",
+    "Organização/Flashcards/Linguagem C/Flashcards C (Desativado).md",
+    "Organização/Flashcards/Linguagem C/Prático/Flash-Cards C Prático.md",
+    "Organização/Flashcards/Linguagem C/Conceitual/Flash-Cards C Conceitual.md",
+    "‎ Front-End/Índice Front-End.md",
+    "‎ Back-End/Índice Back-End.md",
+    "‎ Back-End/Banco de Dados/Índice Banco de Dados.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md",
+    "‎ Índice.md",
+    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Banco de Dados.md",
+    "‎ ‎ EBAC/Introdução a Programação/Introdução a programação.md",
+    "‎ ‎ EBAC/Índice EBAC.md",
+    "‎ ‎ EBAC/Introdução a Programação",
+    "‎ ‎ EBAC",
+    "‎ Linguagem C/Exercicios/C 77.0 - Valores.canvas",
+    "Gerador_Log/Algoritmo.canvas",
     "Gerador_Log/Gerador de Log.md",
-    "C 77.0 - Valores.canvas",
     "‎ Linguagem C/Exercicios/output",
     "‎ Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores Unidimensionais.md",
-    "Organização/Flashcards/Linguagem C/Conceitual/Flash-Cards C Conceitual.md",
     "‎ Linguagem C/Índice de C.md",
-    "‎ Índice.md",
     "Índice de Linguagens.md",
     "Organização/Images/Pasted image 20250311130121.png",
-    "Gerador_Log/Algoritmo.canvas",
-    "Organização/Flashcards/Linguagem C/Flashcards C.md",
-    "Organização/Flashcards/Índice de Flashcards.md",
-    "Organização/Flashcards/Linguagem C/Prático/Flash-Cards C Prático.md",
     "‎ Linguagem C/Exercicios/C 77.0 - Valores.c",
     "‎ Linguagem C/Exercícios/C 77 - Valores.c",
     "‎ Linguagem C/Exercícios/Ex/C 77 - Valores.c",
     "‎ Linguagem C/Exercícios/Ex",
     "‎ Linguagem C/Exercícios/New folder",
-    "Sem título",
     "‎ Linguagens/Índice de Linguagens.md",
     "‎ Python/1. Formatação do Código e Mandamentos/Formatação do Código e Mandamentos.md",
-    "‎ Back-End/Banco de Dados/Índice Banco de Dados.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md",
     "Gerador_Log",
     "Gerador_Log/Relacionamentos.canvas",
     "Pasted image 20250225135237.png",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Elementos DER e Paralelos.md",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Atributos e Chaves.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Modelo Conceitual - Diagrama Entidade Relacionamento.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DDL.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DCL.md",
     "Pasted image 20250225150617.png",
     "Pasted image 20250225150613.png",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DQL e DML.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Conceitos SQL.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DTL.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DML.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Tipos de Variáveis.md",
-    "Banco de Dados Avançado.md",
     "Organização/Images/Imagem do WhatsApp de 2025-02-21 à(s) 13.37.12_d46cc056.jpg",
-    "Organização/Images/Pasted image 20250224172031.png",
-    "Organização/Images/Pasted image 20250224133804.png",
-    "Pasted image 20250224133746.png",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Banco de Dados.md",
     "‎ Back-End/Banco de Dados/Não Relacional",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/desktop.ini",
-    "Organização/Images/Images 1/Pasted image 20250107121758.png",
-    "Organização/Images/Images/Pasted image 20241025201422.png",
     "Organização/Conteúdos.canvas"
   ]
 }

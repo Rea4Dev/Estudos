@@ -1,4 +1,4 @@
-#flashcards/LinguagemC/Conceitual
+!#flashcards/LinguagemC/Conceitual
 
 C 1 - Como funciona, quando usar e quais as limitações do putchar();;![[Pasted image 20241212175933.png]]
 <!--SR:!2025-04-09,62,317-->

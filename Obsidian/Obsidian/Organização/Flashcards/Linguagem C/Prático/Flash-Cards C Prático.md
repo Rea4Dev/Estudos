@@ -1,4 +1,4 @@
-#flashcards/LinguagemC/Prático
+!#flashcards/LinguagemC/Prático
 
 PC 1 - Faça um programa com quatro variáveis char, fazendo com que as quatro devolva na saída o caractere A de maneiras diferentes. Descreva o nome de cada uma;;![[Pasted image 20241025210944.png]]
 <!--SR:!2025-03-16,41,290-->
