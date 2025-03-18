@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Front-End/Conceitos Básicos.md",
+                "file": "‎ Front-End/Índice Front-End.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceitos Básicos"
+              "title": "Índice Front-End"
             }
           }
         ]
@@ -107,7 +107,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "63c5310921a7f4d3",
@@ -484,12 +485,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "56192d2cb0d50b95",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 33
       }
     ],
     "direction": "horizontal",
@@ -510,54 +521,55 @@
   },
   "active": "927104351d173cf8",
   "lastOpenFiles": [
+    "‎ Front-End/Meta.md",
+    "‎ Front-End/Índice Front-End.md",
     "Organização/Flashcards/Flashcards Front-End.md",
+    "‎ Front-End/URL e URI.md",
+    "teste.html",
+    "‎ Front-End/Parsing e Renderização.md",
+    "Organização/Images/Pasted image 20250317200329.png",
+    "Organização/Images/Pasted image 20250317192901.png",
+    "Organização/Images/Pasted image 20250317183552.png",
+    "Organização/Images/Pasted image 20250317182855.png",
+    "Organização/Images/Pasted image 20250317182808.png",
+    "‎ Front-End/Estrutura de uma página HTML.md",
+    "‎ Front-End/Elementos Vazios.md",
+    "‎ Front-End/Aninhando Elementos.md",
+    "‎ Front-End/Atributo.md",
+    "‎ Front-End/Elemento, tag e conteúdo.md",
+    "‎ Front-End/Como funciona o Front-End.md",
+    "‎ Front-End/Links.md",
+    "‎ Front-End/Listas.md",
+    "‎ Front-End/Parágrafos.md",
+    "‎ Front-End/Títulos.md",
+    "Organização/Images/Pasted image 20250317180256.png",
+    "Organização/Images/Pasted image 20250317175504.png",
+    "‎ Front-End/Title.md",
+    "‎ Front-End/Próximos passos.md",
+    "‎ Front-End/Como exercitar.md",
+    "Organização/Images/Pasted image 20250317173609.png",
+    "Organização/Images/Pasted image 20250317173537.png",
+    "Organização/Images/Pasted image 20250317173118.png",
+    "‎ Front-End/HTML Semântico.md",
+    "‎ Front-End/Nomenclatura Anatômica HTML.md",
     "‎ Front-End/Conceitos Básicos.md",
-    "Organização/Images/Pasted image 20250312195559.png",
-    "Organização/Images/Pasted image 20250312195143.png",
-    "Organização/Images/Pasted image 20250312194108.png",
-    "Organização/Images/Pasted image 20250312193722.png",
-    "Organização/Images/Pasted image 20250312192546.png",
     "Organização/Flashcards/Índice de Flashcards.md",
     "Organização/Flashcards/Computação/Flashcards Computação.md",
     "Organização/Flashcards/Engenharia de Software/Flashcards Engenharia de Software.md",
     "Organização/Flashcards/Engenharia de Software/Flashcards Frameworks.md",
     "Organização/Flashcards/Linguagem C/Flashcards C (Desativado).md",
-    "Organização/Flashcards/Linguagem C/Prático/Flash-Cards C Prático.md",
-    "Organização/Flashcards/Linguagem C/Conceitual/Flash-Cards C Conceitual.md",
-    "‎ Front-End/Índice Front-End.md",
-    "‎ Back-End/Índice Back-End.md",
-    "‎ Back-End/Banco de Dados/Índice Banco de Dados.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md",
-    "‎ Índice.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Banco de Dados.md",
-    "‎ ‎ EBAC/Introdução a Programação/Introdução a programação.md",
-    "‎ ‎ EBAC/Índice EBAC.md",
     "‎ ‎ EBAC/Introdução a Programação",
     "‎ ‎ EBAC",
     "‎ Linguagem C/Exercicios/C 77.0 - Valores.canvas",
     "Gerador_Log/Algoritmo.canvas",
-    "Gerador_Log/Gerador de Log.md",
     "‎ Linguagem C/Exercicios/output",
-    "‎ Linguagem C/Estudos/Lógica de Programação/10. Vetores/Variáveis Compostas - Vetores Unidimensionais.md",
-    "‎ Linguagem C/Índice de C.md",
-    "Índice de Linguagens.md",
-    "Organização/Images/Pasted image 20250311130121.png",
     "‎ Linguagem C/Exercicios/C 77.0 - Valores.c",
     "‎ Linguagem C/Exercícios/C 77 - Valores.c",
     "‎ Linguagem C/Exercícios/Ex/C 77 - Valores.c",
     "‎ Linguagem C/Exercícios/Ex",
     "‎ Linguagem C/Exercícios/New folder",
-    "‎ Linguagens/Índice de Linguagens.md",
-    "‎ Python/1. Formatação do Código e Mandamentos/Formatação do Código e Mandamentos.md",
     "Gerador_Log",
     "Gerador_Log/Relacionamentos.canvas",
-    "Pasted image 20250225135237.png",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Elementos DER e Paralelos.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Atributos e Chaves.md",
-    "Pasted image 20250225150617.png",
-    "Pasted image 20250225150613.png",
-    "Organização/Images/Imagem do WhatsApp de 2025-02-21 à(s) 13.37.12_d46cc056.jpg",
-    "‎ Back-End/Banco de Dados/Não Relacional",
     "Organização/Conteúdos.canvas"
   ]
 }

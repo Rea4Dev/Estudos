@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Conceitos Básicos",
-      "path": "‎ Front-End/Conceitos Básicos.md"
+      "basename": "Índice Front-End",
+      "path": "‎ Front-End/Índice Front-End.md"
+    },
+    {
+      "basename": "Meta",
+      "path": "‎ Front-End/Meta.md"
     },
     {
       "basename": "Flashcards Front-End",
       "path": "Organização/Flashcards/Flashcards Front-End.md"
     },
     {
-      "basename": "Índice de Flashcards",
-      "path": "Organização/Flashcards/Índice de Flashcards.md"
-    },
-    {
-      "basename": "Flashcards Computação",
-      "path": "Organização/Flashcards/Computação/Flashcards Computação.md"
+      "basename": "URL e URI",
+      "path": "‎ Front-End/URL e URI.md"
     }
   ],
   "omittedPaths": [],
