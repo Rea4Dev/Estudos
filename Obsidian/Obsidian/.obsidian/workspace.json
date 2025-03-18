@@ -1,46 +1,20 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "d295832e5894d59b",
     "type": "split",
     "children": [
       {
-        "id": "812e7c207878b545",
+        "id": "77191b7415c8bc84",
         "type": "tabs",
-        "dimension": 76.625,
         "children": [
           {
-            "id": "927104351d173cf8",
+            "id": "38e71dd067457290",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "‎ Front-End/Índice Front-End.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Índice Front-End"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0e14f8d826958853",
-        "type": "tabs",
-        "dimension": 23.375,
-        "children": [
-          {
-            "id": "8e2eacef4f22fd12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organização/Flashcards/Flashcards Front-End.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flashcards Front-End"
+              "title": "Nova aba"
             }
           }
         ]
@@ -49,16 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "304264ee8fd8e711",
+    "id": "dd392f6e6b728865",
     "type": "split",
     "children": [
       {
-        "id": "37c4b45ef8df5189",
+        "id": "be82a4c414db897d",
         "type": "tabs",
-        "dimension": 65.65961732124875,
         "children": [
           {
-            "id": "8d102bfc8ca0fe02",
+            "id": "2e7ba149b9eca226",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,7 +44,7 @@
             }
           },
           {
-            "id": "16af3f6d8665db49",
+            "id": "eb71d73e36ffe568",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -88,7 +61,7 @@
             }
           },
           {
-            "id": "8869fd37e0483e14",
+            "id": "1230e7c2eecadaef",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,51 +69,23 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
-          },
-          {
-            "id": "db4d265d267373ef",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "63c5310921a7f4d3",
-        "type": "tabs",
-        "dimension": 34.340382678751254,
-        "children": [
-          {
-            "id": "5204732a4e7846ac",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "532c7051395d91f2",
+    "id": "83e3378c9dd072de",
     "type": "split",
     "children": [
       {
-        "id": "262d3cb449f64ae8",
+        "id": "ed60994044b0cfc7",
         "type": "tabs",
         "children": [
           {
-            "id": "572163cd1ac973f2",
+            "id": "9e07d559b29a691b",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -158,7 +103,7 @@
             }
           },
           {
-            "id": "fec272d5450db9d5",
+            "id": "04722726ce8ec221",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -171,7 +116,7 @@
             }
           },
           {
-            "id": "fa47f03b8b3cca55",
+            "id": "ccc4e815cb477889",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -186,7 +131,7 @@
             }
           },
           {
-            "id": "f5f21a9c9c34d0ab",
+            "id": "9c44a0c80f4bfd99",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -200,297 +145,7 @@
             }
           },
           {
-            "id": "f0c9d63489e1423f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "6b40500123e52463",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "a0850c968999c694",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "caad440f57df53eb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "6625aa688f22180f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "3788db51e6f678a5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "56cf0a76b0e1d792",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "ad023439facdc394",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "a7b71ca1041d1f13",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "bbe65bc3b9edbba9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "5c5c24808eaf8e50",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "c3f8fe470dd5eb84",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "f8850a7309a7308f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "7aad97ef17400040",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "fe7b03ff8fadb133",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "2bd6f85f6d65fa23",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "260cc4255ecd0dd7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "30389985d8b71cc1",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "dacbd8025010d2bd",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "593b8940c443be6e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "e073abdb656b8ea9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "de28825a5f209461",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "4f84c6d4ead2afc1",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "d44b9888379c73fc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "357ca3cedb609542",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "dfbb6128ceb9f9ff",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "36db941c994dc3c0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "992f2fc740827bdf",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "a57676f25d2f9015",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "56192d2cb0d50b95",
+            "id": "9edd171f6dedb081",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -500,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 33
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -519,57 +174,6 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "927104351d173cf8",
-  "lastOpenFiles": [
-    "‎ Front-End/Meta.md",
-    "‎ Front-End/Índice Front-End.md",
-    "Organização/Flashcards/Flashcards Front-End.md",
-    "‎ Front-End/URL e URI.md",
-    "teste.html",
-    "‎ Front-End/Parsing e Renderização.md",
-    "Organização/Images/Pasted image 20250317200329.png",
-    "Organização/Images/Pasted image 20250317192901.png",
-    "Organização/Images/Pasted image 20250317183552.png",
-    "Organização/Images/Pasted image 20250317182855.png",
-    "Organização/Images/Pasted image 20250317182808.png",
-    "‎ Front-End/Estrutura de uma página HTML.md",
-    "‎ Front-End/Elementos Vazios.md",
-    "‎ Front-End/Aninhando Elementos.md",
-    "‎ Front-End/Atributo.md",
-    "‎ Front-End/Elemento, tag e conteúdo.md",
-    "‎ Front-End/Como funciona o Front-End.md",
-    "‎ Front-End/Links.md",
-    "‎ Front-End/Listas.md",
-    "‎ Front-End/Parágrafos.md",
-    "‎ Front-End/Títulos.md",
-    "Organização/Images/Pasted image 20250317180256.png",
-    "Organização/Images/Pasted image 20250317175504.png",
-    "‎ Front-End/Title.md",
-    "‎ Front-End/Próximos passos.md",
-    "‎ Front-End/Como exercitar.md",
-    "Organização/Images/Pasted image 20250317173609.png",
-    "Organização/Images/Pasted image 20250317173537.png",
-    "Organização/Images/Pasted image 20250317173118.png",
-    "‎ Front-End/HTML Semântico.md",
-    "‎ Front-End/Nomenclatura Anatômica HTML.md",
-    "‎ Front-End/Conceitos Básicos.md",
-    "Organização/Flashcards/Índice de Flashcards.md",
-    "Organização/Flashcards/Computação/Flashcards Computação.md",
-    "Organização/Flashcards/Engenharia de Software/Flashcards Engenharia de Software.md",
-    "Organização/Flashcards/Engenharia de Software/Flashcards Frameworks.md",
-    "Organização/Flashcards/Linguagem C/Flashcards C (Desativado).md",
-    "‎ ‎ EBAC/Introdução a Programação",
-    "‎ ‎ EBAC",
-    "‎ Linguagem C/Exercicios/C 77.0 - Valores.canvas",
-    "Gerador_Log/Algoritmo.canvas",
-    "‎ Linguagem C/Exercicios/output",
-    "‎ Linguagem C/Exercicios/C 77.0 - Valores.c",
-    "‎ Linguagem C/Exercícios/C 77 - Valores.c",
-    "‎ Linguagem C/Exercícios/Ex/C 77 - Valores.c",
-    "‎ Linguagem C/Exercícios/Ex",
-    "‎ Linguagem C/Exercícios/New folder",
-    "Gerador_Log",
-    "Gerador_Log/Relacionamentos.canvas",
-    "Organização/Conteúdos.canvas"
-  ]
+  "active": "9edd171f6dedb081",
+  "lastOpenFiles": []
 }

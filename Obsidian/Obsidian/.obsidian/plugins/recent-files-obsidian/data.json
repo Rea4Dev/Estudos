@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
+      "basename": "DQL e DML",
+      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DQL e DML.md"
+    },
+    {
+      "basename": "Introdução ao Banco de Dados e SQL",
+      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md"
+    },
+    {
+      "basename": "DTL",
+      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DTL.md"
+    },
+    {
+      "basename": "DCL",
+      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DCL.md"
+=======
       "basename": "Índice Front-End",
       "path": "‎ Front-End/Índice Front-End.md"
     },
@@ -15,6 +31,7 @@
     {
       "basename": "URL e URI",
       "path": "‎ Front-End/URL e URI.md"
+>>>>>>> d05782c4b2a179728477d988d98fdb6c036acad9
     }
   ],
   "omittedPaths": [],

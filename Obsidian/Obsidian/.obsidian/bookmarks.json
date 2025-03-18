@@ -1,4 +1,7 @@
 {
+<<<<<<< HEAD
+  "items": []
+=======
   "items": [
     {
       "type": "file",
@@ -6,4 +9,5 @@
       "path": "‎ Front-End/Índice Front-End.md"
     }
   ]
+>>>>>>> d05782c4b2a179728477d988d98fdb6c036acad9
 }

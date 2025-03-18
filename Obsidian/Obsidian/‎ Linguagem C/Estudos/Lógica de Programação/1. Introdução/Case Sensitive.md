@@ -1,1 +1,0 @@
-É necessário não esquecer que C é Case Sensitive, isto é, faz diferenciação entre maiúsculas e minúsculas, não sendo portanto a mesma coisa escrever main(), Main(), MAIN() ou mAiN(). Todas as instruções de C são escritas com letra minúscula, e *só se deve utilizar letras maiúsculas quando desejarmos utilizar variáveis, mensagens ou funções escritas por nós*.
