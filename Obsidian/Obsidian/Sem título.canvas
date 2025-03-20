@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"18a13b794f152a62","x":-440,"y":-220,"width":250,"height":60,"color":"4","type":"text","text":"Quando vazio"},
+		{"id":"4125fe60834b273a","x":-440,"y":-120,"width":250,"height":60,"color":"4","type":"text","text":"Quando 1 errado"},
+		{"id":"b347e25e44b8065a","x":-440,"y":-20,"width":250,"height":60,"color":"4","type":"text","text":"Mais de 1 errado"},
+		{"id":"80185c1341e04c3a","x":-440,"y":80,"width":250,"height":60,"color":"4","type":"text","text":"Fora de ordem"},
+		{"id":"f22a741cac871000","x":-480,"y":-340,"width":340,"height":60,"color":"4","type":"text","text":"Para 10"},
+		{"id":"eb35a6d77acdf273","type":"text","text":"Quando vazio (1min 40sec)","x":120,"y":-220,"width":250,"height":60,"color":"4"},
+		{"id":"f97e065fde3bf822","type":"text","text":"Quando 1 errado","x":120,"y":-120,"width":250,"height":60},
+		{"id":"57dc2556a33decf8","type":"text","text":"Mais de 1 errado","x":120,"y":-20,"width":250,"height":60},
+		{"id":"3c115e29fe2354ad","type":"text","text":"Fora de ordem","x":120,"y":80,"width":250,"height":60},
+		{"id":"328b8b3b5dca1e00","type":"text","text":"Código Para 2500","x":80,"y":-340,"width":340,"height":60},
+		{"id":"8ebc5e2c0a298880","x":120,"y":-440,"width":250,"height":60,"color":"4","type":"text","text":"Query 2500 isolada (1 min 40sec)"}
+	],
+	"edges":[]
+}

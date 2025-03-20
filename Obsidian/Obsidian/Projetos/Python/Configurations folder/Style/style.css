@@ -1,0 +1,211 @@
+/* <link rel="stylesheet" href="../Jupyter Style/style.css">  */
+* {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+ul li {
+  margin-bottom: 9px; 
+}
+#center{
+  text-align:center;
+}
+.red{
+  color:#C82F4B;
+}
+span{
+  animation: blue 1s linear infinite alternate;
+  color:#6990C3;
+  transition: transform 0.5s ease-in-out;
+}
+.blue{
+  color:#6990C3;
+}
+.fonte{
+  color:#C82F4B;
+  font-size: smaller;
+}
+h1{
+  animation: white 1s linear infinite alternate;
+  transition: transform 0.5s ease-in-out;
+  text-align:center;
+  font-weight: 700;
+}
+h2{
+  animation: white 1s linear infinite alternate;
+  transition: transform 0.5s ease-in-out;
+  text-align:center;
+}
+h3{
+  animation: red 1s linear infinite alternate;
+  color:#C82F4B;
+  transition: transform 0.5s ease-in-out;
+  text-align:center;
+  font-weight: 700;
+}
+.green{
+  color:#5AA695;
+}
+h4{
+  animation: blue 1s linear infinite alternate;
+  color:#6990C3;
+  transition: transform 0.5s ease-in-out;
+  /* text-align:center; */
+  font-weight: 700;
+}
+h5{
+  animation: green 1s linear infinite alternate;
+  color:#5AA695;
+  transition: transform 0.5s ease-in-out;
+  /* text-align:center; */
+  font-weight: 700;
+}
+h6{
+  animation: sub 1s linear infinite alternate;
+  color:#989F7A;
+  transition: transform 0.5s ease-in-out;
+  /* text-align:center; */
+  font-weight: 700;
+  font-size: 110%;
+}
+p{
+  /* text-align: center; */
+  font-size: 88%;
+  color: white;
+}
+
+.white-neon{
+  animation: white 1s linear infinite alternate;
+  transition: transform 0.5s ease-in-out;
+  color:white;
+  /* height: 100px; */
+}
+.white-neon:hover{
+  animation-play-state:paused;
+  transform:scale(1.1);
+}
+h1:hover{
+  animation-play-state:paused;
+  transform:scale(1.1);
+}
+h2:hover{
+  animation-play-state:paused;
+  transform:scale(1.1);
+}
+@keyframes white{
+  from{
+    text-shadow:2px 2px 10px;
+    color:white;
+  }
+  50%{
+    text-shadow:2px 2px 15px;
+    color:white;
+  }
+  to{
+    text-shadow:2px 2px 20px;
+    color:white;
+  }
+}
+
+.red-neon{
+  animation: red 1s linear infinite alternate;
+  color:#C82F4B;
+  transition: transform 0.5s ease-in-out;
+}
+.red-neon:hover{
+  animation-play-state:paused;
+  transform:scale(1.01);
+}
+h3:hover{
+  animation-play-state:paused;
+  transform:scale(1.01);
+}
+@keyframes red{
+  from{
+    text-shadow:2px 2px 10px #C82F4B;
+  }
+  50%{
+    text-shadow:2px 2px 15px #C82F4B;
+  }
+  to{
+    text-shadow:2px 2px 20px #c82f4b;
+  }
+}
+
+
+.blue-neon{
+  animation: blue 1s linear infinite alternate;
+  color:#6990C3;
+  transition: transform 0.5s ease-in-out;
+}
+.blue-neon:hover{
+  animation-play-state:paused;
+  transform:scale(1.01);
+}
+h4:hover{
+  animation-play-state:paused;
+  transform:scale(1.01);
+}
+@keyframes blue{
+  from{
+    text-shadow:2px 2px 10px #6990C3;
+  }
+  50%{
+    text-shadow:2px 2px 15px #6990C3;
+  }
+  to{
+    text-shadow:2px 2px 20px #6990C3;
+  }
+}
+
+  .green-neon{
+    animation: green 1s linear infinite alternate;
+    color:#989F7A ;
+    transition: transform 0.5s ease-in-out;
+  }
+  .green-neon:hover{
+    animation-play-state:paused;
+    transform:scale(1.01);
+  }
+  h5:hover{
+    animation-play-state:paused;
+    transform:scale(1.01);
+  }
+  h6:hover{
+    animation-play-state:paused;
+    transform:scale(1.01);
+  }
+  @keyframes green{
+    from{
+      text-shadow:2px 2px 10px #5AA695;
+    }
+    50%{
+      text-shadow:2px 2px 15px #5AA695;
+    }
+    to{
+      text-shadow:2px 2px 20px #5AA695;
+    }
+}
+
+.sub{
+  animation: sub 1s linear infinite alternate;
+  color:#989F7A; /* 5AA695 */
+  transition: transform 0.5s ease-in-out;
+  font-size: 115%;
+  font-weight: 500;
+}
+.sub:hover{
+  animation-play-state:paused;
+  transform:scale(1.01);
+}
+@keyframes sub{
+  from{
+    text-shadow:2px 2px 10px #989F7A;
+  }
+  50%{
+    text-shadow:2px 2px 15px #989F7A;
+  }
+  to{
+    text-shadow:2px 2px 20px #989F7A;
+  }
+}

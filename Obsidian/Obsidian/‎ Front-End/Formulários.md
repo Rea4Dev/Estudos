@@ -1,3 +1,4 @@
+A função dos formulários é *recolher dados* e *enviar para o servidor* para processamento.
 Abaixo, temos um exemplo genérico e comum do que costuma ser um formulário nos sites.
 ![[Pasted image 20250318230311.png | center]]
 
