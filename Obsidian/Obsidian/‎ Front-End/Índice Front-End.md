@@ -12,9 +12,8 @@
 		3. [[Aninhando Elementos]]
 		4. [[Elementos Vazios]]
 		5. [[Estrutura de uma página HTML]]
-		6. [[HTML Semântico]]
-		7. [[Como exercitar]]
-		8. [[Próximos passos]]
+		6. [[Como exercitar]]
+		7. [[Próximos passos]]
 	2. <span style="color:#C82F4B">Tags Head</span>
 		1. [[Title]]
 		2. [[Meta]]
@@ -23,3 +22,8 @@
 		2. [[Parágrafos]]
 		3. [[Listas]]
 		4. [[Links]]
+	4. [[HTML Semântico]]
+	5. [[Formulários]]
+
+- [[Flashcards Front-end]]
+https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element

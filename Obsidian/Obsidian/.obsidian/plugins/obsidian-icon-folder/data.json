@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiHeart",
+      "LiNotebookTabs",
+      "LiComputer",
+      "LiCode",
+      "LiTvMinimal"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,12 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "‎ Back-End": "LiServer",
+  "‎ Back-End/Banco de Dados": "LiDatabase",
+  "‎ Back-End/Banco de Dados/Não Relacional": "LiSquareDashedBottomCode",
+  "‎ Back-End/Banco de Dados/Relacional": "LiTable",
+  "‎ Front-End": "LiTvMinimal",
+  "‎ Python": "LiCode",
+  "Organização": "LiHeart"
 }

@@ -1,3 +1,5 @@
+Podemos entender semântica como a ciência que estuda o significado das palavras, signos e símbolos.
+
 O HTML semântico é uma *forma de estruturar* o código que utiliza *tags que descrevem claramente* o papel de cada parte do conteúdo. 
 
 Isso **facilita a leitura e manutenção** do código, melhora a **acessibilidade** e ainda ajuda no **SEO** (otimização para mecanismos de busca).
@@ -20,14 +22,18 @@ Lembre, todas as tags abaixo são pertencentes ao body.
 - `<main>`: Delimita o conteúdo principal do documento.
 - `<section>`: Agrupa conteúdo relacionado, geralmente com um tema em comum.
 - `<article>`: Utilizada para conteúdos independentes e autônomos, como posts de blog ou notícias.
-- `<aside>`: Representa conteúdo tangencial ao conteúdo principal, como barras laterais ou citações.
+- `<aside>`: Representa conteúdo tangencial (não essencial) ao conteúdo principal, como barras laterais ou citações.
 - `<footer>`: Define o rodapé da página ou seção, com informações complementares ou de autoria.
+
+![[Pasted image 20250318222326.png | center]]
 
 Não se preocupe, sabendo da existência e buscando ser semântico é o caminho certo para cada vez mais melhorar sua semântica. Não quero que isso seja um impeditivo para codificar.
 
 ## Exemplo de Código
-Fique calmo, por hora você idealmente não conhece nenhuma das tags abaixo, mas a título de ilustração e visita futura, fica abaixo um exemplo:
+Veja abaixo uma estrutura não semântica (esquerda) ao lado de sua versão semântica:
+![[Pasted image 20250318221851.png]]
 
+Abaixo temos um exemplo mais real, mas apenas a título de curiosidade. Você não precisa entender nada do que está abaixo agora, no máximo talvez consultar no futuro.
 ```html
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -66,4 +72,3 @@ Fique calmo, por hora você idealmente não conhece nenhuma das tags abaixo, mas
 </body>
 </html>
 ```
-

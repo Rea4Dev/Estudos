@@ -1,45 +1,40 @@
 {
   "recentFiles": [
     {
-<<<<<<< HEAD
-      "basename": "DQL e DML",
-      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DQL e DML.md"
+      "basename": "Formulários",
+      "path": "‎ Front-End/Formulários.md"
     },
     {
-      "basename": "Introdução ao Banco de Dados e SQL",
-      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md"
-    },
-    {
-      "basename": "DTL",
-      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DTL.md"
-    },
-    {
-      "basename": "DCL",
-      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DCL.md"
-=======
       "basename": "Índice Front-End",
       "path": "‎ Front-End/Índice Front-End.md"
+    },
+    {
+      "basename": "HTML Semântico",
+      "path": "‎ Front-End/HTML Semântico.md"
+    },
+    {
+      "basename": "Title",
+      "path": "‎ Front-End/Title.md"
+    },
+    {
+      "basename": "Títulos",
+      "path": "‎ Front-End/Títulos.md"
     },
     {
       "basename": "Meta",
       "path": "‎ Front-End/Meta.md"
     },
     {
-      "basename": "Flashcards Front-End",
-      "path": "Organização/Flashcards/Flashcards Front-End.md"
+      "basename": "Flashcards Front-end",
+      "path": "‎ Front-End/Flashcards Front-end.md"
     },
     {
-      "basename": "URL e URI",
-      "path": "‎ Front-End/URL e URI.md"
->>>>>>> d05782c4b2a179728477d988d98fdb6c036acad9
+      "basename": "Índice de Python",
+      "path": "‎ Python/Índice de Python.md"
     }
   ],
   "omittedPaths": [],
-  "omittedTags": [
-    "ignore",
-    "Images/"
-  ],
+  "omittedTags": [],
   "updateOn": "file-open",
-  "omitBookmarks": false,
-  "maxLength": 4
+  "omitBookmarks": false
 }
