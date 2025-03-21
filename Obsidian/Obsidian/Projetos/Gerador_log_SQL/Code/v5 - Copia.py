@@ -94,7 +94,7 @@ def verificar_historico(lista_dados_bd, comandos_sql):
                 "\nIniciando processo de percorrer Banco de Dados e Histórico\033[0;37m\n")
 
 def comparar_lista_com_csv(lista_dados_bd):
-    with open('historico.csv', 'r', newline='', encoding='latin1') as historico:
+    with open('historico.csv', 'r+', newline='', encoding='latin1') as historico:
         lista_historico = list(csv.reader(historico, delimiter=','))
         ids_historico = [linha_historico[13] for linha_historico in lista_historico[1:] if len(linha_historico) > 13]
 
@@ -102,13 +102,14 @@ def comparar_lista_com_csv(lista_dados_bd):
             id_lista_bd = str(linha[13])  
             
             if id_lista_bd in ids_historico:
-                status_lista_bd = linha[8]  # Obtém o status da lista_dados_bd
-                status_historico = lista_historico[ids_historico.index(id_lista_bd) + 1][8]  # Obtém o status correspondente no histórico
+                status_lista_bd = linha[8]  
+                status_historico = lista_historico[ids_historico.index(id_lista_bd) + 1][8] 
 
                 if status_lista_bd == status_historico:
-                    print(f'ID: {id_lista_bd} encontrado no arquivo historico.csv com status correspondente: {status_lista_bd}')
+                    print(f'\033[0;30mID: {id_lista_bd} encontrado no arquivo historico.csv com status correspondente: {status_lista_bd}\033[0;37m')
                 else:
-                    print(f'ID: {id_lista_bd} encontrado no arquivo historico.csv, mas com status diferente (BD: {status_lista_bd}, Histórico: {status_historico})')
+                    print(f'\033[1;30mID: {id_lista_bd} encontrado no arquivo historico.csv, mas com status diferente (BD: {status_lista_bd}, Histórico: {status_historico}\033[0;37m)')
+                    csv.writer(historico).writerow(linha) 
             else:
                 print(f'ID: {id_lista_bd} não encontrado no arquivo historico.csv')
 

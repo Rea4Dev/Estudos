@@ -11,17 +11,14 @@
             "id": "b046d0bf7592f021",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sem título.canvas",
-                "viewState": {
-                  "x": 73.65600280975349,
-                  "y": -112.71600429977434,
-                  "zoom": 0
-                }
+                "file": "‎ Front-End/Formulários.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sem título"
+              "icon": "lucide-file",
+              "title": "Formulários"
             }
           }
         ]
@@ -223,12 +220,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "8a2d9772ce14e478",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -247,11 +254,13 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "c2ac059802c88dbb",
+  "active": "b046d0bf7592f021",
   "lastOpenFiles": [
-    "‎ Front-End/Formulários.md",
-    "Sem título.canvas",
     "‎ Front-End/Índice Front-End.md",
+    "Sem título 1.canvas",
+    "Sem título",
+    "Projetos/Sem título.canvas",
+    "‎ Front-End/Formulários.md",
     "‎ Front-End/Links.md",
     "Organização/Images/Pasted image 20250318230401.png",
     "Organização/Images/Pasted image 20250318230311.png",
