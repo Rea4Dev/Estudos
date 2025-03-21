@@ -213,12 +213,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c2ac059802c88dbb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -237,7 +247,7 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "b046d0bf7592f021",
+  "active": "c2ac059802c88dbb",
   "lastOpenFiles": [
     "‎ Front-End/Formulários.md",
     "Sem título.canvas",
