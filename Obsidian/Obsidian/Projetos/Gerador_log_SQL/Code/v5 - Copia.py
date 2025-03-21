@@ -94,7 +94,7 @@ def verificar_historico(lista_dados_bd, comandos_sql):
                 "\nIniciando processo de percorrer Banco de Dados e Histórico\033[0;37m\n")
 
 def comparar_lista_com_csv(lista_dados_bd):
-    with open('historico.csv', 'r', newline='', encoding='utf-8') as historico:
+    with open('historico.csv', 'r', newline='', encoding='latin1') as historico:
         lista_historico = list(csv.reader(historico, delimiter=','))
         ids_historico = [linha_historico[13] for linha_historico in lista_historico[1:] if len(linha_historico) > 13]
 
@@ -120,13 +120,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-#   File "c:\Users\RENGCARV.ADPRDEMB\OneDrive - Embraer\Documents\GitHub\Estudos\Obsidian\Obsidian\Projetos\Gerador_log_SQL\Code\v5 - Copia.py", line 122, in <module>    main()
-#    ~~~~^^
-#  File "c:\Users\RENGCARV.ADPRDEMB\OneDrive - Embraer\Documents\GitHub\Estudos\Obsidian\Obsidian\Projetos\Gerador_log_SQL\Code\v5 - Copia.py", line 119, in main    
-#    comparar_lista_com_csv(lista_dados_bd)
-#    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
-#  File "c:\Users\RENGCARV.ADPRDEMB\OneDrive - Embraer\Documents\GitHub\Estudos\Obsidian\Obsidian\Projetos\Gerador_log_SQL\Code\v5 - Copia.py", line 98, in comparar_lista_com_csv
-#    lista_historico = list(csv.reader(historico, delimiter=','))
-#  File "<frozen codecs>", line 325, in decode
-#UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc7 in position 27: invalid continuation byte 
