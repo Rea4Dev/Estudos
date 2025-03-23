@@ -7,7 +7,8 @@ Para ela, teríamos o seguinte código HTML.
 
 ---
 
-## Form
+## *Form*
+
 ```HTML
 <form action="processa_formulario.php" method="get">
 (...)
@@ -22,7 +23,9 @@ Para ela, teríamos o seguinte código HTML.
 		<br><br>- Para post:   <br>a informação será enviada para o payload, não aparecendo na URL. Método favorito caso seja formulário de login.</small>
 
 ---
-## Label
+
+## *Label*
+
 ```HTML
 <form action="processa_formulario.php" method="get">
 
@@ -42,7 +45,9 @@ Seu uso também é muito importante pela questão de acessibilidade, pois auxili
 	*for*: <small>Onde colocamos a informação para relacionar com os subsequentes elementos, como o id do imput.</small>
 
 ---
-## Input
+
+## *Input*
+
 ```HTML
 <form action="processa_formulario.php" method="get">
 
@@ -77,7 +82,9 @@ Define um campo de entrada de dados dentro de um formulário, podendo ser de div
 	*placeholder:* <small>Texto pré-preenchido que some quando o usuário clica.</small>
 
 ---
-## Select + Option
+
+## *Select + Option*
+
 ```HTML
 <form action="processa_formulario.php" method="get">
 
@@ -119,7 +126,9 @@ Define um menu suspenso em um formulário, permitindo que o usuário escolha uma
 	*Selected:* <small>Usado quando queremos que o formulário seja carregado com uma opção pré-selecionada</small>
 
 ---
-## Text Area
+
+## *Text Area*
+
 ```HTML
 <form action="processa_formulario.php" method="get">
 
@@ -167,7 +176,9 @@ Area de texto multiline, permitindo que o usuário insira e edite grandes quanti
 	*Rows:* <small>Meramente por tamanho também (não limita), define quantas linhas.</small>
 
 ---
-## Button
+
+## *Button*
+
 ```HTML
 <form action="processa_formulario.php" method="get">
 

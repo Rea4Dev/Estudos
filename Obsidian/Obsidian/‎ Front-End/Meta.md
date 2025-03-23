@@ -7,7 +7,7 @@ Contém metadados do documento, como `charset` e `viewport`, que são importa
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 (...)
 ```
-### Meta Charset
+### *Meta Charset*
 
 A tag `<meta charset="UTF-8">` define a **codificação de caracteres** que o navegador deve usar para renderizar o conteúdo da página. No Brasil usamos UTF-8.
 
@@ -18,7 +18,7 @@ A tag `<meta charset="UTF-8">` define a **codificação de caracteres** que o na
 - **Resumo:**  
     Ela atua como um “tradutor” que informa ao navegador como interpretar os bytes do arquivo HTML como texto legível.
 
-### Meta Viewport
+### *Meta Viewport*
 
 A tag `<meta name="viewport" content="width=device-width, initial-scale=1.0">` é essencial para a **responsividade** das páginas, principalmente em dispositivos móveis.
 

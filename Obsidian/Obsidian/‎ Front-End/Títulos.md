@@ -4,17 +4,18 @@ A tag `<h1>` define o título principal de uma página ou seção. É a mais imp
 ```
 
 > "h1" significa "Header 1", que é "Título 1".
-## Hierarquia de Títulos
+## *Hierarquia de Títulos*
+
 Como pode perceber, há uma hierarquia nos títulos, semântica, lógica e visual.
 A hierarquia de títulos em HTML vai de `<h1>` a `<h6>`, onde `<h1>` é o mais importante e `<h6>` o menos. Ela ajuda na organização do conteúdo, acessibilidade e SEO (otimização para mecanismos de busca).
 
-### **Ordem correta de uso:**
+##### *Ordem correta de uso:*
 
 1. `<h1>` – Título principal da página (deve haver apenas um por página).
 2. `<h2>` – Subtítulos diretos do `<h1>`.
 3. `<h3>` – Subtítulos dentro de um `<h2>`, e assim por diante até `<h6>`.
 
-### **Exemplo de estrutura correta:**
+##### *Exemplo de estrutura correta:*
 
 ```html
 <h1>Guia de HTML</h1>
@@ -35,7 +36,7 @@ A hierarquia de títulos em HTML vai de `<h1>` a `<h6>`, onde `<h1>` é o mais i
 
 ![[Pasted image 20250317175504.png | center | 400]]
 
-### **Boas práticas:**
+##### *Boas práticas:*
 
 ✅ Use títulos em ordem lógica (não pule do `<h1>` para `<h4>`).  
 ✅ Apenas um `<h1>` por página.  

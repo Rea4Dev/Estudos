@@ -1,4 +1,5 @@
-## Live Server
+## *Live Server*
+
 Será necessário ter a extensão live server instalada.
 
 Normalmente, ao criar um arquivo HTML, ao ser clicado, ele abriria uma aba no navegador mostrando o arquivo. Entretanto, desta forma, você teria que abrir o arquivo a cada alteração feita...
@@ -9,7 +10,8 @@ Ao clicar mais uma vez, este live server seria encerrado, permitindo outro ser a
 Live server pode ser clicado no ícone no canto inferior direito, em (Go Live).
 ![[Pasted image 20250317173609.png]]
 
-## Estruturação
+## *Estruturação*
+
 Você possuirá uma pasta principal onde terá arquivos .html que serão seus exercícios. 
 Uma recomendação é colocar em ordem crescente de número jutamente a um título.
 ![[Pasted image 20250317173118.png]]

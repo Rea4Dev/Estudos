@@ -4,17 +4,18 @@ O HTML semântico é uma *forma de estruturar* o código que utiliza *tags que d
 
 Isso **facilita a leitura e manutenção** do código, melhora a **acessibilidade** e ainda ajuda no **SEO** (otimização para mecanismos de busca).
 
-## O que é HTML Semântico?
+## *O que é HTML Semântico?*
 
 Em vez de usar apenas `<div>` ou `<span>` para tudo (que é possível), o HTML semântico emprega tags específicas que indicam o tipo de conteúdo que elas contêm. Assim, tanto navegadores quanto ferramentas de acessibilidade conseguem interpretar melhor a estrutura da página.
 
-## Por que usar HTML Semântico?
+## *Por que usar HTML Semântico?*
 
 - **Melhora a acessibilidade:** Leitores de tela para deficientes e outros dispositivos podem entender melhor a hierarquia e a função dos elementos.
 - **Facilita a manutenção:** Um código organizado com tags semânticas é mais fácil de ler e modificar.
 - **Auxilia no SEO:** Mecanismos de busca conseguem interpretar o conteúdo de maneira mais precisa, potencialmente melhorando o ranqueamento.
 
-## Principais Tags Semânticas
+## *Principais Tags Semânticas*
+
 Lembre, todas as tags abaixo são pertencentes ao body.
 
 - `<header>`: Representa a seção de cabeçalho da página ou de uma seção.
@@ -29,7 +30,8 @@ Lembre, todas as tags abaixo são pertencentes ao body.
 
 Não se preocupe, sabendo da existência e buscando ser semântico é o caminho certo para cada vez mais melhorar sua semântica. Não quero que isso seja um impeditivo para codificar.
 
-## Exemplo de Código
+## *Exemplo de Código*
+
 Veja abaixo uma estrutura não semântica (esquerda) ao lado de sua versão semântica:
 ![[Pasted image 20250318221851.png]]
 

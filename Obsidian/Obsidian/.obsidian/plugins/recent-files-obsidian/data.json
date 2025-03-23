@@ -1,28 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Formulários",
-      "path": "‎ Front-End/Formulários.md"
-    },
-    {
       "basename": "Índice Front-End",
       "path": "‎ Front-End/Índice Front-End.md"
-    },
-    {
-      "basename": "Sem título",
-      "path": "Projetos/Sem título.canvas"
-    },
-    {
-      "basename": "Links",
-      "path": "‎ Front-End/Links.md"
     },
     {
       "basename": "HTML Semântico",
       "path": "‎ Front-End/HTML Semântico.md"
     },
     {
-      "basename": "Title",
-      "path": "‎ Front-End/Title.md"
+      "basename": "font-size",
+      "path": "‎ Front-End/font-size.md"
+    },
+    {
+      "basename": "font-family",
+      "path": "‎ Front-End/font-family.md"
+    },
+    {
+      "basename": "Nomenclatura Anatômica CSS",
+      "path": "‎ Front-End/Nomenclatura Anatômica CSS.md"
+    },
+    {
+      "basename": "Box Model CSS",
+      "path": "‎ Front-End/Box Model CSS.md"
+    },
+    {
+      "basename": "Todos os Seletores",
+      "path": "‎ Front-End/Todos os Seletores.md"
+    },
+    {
+      "basename": "Elementos Inline e Block",
+      "path": "‎ Front-End/Elementos Inline e Block.md"
+    },
+    {
+      "basename": "Como linkar CSS",
+      "path": "‎ Front-End/Como linkar CSS.md"
+    },
+    {
+      "basename": "Formulários",
+      "path": "‎ Front-End/Formulários.md"
+    },
+    {
+      "basename": "Links",
+      "path": "‎ Front-End/Links.md"
+    },
+    {
+      "basename": "Listas",
+      "path": "‎ Front-End/Listas.md"
+    },
+    {
+      "basename": "Parágrafos",
+      "path": "‎ Front-End/Parágrafos.md"
     },
     {
       "basename": "Títulos",
@@ -33,8 +61,60 @@
       "path": "‎ Front-End/Meta.md"
     },
     {
+      "basename": "Title",
+      "path": "‎ Front-End/Title.md"
+    },
+    {
+      "basename": "Próximos passos",
+      "path": "‎ Front-End/Próximos passos.md"
+    },
+    {
+      "basename": "Como exercitar",
+      "path": "‎ Front-End/Como exercitar.md"
+    },
+    {
+      "basename": "Estrutura de uma página HTML",
+      "path": "‎ Front-End/Estrutura de uma página HTML.md"
+    },
+    {
+      "basename": "Elementos Vazios",
+      "path": "‎ Front-End/Elementos Vazios.md"
+    },
+    {
+      "basename": "Aninhando Elementos",
+      "path": "‎ Front-End/Aninhando Elementos.md"
+    },
+    {
+      "basename": "Atributo",
+      "path": "‎ Front-End/Atributo.md"
+    },
+    {
+      "basename": "Elemento, tag e conteúdo",
+      "path": "‎ Front-End/Elemento, tag e conteúdo.md"
+    },
+    {
+      "basename": "Como funciona o Front-End",
+      "path": "‎ Front-End/Como funciona o Front-End.md"
+    },
+    {
       "basename": "Flashcards Front-end",
       "path": "‎ Front-End/Flashcards Front-end.md"
+    },
+    {
+      "basename": "Parsing e Renderização",
+      "path": "‎ Front-End/Parsing e Renderização.md"
+    },
+    {
+      "basename": "URL e URI",
+      "path": "‎ Front-End/URL e URI.md"
+    },
+    {
+      "basename": "Conceitos Básicos",
+      "path": "‎ Front-End/Conceitos Básicos.md"
+    },
+    {
+      "basename": "Sem título",
+      "path": "Projetos/Sem título.canvas"
     },
     {
       "basename": "Índice de Python",

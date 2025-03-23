@@ -1,7 +1,7 @@
 A tag `<a>` (âncora) cria links em uma página HTML. Ela pode ser usada para redirecionar para outras páginas, seções internas ou até para baixar arquivos.
 
 >"a"  é de anchor, que significa 
-### **Exemplo básico:**
+### *Exemplo básico:*
 
 ```html
 <a href="https://www.example.com">Visite o Example</a>
@@ -11,7 +11,7 @@ A tag `<a>` (âncora) cria links em uma página HTML. Ela pode ser usada para re
 
 ---
 
-### **Principais atributos:**
+### *Principais atributos:*
 
 - `href` → Define o destino do link.
 - `target="_blank"` → Abre o link em uma nova aba.
@@ -25,7 +25,7 @@ A tag `<a>` (âncora) cria links em uma página HTML. Ela pode ser usada para re
 
 ---
 
-### **Link para uma seção da mesma página:**
+### *Link para uma seção da mesma página:*
 
 ```html
 <a href="#secao1">Ir para a Seção 1</a>
@@ -36,7 +36,7 @@ A tag `<a>` (âncora) cria links em uma página HTML. Ela pode ser usada para re
 
 ---
 
-### **Link para baixar um arquivo:**
+### *Link para baixar um arquivo:*
 
 ```html
 <a href="documento.pdf" download>Baixar PDF</a>

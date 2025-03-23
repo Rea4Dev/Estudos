@@ -1,7 +1,7 @@
 Em HTML, existem dois tipos principais de listas:
 
 > "ul" é undernated list (lista desordenada), e "ol" é ordenated list (lista ordenada)
-### 1️⃣ Listas não ordenadas
+### 1️⃣ *Listas não ordenadas*
 
 Usadas para itens sem uma sequência específica. Os itens são marcados com pontos (`•`).
 
@@ -22,7 +22,8 @@ Usadas para itens sem uma sequência específica. Os itens são marcados com pon
 - Uva
 
 ---
-### 2️⃣ Listas ordenadas
+
+### 2️⃣ *Listas ordenadas*
 
 Usadas para itens que seguem uma ordem lógica. Os itens são numerados.
 
@@ -44,7 +45,7 @@ Usadas para itens que seguem uma ordem lógica. Os itens são numerados.
 
 ---
 
-### **Extras**
+### *Extras*
 
 ✅ **Listas podem ser aninhadas:**
 

@@ -10,7 +10,9 @@ Em outras palavras, todo código de uma página HTML seguirá um padrão de estr
 Preste bastante atenção nas explicações abaixo para entender os elementos da estrutura.
 
 ---
-## Estrutura
+
+## *Estrutura*
+
 Antes do conteúdo da cabeça, é declarado o elemento que informa qual será o tipo deste documento (página HTML). Desta forma:
 ```C
 <!DOCTYPE html>
@@ -39,7 +41,8 @@ Agora, como conteúdo da tag HTML, iremos deixar os espaços de conteúdos da ca
 </html>
 ```
 
-## Cabeça
+## *Cabeça*
+
 Na cabeça, podemos incluir tags que incluirão informações da página.
 Por exemplo, a tag title, que informa o título da página (que aparece na aba do navegador).
 ```C
@@ -55,7 +58,8 @@ Por exemplo, a tag title, que informa o título da página (que aparece na aba d
 </html>
 ```
 
-## Corpo
+## *Corpo*
+
 Onde incluiremos o conteúdo da página em tags. Em outras palavras, a secção que mais iremos trabalhar.
 
 A exemplo, podemos incluir um título de texto (h1) e um parágrafo (p). Não se preocupe pois iremos ver as tags melhor com o tempo, entenda por hora a estrutura.

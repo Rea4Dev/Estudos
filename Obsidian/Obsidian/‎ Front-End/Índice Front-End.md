@@ -1,9 +1,9 @@
-1. <span style="color:#C82F4B">Introdução à Web (Gabi, ignore)</span>
+1. <big><big><span style="color:#C82F4B">Introdução à Web</span></big></big>
 	1. [[Conceitos Básicos]]
 	2. [[URL e URI]]
 	3. [[Parsing e Renderização]]
 
-2. <span style="color:#C82F4B">HTML (Gabi comece aqui)</span>
+2. <big><big><span style="color:#C82F4B">HTML</span></big></big>
 	1. <span style="color:#C82F4B">Introdução</span>
 		1. [[Como funciona o Front-End]]
 		2. <span style="color:#C82F4B">Nomenclatura Anatômica HTML</span>
@@ -24,6 +24,18 @@
 		4. [[Links]]
 	4. [[HTML Semântico]]
 	5. [[Formulários]]
+
+3. <big><big><span style="color:#C82F4B">CSS</span></big></big>
+	1. [[Nomenclatura Anatômica CSS]]
+	2. [[Como linkar CSS]]
+	3. [[Elementos Inline e Block]]
+	4. [[Todos os Seletores]]
+	5. [[Box Model CSS]]
+	6. <span style="color:#C82F4B">Lista de Propriedades</span>
+		1.  <span style="color:#C82F4B">De fontes</span>
+			1. [[font-family]]
+			2. [[font-size]]
+
 
 - [[Flashcards Front-end]]
 https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element

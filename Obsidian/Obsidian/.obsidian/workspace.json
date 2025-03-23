@@ -6,6 +6,7 @@
       {
         "id": "b1a134c7d918f096",
         "type": "tabs",
+        "dimension": 75.8125,
         "children": [
           {
             "id": "b046d0bf7592f021",
@@ -13,15 +14,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Front-End/Formulários.md",
+                "file": "‎ Front-End/Índice Front-End.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formulários"
+              "title": "Índice Front-End"
             }
           }
         ]
+      },
+      {
+        "id": "3f32a3ba02535ac6",
+        "type": "tabs",
+        "dimension": 24.1875,
+        "children": [
+          {
+            "id": "47eff1983ca31556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "‎ Front-End/Flashcards Front-end.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flashcards Front-end"
+            }
+          },
+          {
+            "id": "f0e1f4a705ba5e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "‎ Front-End/Índice Front-End.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Índice Front-End"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -33,6 +70,7 @@
       {
         "id": "be82a4c414db897d",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "2e7ba149b9eca226",
@@ -79,6 +117,7 @@
       {
         "id": "61081da2f8c977c0",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "38e71dd067457290",
@@ -230,12 +269,72 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "73e2588c4b4bdf59",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9a783285bc79eac9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "89a0dbd4eab199e1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "ff8762fe559442ff",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "dc977c13c84a6a56",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9c724abe124ad759",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -254,25 +353,47 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "b046d0bf7592f021",
+  "active": "2e7ba149b9eca226",
   "lastOpenFiles": [
+    "Página Principal.md",
     "‎ Front-End/Índice Front-End.md",
-    "Sem título 1.canvas",
-    "Sem título",
-    "Projetos/Sem título.canvas",
+    "‎ Front-End/Página Principal.md",
+    "‎ Front-End/HTML Semântico.md",
+    "Matemática",
+    "‎ Front-End/font-size.md",
+    "Organização/Images/Pasted image 20250323112205.png",
+    "‎ Front-End/font-family.md",
+    "‎ Front-End/Nomenclatura Anatômica CSS.md",
+    "‎ Front-End/Box Model CSS.md",
+    "‎ Front-End/Todos os Seletores.md",
+    "‎ Front-End/Elementos Inline e Block.md",
+    "‎ Front-End/Como linkar CSS.md",
     "‎ Front-End/Formulários.md",
     "‎ Front-End/Links.md",
-    "Organização/Images/Pasted image 20250318230401.png",
-    "Organização/Images/Pasted image 20250318230311.png",
-    "‎ Front-End/HTML Semântico.md",
-    "Organização/Images/Pasted image 20250318222326.png",
-    "Organização/Images/Pasted image 20250318221851.png",
-    "‎ Front-End/Title.md",
+    "‎ Front-End/Listas.md",
+    "‎ Front-End/Parágrafos.md",
     "‎ Front-End/Títulos.md",
     "‎ Front-End/Meta.md",
-    "‎ Front-End/Flashcards Front-end.md",
-    "‎ Front-End/ex.py",
-    "‎ Python/Índice de Python.md",
-    "‎ Front-End/Nomenclatura Anatômica HTML.md"
+    "‎ Front-End/Title.md",
+    "‎ Front-End/Próximos passos.md",
+    "‎ Front-End/Como exercitar.md",
+    "‎ Front-End/Estrutura de uma página HTML.md",
+    "‎ Front-End/Elementos Vazios.md",
+    "‎ Front-End/Aninhando Elementos.md",
+    "‎ Front-End/Atributo.md",
+    "‎ Front-End/Elemento, tag e conteúdo.md",
+    "‎ Front-End/Como funciona o Front-End.md",
+    "Organização/Images/Pasted image 20250323104055.png",
+    "Organização/Images/Pasted image 20250323103918.png",
+    "Organização/Images/Pasted image 20250323095654.png",
+    "Organização/Images/Box Model.png",
+    "Organização/Images/Pasted image 20250323094059.png",
+    "Organização/Images/Pasted image 20250322172422.png",
+    "Organização/Images/Pasted image 20250322171254.png",
+    "Organização/Images/Pasted image 20250322171239.png",
+    "Organização/Images/Pasted image 20250322165341.png",
+    "Sem título 1.canvas",
+    "Projetos/Sem título.canvas",
+    "‎ Front-End/ex.py"
   ]
 }
