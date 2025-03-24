@@ -127,7 +127,7 @@ group by i_tipo_cliente
     - **RIGHT JOIN**: Retorna todos os registros da tabela à direita e os correspondentes da tabela à esquerda
         
     - **FULL JOIN**: Retorna registros quando há correspondência em uma das tabelas
-![[Imagem do WhatsApp de 2025-02-21 à(s) 13.37.12_d46cc056.jpg | center | 712]]
+![[Imagem do WhatsApp de 2025-02-21 à(s) 13.37.12_d46cc056.jpg | center | 312]]
 
 
 - **DISTINCT**: Remove duplicatas dos resultados

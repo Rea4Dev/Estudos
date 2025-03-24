@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Índice de Python",
+      "path": "‎ Python/Índice de Python.md"
+    },
+    {
+      "basename": "Formatação do Código",
+      "path": "‎ Python/1. Formatação do Código e Mandamentos/Formatação do Código.md"
+    },
+    {
+      "basename": "Mandamentos",
+      "path": "‎ Python/Mandamentos.md"
+    },
+    {
+      "basename": "Requisitos",
+      "path": "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas"
+    },
+    {
+      "basename": "DQL e DML",
+      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DQL e DML.md"
+    },
+    {
+      "basename": "Introdução ao Banco de Dados e SQL",
+      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md"
+    },
+    {
+      "basename": "Índice Banco de Dados",
+      "path": "‎ Back-End/Banco de Dados/Índice Banco de Dados.md"
+    },
+    {
+      "basename": "Código 14-03",
+      "path": "Projetos/Gerador_log_SQL/Organização/14-03/Código 14-03.md"
+    },
+    {
+      "basename": "Query 14-03",
+      "path": "Projetos/Gerador_log_SQL/Organização/14-03/Query 14-03.md"
+    },
+    {
+      "basename": "Página Principal",
+      "path": "Página Principal.md"
+    },
+    {
       "basename": "Índice Front-End",
       "path": "‎ Front-End/Índice Front-End.md"
     },
@@ -111,14 +151,6 @@
     {
       "basename": "Conceitos Básicos",
       "path": "‎ Front-End/Conceitos Básicos.md"
-    },
-    {
-      "basename": "Sem título",
-      "path": "Projetos/Sem título.canvas"
-    },
-    {
-      "basename": "Índice de Python",
-      "path": "‎ Python/Índice de Python.md"
     }
   ],
   "omittedPaths": [],

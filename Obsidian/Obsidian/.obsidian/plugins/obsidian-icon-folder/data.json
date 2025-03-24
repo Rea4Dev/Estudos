@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAperture",
       "LiFunctionSquare",
       "LiHeart",
       "LiNotebookTabs",
-      "LiComputer",
-      "LiCode"
+      "LiComputer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "‎ Front-End": "LiTvMinimal",
   "‎ Python": "LiCode",
   "Organização": "LiHeart",
-  "Matemática": "LiFunctionSquare"
+  "Matemática": "LiFunctionSquare",
+  "Projetos": "LiAperture"
 }
