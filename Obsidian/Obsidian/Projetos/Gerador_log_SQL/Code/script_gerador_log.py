@@ -64,24 +64,29 @@ def consultar_bd(query_1):
         return lista_dados_bd, comandos_sql
     
 def verificar_historico(lista_dados_bd, comandos_sql):
-        with open ('historico.csv', 'r+', newline='') as historico: 
-            if (os.path.getsize("./historico.csv") == 0):
-                print(f"{"-"*TABULACAO}")
-                print(f"\n\033[1;33m"
-                "Histórico de falhas está vazio."
-                "\033[0;30m\n"
-                "\nArmazenando falhas em histórico\033[0;37m\n")
+        try:
+            with open ('historico.csv', 'r+', newline='') as historico: 
+                if (os.path.getsize("./historico.csv") == 0):
+                    print(f"{"-"*TABULACAO}")
+                    print(f"\n\033[1;33m"
+                    "Histórico de falhas está vazio."
+                    "\033[0;30m\n"
+                    "\nArmazenando falhas em histórico\033[0;37m\n")
+                    csv.writer(historico).writerow(coluna[0] for coluna in comandos_sql.description) 
+                    csv.writer(historico).writerows(lista_dados_bd)
 
-                csv.writer(historico).writerow(coluna[0] for coluna in comandos_sql.description) 
-                csv.writer(historico).writerows(lista_dados_bd)
+                else:
+                    print(f"{"-"*TABULACAO}"
+                    "\n\033[1;34m"
+                    "Histórico de falhas não está vazio."
+                    "\033[0;30m\n"
+                    "\nIniciando comparações.\033[0;37m")
+                    comparar_lista_com_csv(lista_dados_bd)
         
-            else:
-                print(f"{"-"*TABULACAO}"
-                "\n\033[1;34m"
-                "Histórico de falhas não está vazio."
-                "\033[0;30m\n"
-                "\nIniciando comparações.\033[0;37m")
-                comparar_lista_com_csv(lista_dados_bd)
+        except FileNotFoundError as arquivo_nao_encontrado:
+            print(f'\033[0;31m\nO arquivo "historico.csv" não foi encontrado. Certifique-se que está no mesmo diretório da execução (Erro: FileNotFoundError).\033[0;37m')
+            print(f"{"_"*TABULACAO}")
+            sys.exit()
 
 def comparar_lista_com_csv(lista_dados_bd):
     with open('historico.csv', 'r+', newline='', encoding='latin1') as historico:
@@ -100,9 +105,6 @@ def comparar_lista_com_csv(lista_dados_bd):
                 print(f" - Não há no histórico de falhas", end="")
                 csv.writer(historico).writerow(linha)
                 print(" - Salvo no Histórico de falhas de acordo com o Banco de Dados")
-
-
-
 
 def main():
     os.system('cls' if os.name == 'nt' else 'clear')

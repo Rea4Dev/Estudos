@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Requisitos",
+      "path": "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas"
+    },
+    {
       "basename": "Índice Front-End",
       "path": "‎ Front-End/Índice Front-End.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "Mandamentos",
       "path": "‎ Python/Mandamentos.md"
-    },
-    {
-      "basename": "Requisitos",
-      "path": "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas"
     },
     {
       "basename": "DQL e DML",

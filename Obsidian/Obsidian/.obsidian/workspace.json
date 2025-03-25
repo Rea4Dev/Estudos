@@ -12,14 +12,17 @@
             "id": "b046d0bf7592f021",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "‎ Front-End/Índice Front-End.md",
-                "mode": "source",
-                "source": false
+                "file": "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas",
+                "viewState": {
+                  "x": 461.5,
+                  "y": -270,
+                  "zoom": -0.3068993870821937
+                }
               },
-              "icon": "lucide-file",
-              "title": "Índice Front-End"
+              "icon": "lucide-layout-dashboard",
+              "title": "Requisitos"
             }
           }
         ]
@@ -373,12 +376,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9535ccab222fc6af",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "horizontal",
@@ -397,10 +410,12 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "b046d0bf7592f021",
+  "active": "38e71dd067457290",
   "lastOpenFiles": [
-    "‎ Front-End/font-style.md",
+    "Projetos/Gerador de Log - Script Python.png",
+    "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas",
     "‎ Front-End/Índice Front-End.md",
+    "‎ Front-End/font-style.md",
     "‎ Front-End/Color.md",
     "‎ Front-End/font-family.md",
     "‎ Front-End/Boas Práticas.md",
@@ -418,7 +433,6 @@
     "‎ Python/Índice de Python.md",
     "‎ Python/1. Formatação do Código e Mandamentos/Formatação do Código.md",
     "‎ Python/Mandamentos.md",
-    "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DQL e DML.md",
     "Projetos/Gerador_log_SQL/Code/script_gerador_log.py",
     "Projetos/Gerador_log_SQL/Code/24-03.py",
@@ -442,7 +456,6 @@
     "Projetos/Gerador_log_SQL/Code/Antigos/v4.py",
     "Projetos/Gerador_log_SQL/Code/Antigos/v3.py",
     "Projetos/Gerador_log_SQL/Code/Antigos/v2.py",
-    "‎ Front-End/Página Principal.md",
     "Organização/Images/Pasted image 20250323112205.png",
     "Organização/Images/Pasted image 20250323104055.png",
     "Organização/Images/Pasted image 20250323103918.png",
