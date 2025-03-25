@@ -91,18 +91,20 @@ def verificar_historico(lista_dados_bd, comandos_sql):
 def comparar_lista_com_csv(lista_dados_bd):
     with open('historico.csv', 'r+', newline='', encoding='latin1') as historico:
         lista_historico = list(csv.reader(historico, delimiter=','))
-        ids_historico = [linha_historico[1] for linha_historico in lista_historico[1:] if len(linha_historico) > 1] #!
+        ids_historico = [linha_historico[1] for linha_historico in lista_historico[1:] if len(linha_historico) > 1]
+        datetime_historico = [linha_historico[0] for linha_historico in lista_historico[1:] if len(linha_historico) > 1]
         print(f"\033[0;30m\n"
         "Comparando ID.\033[0;37m")
 
         for linha in lista_dados_bd:
             id_lista_bd = str(linha[1])  
+            datetime_lista_bd = str(linha[0])
             print(f'ID Lista_bd: {id_lista_bd}', end="")
             
-            if id_lista_bd in ids_historico:
-                print(f" - Há também em historico")
+            if id_lista_bd in ids_historico and datetime_lista_bd in datetime_historico:
+                print(f" - Há também em historico com a mesma data. Ignorado.")
             else:
-                print(f" - Não há no histórico de falhas", end="")
+                print(f" - Caso novo (novo ID ou ID já presente em histórico mas com horário diferente)", end="")
                 csv.writer(historico).writerow(linha)
                 print(" - Salvo no Histórico de falhas de acordo com o Banco de Dados")
 
