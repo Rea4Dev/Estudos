@@ -9,6 +9,10 @@ Existem três formas de utilizar/linkar o css:
 `Externo`
 	Arquivo CSS externo citado dentro do HTML 
 
+![[Pasted image 20250324203415.png]]
+
+Desta forma, CSS externo é o mais escalável (quanto mais escalável, melhor). Particularmente, utilizo apenas o CSS externo por boa prática.
+
 ---
 
 ## *Inline*

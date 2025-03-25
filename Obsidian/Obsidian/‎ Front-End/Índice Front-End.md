@@ -30,11 +30,18 @@
 	2. [[Como linkar CSS]]
 	3. [[Elementos Inline e Block]]
 	4. [[Todos os Seletores]]
-	5. [[Box Model CSS]]
-	6. <span style="color:#C82F4B">Lista de Propriedades</span>
-		1.  <span style="color:#C82F4B">De fontes</span>
+	5. [[CSS Reset]]
+	6. [[Boas Práticas]]
+	7. <span style="color:#C82F4B">Lista de Propriedades</span>
+		1. <span style="color:#C82F4B">Dimensões</span>
+			1. [[Box Model CSS]]
+		2.  <span style="color:#C82F4B">Tipografia</span>
 			1. [[font-family]]
 			2. [[font-size]]
+			3. [[font-weight]]
+			4. [[text-align]]
+			5. [[font-style]]
+			6. [[Color]]
 
 
 - [[Flashcards Front-end]]

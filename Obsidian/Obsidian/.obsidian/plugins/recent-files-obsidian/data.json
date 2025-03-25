@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "Índice Front-End",
+      "path": "‎ Front-End/Índice Front-End.md"
+    },
+    {
+      "basename": "font-style",
+      "path": "‎ Front-End/font-style.md"
+    },
+    {
+      "basename": "Color",
+      "path": "‎ Front-End/Color.md"
+    },
+    {
+      "basename": "font-family",
+      "path": "‎ Front-End/font-family.md"
+    },
+    {
+      "basename": "Boas Práticas",
+      "path": "‎ Front-End/Boas Práticas.md"
+    },
+    {
+      "basename": "Elementos Inline e Block",
+      "path": "‎ Front-End/Elementos Inline e Block.md"
+    },
+    {
+      "basename": "Todos os Seletores",
+      "path": "‎ Front-End/Todos os Seletores.md"
+    },
+    {
+      "basename": "CSS Reset",
+      "path": "‎ Front-End/CSS Reset.md"
+    },
+    {
+      "basename": "Box Model CSS",
+      "path": "‎ Front-End/Box Model CSS.md"
+    },
+    {
+      "basename": "Como linkar CSS",
+      "path": "‎ Front-End/Como linkar CSS.md"
+    },
+    {
+      "basename": "Nomenclatura Anatômica CSS",
+      "path": "‎ Front-End/Nomenclatura Anatômica CSS.md"
+    },
+    {
+      "basename": "text-align",
+      "path": "‎ Front-End/text-align.md"
+    },
+    {
+      "basename": "font-weight",
+      "path": "‎ Front-End/font-weight.md"
+    },
+    {
+      "basename": "font-size",
+      "path": "‎ Front-End/font-size.md"
+    },
+    {
+      "basename": "Página Principal",
+      "path": "Página Principal.md"
+    },
+    {
       "basename": "Índice de Python",
       "path": "‎ Python/Índice de Python.md"
     },
@@ -37,44 +97,8 @@
       "path": "Projetos/Gerador_log_SQL/Organização/14-03/Query 14-03.md"
     },
     {
-      "basename": "Página Principal",
-      "path": "Página Principal.md"
-    },
-    {
-      "basename": "Índice Front-End",
-      "path": "‎ Front-End/Índice Front-End.md"
-    },
-    {
       "basename": "HTML Semântico",
       "path": "‎ Front-End/HTML Semântico.md"
-    },
-    {
-      "basename": "font-size",
-      "path": "‎ Front-End/font-size.md"
-    },
-    {
-      "basename": "font-family",
-      "path": "‎ Front-End/font-family.md"
-    },
-    {
-      "basename": "Nomenclatura Anatômica CSS",
-      "path": "‎ Front-End/Nomenclatura Anatômica CSS.md"
-    },
-    {
-      "basename": "Box Model CSS",
-      "path": "‎ Front-End/Box Model CSS.md"
-    },
-    {
-      "basename": "Todos os Seletores",
-      "path": "‎ Front-End/Todos os Seletores.md"
-    },
-    {
-      "basename": "Elementos Inline e Block",
-      "path": "‎ Front-End/Elementos Inline e Block.md"
-    },
-    {
-      "basename": "Como linkar CSS",
-      "path": "‎ Front-End/Como linkar CSS.md"
     },
     {
       "basename": "Formulários",

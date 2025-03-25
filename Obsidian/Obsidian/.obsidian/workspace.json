@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Python/Índice de Python.md",
+                "file": "‎ Front-End/Índice Front-End.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Índice de Python"
+              "title": "Índice Front-End"
             }
           }
         ]
@@ -363,12 +363,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "96b86d12bc35cdfd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "horizontal",
@@ -389,8 +399,24 @@
   },
   "active": "b046d0bf7592f021",
   "lastOpenFiles": [
-    "‎ Python/1. Formatação do Código e Mandamentos/Formatação do Código.md",
+    "‎ Front-End/font-style.md",
+    "‎ Front-End/Índice Front-End.md",
+    "‎ Front-End/Color.md",
+    "‎ Front-End/font-family.md",
+    "‎ Front-End/Boas Práticas.md",
+    "‎ Front-End/Elementos Inline e Block.md",
+    "‎ Front-End/Todos os Seletores.md",
+    "‎ Front-End/CSS Reset.md",
+    "‎ Front-End/Box Model CSS.md",
+    "‎ Front-End/Como linkar CSS.md",
+    "Organização/Images/Pasted image 20250324203415.png",
+    "‎ Front-End/Nomenclatura Anatômica CSS.md",
+    "‎ Front-End/text-align.md",
+    "‎ Front-End/font-weight.md",
+    "‎ Front-End/font-size.md",
+    "Página Principal.md",
     "‎ Python/Índice de Python.md",
+    "‎ Python/1. Formatação do Código e Mandamentos/Formatação do Código.md",
     "‎ Python/Mandamentos.md",
     "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas",
     "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DQL e DML.md",
@@ -416,29 +442,13 @@
     "Projetos/Gerador_log_SQL/Code/Antigos/v4.py",
     "Projetos/Gerador_log_SQL/Code/Antigos/v3.py",
     "Projetos/Gerador_log_SQL/Code/Antigos/v2.py",
-    "Página Principal.md",
-    "‎ Front-End/Índice Front-End.md",
     "‎ Front-End/Página Principal.md",
-    "‎ Front-End/HTML Semântico.md",
-    "‎ Front-End/font-size.md",
     "Organização/Images/Pasted image 20250323112205.png",
-    "‎ Front-End/font-family.md",
-    "‎ Front-End/Nomenclatura Anatômica CSS.md",
-    "‎ Front-End/Box Model CSS.md",
-    "‎ Front-End/Todos os Seletores.md",
-    "‎ Front-End/Elementos Inline e Block.md",
-    "‎ Front-End/Como linkar CSS.md",
-    "‎ Front-End/Formulários.md",
-    "‎ Front-End/Links.md",
-    "‎ Front-End/Listas.md",
-    "‎ Front-End/Parágrafos.md",
-    "‎ Front-End/Títulos.md",
     "Organização/Images/Pasted image 20250323104055.png",
     "Organização/Images/Pasted image 20250323103918.png",
     "Organização/Images/Pasted image 20250323095654.png",
     "Organização/Images/Box Model.png",
     "Organização/Images/Pasted image 20250323094059.png",
-    "Organização/Images/Pasted image 20250322172422.png",
     "Sem título 1.canvas"
   ]
 }
