@@ -17,7 +17,7 @@
                 "file": "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas",
                 "viewState": {
                   "x": 461.5,
-                  "y": -270,
+                  "y": -264.47782553192013,
                   "zoom": -0.3068993870821937
                 }
               },
@@ -386,12 +386,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "2ff473acc160825b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "horizontal",
@@ -410,9 +420,13 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "38e71dd067457290",
+  "active": "b046d0bf7592f021",
   "lastOpenFiles": [
     "Projetos/historico.csv",
+    "Projetos/Gerador_log_SQL/Code/2.py",
+    "Projetos/Gerador_log_SQL/Code/script_gerador_hist copy.py",
+    "Projetos/script_gerador_hist.log",
+    "Projetos/Gerador_log_SQL/Code/script_gerador_hist.py",
     "Projetos/Gerador_log_SQL/historico.csv",
     "Projetos/Gerador_log_SQL/Code/teste.py",
     "Projetos/teste.py",
@@ -453,10 +467,6 @@
     "Projetos/Gerador_log_SQL/Canvas/Etapas.md",
     "Projetos/Gerador_log_SQL/Organização/14-03/Código 14-03.md",
     "Projetos/Gerador_log_SQL/Organização/14-03/Query 14-03.md",
-    "Projetos/Gerador_log_SQL/Code/Antigos/desktop.ini",
-    "Projetos/Gerador_log_SQL/Code/Antigos/v5alt.py",
-    "Projetos/Gerador_log_SQL/Code/Antigos/v5.py",
-    "Projetos/Gerador_log_SQL/Code/Antigos/v5 - Copia.py",
     "Organização/Images/Pasted image 20250323112205.png",
     "Organização/Images/Pasted image 20250323104055.png",
     "Organização/Images/Pasted image 20250323103918.png",
