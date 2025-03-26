@@ -10,12 +10,8 @@ Previamente, o programador pode aplicar uma configuração que só afetará os a
 
 ## *Exemplo de modificação*
 
-````CSS
-p{
-	color:red;
-	background-color: white;
-	text-align:center;
-}
+````HTML
+<p style="color:red">Exemplo</p>
 ````
 
 <p style="color:red; background-color: white; text-align:center;">Exemplo</p>

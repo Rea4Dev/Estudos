@@ -23,3 +23,15 @@ button {
 	border: none;
 }
 ```
+
+4. `Nomenclatura`
+	Usar nomes descritivos e uma nomenclatura clara. Tal como baseados na função ou contexto do elemento.
+```CSS
+.header-nav{
+	/* Claro e relacionado ao contexto */
+}
+
+.card-title{
+	/* Indica o elemento e o uso */
+}
+```

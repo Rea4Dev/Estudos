@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Requisitos",
-      "path": "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas"
+      "basename": "Boas Práticas",
+      "path": "‎ Front-End/Boas Práticas.md"
     },
     {
       "basename": "Índice Front-End",
       "path": "‎ Front-End/Índice Front-End.md"
+    },
+    {
+      "basename": "Requisitos",
+      "path": "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas"
+    },
+    {
+      "basename": "Títulos",
+      "path": "‎ Front-End/Títulos.md"
+    },
+    {
+      "basename": "Meta",
+      "path": "‎ Front-End/Meta.md"
+    },
+    {
+      "basename": "Title",
+      "path": "‎ Front-End/Title.md"
+    },
+    {
+      "basename": "Próximos passos",
+      "path": "‎ Front-End/Próximos passos.md"
+    },
+    {
+      "basename": "Listas",
+      "path": "‎ Front-End/Listas.md"
+    },
+    {
+      "basename": "Como exercitar",
+      "path": "‎ Front-End/Como exercitar.md"
+    },
+    {
+      "basename": "Estrutura de uma página HTML",
+      "path": "‎ Front-End/Estrutura de uma página HTML.md"
+    },
+    {
+      "basename": "Elementos Vazios",
+      "path": "‎ Front-End/Elementos Vazios.md"
+    },
+    {
+      "basename": "Atributo",
+      "path": "‎ Front-End/Atributo.md"
+    },
+    {
+      "basename": "Aninhando Elementos",
+      "path": "‎ Front-End/Aninhando Elementos.md"
+    },
+    {
+      "basename": "Elemento, tag e conteúdo",
+      "path": "‎ Front-End/Elemento, tag e conteúdo.md"
+    },
+    {
+      "basename": "Como funciona o Front-End",
+      "path": "‎ Front-End/Como funciona o Front-End.md"
     },
     {
       "basename": "font-style",
@@ -19,10 +71,6 @@
     {
       "basename": "font-family",
       "path": "‎ Front-End/font-family.md"
-    },
-    {
-      "basename": "Boas Práticas",
-      "path": "‎ Front-End/Boas Práticas.md"
     },
     {
       "basename": "Elementos Inline e Block",
@@ -109,56 +157,8 @@
       "path": "‎ Front-End/Links.md"
     },
     {
-      "basename": "Listas",
-      "path": "‎ Front-End/Listas.md"
-    },
-    {
       "basename": "Parágrafos",
       "path": "‎ Front-End/Parágrafos.md"
-    },
-    {
-      "basename": "Títulos",
-      "path": "‎ Front-End/Títulos.md"
-    },
-    {
-      "basename": "Meta",
-      "path": "‎ Front-End/Meta.md"
-    },
-    {
-      "basename": "Title",
-      "path": "‎ Front-End/Title.md"
-    },
-    {
-      "basename": "Próximos passos",
-      "path": "‎ Front-End/Próximos passos.md"
-    },
-    {
-      "basename": "Como exercitar",
-      "path": "‎ Front-End/Como exercitar.md"
-    },
-    {
-      "basename": "Estrutura de uma página HTML",
-      "path": "‎ Front-End/Estrutura de uma página HTML.md"
-    },
-    {
-      "basename": "Elementos Vazios",
-      "path": "‎ Front-End/Elementos Vazios.md"
-    },
-    {
-      "basename": "Aninhando Elementos",
-      "path": "‎ Front-End/Aninhando Elementos.md"
-    },
-    {
-      "basename": "Atributo",
-      "path": "‎ Front-End/Atributo.md"
-    },
-    {
-      "basename": "Elemento, tag e conteúdo",
-      "path": "‎ Front-End/Elemento, tag e conteúdo.md"
-    },
-    {
-      "basename": "Como funciona o Front-End",
-      "path": "‎ Front-End/Como funciona o Front-End.md"
     },
     {
       "basename": "Flashcards Front-end",
