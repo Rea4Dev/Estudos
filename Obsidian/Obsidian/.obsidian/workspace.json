@@ -12,17 +12,14 @@
             "id": "b046d0bf7592f021",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas",
-                "viewState": {
-                  "x": 461.5,
-                  "y": -264.47782553192013,
-                  "zoom": -0.3068993870821937
-                }
+                "file": "‎ Front-End/Especificidade CSS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Requisitos"
+              "icon": "lucide-file",
+              "title": "Especificidade CSS"
             }
           }
         ]
@@ -75,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -391,7 +388,37 @@
             }
           },
           {
-            "id": "2ff473acc160825b",
+            "id": "554e58c310cfd9e5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "e20be86b34ff4ce6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5664fa6ba2bf195a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "d07185c3a47fdc3e",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -401,7 +428,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 24
       }
     ],
     "direction": "horizontal",
@@ -420,23 +447,37 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "b046d0bf7592f021",
+  "active": "d07185c3a47fdc3e",
   "lastOpenFiles": [
-    "Projetos/historico.csv",
-    "Projetos/Gerador_log_SQL/Code/2.py",
-    "Projetos/Gerador_log_SQL/Code/script_gerador_hist copy.py",
+    "Organização/Images/Pasted image 20250326153056.png",
+    "‎ Front-End/Índice Front-End.md",
+    "‎ Front-End/Especificidade CSS.md",
+    "Página Principal.md",
+    "‎ Front-End/Boas Práticas.md",
     "Projetos/script_gerador_hist.log",
     "Projetos/Gerador_log_SQL/Code/script_gerador_hist.py",
+    "Projetos/Gerador_log_SQL/Code/2.py",
+    "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas",
+    "‎ Front-End/Títulos.md",
+    "‎ Front-End/Meta.md",
+    "‎ Front-End/Title.md",
+    "‎ Front-End/Próximos passos.md",
+    "‎ Front-End/Listas.md",
+    "‎ Front-End/Como exercitar.md",
+    "‎ Front-End/Estrutura de uma página HTML.md",
+    "‎ Front-End/Elementos Vazios.md",
+    "‎ Front-End/Atributo.md",
+    "‎ Front-End/Aninhando Elementos.md",
+    "‎ Front-End/Elemento, tag e conteúdo.md",
+    "‎ Front-End/Como funciona o Front-End.md",
+    "Projetos/historico.csv",
     "Projetos/Gerador_log_SQL/historico.csv",
     "Projetos/Gerador_log_SQL/Code/teste.py",
     "Projetos/teste.py",
     "Projetos/Gerador de Log - Script Python.png",
-    "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas",
-    "‎ Front-End/Índice Front-End.md",
     "‎ Front-End/font-style.md",
     "‎ Front-End/Color.md",
     "‎ Front-End/font-family.md",
-    "‎ Front-End/Boas Práticas.md",
     "‎ Front-End/Elementos Inline e Block.md",
     "‎ Front-End/Todos os Seletores.md",
     "‎ Front-End/CSS Reset.md",
@@ -444,29 +485,15 @@
     "‎ Front-End/Como linkar CSS.md",
     "Organização/Images/Pasted image 20250324203415.png",
     "‎ Front-End/Nomenclatura Anatômica CSS.md",
-    "‎ Front-End/text-align.md",
-    "‎ Front-End/font-weight.md",
-    "‎ Front-End/font-size.md",
-    "Página Principal.md",
-    "‎ Python/Índice de Python.md",
-    "‎ Python/1. Formatação do Código e Mandamentos/Formatação do Código.md",
-    "‎ Python/Mandamentos.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DQL e DML.md",
     "Projetos/Gerador_log_SQL/Code/script_gerador_log.py",
     "Projetos/Gerador_log_SQL/Code/24-03.py",
     "Projetos/Gerador_log_SQL/Code/Antigos/24-03.py",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md",
-    "‎ Back-End/Banco de Dados/Índice Banco de Dados.md",
     "Projetos/Gerador_log_SQL/Canvas/Sem título 1.canvas",
-    "Projetos/Gerador_log_SQL/Canvas/Cenário.md",
     "Projetos/Gerador_log_SQL/Canvas/Esquemático Lógica.canvas",
     "Projetos/Gerador_log_SQL/Canvas/Sem título.canvas",
     "Projetos/Gerador_log_SQL/Canvas/Projeto.png",
     "Projetos/Gerador_log_SQL/Canvas/Fluxograma.png",
     "Projetos/Gerador_log_SQL/Canvas/Exemplo WebSIT.png",
-    "Projetos/Gerador_log_SQL/Canvas/Etapas.md",
-    "Projetos/Gerador_log_SQL/Organização/14-03/Código 14-03.md",
-    "Projetos/Gerador_log_SQL/Organização/14-03/Query 14-03.md",
     "Organização/Images/Pasted image 20250323112205.png",
     "Organização/Images/Pasted image 20250323104055.png",
     "Organização/Images/Pasted image 20250323103918.png",

@@ -31,8 +31,9 @@
 	3. [[Elementos Inline e Block]]
 	4. [[Todos os Seletores]]
 	5. [[CSS Reset]]
-	6. [[Boas Práticas]]
-	7. <span style="color:#C82F4B">Lista de Propriedades</span>
+	6. [[Especificidade CSS]]
+	7. [[Boas Práticas]]
+	8. <span style="color:#C82F4B">Lista de Propriedades</span>
 		1. <span style="color:#C82F4B">Dimensões</span>
 			1. [[Box Model CSS]]
 		2.  <span style="color:#C82F4B">Tipografia</span>

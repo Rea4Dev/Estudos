@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Boas Práticas",
-      "path": "‎ Front-End/Boas Práticas.md"
+      "basename": "Especificidade CSS",
+      "path": "‎ Front-End/Especificidade CSS.md"
     },
     {
       "basename": "Índice Front-End",
       "path": "‎ Front-End/Índice Front-End.md"
+    },
+    {
+      "basename": "Página Principal",
+      "path": "Página Principal.md"
+    },
+    {
+      "basename": "Boas Práticas",
+      "path": "‎ Front-End/Boas Práticas.md"
     },
     {
       "basename": "Requisitos",
@@ -107,10 +115,6 @@
     {
       "basename": "font-size",
       "path": "‎ Front-End/font-size.md"
-    },
-    {
-      "basename": "Página Principal",
-      "path": "Página Principal.md"
     },
     {
       "basename": "Índice de Python",
