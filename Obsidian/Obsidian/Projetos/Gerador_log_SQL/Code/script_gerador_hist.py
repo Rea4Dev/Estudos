@@ -5,7 +5,7 @@ import time
 from typing import Optional, Tuple, List, Sequence
 import logging
 
-NIVEL_LOG = logging.INFO
+NIVEL_LOG = logging.DEBUG
 MINUTOS_FILTRAGEM_QUERY1 = 5  # Normal é 5
 SEGUNDOS_DELAY_SCRIPT = 10 # Normal é 300
 SEGUNDOS_ERRO_CONEXAO = 5 # Normal é 5
