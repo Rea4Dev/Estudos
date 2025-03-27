@@ -1,93 +1,95 @@
-INFO 26-03-2025 13:38:55 
+CRITICAL 27-03-2025 15:20:14 
 ____________________________________________________________________________________________________________________________________________
 
-INFO 26-03-2025 13:38:55 Banco de Dados conectado com sucesso.
-
-DEBUG 26-03-2025 13:38:55 | Consulta ao Banco de Dados buscando apenas acoes FAILED sendo feita analisando os ultimos 5 minutos.
-DEBUG 26-03-2025 13:38:58 | Consulta feita com sucesso!
-DEBUG 26-03-2025 13:38:58 | Consulta armazenada na variavel lista_dados_bd.
-
-INFO 26-03-2025 13:38:58 Resultados dos ultimos 5 minutos: 0 casos encontrados neste intervalo para analise.
-
-INFO 26-03-2025 13:38:58 Esperando 10 segundos para proxima varredura.
-
-DEBUG 26-03-2025 13:39:08 | Historico de falhas esta vazio. Armazenando falhas em historico.csv.
-
-INFO 26-03-2025 13:39:18 
+CRITICAL 27-03-2025 15:20:14 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:20:14 1 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:20:20 
 ____________________________________________________________________________________________________________________________________________
 
-INFO 26-03-2025 13:39:18 Banco de Dados conectado com sucesso.
-
-DEBUG 26-03-2025 13:39:18 | Consulta ao Banco de Dados buscando apenas acoes FAILED sendo feita analisando os ultimos 5 minutos.
-DEBUG 26-03-2025 13:39:20 | Consulta feita com sucesso!
-DEBUG 26-03-2025 13:39:20 | Consulta armazenada na variavel lista_dados_bd.
-
-INFO 26-03-2025 13:39:20 Resultados dos ultimos 5 minutos: 0 casos encontrados neste intervalo para analise.
-
-INFO 26-03-2025 13:39:20 Esperando 10 segundos para proxima varredura.
-
-DEBUG 26-03-2025 13:39:30 | Historico de falhas nao esta vazio. Iniciando comparacoes entre dados obtidos (lista_dados_bd) e dados presentes no historico (historico.csv).
-
-DEBUG 26-03-2025 13:39:30 | Comparando ID.
-INFO 26-03-2025 13:39:30 Ainda nao houveram novos dados. Aguardando novos dados...
-
-INFO 26-03-2025 13:39:30 
+CRITICAL 27-03-2025 15:20:20 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:20:20 2 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:20:26 
 ____________________________________________________________________________________________________________________________________________
 
-INFO 26-03-2025 13:39:30 Banco de Dados conectado com sucesso.
-
-DEBUG 26-03-2025 13:39:30 | Consulta ao Banco de Dados buscando apenas acoes FAILED sendo feita analisando os ultimos 5 minutos.
-DEBUG 26-03-2025 13:39:32 | Consulta feita com sucesso!
-DEBUG 26-03-2025 13:39:32 | Consulta armazenada na variavel lista_dados_bd.
-
-INFO 26-03-2025 13:39:32 Resultados dos ultimos 5 minutos: 3 casos encontrados neste intervalo para analise.
-
-DEBUG 26-03-2025 13:39:32 | (datetime.datetime(2025, 3, 26, 13, 39, 24, 67000), 32551957)
-DEBUG 26-03-2025 13:39:32 | (datetime.datetime(2025, 3, 26, 13, 39, 25, 516000), 32551960)
-DEBUG 26-03-2025 13:39:32 | (datetime.datetime(2025, 3, 26, 13, 39, 23, 209000), 32551963)
-DEBUG 26-03-2025 13:39:32 | Historico de falhas nao esta vazio. Iniciando comparacoes entre dados obtidos (lista_dados_bd) e dados presentes no historico (historico.csv).
-
-DEBUG 26-03-2025 13:39:32 | Comparando ID.
-DEBUG 26-03-2025 13:39:32 | ID Lista_bd: 32551957 - Caso novo (novo ID ou ID ja presente em historico mas com horario diferente) salvo no Historico de falhas de acordo com o Banco de Dados
-DEBUG 26-03-2025 13:39:32 | ID Lista_bd: 32551960 - Caso novo (novo ID ou ID ja presente em historico mas com horario diferente) salvo no Historico de falhas de acordo com o Banco de Dados
-DEBUG 26-03-2025 13:39:32 | ID Lista_bd: 32551963 - Caso novo (novo ID ou ID ja presente em historico mas com horario diferente) salvo no Historico de falhas de acordo com o Banco de Dados
-INFO 26-03-2025 13:39:42 
+CRITICAL 27-03-2025 15:20:26 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:20:26 3 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:20:32 
 ____________________________________________________________________________________________________________________________________________
 
-INFO 26-03-2025 13:39:42 Banco de Dados conectado com sucesso.
-
-DEBUG 26-03-2025 13:39:42 | Consulta ao Banco de Dados buscando apenas acoes FAILED sendo feita analisando os ultimos 5 minutos.
-DEBUG 26-03-2025 13:39:44 | Consulta feita com sucesso!
-DEBUG 26-03-2025 13:39:44 | Consulta armazenada na variavel lista_dados_bd.
-
-INFO 26-03-2025 13:39:44 Resultados dos ultimos 5 minutos: 3 casos encontrados neste intervalo para analise.
-
-DEBUG 26-03-2025 13:39:44 | (datetime.datetime(2025, 3, 26, 13, 39, 24, 67000), 32551957)
-DEBUG 26-03-2025 13:39:44 | (datetime.datetime(2025, 3, 26, 13, 39, 25, 516000), 32551960)
-DEBUG 26-03-2025 13:39:44 | (datetime.datetime(2025, 3, 26, 13, 39, 23, 209000), 32551963)
-DEBUG 26-03-2025 13:39:44 | Historico de falhas nao esta vazio. Iniciando comparacoes entre dados obtidos (lista_dados_bd) e dados presentes no historico (historico.csv).
-
-DEBUG 26-03-2025 13:39:44 | Comparando ID.
-DEBUG 26-03-2025 13:39:44 | ID Lista_bd: 32551957 - Ha tambem em historico com a mesma data. Ignorado.
-DEBUG 26-03-2025 13:39:44 | ID Lista_bd: 32551960 - Ha tambem em historico com a mesma data. Ignorado.
-DEBUG 26-03-2025 13:39:44 | ID Lista_bd: 32551963 - Ha tambem em historico com a mesma data. Ignorado.
-INFO 26-03-2025 13:39:54 
+CRITICAL 27-03-2025 15:20:32 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:20:32 4 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:20:39 
 ____________________________________________________________________________________________________________________________________________
 
-INFO 26-03-2025 13:39:54 Banco de Dados conectado com sucesso.
+CRITICAL 27-03-2025 15:20:39 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:20:39 5 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:20:45 
+____________________________________________________________________________________________________________________________________________
 
-DEBUG 26-03-2025 13:39:54 | Consulta ao Banco de Dados buscando apenas acoes FAILED sendo feita analisando os ultimos 5 minutos.
-DEBUG 26-03-2025 13:39:56 | Consulta feita com sucesso!
-DEBUG 26-03-2025 13:39:56 | Consulta armazenada na variavel lista_dados_bd.
+CRITICAL 27-03-2025 15:20:45 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:20:45 6 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:20:51 
+____________________________________________________________________________________________________________________________________________
 
-INFO 26-03-2025 13:39:56 Resultados dos ultimos 5 minutos: 3 casos encontrados neste intervalo para analise.
+CRITICAL 27-03-2025 15:20:51 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:20:51 7 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:20:57 
+____________________________________________________________________________________________________________________________________________
 
-DEBUG 26-03-2025 13:39:56 | (datetime.datetime(2025, 3, 26, 13, 39, 24, 67000), 32551957)
-DEBUG 26-03-2025 13:39:56 | (datetime.datetime(2025, 3, 26, 13, 39, 25, 516000), 32551960)
-DEBUG 26-03-2025 13:39:56 | (datetime.datetime(2025, 3, 26, 13, 39, 23, 209000), 32551963)
-DEBUG 26-03-2025 13:39:56 | Historico de falhas nao esta vazio. Iniciando comparacoes entre dados obtidos (lista_dados_bd) e dados presentes no historico (historico.csv).
+CRITICAL 27-03-2025 15:20:57 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:20:57 8 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:21:03 
+____________________________________________________________________________________________________________________________________________
 
-DEBUG 26-03-2025 13:39:56 | Comparando ID.
-DEBUG 26-03-2025 13:39:56 | ID Lista_bd: 32551957 - Ha tambem em historico com a mesma data. Ignorado.
-DEBUG 26-03-2025 13:39:56 | ID Lista_bd: 32551960 - Ha tambem em historico com a mesma data. Ignorado.
-DEBUG 26-03-2025 13:39:56 | ID Lista_bd: 32551963 - Ha tambem em historico com a mesma data. Ignorado.
+CRITICAL 27-03-2025 15:21:03 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:21:03 9 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:21:09 
+____________________________________________________________________________________________________________________________________________
+
+CRITICAL 27-03-2025 15:21:09 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:21:09 10 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:21:15 
+____________________________________________________________________________________________________________________________________________
+
+CRITICAL 27-03-2025 15:21:15 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:21:15 11 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:21:21 
+____________________________________________________________________________________________________________________________________________
+
+CRITICAL 27-03-2025 15:21:21 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:21:21 12 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:21:28 
+____________________________________________________________________________________________________________________________________________
+
+CRITICAL 27-03-2025 15:21:28 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:21:28 13 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:21:34 
+____________________________________________________________________________________________________________________________________________
+
+CRITICAL 27-03-2025 15:21:34 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:21:34 14 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:21:40 
+____________________________________________________________________________________________________________________________________________
+
+CRITICAL 27-03-2025 15:21:40 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:21:40 15 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:21:46 
+____________________________________________________________________________________________________________________________________________
+
+CRITICAL 27-03-2025 15:21:46 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:21:46 16 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:21:52 
+____________________________________________________________________________________________________________________________________________
+
+CRITICAL 27-03-2025 15:21:52 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:21:52 17 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:21:58 
+____________________________________________________________________________________________________________________________________________
+
+CRITICAL 27-03-2025 15:21:58 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:21:58 18 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
+CRITICAL 27-03-2025 15:22:04 
+____________________________________________________________________________________________________________________________________________
+
+CRITICAL 27-03-2025 15:22:04 Banco de Dados nao conectado.
+CRITICAL 27-03-2025 15:22:04 19 tentativa - Login nao autorizado, verifique usuario/senha. Erro: cx_Oracle.DatabaseError 1017
