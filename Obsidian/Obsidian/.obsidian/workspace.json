@@ -4,21 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "226709de081a8728",
+        "id": "6e08262585a9d077",
         "type": "tabs",
         "children": [
           {
-            "id": "1f5262e431cb865b",
+            "id": "7436ff36f22ce5d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Python/Construtores e Destrutores.md",
+                "file": "‎ Python/Classes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classes"
+            }
+          },
+          {
+            "id": "9e75e918240410f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "‎ Python/Métodos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Construtores e Destrutores"
+              "title": "Métodos"
+            }
+          },
+          {
+            "id": "9a16e7fa3d3a48cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "‎ Python/Método __init__.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Método __init__"
+            }
+          },
+          {
+            "id": "4f734e0f10368ad0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "‎ Python/Método get e set.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Método get e set"
+            }
+          },
+          {
+            "id": "63308faf95745283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "‎ Python/Exemplo.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exemplo"
             }
           }
         ]
@@ -453,12 +509,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "8068b87b0942b7d5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 33
       }
     ],
     "direction": "horizontal",
@@ -477,44 +543,44 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "1f5262e431cb865b",
+  "active": "7436ff36f22ce5d0",
   "lastOpenFiles": [
     "‎ Python/Índice de Python.md",
-    "‎ Python/Construtores e Destrutores.md",
+    "‎ Python/Namespaces, Pacotes e Escopos.md",
+    "‎ Python/Classes.md",
+    "‎ Python/Método __init__.md",
+    "‎ Python/Métodos.md",
+    "‎ Python/Método get e set.md",
     "‎ Python/Exemplo.md",
     "Página Principal.md",
-    "Organização/Ideias/Simplificação do Game.md",
-    "‎ Python/Métodos.md",
-    "Organização/Images/Pasted image 20250330142255.png",
-    "‎ Python/Classes.md",
-    "‎ Python/Método get e set.md",
+    "‎ Python/PEPs de Formatação do Código.md",
+    "‎ Python/Construtores e Destrutores.md",
+    "‎ Python/PEP 257 - Docstrings.md",
+    "‎ Python/Ferramentas e Linters.md",
     "‎ Python/Espaçamento e Identações.md",
+    "‎ Python/Funções e Classes.md",
+    "‎ Python/Formatação de Strings.md",
+    "‎ Python/Métodos de Instância.md",
+    "‎ Python/Constantes e Variáveis Globais.md",
+    "‎ Python/PEP8 - Classes.md",
+    "‎ Python/Valores Privados.md",
+    "‎ Python/Funções e métodos dunder.md",
+    "Funções/PEP 8 - Funções e Variáveis.md",
+    "‎ Python/Booleanos.md",
+    "‎ Python/Comentários.md",
+    "‎ Python/Quebras de Linha.md",
+    "‎ Python/Exceções ao PEP8.md",
+    "‎ Python/Considerações Finais.md",
+    "Organização/Images/Pasted image 20250330142255.png",
     "Organização/Images/Pasted image 20250330135651.png",
     "Organização/Images/Pasted image 20250330135634.png",
     "Organização/Images/Pasted image 20250330135619.png",
     "Organização/Images/Pasted image 20250330135359.png",
     "Organização/Images/Pasted image 20250330135022.png",
-    "‎ Python/Método __init__.md",
     "Organização/Images/Pasted image 20250330134447.png",
     "Organização/Images/Pasted image 20250330134132.png",
     "Organização/Images/Pasted image 20250330133823.png",
     "Organização/Images/Pasted image 20250330133454.png",
-    "‎ Python/Orientação a Objeto.md",
-    "‎ Python/Namespaces, Pacotes e Escopos.md",
-    "Apenas gerar FlashCards quando.md",
-    "Funções/PEP 8 - Funções e Variáveis.md",
-    "‎ Python/PEP8 - Classes.md",
-    "‎ Front-End/Índice Front-End.md",
-    "‎ Python/Estruturas de Dados.md",
-    "‎ Python/PEPs de Formatação do Código.md",
-    "‎ Python/Pep-8.md",
-    "‎ Python/PEP 257 - Docstrings.md",
-    "‎ Python/Considerações Finais.md",
-    "‎ Python/Ferramentas e Linters.md",
-    "‎ Python/Exceções ao PEP8.md",
-    "‎ Python/Type Hints.md",
-    "‎ Python/Tratamento de Exceções.md",
-    "‎ Python/Formatação de Strings.md",
     "Funções",
     "Organização/Ideias",
     "Projetos/script_gerador_hist.log",
