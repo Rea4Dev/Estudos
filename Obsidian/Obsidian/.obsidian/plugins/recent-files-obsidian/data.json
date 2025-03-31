@@ -1,16 +1,168 @@
 {
   "recentFiles": [
     {
-      "basename": "Uso de logging",
-      "path": "‎ Python/Uso de logging.md"
+      "basename": "Construtores e Destrutores",
+      "path": "‎ Python/Construtores e Destrutores.md"
     },
     {
       "basename": "Índice de Python",
       "path": "‎ Python/Índice de Python.md"
     },
     {
+      "basename": "Exemplo",
+      "path": "‎ Python/Exemplo.md"
+    },
+    {
       "basename": "Página Principal",
       "path": "Página Principal.md"
+    },
+    {
+      "basename": "Simplificação do Game",
+      "path": "Organização/Ideias/Simplificação do Game.md"
+    },
+    {
+      "basename": "Métodos",
+      "path": "‎ Python/Métodos.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "‎ Python/Classes.md"
+    },
+    {
+      "basename": "Método get e set",
+      "path": "‎ Python/Método get e set.md"
+    },
+    {
+      "basename": "Espaçamento e Identações",
+      "path": "‎ Python/Espaçamento e Identações.md"
+    },
+    {
+      "basename": "Método __init__",
+      "path": "‎ Python/Método __init__.md"
+    },
+    {
+      "basename": "Orientação a Objeto",
+      "path": "‎ Python/Orientação a Objeto.md"
+    },
+    {
+      "basename": "Namespaces, Pacotes e Escopos",
+      "path": "‎ Python/Namespaces, Pacotes e Escopos.md"
+    },
+    {
+      "basename": "Apenas gerar FlashCards quando",
+      "path": "Apenas gerar FlashCards quando.md"
+    },
+    {
+      "basename": "PEP 8 - Funções e Variáveis",
+      "path": "Funções/PEP 8 - Funções e Variáveis.md"
+    },
+    {
+      "basename": "PEP8 - Classes",
+      "path": "‎ Python/PEP8 - Classes.md"
+    },
+    {
+      "basename": "Índice Front-End",
+      "path": "‎ Front-End/Índice Front-End.md"
+    },
+    {
+      "basename": "PEPs de Formatação do Código",
+      "path": "‎ Python/PEPs de Formatação do Código.md"
+    },
+    {
+      "basename": "PEP 257 - Docstrings",
+      "path": "‎ Python/PEP 257 - Docstrings.md"
+    },
+    {
+      "basename": "Considerações Finais",
+      "path": "‎ Python/Considerações Finais.md"
+    },
+    {
+      "basename": "Ferramentas e Linters",
+      "path": "‎ Python/Ferramentas e Linters.md"
+    },
+    {
+      "basename": "Exceções ao PEP8",
+      "path": "‎ Python/Exceções ao PEP8.md"
+    },
+    {
+      "basename": "Type Hints",
+      "path": "‎ Python/Type Hints.md"
+    },
+    {
+      "basename": "Tratamento de Exceções",
+      "path": "‎ Python/Tratamento de Exceções.md"
+    },
+    {
+      "basename": "Formatação de Strings",
+      "path": "‎ Python/Formatação de Strings.md"
+    },
+    {
+      "basename": "Funções e Classes",
+      "path": "‎ Python/Funções e Classes.md"
+    },
+    {
+      "basename": "Estruturas de Controle",
+      "path": "‎ Python/Estruturas de Controle.md"
+    },
+    {
+      "basename": "Importações",
+      "path": "‎ Python/Importações.md"
+    },
+    {
+      "basename": "Comparações e Booleanos",
+      "path": "‎ Python/Comparações e Booleanos.md"
+    },
+    {
+      "basename": "Comentários",
+      "path": "‎ Python/Comentários.md"
+    },
+    {
+      "basename": "Quebras de Linha",
+      "path": "‎ Python/Quebras de Linha.md"
+    },
+    {
+      "basename": "Exceções",
+      "path": "‎ Python/Exceções.md"
+    },
+    {
+      "basename": "Pacotes",
+      "path": "‎ Python/Pacotes.md"
+    },
+    {
+      "basename": "Métodos de Instância",
+      "path": "‎ Python/Métodos de Instância.md"
+    },
+    {
+      "basename": "Constantes e Variáveis Globais",
+      "path": "‎ Python/Constantes e Variáveis Globais.md"
+    },
+    {
+      "basename": "Métodos de Classe e Estáticos",
+      "path": "‎ Python/Métodos de Classe e Estáticos.md"
+    },
+    {
+      "basename": "Valores Protegidos",
+      "path": "‎ Python/Valores Protegidos.md"
+    },
+    {
+      "basename": "Valores Privados",
+      "path": "‎ Python/Valores Privados.md"
+    },
+    {
+      "basename": "Funções e métodos dunder",
+      "path": "‎ Python/Funções e métodos dunder.md"
+    },
+    {
+      "basename": "Booleanos",
+      "path": "‎ Python/Booleanos.md"
+    },
+    {
+      "basename": "Mandamentos",
+      "path": "‎ Python/Mandamentos.md"
+    },
+    {
+      "basename": "PEP8 - Guia de Estilo para Código Python",
+      "path": "‎ Python/PEP8 - Guia de Estilo para Código Python.md"
     },
     {
       "basename": "Índice Matemática",
@@ -21,20 +173,8 @@
       "path": "‎ Front-End/Listas.md"
     },
     {
-      "basename": "Mandamentos",
-      "path": "‎ Python/Mandamentos.md"
-    },
-    {
-      "basename": "Formatação do Código",
-      "path": "‎ Python/1. Formatação do Código e Mandamentos/Formatação do Código.md"
-    },
-    {
       "basename": "Especificidade CSS",
       "path": "‎ Front-End/Especificidade CSS.md"
-    },
-    {
-      "basename": "Índice Front-End",
-      "path": "‎ Front-End/Índice Front-End.md"
     },
     {
       "basename": "Boas Práticas",
@@ -59,134 +199,6 @@
     {
       "basename": "Próximos passos",
       "path": "‎ Front-End/Próximos passos.md"
-    },
-    {
-      "basename": "Como exercitar",
-      "path": "‎ Front-End/Como exercitar.md"
-    },
-    {
-      "basename": "Estrutura de uma página HTML",
-      "path": "‎ Front-End/Estrutura de uma página HTML.md"
-    },
-    {
-      "basename": "Elementos Vazios",
-      "path": "‎ Front-End/Elementos Vazios.md"
-    },
-    {
-      "basename": "Atributo",
-      "path": "‎ Front-End/Atributo.md"
-    },
-    {
-      "basename": "Aninhando Elementos",
-      "path": "‎ Front-End/Aninhando Elementos.md"
-    },
-    {
-      "basename": "Elemento, tag e conteúdo",
-      "path": "‎ Front-End/Elemento, tag e conteúdo.md"
-    },
-    {
-      "basename": "Como funciona o Front-End",
-      "path": "‎ Front-End/Como funciona o Front-End.md"
-    },
-    {
-      "basename": "font-style",
-      "path": "‎ Front-End/font-style.md"
-    },
-    {
-      "basename": "Color",
-      "path": "‎ Front-End/Color.md"
-    },
-    {
-      "basename": "font-family",
-      "path": "‎ Front-End/font-family.md"
-    },
-    {
-      "basename": "Elementos Inline e Block",
-      "path": "‎ Front-End/Elementos Inline e Block.md"
-    },
-    {
-      "basename": "Todos os Seletores",
-      "path": "‎ Front-End/Todos os Seletores.md"
-    },
-    {
-      "basename": "CSS Reset",
-      "path": "‎ Front-End/CSS Reset.md"
-    },
-    {
-      "basename": "Box Model CSS",
-      "path": "‎ Front-End/Box Model CSS.md"
-    },
-    {
-      "basename": "Como linkar CSS",
-      "path": "‎ Front-End/Como linkar CSS.md"
-    },
-    {
-      "basename": "Nomenclatura Anatômica CSS",
-      "path": "‎ Front-End/Nomenclatura Anatômica CSS.md"
-    },
-    {
-      "basename": "text-align",
-      "path": "‎ Front-End/text-align.md"
-    },
-    {
-      "basename": "font-weight",
-      "path": "‎ Front-End/font-weight.md"
-    },
-    {
-      "basename": "font-size",
-      "path": "‎ Front-End/font-size.md"
-    },
-    {
-      "basename": "DQL e DML",
-      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/DQL e DML.md"
-    },
-    {
-      "basename": "Introdução ao Banco de Dados e SQL",
-      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md"
-    },
-    {
-      "basename": "Índice Banco de Dados",
-      "path": "‎ Back-End/Banco de Dados/Índice Banco de Dados.md"
-    },
-    {
-      "basename": "Código 14-03",
-      "path": "Projetos/Gerador_log_SQL/Organização/14-03/Código 14-03.md"
-    },
-    {
-      "basename": "Query 14-03",
-      "path": "Projetos/Gerador_log_SQL/Organização/14-03/Query 14-03.md"
-    },
-    {
-      "basename": "HTML Semântico",
-      "path": "‎ Front-End/HTML Semântico.md"
-    },
-    {
-      "basename": "Formulários",
-      "path": "‎ Front-End/Formulários.md"
-    },
-    {
-      "basename": "Links",
-      "path": "‎ Front-End/Links.md"
-    },
-    {
-      "basename": "Parágrafos",
-      "path": "‎ Front-End/Parágrafos.md"
-    },
-    {
-      "basename": "Flashcards Front-end",
-      "path": "‎ Front-End/Flashcards Front-end.md"
-    },
-    {
-      "basename": "Parsing e Renderização",
-      "path": "‎ Front-End/Parsing e Renderização.md"
-    },
-    {
-      "basename": "URL e URI",
-      "path": "‎ Front-End/URL e URI.md"
-    },
-    {
-      "basename": "Conceitos Básicos",
-      "path": "‎ Front-End/Conceitos Básicos.md"
     }
   ],
   "omittedPaths": [],

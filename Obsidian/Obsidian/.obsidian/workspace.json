@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Python/Uso de logging.md",
+                "file": "‎ Python/Construtores e Destrutores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uso de logging"
+              "title": "Construtores e Destrutores"
             }
           }
         ]
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "83e3378c9dd072de",
@@ -392,12 +393,72 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "1cd1e92c52002702",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "784182139a382fc0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "15fd225205202d66",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "441d40ebc259b137",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "480f31266bce8143",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "ebd52048ea919bed",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 32
       }
     ],
     "direction": "horizontal",
@@ -419,55 +480,55 @@
   "active": "1f5262e431cb865b",
   "lastOpenFiles": [
     "‎ Python/Índice de Python.md",
-    "‎ Python/Uso de logging.md",
+    "‎ Python/Construtores e Destrutores.md",
+    "‎ Python/Exemplo.md",
     "Página Principal.md",
-    "Matemática/Índice Matemática.md",
-    "Sem título",
-    "‎ Front-End/Listas.md",
-    "‎ Python/Mandamentos.md",
-    "‎ Python/1. Formatação do Código e Mandamentos/Formatação do Código.md",
-    "‎ Front-End/Especificidade CSS.md",
-    "Organização/Images/Pasted image 20250326153056.png",
+    "Organização/Ideias/Simplificação do Game.md",
+    "‎ Python/Métodos.md",
+    "Organização/Images/Pasted image 20250330142255.png",
+    "‎ Python/Classes.md",
+    "‎ Python/Método get e set.md",
+    "‎ Python/Espaçamento e Identações.md",
+    "Organização/Images/Pasted image 20250330135651.png",
+    "Organização/Images/Pasted image 20250330135634.png",
+    "Organização/Images/Pasted image 20250330135619.png",
+    "Organização/Images/Pasted image 20250330135359.png",
+    "Organização/Images/Pasted image 20250330135022.png",
+    "‎ Python/Método __init__.md",
+    "Organização/Images/Pasted image 20250330134447.png",
+    "Organização/Images/Pasted image 20250330134132.png",
+    "Organização/Images/Pasted image 20250330133823.png",
+    "Organização/Images/Pasted image 20250330133454.png",
+    "‎ Python/Orientação a Objeto.md",
+    "‎ Python/Namespaces, Pacotes e Escopos.md",
+    "Apenas gerar FlashCards quando.md",
+    "Funções/PEP 8 - Funções e Variáveis.md",
+    "‎ Python/PEP8 - Classes.md",
     "‎ Front-End/Índice Front-End.md",
-    "‎ Front-End/Boas Práticas.md",
+    "‎ Python/Estruturas de Dados.md",
+    "‎ Python/PEPs de Formatação do Código.md",
+    "‎ Python/Pep-8.md",
+    "‎ Python/PEP 257 - Docstrings.md",
+    "‎ Python/Considerações Finais.md",
+    "‎ Python/Ferramentas e Linters.md",
+    "‎ Python/Exceções ao PEP8.md",
+    "‎ Python/Type Hints.md",
+    "‎ Python/Tratamento de Exceções.md",
+    "‎ Python/Formatação de Strings.md",
+    "Funções",
+    "Organização/Ideias",
     "Projetos/script_gerador_hist.log",
     "Projetos/Gerador_log_SQL/Code/script_gerador_hist.py",
     "Projetos/Gerador_log_SQL/Code/2.py",
     "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas",
-    "‎ Front-End/Títulos.md",
-    "‎ Front-End/Meta.md",
-    "‎ Front-End/Title.md",
-    "‎ Front-End/Próximos passos.md",
-    "‎ Front-End/Como exercitar.md",
-    "‎ Front-End/Estrutura de uma página HTML.md",
-    "‎ Front-End/Elementos Vazios.md",
-    "‎ Front-End/Atributo.md",
-    "‎ Front-End/Aninhando Elementos.md",
-    "‎ Front-End/Elemento, tag e conteúdo.md",
-    "‎ Front-End/Como funciona o Front-End.md",
     "Projetos/historico.csv",
     "Projetos/Gerador_log_SQL/historico.csv",
     "Projetos/Gerador_log_SQL/Code/teste.py",
     "Projetos/teste.py",
-    "Projetos/Gerador de Log - Script Python.png",
-    "‎ Front-End/font-style.md",
-    "‎ Front-End/Color.md",
-    "‎ Front-End/font-family.md",
-    "‎ Front-End/Elementos Inline e Block.md",
-    "‎ Front-End/Todos os Seletores.md",
-    "Organização/Images/Pasted image 20250324203415.png",
     "Projetos/Gerador_log_SQL/Code/script_gerador_log.py",
-    "Projetos/Gerador_log_SQL/Code/24-03.py",
     "Projetos/Gerador_log_SQL/Canvas/Sem título 1.canvas",
     "Projetos/Gerador_log_SQL/Canvas/Esquemático Lógica.canvas",
     "Projetos/Gerador_log_SQL/Canvas/Sem título.canvas",
-    "Projetos/Gerador_log_SQL/Canvas/Projeto.png",
-    "Projetos/Gerador_log_SQL/Canvas/Fluxograma.png",
-    "Projetos/Gerador_log_SQL/Canvas/Exemplo WebSIT.png",
-    "Organização/Images/Pasted image 20250323112205.png",
-    "Organização/Images/Pasted image 20250323104055.png",
-    "Organização/Images/Pasted image 20250323103918.png",
-    "Organização/Images/Pasted image 20250323095654.png",
     "Sem título 1.canvas"
   ]
 }
