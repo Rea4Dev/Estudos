@@ -8,73 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7436ff36f22ce5d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "‎ Python/Classes.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Classes"
-            }
-          },
-          {
-            "id": "9e75e918240410f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "‎ Python/Métodos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Métodos"
-            }
-          },
-          {
-            "id": "9a16e7fa3d3a48cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "‎ Python/Método __init__.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Método __init__"
-            }
-          },
-          {
             "id": "4f734e0f10368ad0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Python/Método get e set.md",
+                "file": "‎ Python/Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Método get e set"
-            }
-          },
-          {
-            "id": "63308faf95745283",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "‎ Python/Exemplo.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exemplo"
+              "title": "Classes"
             }
           }
         ]
@@ -152,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "83e3378c9dd072de",
@@ -543,21 +486,23 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "7436ff36f22ce5d0",
+  "active": "4f734e0f10368ad0",
   "lastOpenFiles": [
     "‎ Python/Índice de Python.md",
-    "‎ Python/Namespaces, Pacotes e Escopos.md",
-    "‎ Python/Classes.md",
-    "‎ Python/Método __init__.md",
-    "‎ Python/Métodos.md",
-    "‎ Python/Método get e set.md",
-    "‎ Python/Exemplo.md",
     "Página Principal.md",
     "‎ Python/PEPs de Formatação do Código.md",
+    "‎ Python/Espaçamento e Identações.md",
+    "Funções/PEP 8 - Funções e Variáveis.md",
+    "‎ Python/Método get e set.md",
+    "‎ Python/Exemplo.md",
+    "Matemática/Índice Matemática.md",
+    "‎ Python/Classes.md",
+    "‎ Python/Namespaces, Pacotes e Escopos.md",
+    "‎ Python/Método __init__.md",
+    "‎ Python/Métodos.md",
     "‎ Python/Construtores e Destrutores.md",
     "‎ Python/PEP 257 - Docstrings.md",
     "‎ Python/Ferramentas e Linters.md",
-    "‎ Python/Espaçamento e Identações.md",
     "‎ Python/Funções e Classes.md",
     "‎ Python/Formatação de Strings.md",
     "‎ Python/Métodos de Instância.md",
@@ -565,12 +510,10 @@
     "‎ Python/PEP8 - Classes.md",
     "‎ Python/Valores Privados.md",
     "‎ Python/Funções e métodos dunder.md",
-    "Funções/PEP 8 - Funções e Variáveis.md",
     "‎ Python/Booleanos.md",
     "‎ Python/Comentários.md",
     "‎ Python/Quebras de Linha.md",
     "‎ Python/Exceções ao PEP8.md",
-    "‎ Python/Considerações Finais.md",
     "Organização/Images/Pasted image 20250330142255.png",
     "Organização/Images/Pasted image 20250330135651.png",
     "Organização/Images/Pasted image 20250330135634.png",

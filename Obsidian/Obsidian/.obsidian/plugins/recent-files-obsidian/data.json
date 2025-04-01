@@ -9,12 +9,20 @@
       "path": "‎ Python/Índice de Python.md"
     },
     {
-      "basename": "Método __init__",
-      "path": "‎ Python/Método __init__.md"
+      "basename": "Página Principal",
+      "path": "Página Principal.md"
     },
     {
-      "basename": "Métodos",
-      "path": "‎ Python/Métodos.md"
+      "basename": "PEPs de Formatação do Código",
+      "path": "‎ Python/PEPs de Formatação do Código.md"
+    },
+    {
+      "basename": "Espaçamento e Identações",
+      "path": "‎ Python/Espaçamento e Identações.md"
+    },
+    {
+      "basename": "PEP 8 - Funções e Variáveis",
+      "path": "Funções/PEP 8 - Funções e Variáveis.md"
     },
     {
       "basename": "Método get e set",
@@ -25,12 +33,16 @@
       "path": "‎ Python/Exemplo.md"
     },
     {
-      "basename": "Página Principal",
-      "path": "Página Principal.md"
+      "basename": "Índice Matemática",
+      "path": "Matemática/Índice Matemática.md"
     },
     {
-      "basename": "PEPs de Formatação do Código",
-      "path": "‎ Python/PEPs de Formatação do Código.md"
+      "basename": "Método __init__",
+      "path": "‎ Python/Método __init__.md"
+    },
+    {
+      "basename": "Métodos",
+      "path": "‎ Python/Métodos.md"
     },
     {
       "basename": "PEP 257 - Docstrings",
@@ -39,10 +51,6 @@
     {
       "basename": "Ferramentas e Linters",
       "path": "‎ Python/Ferramentas e Linters.md"
-    },
-    {
-      "basename": "Espaçamento e Identações",
-      "path": "‎ Python/Espaçamento e Identações.md"
     },
     {
       "basename": "Funções e Classes",
@@ -71,10 +79,6 @@
     {
       "basename": "Funções e métodos dunder",
       "path": "‎ Python/Funções e métodos dunder.md"
-    },
-    {
-      "basename": "PEP 8 - Funções e Variáveis",
-      "path": "Funções/PEP 8 - Funções e Variáveis.md"
     },
     {
       "basename": "Booleanos",
@@ -155,10 +159,6 @@
     {
       "basename": "PEP8 - Guia de Estilo para Código Python",
       "path": "‎ Python/PEP8 - Guia de Estilo para Código Python.md"
-    },
-    {
-      "basename": "Índice Matemática",
-      "path": "Matemática/Índice Matemática.md"
     },
     {
       "basename": "Listas",

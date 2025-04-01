@@ -135,20 +135,21 @@
 ---
 
 ### <p style="color: #C82F4B; text-align:center;font-size:40px;">Data Science</p>
-1. [[Pandas Basics]]
-2. [[NumPy]]
+
+1. [[NumPy]]
 	1. [[Arrays Numéricos]]
 	2. [[Operações Vetorizadas]]
+2. [[Pandas Basics]]
 3. [[Visualização de Dados]]
 	1. [[Matplotlib]]
 	2. [[Seaborn]]
 	3. [[Plotly]]
 4. [[Análise Exploratória]]
 5. [[Limpeza de Dados]]
-6. [[Scikit-learn]]
+6. [[Estatística Básica]]
+7. [[Scikit-learn]]
 	1. [[Pré-processamento]]
 	2. [[Modelos Básicos]]
-7. [[Estatística Básica]]
 8. [[APIs para Dados (requests)]]
 9. [[Manipulação de DataFrames]]
 

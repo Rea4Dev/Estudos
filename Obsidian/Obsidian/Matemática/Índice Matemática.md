@@ -50,7 +50,7 @@
 7. [[Séries de Taylor e Maclaurin]]  
 8. [[Séries de Fourier (Introdução)]]  
 
-## Cálculo 3 (Multivariável)
+## Cálculo 3 (Multivariável) (2)
 1. [[Funções de Várias Variáveis: Visualização e Curvas de Nível]]  
 2. [[Limites e Continuidade em Múltiplas Variáveis]]  
 3. [[Derivadas Parciais e Vetor Gradiente]]  
@@ -63,37 +63,37 @@
 10. [[Campos Vetoriais e Integrais de Linha]]  
 
 
-## Álgebra Linear
+## Álgebra Linear (3)
 1. [[Vetores e Operações (Produto Escalar, Vetorial)]]  
 2. [[Matrizes: Multiplicação, Transposta, Inversa]]  
 3. [[Sistemas de Equações Lineares e Eliminação de Gauss]]  
 4. [[Determinantes e Autovalores/Autovetores]]  
 5. [[Decomposição de Matrizes (SVD, PCA)]]  
 
-## Probabilidade
+## Probabilidade (1)
 1. [[Variáveis Aleatórias Discretas e Contínuas]]  
 2. [[Distribuições (Binomial, Poisson, Normal, Exponencial)]]  
 3. [[Teorema de Bayes e Probabilidade Condicional]]  
 4. [[Esperança, Variância e Covariância]]  
 5. [[Lei dos Grandes Números e Teorema Central do Limite]]  
 
-## Estatística Avançada
+## Estatística Avançada (1)
 1. [[Testes de Hipóteses (Z-test, T-test, Qui-Quadrado)]]  
 2. [[Intervalos de Confiança]]  
 3. [[Regressão Linear e Não Linear]]  
 4. [[Análise de Variância (ANOVA)]]  
 5. [[Métodos de Bootstrap e Monte Carlo]]  
 
-## Otimização
+## Otimização (4)
 1. [[Métodos Numéricos (Gradiente Descendente, Newton-Raphson)]]  
 2. [[Problemas Convexos vs. Não Convexos]]  
 3. [[Regularização (L1/L2) e sua Interpretação Geométrica]]  
 
-## Matemática Discreta
+## Matemática Discreta 
 1. [[Lógica Proposicional e Teoria de Conjuntos]]  
-2. [[Grafos e Redes (Aplicações em Análise de Dados)]]  
+2. [[Grafos e Redes (Aplicações em Análise de Dados)]]  (5)
 3. [[Combinatória Básica (Permutações, Combinações)]]  
 
-## Teoria da Informação
+## Teoria da Informação (4)
 1. [[Entropia e Entropia Cruzada]]  
 2. [[Divergência de Kullback-Leibler]]  
