@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Python/Classes.md",
+                "file": "‎ Front-End/CSS Reset.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes"
+              "title": "CSS Reset"
             }
           }
         ]
@@ -462,12 +462,42 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "1939fe87f3b1f587",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "0d1c7dd71c7a88aa",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "0787e59c5543c751",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 33
+        "currentTab": 36
       }
     ],
     "direction": "horizontal",
@@ -488,15 +518,22 @@
   },
   "active": "4f734e0f10368ad0",
   "lastOpenFiles": [
-    "‎ Python/Índice de Python.md",
+    "‎ Front-End/Índice Front-End.md",
+    "‎ Front-End/Formulários.md",
     "Página Principal.md",
+    "‎ Python/Índice de Python.md",
+    "Apenas gerar FlashCards quando.md",
+    "‎ Front-End/JS - Tipos de Dados.md",
+    "‎ Front-End/JS - Operadores Relacionais e Lógicos.md",
+    "‎ Front-End/JS - Variáveis.md",
+    "‎ Front-End/HTML Semântico.md",
+    "‎ Python/Classes.md",
     "‎ Python/PEPs de Formatação do Código.md",
     "‎ Python/Espaçamento e Identações.md",
     "Funções/PEP 8 - Funções e Variáveis.md",
     "‎ Python/Método get e set.md",
     "‎ Python/Exemplo.md",
     "Matemática/Índice Matemática.md",
-    "‎ Python/Classes.md",
     "‎ Python/Namespaces, Pacotes e Escopos.md",
     "‎ Python/Método __init__.md",
     "‎ Python/Métodos.md",
@@ -507,13 +544,6 @@
     "‎ Python/Formatação de Strings.md",
     "‎ Python/Métodos de Instância.md",
     "‎ Python/Constantes e Variáveis Globais.md",
-    "‎ Python/PEP8 - Classes.md",
-    "‎ Python/Valores Privados.md",
-    "‎ Python/Funções e métodos dunder.md",
-    "‎ Python/Booleanos.md",
-    "‎ Python/Comentários.md",
-    "‎ Python/Quebras de Linha.md",
-    "‎ Python/Exceções ao PEP8.md",
     "Organização/Images/Pasted image 20250330142255.png",
     "Organização/Images/Pasted image 20250330135651.png",
     "Organização/Images/Pasted image 20250330135634.png",

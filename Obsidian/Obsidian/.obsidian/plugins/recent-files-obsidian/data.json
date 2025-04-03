@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Classes",
-      "path": "‎ Python/Classes.md"
+      "basename": "CSS Reset",
+      "path": "‎ Front-End/CSS Reset.md"
+    },
+    {
+      "basename": "Índice Front-End",
+      "path": "‎ Front-End/Índice Front-End.md"
+    },
+    {
+      "basename": "Formulários",
+      "path": "‎ Front-End/Formulários.md"
+    },
+    {
+      "basename": "Página Principal",
+      "path": "Página Principal.md"
     },
     {
       "basename": "Índice de Python",
       "path": "‎ Python/Índice de Python.md"
     },
     {
-      "basename": "Página Principal",
-      "path": "Página Principal.md"
+      "basename": "Apenas gerar FlashCards quando",
+      "path": "Apenas gerar FlashCards quando.md"
+    },
+    {
+      "basename": "JS - Tipos de Dados",
+      "path": "‎ Front-End/JS - Tipos de Dados.md"
+    },
+    {
+      "basename": "JS - Operadores Relacionais e Lógicos",
+      "path": "‎ Front-End/JS - Operadores Relacionais e Lógicos.md"
+    },
+    {
+      "basename": "JS - Variáveis",
+      "path": "‎ Front-End/JS - Variáveis.md"
+    },
+    {
+      "basename": "HTML Semântico",
+      "path": "‎ Front-End/HTML Semântico.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "‎ Python/Classes.md"
     },
     {
       "basename": "PEPs de Formatação do Código",
@@ -117,14 +149,6 @@
       "path": "‎ Python/Orientação a Objeto.md"
     },
     {
-      "basename": "Apenas gerar FlashCards quando",
-      "path": "Apenas gerar FlashCards quando.md"
-    },
-    {
-      "basename": "Índice Front-End",
-      "path": "‎ Front-End/Índice Front-End.md"
-    },
-    {
       "basename": "Type Hints",
       "path": "‎ Python/Type Hints.md"
     },
@@ -175,22 +199,6 @@
     {
       "basename": "Requisitos",
       "path": "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas"
-    },
-    {
-      "basename": "Títulos",
-      "path": "‎ Front-End/Títulos.md"
-    },
-    {
-      "basename": "Meta",
-      "path": "‎ Front-End/Meta.md"
-    },
-    {
-      "basename": "Title",
-      "path": "‎ Front-End/Title.md"
-    },
-    {
-      "basename": "Próximos passos",
-      "path": "‎ Front-End/Próximos passos.md"
     }
   ],
   "omittedPaths": [],

@@ -2,8 +2,8 @@
 	1. [[Conceitos Básicos]]
 	2. [[URL e URI]]
 	3. [[Parsing e Renderização]]
-
-2. <big><big><span style="color:#C82F4B">HTML</span></big></big>
+---
+1. <big><big><span style="color:#C82F4B">HTML</span></big></big>
 	1. <span style="color:#C82F4B">Introdução</span>
 		1. [[Como funciona o Front-End]]
 		2. <span style="color:#C82F4B">Nomenclatura Anatômica HTML</span>
@@ -24,8 +24,8 @@
 		4. [[Links]]
 	4. [[HTML Semântico]]
 	5. [[Formulários]]
-
-3. <big><big><span style="color:#C82F4B">CSS</span></big></big>
+---
+1. <big><big><span style="color:#C82F4B">CSS</span></big></big>
 	1. [[Nomenclatura Anatômica CSS]]
 	2. [[Como linkar CSS]]
 	3. [[Elementos Inline e Block]]
@@ -44,6 +44,11 @@
 			5. [[font-style]]
 			6. [[Color]]
 
+---
+1. <big><big><span style="color:#C82F4B">JavaScript</span></big></big>
+	1. [[JS - Variáveis]]
+	2. [[JS - Tipos de Dados]]
+	3. [[JS - Operadores Relacionais e Lógicos]]
 
 - [[Flashcards Front-end]]
 https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
