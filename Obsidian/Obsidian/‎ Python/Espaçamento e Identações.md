@@ -1,10 +1,10 @@
 [[Índice de Python|Voltar]]
 
-## *Nível de Identação*
+## Nível de Identação
 
 Use **4 espaços** por nível de indentação.
 
-## *Linhas de Continuação*
+## Linhas de Continuação
 
 Pelo tamanho recomendado de linhas de códigos <small>(79)</small> e strings <small>(72)</small>, por vezes podemos necessitar, gerar linhas de continuação. Há diferentes formas de utilizá-las. Veja abaixo:
 

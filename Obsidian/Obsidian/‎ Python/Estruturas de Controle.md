@@ -1,6 +1,6 @@
 [[Índice de Python|Voltar]]
 
-## 📌 *Estruturas de Controle*
+## 📌 Estruturas de Controle
 
 - Espaço após `if`, `for`, `while`.
 - Use `elif` para cadeias condicionais.

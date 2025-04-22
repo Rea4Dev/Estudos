@@ -1,6 +1,6 @@
 [[Índice de Python|Voltar]]
 
-## 📌 *Considerações Finais*
+## 📌 Considerações Finais
 
 - "A legibilidade conta." — Princípio Zen do Python.
 - "Consistência é mais importante que perfeição." — Guia PEP8.

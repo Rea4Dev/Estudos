@@ -1,6 +1,6 @@
 [[Índice de Python|Voltar]]
 
-## 📌 *Importações*
+## 📌 Importações
 
 - Importe módulos em **linhas separadas**.
 - Agrupe na ordem: **padrão > terceiros > locais**.

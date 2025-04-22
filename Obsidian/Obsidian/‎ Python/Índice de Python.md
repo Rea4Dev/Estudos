@@ -1,4 +1,4 @@
-### <p style="color: #C82F4B; text-align:center;font-size:40px;">PEP 8 - Guia de Estilo para Códigos Python</p>
+# <p style="color: #C82F4B; text-align:center;font-size:40px;">PEP 8 - Guia de Estilo para Códigos Python</p>
 1. [[PEPs de Formatação do Código]]
 	1. [[Espaçamento e Identações]]
 	2. [[Nomes]]
@@ -28,7 +28,7 @@
 	15. [[Considerações Finais]]
 
 ---
-### <p style="color: #C82F4B; text-align:center;font-size:40px;">Práticas</p>
+# <p style="color: #C82F4B; text-align:center;font-size:40px;">Práticas</p>
 1. [[Mandamentos]]
 2. [[Uso de logging]]
 3. [[Manipulação de Arquivos com Open With]]
@@ -40,18 +40,28 @@
 8. [[Padrões de Projeto]]
 	1. [[Singleton Pattern]]
 ---
-### <p style="color: #C82F4B; text-align:center;font-size:40px;">Sintaxe</p>
-1. [[Variáveis e Constantes]]
+# <p style="color: #C82F4B; text-align:center;font-size:40px;">Sintaxe</p>
+1. [[Sintaxe Fundamental]]
+	1. [[Variáveis e Constantes]]
+	2. [[Conversão de tipos]]
+	3. [[Entrada e Saída]]
+	4. [[Operadores]]
+	5. [[Estruturas Condicionais]]
+	6. [[Estruturas de Repetição]]
+	7. [[Funções]]
+	8. [[Módulos]]
 
 2. [[Estruturas de Dados]]
 	1. [[Lista]]
+		1. [[Acessando e Modificando Elementos de Listas]]
+		2. [[Métodos de Listas]]
+		3. [[List Comprehensions]]
+		4. [[Iterando sobre Listas]]
 	2. [[Tupla]]
 	    1. [[Named Tuple]]
 	3. [[Dicionário]]
 	4. [[Conjuntos (Sets)]]
 	5. [[Queue e Stack]]
-	6. [[Dataclasses]]
-
 
 3. [[Orientação a Objeto]]
     1. [[Namespaces, Pacotes e Escopos]]
@@ -69,35 +79,30 @@
 	8. [[ Pseudo-Interfaces]]
 	9. [[Lidando com erros e exceções]]
 
-4. [[Operadores]]
-    2. [[Operadores Bitwise]]
-    3. [[Walrus Operator (:=)]]
-
-5. [[Estruturas Condicionais]]
-    1. [[Match-Case (Python 3.10+)]]
-
-6. [[Estruturas Condicionais]]
-    1. [[Match-Case (Python 3.10+)]]
-
-7. [[Funções]]
-    1. [[Funções Lambda]]
-    2. [[Decoradores]]
-    3. [[Geradores (Yield)]]
-    4. [[Parâmetros (*args e **kwargs)]]
-
-8. [[Manipulação de Strings]]
-    1. [[f-strings]]
-    2. [[Expressões Regulares (re)]]
-
-9. [[Context Managers (With)]]
-
-10. [[Tipagem Estática]]
-    1. [[Type Hinting]]
-    2. [[Typing Module]]
+4. [[Sintaxe Complementar]]
+	1. [[Operadores]]
+	    1. [[Operadores Bitwise]]
+	    2. [[Walrus Operator (:=)]]
+	2. [[Estruturas Condicionais]]
+	    1. [[Match-Case (Python 3.10+)]]
+	3. [[Estruturas Condicionais]]
+	    1. [[Match-Case (Python 3.10+)]]
+	4. [[Funções]]
+	    1. [[Funções Lambda]]
+	    2. [[Decoradores]]
+	    3. [[Geradores (Yield)]]
+	    4. [[Parâmetros (*args e **kwargs)]]
+	5. [[Manipulação de Strings]]
+	    1. [[f-strings]]
+	    2. [[Expressões Regulares (re)]]
+	6. [[Context Managers (With)]]
+	7. [[Tipagem Estática]]
+	    1. [[Type Hinting]]
+	    2. [[Typing Module]]
 
 ---
 
-### <p style="color: #C82F4B; text-align:center;font-size:40px;">Conceitos Avançados</p>
+# <p style="color: #C82F4B; text-align:center;font-size:40px;">Conceitos Avançados</p>
 1. [[Programação Assíncrona]]
 2. [[Metaprogramação]]
 	1. [[Decoradores]]
@@ -111,7 +116,7 @@
 
 ---
 
-### <p style="color: #C82F4B; text-align:center;font-size:40px;">Bibliotecas Padrão</p>
+# <p style="color: #C82F4B; text-align:center;font-size:40px;">Bibliotecas Padrão</p>
 1. [[Datetime]]
 2. [[Pathlib]]
 3. [[CSV]]
@@ -122,7 +127,7 @@
 
 ---
 
-### <p style="color: #C82F4B; text-align:center;font-size:40px;">Ferramentas</p>
+# <p style="color: #C82F4B; text-align:center;font-size:40px;">Ferramentas</p>
 1. [[Ambientes Virtuais]]
 	1. [[venv]]
 	2. [[pipenv]]
@@ -134,7 +139,7 @@
 
 ---
 
-### <p style="color: #C82F4B; text-align:center;font-size:40px;">Data Science</p>
+# <p style="color: #C82F4B; text-align:center;font-size:40px;">Data Science</p>
 
 1. [[NumPy]]
 	1. [[Arrays Numéricos]]
@@ -155,7 +160,7 @@
 
 ---
 
-### <p style="color: #C82F4B; text-align:center;font-size:40px;">Ecossistema Python</p>
+# <p style="color: #C82F4B; text-align:center;font-size:40px;">Ecossistema Python</p>
 1. [[Web Frameworks]]
 	1. [[FastAPI]]
 	2. [[Flask]]
@@ -165,7 +170,15 @@
 
 ---
 
-### <p style="color: #C82F4B; text-align:center;font-size:40px;">Performance</p>
+# <p style="color: #C82F4B; text-align:center;font-size:40px;">Performance</p>
 1. [[Memoization (lru_cache)]]
 2. [[Cython]]
 3. [[Concorrência vs Paralelismo]]
+
+```Python
+a = "Renan Bobão"
+a = a.replace("Bobão", "Fodão")
+print(a)
+```
+
+Texto _negrito_

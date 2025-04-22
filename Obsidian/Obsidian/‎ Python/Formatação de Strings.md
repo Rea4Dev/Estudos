@@ -1,6 +1,6 @@
 [[Índice de Python|Voltar]]
 
-## 📌 *Formatação de Strings*
+## 📌 Formatação de Strings
 
 - Prefira **f-strings** para formatação (Python 3.6+).
 - Use `.join()` para concatenar listas de strings.

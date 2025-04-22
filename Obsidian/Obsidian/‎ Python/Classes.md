@@ -43,7 +43,7 @@ def get_marca(self):
 		return self._marca
 ```
 
-## *Método Init*
+## Método Init
 O método _ _ init _ _ () em Python é um ``método construtor`` usado para *inicializar objetos quando eles são criados* a partir de uma classe.
 
 É chamado automaticamente assim que um novo objeto é instanciado, ou seja, quando você cria uma instância da classe.
@@ -56,7 +56,7 @@ class Carro:
 		self.ano = ano
 ```
 
-## *Método get* 🔎
+## Método get 🔎
 Métodos get são usados para acessar valor de um atributo de um objeto.
 
 Eles geralmente começam com o atributo get, e permitem que você obtenha o valor de um atributo, mas não o modifique diretamente.
@@ -72,7 +72,7 @@ class Carro:
 		return self._marca
 ```
 
-## *Método set* ⚙️
+## Método set ⚙️
 Métodos set são usados para modificar o valor de um atributo de um objeto.
 
 Eles geralmente começam com o prefixo set. Eles permitem que você defina um novo valor para um atributo, *garantindo que qualquer lógica de validação necessária seja aplicada antes de fazer a modificação*.
@@ -145,3 +145,32 @@ print(Rea) # Da forma clássica, isso aqui daria erro
 Uma curiosidade é que o DataClasses apresenta as classes de uma forma visualmente mais próxima a como fazemos em Banco de Dados Relacionais, informando a classe, os atributos com seus tipos e abaixo os métodos:
 
 ![[Pasted image 20250330142255.png | center | 300]]
+
+---
+# Testes
+```Python
+class Action:
+	def __init__(self, id, datetime, valor):
+		self._id = id
+		self._datetime = datetime
+		self._valor = valor
+
+	def get_id(self):
+		return self._id
+
+	def get_datetime(self):
+		return self._datetime
+
+	def get_valor(self):
+		return self._valor
+
+# Instanciando
+action1 = Action(id = 32550138, datetime = "02-APR-25 10.01.16.674000000 AM", valor = 134)
+
+for i in range(1, 6):
+	Action
+
+# get
+print("Action ID: ", action1.get_id())
+
+```

@@ -1,6 +1,6 @@
 [[Índice de Python|Voltar]]
 
-## 📌 *Funções e Classes*
+## 📌 Funções e Classes
 
 - **2 linhas em branco** antes de funções/classes de nível superior.
 - Métodos em classes separados por **1 linha em branco**.

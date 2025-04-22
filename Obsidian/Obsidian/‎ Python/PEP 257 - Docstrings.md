@@ -1,6 +1,6 @@
 [[Índice de Python|Voltar]]
 
-## 📌 *Docstring*
+## 📌 Docstring
 
 DocStrings são strings de documentação em Python usadas para descrever o propósito e funcionamento de *módulos*, *classes* e *funções*. Elas são definidas entre três aspas duplas ou simples e podem ser acessadas via `__doc__`. Boas práticas recomendam que sejam claras, concisas e sigam o estilo PEP 257.
 

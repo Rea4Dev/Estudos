@@ -1,6 +1,6 @@
 [[Índice de Python|Voltar]]
 
-## 📌 *Exceções ao PEP8*
+## 📌 Exceções ao PEP8
 
 - Quebre regras apenas quando:
     - Melhorar a legibilidade em casos específicos.

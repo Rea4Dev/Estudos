@@ -1,6 +1,6 @@
 [[Índice de Python|Voltar]]
 
-## 📌 *Tratamento de Exceções*
+## 📌 Tratamento de Exceções
 
 - Seja **específico** ao capturar exceções.
 - Capture exceções específicas, nunca `except:` vazio.

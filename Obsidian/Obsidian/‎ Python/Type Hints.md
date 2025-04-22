@@ -1,6 +1,6 @@
 [[Índice de Python|Voltar]]
 
-## 📌 *Type Hints*
+## 📌 Type Hints
 
 - Adicione **anotações de tipo** para funções e variáveis.
 - Melhora a legibilidade e suporte a ferramentas de análise.

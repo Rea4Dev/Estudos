@@ -1,6 +1,6 @@
 [[Índice de Python|Voltar]]
 
-## 📌 *Quebras de Linha*
+## 📌 Quebras de Linha
 
 - Limite linhas a *79 caracteres para códigos* e *comentários/docstrings devem ter até 72 caracteres* (PEP 8).
 - Use `()` ou `\` para quebrar linhas longas.
