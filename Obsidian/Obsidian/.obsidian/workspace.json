@@ -1,33 +1,24 @@
 {
   "main": {
-    "id": "d295832e5894d59b",
+    "id": "019cbe43bd164159",
     "type": "split",
     "children": [
       {
-        "id": "ee5bb8da99f247eb",
+        "id": "f96513ad81921f5b",
         "type": "tabs",
         "children": [
           {
-            "id": "e4d8b27e4856b2f4",
+            "id": "ef55d715e3e97ea1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "‎ Front-End/CSS Reset.md",
+                "file": "‎ Software/Conceitos Básicos de Versionamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS Reset"
-=======
-                "file": "Matemática/Índice Matemática.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Índice Matemática"
->>>>>>> Stashed changes
+              "title": "Conceitos Básicos de Versionamento"
             }
           }
         ]
@@ -36,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dd392f6e6b728865",
+    "id": "d61faca49ebac9b4",
     "type": "split",
     "children": [
       {
-        "id": "be82a4c414db897d",
+        "id": "65a390071d78a954",
         "type": "tabs",
         "children": [
           {
-            "id": "2e7ba149b9eca226",
+            "id": "437254f253eae31d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -57,7 +48,7 @@
             }
           },
           {
-            "id": "eb71d73e36ffe568",
+            "id": "d2f0c76555b830b0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,7 +65,7 @@
             }
           },
           {
-            "id": "1230e7c2eecadaef",
+            "id": "41064b878729a128",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,41 +75,26 @@
             }
           }
         ]
-      },
-      {
-        "id": "3443c93820f9c6f1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "38e71dd067457290",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
     "width": 200
   },
   "right": {
-    "id": "83e3378c9dd072de",
+    "id": "7bb7a38755faf7c0",
     "type": "split",
     "children": [
       {
-        "id": "ed60994044b0cfc7",
+        "id": "b87220a1459571c6",
         "type": "tabs",
         "children": [
           {
-            "id": "9e07d559b29a691b",
+            "id": "d0f6ece76e6bd759",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "‎ Software/Conceitos Básicos de Versionamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Conceitos Básicos de Versionamento"
             }
           },
           {
-            "id": "04722726ce8ec221",
+            "id": "61b0b2aa8c06569a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "‎ Software/Conceitos Básicos de Versionamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Conceitos Básicos de Versionamento"
             }
           },
           {
-            "id": "ccc4e815cb477889",
+            "id": "3d416af808714fcd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -160,413 +137,22 @@
             }
           },
           {
-            "id": "9c44a0c80f4bfd99",
+            "id": "abe1a5cbaf25003a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "‎ Software/Conceitos Básicos de Versionamento.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Conceitos Básicos de Versionamento"
             }
           },
           {
-            "id": "9edd171f6dedb081",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "619a71196cad5c63",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "13c627ec5c3b0567",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "b80f0c6bfc0ef26e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "697259043a47fdca",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "c2ac059802c88dbb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "8a2d9772ce14e478",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "73e2588c4b4bdf59",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "9a783285bc79eac9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "89a0dbd4eab199e1",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "ff8762fe559442ff",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "dc977c13c84a6a56",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "9c724abe124ad759",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "c321d280ceee0039",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "901ff6ebd5bc023a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "96b86d12bc35cdfd",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "9535ccab222fc6af",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "554e58c310cfd9e5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "e20be86b34ff4ce6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "5664fa6ba2bf195a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "d07185c3a47fdc3e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "a5bf56f42513c361",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "c6e00fc89b457f88",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "1cd1e92c52002702",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "784182139a382fc0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "15fd225205202d66",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "441d40ebc259b137",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "480f31266bce8143",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "ebd52048ea919bed",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "8068b87b0942b7d5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-<<<<<<< Updated upstream
-            "id": "1939fe87f3b1f587",
-=======
-            "id": "02d25e6f4de80512",
->>>>>>> Stashed changes
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-<<<<<<< Updated upstream
-            "id": "0d1c7dd71c7a88aa",
-=======
-            "id": "3bb89158152b0d11",
->>>>>>> Stashed changes
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-<<<<<<< Updated upstream
-            "id": "0787e59c5543c751",
-=======
-            "id": "a907b1b007f437eb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "c177367c703eb511",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "8aa964fc68a58a82",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "4e9dedf5f36f8289",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "32d631d048c5d582",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "776b41ef030b293d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "fa39368bd364e293",
->>>>>>> Stashed changes
+            "id": "9f6a6f6b918dec33",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -576,11 +162,7 @@
             }
           }
         ],
-<<<<<<< Updated upstream
-        "currentTab": 36
-=======
-        "currentTab": 42
->>>>>>> Stashed changes
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -599,87 +181,17 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "e4d8b27e4856b2f4",
+  "active": "ef55d715e3e97ea1",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
+    "Organização/Images/Pasted image 20250422180243.png",
+    "Organização/Images/Pasted image 20250422171809.png",
+    "‎ Software/‎ Software.md",
+    "‎ Software/Conceitos Básicos de Versionamento.md",
+    "‎ Front-End/Conceitos Básicos.md",
+    "Página Principal.md",
+    "‎ Software",
     "‎ Front-End/Índice Front-End.md",
-    "‎ Front-End/Formulários.md",
-    "Página Principal.md",
-    "‎ Python/Índice de Python.md",
-    "Apenas gerar FlashCards quando.md",
-    "‎ Front-End/JS - Tipos de Dados.md",
-    "‎ Front-End/JS - Operadores Relacionais e Lógicos.md",
-    "‎ Front-End/JS - Variáveis.md",
-    "‎ Front-End/HTML Semântico.md",
-    "‎ Python/Classes.md",
-    "‎ Python/PEPs de Formatação do Código.md",
-    "‎ Python/Espaçamento e Identações.md",
-    "Funções/PEP 8 - Funções e Variáveis.md",
-    "‎ Python/Método get e set.md",
-    "‎ Python/Exemplo.md",
     "Matemática/Índice Matemática.md",
-    "‎ Python/Namespaces, Pacotes e Escopos.md",
-    "‎ Python/Método __init__.md",
-    "‎ Python/Métodos.md",
-    "‎ Python/Construtores e Destrutores.md",
-    "‎ Python/PEP 257 - Docstrings.md",
-    "‎ Python/Ferramentas e Linters.md",
-    "‎ Python/Funções e Classes.md",
-    "‎ Python/Formatação de Strings.md",
-    "‎ Python/Métodos de Instância.md",
-    "‎ Python/Constantes e Variáveis Globais.md",
-=======
-    "Matemática/Regras da Radiciação.md",
-    "Matemática/Índice Matemática.md",
-    "Matemática/Regras da Potenciação.md",
-    "Página Principal.md",
-    "Apenas gerar FlashCards quando.md",
-    "‎ Python/Funções/PEP 8 - Funções e Variáveis.md",
-    "‎ Python/List Comprehensions.md",
-    "‎ Python/Índice de Python.md",
-    "‎ Python/Classes.md",
-    "‎ Python/Orientação a Objeto.md",
-    "‎ Python/Lista.md",
-    "‎ Python/Iterando sobre Listas.md",
-    "‎ Python/Métodos de Listas.md",
-    "‎ Python/Acessando e Modificando Elementos de Listas.md",
-    "‎ Python/Estruturas de Repetição.md",
-    "‎ Python/Entrada e Saída.md",
-    "‎ Python/Conversão de tipos.md",
-    "‎ Python/Sintaxe Fundamental.md",
-    "‎ Python/Tratamento de Exceções.md",
-    "‎ Python/Mandamentos.md",
-    "‎ Python/Considerações Finais.md",
-    "‎ Python/Ferramentas e Linters.md",
-    "‎ Python/Exceções ao PEP8.md",
-    "‎ Python/Type Hints.md",
-    "‎ Python/Formatação de Strings.md",
-    "‎ Python/Funções e Classes.md",
-    "Organização/Images/Join with us.gif",
->>>>>>> Stashed changes
-    "Organização/Images/Pasted image 20250330142255.png",
-    "Organização/Images/Pasted image 20250330135651.png",
-    "Organização/Images/Pasted image 20250330135634.png",
-    "Organização/Images/Pasted image 20250330135619.png",
-    "Organização/Images/Pasted image 20250330135359.png",
-    "Organização/Images/Pasted image 20250330135022.png",
-    "Organização/Images/Pasted image 20250330134447.png",
-    "Organização/Images/Pasted image 20250330134132.png",
-    "Organização/Images/Pasted image 20250330133823.png",
-    "‎ Python/Funções",
-    "Organização/Ideias",
-    "Projetos/script_gerador_hist.log",
-    "Projetos/Gerador_log_SQL/Code/script_gerador_hist.py",
-    "Projetos/Gerador_log_SQL/Code/2.py",
-    "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas",
-    "Projetos/historico.csv",
-    "Projetos/Gerador_log_SQL/historico.csv",
-    "Projetos/Gerador_log_SQL/Code/teste.py",
-    "Projetos/teste.py",
-    "Projetos/Gerador_log_SQL/Code/script_gerador_log.py",
-    "Projetos/Gerador_log_SQL/Canvas/Sem título 1.canvas",
-    "Projetos/Gerador_log_SQL/Canvas/Esquemático Lógica.canvas",
-    "Projetos/Gerador_log_SQL/Canvas/Sem título.canvas",
-    "Sem título 1.canvas"
+    "Matemática/Regras da Radiciação.md"
   ]
 }

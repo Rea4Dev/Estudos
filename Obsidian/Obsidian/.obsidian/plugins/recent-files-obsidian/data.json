@@ -1,297 +1,32 @@
 {
   "recentFiles": [
     {
-<<<<<<< Updated upstream
-      "basename": "CSS Reset",
-      "path": "‎ Front-End/CSS Reset.md"
+      "basename": "Conceitos Básicos de Versionamento",
+      "path": "‎ Software/Conceitos Básicos de Versionamento.md"
     },
     {
-      "basename": "Índice Front-End",
-      "path": "‎ Front-End/Índice Front-End.md"
+      "basename": "‎ Software",
+      "path": "‎ Software/‎ Software.md"
     },
     {
-      "basename": "Formulários",
-      "path": "‎ Front-End/Formulários.md"
+      "basename": "Conceitos Básicos",
+      "path": "‎ Front-End/Conceitos Básicos.md"
     },
     {
       "basename": "Página Principal",
       "path": "Página Principal.md"
-=======
+    },
+    {
+      "basename": "Índice Front-End",
+      "path": "‎ Front-End/Índice Front-End.md"
+    },
+    {
       "basename": "Índice Matemática",
       "path": "Matemática/Índice Matemática.md"
->>>>>>> Stashed changes
     },
     {
       "basename": "Regras da Radiciação",
       "path": "Matemática/Regras da Radiciação.md"
-    },
-    {
-      "basename": "Regras da Potenciação",
-      "path": "Matemática/Regras da Potenciação.md"
-    },
-    {
-      "basename": "Apenas gerar FlashCards quando",
-      "path": "Apenas gerar FlashCards quando.md"
-    },
-    {
-      "basename": "JS - Tipos de Dados",
-      "path": "‎ Front-End/JS - Tipos de Dados.md"
-    },
-    {
-      "basename": "JS - Operadores Relacionais e Lógicos",
-      "path": "‎ Front-End/JS - Operadores Relacionais e Lógicos.md"
-    },
-    {
-      "basename": "JS - Variáveis",
-      "path": "‎ Front-End/JS - Variáveis.md"
-    },
-    {
-      "basename": "HTML Semântico",
-      "path": "‎ Front-End/HTML Semântico.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "‎ Python/Classes.md"
-    },
-    {
-      "basename": "PEP 8 - Funções e Variáveis",
-      "path": "‎ Python/Funções/PEP 8 - Funções e Variáveis.md"
-    },
-    {
-      "basename": "List Comprehensions",
-      "path": "‎ Python/List Comprehensions.md"
-    },
-    {
-      "basename": "Índice de Python",
-      "path": "‎ Python/Índice de Python.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "‎ Python/Classes.md"
-    },
-    {
-      "basename": "Orientação a Objeto",
-      "path": "‎ Python/Orientação a Objeto.md"
-    },
-    {
-      "basename": "Lista",
-      "path": "‎ Python/Lista.md"
-    },
-    {
-      "basename": "Iterando sobre Listas",
-      "path": "‎ Python/Iterando sobre Listas.md"
-    },
-    {
-      "basename": "Métodos de Listas",
-      "path": "‎ Python/Métodos de Listas.md"
-    },
-    {
-      "basename": "Acessando e Modificando Elementos de Listas",
-      "path": "‎ Python/Acessando e Modificando Elementos de Listas.md"
-    },
-    {
-      "basename": "Estruturas de Repetição",
-      "path": "‎ Python/Estruturas de Repetição.md"
-    },
-    {
-      "basename": "Entrada e Saída",
-      "path": "‎ Python/Entrada e Saída.md"
-    },
-    {
-      "basename": "Conversão de tipos",
-      "path": "‎ Python/Conversão de tipos.md"
-    },
-    {
-      "basename": "Sintaxe Fundamental",
-      "path": "‎ Python/Sintaxe Fundamental.md"
-    },
-    {
-      "basename": "Tratamento de Exceções",
-      "path": "‎ Python/Tratamento de Exceções.md"
-    },
-    {
-      "basename": "Mandamentos",
-      "path": "‎ Python/Mandamentos.md"
-    },
-    {
-      "basename": "Considerações Finais",
-      "path": "‎ Python/Considerações Finais.md"
-    },
-    {
-      "basename": "Ferramentas e Linters",
-      "path": "‎ Python/Ferramentas e Linters.md"
-    },
-    {
-      "basename": "Exceções ao PEP8",
-      "path": "‎ Python/Exceções ao PEP8.md"
-    },
-    {
-      "basename": "Type Hints",
-      "path": "‎ Python/Type Hints.md"
-    },
-    {
-      "basename": "Formatação de Strings",
-      "path": "‎ Python/Formatação de Strings.md"
-    },
-    {
-      "basename": "Funções e Classes",
-      "path": "‎ Python/Funções e Classes.md"
-    },
-    {
-      "basename": "Estruturas de Controle",
-      "path": "‎ Python/Estruturas de Controle.md"
-    },
-    {
-      "basename": "Importações",
-      "path": "‎ Python/Importações.md"
-    },
-    {
-      "basename": "Comparações e Booleanos",
-      "path": "‎ Python/Comparações e Booleanos.md"
-    },
-    {
-      "basename": "PEP 257 - Docstrings",
-      "path": "‎ Python/PEP 257 - Docstrings.md"
-    },
-    {
-      "basename": "Comentários",
-      "path": "‎ Python/Comentários.md"
-    },
-    {
-      "basename": "Quebras de Linha",
-      "path": "‎ Python/Quebras de Linha.md"
-    },
-    {
-      "basename": "Funções e métodos dunder",
-      "path": "‎ Python/Funções e métodos dunder.md"
-    },
-    {
-      "basename": "Booleanos",
-      "path": "‎ Python/Booleanos.md"
-    },
-    {
-      "basename": "Espaçamento e Identações",
-      "path": "‎ Python/Espaçamento e Identações.md"
-    },
-    {
-      "basename": "PEPs de Formatação do Código",
-      "path": "‎ Python/PEPs de Formatação do Código.md"
-    },
-    {
-      "basename": "Introdução ao Banco de Dados e SQL",
-      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md"
-    },
-    {
-      "basename": "Índice Banco de Dados",
-      "path": "‎ Back-End/Banco de Dados/Índice Banco de Dados.md"
-    },
-    {
-      "basename": "Índice Back-End",
-      "path": "‎ Back-End/Índice Back-End.md"
-    },
-    {
-      "basename": "Método get e set",
-      "path": "‎ Python/Método get e set.md"
-    },
-    {
-      "basename": "Exemplo",
-      "path": "‎ Python/Exemplo.md"
-    },
-    {
-      "basename": "Método __init__",
-      "path": "‎ Python/Método __init__.md"
-    },
-    {
-      "basename": "Métodos",
-      "path": "‎ Python/Métodos.md"
-    },
-    {
-      "basename": "Métodos de Instância",
-      "path": "‎ Python/Métodos de Instância.md"
-    },
-    {
-      "basename": "Constantes e Variáveis Globais",
-      "path": "‎ Python/Constantes e Variáveis Globais.md"
-    },
-    {
-      "basename": "PEP8 - Classes",
-      "path": "‎ Python/PEP8 - Classes.md"
-    },
-    {
-      "basename": "Valores Privados",
-      "path": "‎ Python/Valores Privados.md"
-    },
-    {
-      "basename": "Pacotes",
-      "path": "‎ Python/Pacotes.md"
-    },
-    {
-      "basename": "Simplificação do Game",
-      "path": "Organização/Ideias/Simplificação do Game.md"
-    },
-    {
-<<<<<<< Updated upstream
-      "basename": "Orientação a Objeto",
-      "path": "‎ Python/Orientação a Objeto.md"
-    },
-    {
-      "basename": "Type Hints",
-      "path": "‎ Python/Type Hints.md"
-    },
-    {
-      "basename": "Tratamento de Exceções",
-      "path": "‎ Python/Tratamento de Exceções.md"
-    },
-    {
-      "basename": "Estruturas de Controle",
-      "path": "‎ Python/Estruturas de Controle.md"
-    },
-    {
-      "basename": "Comparações e Booleanos",
-      "path": "‎ Python/Comparações e Booleanos.md"
-=======
-      "basename": "Índice Front-End",
-      "path": "‎ Front-End/Índice Front-End.md"
->>>>>>> Stashed changes
-    },
-    {
-      "basename": "Exceções",
-      "path": "‎ Python/Exceções.md"
-<<<<<<< Updated upstream
-    },
-    {
-      "basename": "Métodos de Classe e Estáticos",
-      "path": "‎ Python/Métodos de Classe e Estáticos.md"
-    },
-    {
-      "basename": "Valores Protegidos",
-      "path": "‎ Python/Valores Protegidos.md"
-    },
-    {
-      "basename": "Mandamentos",
-      "path": "‎ Python/Mandamentos.md"
-    },
-    {
-      "basename": "PEP8 - Guia de Estilo para Código Python",
-      "path": "‎ Python/PEP8 - Guia de Estilo para Código Python.md"
-    },
-    {
-      "basename": "Listas",
-      "path": "‎ Front-End/Listas.md"
-    },
-    {
-      "basename": "Especificidade CSS",
-      "path": "‎ Front-End/Especificidade CSS.md"
-    },
-    {
-      "basename": "Boas Práticas",
-      "path": "‎ Front-End/Boas Práticas.md"
-    },
-    {
-      "basename": "Requisitos",
-      "path": "Projetos/Gerador_log_SQL/Organização/21-03/Requisitos.canvas"
-=======
->>>>>>> Stashed changes
     }
   ],
   "omittedPaths": [],

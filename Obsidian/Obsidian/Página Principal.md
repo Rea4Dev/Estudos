@@ -2,3 +2,4 @@
 - [[Índice Front-End]]
 - [[Índice de Python]]
 - [[Índice Matemática]]
+- [[‎ Software]]
