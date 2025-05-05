@@ -9,12 +9,36 @@
       "path": "‎ Software/‎ Software.md"
     },
     {
-      "basename": "Conceitos Básicos",
-      "path": "‎ Front-End/Conceitos Básicos.md"
-    },
-    {
       "basename": "Página Principal",
       "path": "Página Principal.md"
+    },
+    {
+      "basename": "Sem título",
+      "path": "Sem título.canvas"
+    },
+    {
+      "basename": "Versões de Pré-Lançamento (Pre-Release)",
+      "path": "‎ Software/Versões de Pré-Lançamento (Pre-Release).md"
+    },
+    {
+      "basename": "Versionamento Semântico (SemVer)",
+      "path": "‎ Software/Versionamento Semântico (SemVer).md"
+    },
+    {
+      "basename": "Índice Back-End",
+      "path": "‎ Back-End/Índice Back-End.md"
+    },
+    {
+      "basename": "Índice Banco de Dados",
+      "path": "‎ Back-End/Banco de Dados/Índice Banco de Dados.md"
+    },
+    {
+      "basename": "Introdução ao Banco de Dados e SQL",
+      "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md"
+    },
+    {
+      "basename": "Conceitos Básicos",
+      "path": "‎ Front-End/Conceitos Básicos.md"
     },
     {
       "basename": "Índice Front-End",
