@@ -1,5 +1,6 @@
 # Versionamento GitHub
-[[Versões de Pré-Lançamento (Pre-Release)]]
-1. [[Conceitos Básicos de Versionamento]]
-2. [[Versionamento Semântico (SemVer)]]
-3. [[Semantic Commits]]
+1. [[Versões de Pré-Lançamento (Pre-Release)]]
+2. [[Conceitos Básicos de Versionamento]]
+	1. [[Comandos Git]]
+3. [[Versionamento Semântico (SemVer)]]
+4. [[Semantic Commits]]

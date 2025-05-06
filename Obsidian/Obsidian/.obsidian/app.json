@@ -14,5 +14,10 @@
   "foldIndent": true,
   "showLineNumber": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Organização/Images"
+  "attachmentFolderPath": "Organização/Images",
+  "userIgnoreFilters": [
+    "Organização/",
+    "Organização/Datas e Prazos/",
+    "Organização/Images/"
+  ]
 }
