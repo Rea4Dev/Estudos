@@ -11,4 +11,4 @@ Principal: Sim
 3. [[Versionamento Semântico (SemVer)]]
 4. [[Semantic Commits]]
 
-# Testes e Manutenção de Software
+# Paradigmas de Programação

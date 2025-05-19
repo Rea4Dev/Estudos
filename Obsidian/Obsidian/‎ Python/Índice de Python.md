@@ -2,7 +2,6 @@
 Indice: Python
 Principal: Sim
 ---
-
 # <p style="color: #C82F4B; text-align:center;font-size:40px;">PEP 8 - Guia de Estilo para Códigos Python</p>
 1. [[PEPs de Formatação do Código]]
 	1. [[Espaçamento e Identações]]
@@ -69,20 +68,8 @@ Principal: Sim
 	5. [[Queue e Stack]]
 
 3. [[Orientação a Objeto]]
-    1. [[Namespaces, Pacotes e Escopos]]
-    2. [[Objetos]]
-	     1. [[Classes]]
-		 2.  [[Herança]]
-		 3.  [[Métodos Mágicos]]
-		 4.  [[Decoradores de Classe]]
-		 5.  [[Métodos Estáticos vs de Classe]]
-	3. [[Entendendo o contexto da Orientação a Objetos]] 
-	4. [[Construtores e Destrutores]]
-	5. [[Atributos de visibilidade e encapsulamento]]
-	6. [[Herança]]
-	7. [[Classes abstratas e a biblioteca ABC]]
-	8. [[ Pseudo-Interfaces]]
-	9. [[Lidando com erros e exceções]]
+	1. [[Métodos Especiais]]
+
 
 4. [[Sintaxe Complementar]]
 	1. [[Operadores]]
