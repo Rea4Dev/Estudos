@@ -1,3 +1,6 @@
+Aqui temos um catadão em resumo dos principais tópicos. Acredito que isso juntamente as aulas que vi e a prática são o suficiente.
+Entretanto, caso tenha problemas, reveja as aulas (principalmente as finais) da EBAC e também consulte [Comandos Git - Aprenda Git do básico ao avançado](https://comandosgit.github.io/)
+
 # Repositório
 
 Para um Sistema Operacional, temos o diretório como a pasta em questão que estamos operando. 

@@ -1,6 +1,5 @@
-- [[Índice Back-End]]
-- [[Índice Front-End]]
-- [[Índice de Python]]
-- [[Índice Matemática]]
-- [[‎ Software]]
+```dataview
+list
+where Principal = "Sim"
+```
 

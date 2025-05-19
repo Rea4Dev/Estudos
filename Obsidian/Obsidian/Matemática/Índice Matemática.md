@@ -1,3 +1,8 @@
+---
+Indice: Matematica
+Principal: Sim
+---
+
 ## Aritmética
 
 1. [[Nunca erre uma divisão]]

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef55d715e3e97ea1",
+            "id": "46d67933c6eae09a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Software/Comandos Git.md",
+                "file": "‎ Front-End/JavaScript/Índice de JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos Git"
+              "title": "Índice de JavaScript"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "65a390071d78a954",
         "type": "tabs",
+        "dimension": 55.1219512195122,
         "children": [
           {
             "id": "437254f253eae31d",
@@ -79,6 +80,7 @@
       {
         "id": "339a786c2b83992a",
         "type": "tabs",
+        "dimension": 44.87804878048781,
         "children": [
           {
             "id": "cde0a4ac2e1c30a7",
@@ -193,6 +195,46 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "b483d85468767a48",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "d8e65f0a6018f065",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "12eaeb078ab7282c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c53cabc394249837",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
@@ -216,19 +258,39 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "ef55d715e3e97ea1",
+  "active": "437254f253eae31d",
   "lastOpenFiles": [
-    "‎ Software/‎ Software.md",
-    "‎ Software/Comandos Git.md",
-    "‎ Software/Conceitos Básicos de Versionamento.md",
-    "‎ Software/Versões de Pré-Lançamento (Pre-Release).md",
+    "‎ Front-End/Switch-Case.md",
+    "‎ Front-End/JavaScript/Índice de JavaScript.md",
     "Página Principal.md",
-    "Organização/Datas e Prazos/Prova e Trabalho Ampli.md",
-    "Organização/Datas e Prazos/Prova Univesp.md",
-    "Organização/Datas e Prazos/Pegar PenDrive na Gabi.md",
-    "Organização/Datas e Prazos/Rematrícula.md",
-    "Organização/Datas e Prazos/Calendário.md",
-    "Organização/Datas e Prazos/2025-05-05.md",
+    "To-Do.md",
+    "Projetos/Estratégia Escolhida.md",
+    "‎ Front-End/Índice Front-End.md",
+    "‎ Front-End/JavaScript/Switch Case.md",
+    "‎ Front-End/JavaScript/If else.md",
+    "‎ Front-End/JavaScript/JS - Operadores Relacionais e Lógicos.md",
+    "‎ Front-End/JavaScript/JS - Tipos de Dados.md",
+    "‎ Front-End/JavaScript/JS - Variáveis.md",
+    "‎ Front-End/Aninhando Elementos.md",
+    "‎ Python/Sem título.md",
+    "‎ Python/Acessando e Modificando Elementos de Listas.md",
+    "‎ Front-End/JavaScript",
+    "‎ Python/Índice de Python.md",
+    "Organização/Datas e Prazos/Rematrícula ⚠️.md",
+    "Organização/Datas e Prazos/Prova Univesp ⚠️.md",
+    "Organização/Datas e Prazos/Prova e Trabalho Ampli ⚠️.md",
+    "Organização/Datas e Prazos/Pegar PenDrive na Gabi ✔️.md",
+    "Organização/Datas e Prazos/LinkedIn e afins ⚠️.md",
+    "Organização/Datas e Prazos/Iniciar repositórios GitHub ⚠️.md",
+    "‎ Software/‎ Software.md",
+    "‎ Back-End/Índice Back-End.md",
+    "Matemática/Índice Matemática.md",
+    "‎ Front-End/JS - Operadores Relacionais e Lógicos.md",
+    "‎ Front-End/JS - Tipos de Dados.md",
+    "Organização/Images/Pasted image 20250507175402.png",
+    "Organização/Images/Pasted image 20250507175200.png",
+    "Projetos/Brainstorm",
+    "Projetos",
     "Organização/Datas e Prazos/desktop.ini",
     "Organização/Tópicos a Estudar/Sem título.canvas",
     "Organização/Tópicos a Estudar",
@@ -236,23 +298,12 @@
     "Organização/Datas e Prazos",
     "Organização/Images/Pasted image 20250505143150.png",
     "Sem título.canvas",
-    "‎ Software/Versionamento Semântico (SemVer).md",
-    "Cola.md",
-    "‎ Back-End/Índice Back-End.md",
-    "‎ Back-End/Banco de Dados/Índice Banco de Dados.md",
-    "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md",
     "Organização/Images/Pasted image 20250429101122.png",
     "Organização/Images/Pasted image 20250429101102.png",
     "Organização/Images/Pasted image 20250429101028.png",
     "Organização/Images/Pasted image 20250429100926.png",
     "Organização/Images/Pasted image 20250429100601.png",
     "Organização/Images/Pasted image 20250429100532.png",
-    "Organização/Images/Untitled.png",
-    "Organização/Images/Pasted image 20250429100224.png",
-    "‎ Front-End/Conceitos Básicos.md",
-    "‎ Software",
-    "‎ Front-End/Índice Front-End.md",
-    "Matemática/Índice Matemática.md",
-    "Matemática/Regras da Radiciação.md"
+    "‎ Software"
   ]
 }

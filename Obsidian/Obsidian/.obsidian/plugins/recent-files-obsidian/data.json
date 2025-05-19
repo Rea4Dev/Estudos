@@ -1,12 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "Comandos Git",
-      "path": "‎ Software/Comandos Git.md"
+      "basename": "Índice de JavaScript",
+      "path": "‎ Front-End/JavaScript/Índice de JavaScript.md"
+    },
+    {
+      "basename": "Página Principal",
+      "path": "Página Principal.md"
+    },
+    {
+      "basename": "To-Do",
+      "path": "To-Do.md"
+    },
+    {
+      "basename": "Estratégia Escolhida",
+      "path": "Projetos/Estratégia Escolhida.md"
+    },
+    {
+      "basename": "Índice Front-End",
+      "path": "‎ Front-End/Índice Front-End.md"
+    },
+    {
+      "basename": "Aninhando Elementos",
+      "path": "‎ Front-End/Aninhando Elementos.md"
+    },
+    {
+      "basename": "Acessando e Modificando Elementos de Listas",
+      "path": "‎ Python/Acessando e Modificando Elementos de Listas.md"
+    },
+    {
+      "basename": "Índice de Python",
+      "path": "‎ Python/Índice de Python.md"
+    },
+    {
+      "basename": "Rematrícula ⚠️",
+      "path": "Organização/Datas e Prazos/Rematrícula ⚠️.md"
+    },
+    {
+      "basename": "Prova Univesp ⚠️",
+      "path": "Organização/Datas e Prazos/Prova Univesp ⚠️.md"
+    },
+    {
+      "basename": "Prova e Trabalho Ampli ⚠️",
+      "path": "Organização/Datas e Prazos/Prova e Trabalho Ampli ⚠️.md"
+    },
+    {
+      "basename": "Pegar PenDrive na Gabi ✔️",
+      "path": "Organização/Datas e Prazos/Pegar PenDrive na Gabi ✔️.md"
+    },
+    {
+      "basename": "LinkedIn e afins ⚠️",
+      "path": "Organização/Datas e Prazos/LinkedIn e afins ⚠️.md"
+    },
+    {
+      "basename": "Iniciar repositórios GitHub ⚠️",
+      "path": "Organização/Datas e Prazos/Iniciar repositórios GitHub ⚠️.md"
     },
     {
       "basename": "‎ Software",
       "path": "‎ Software/‎ Software.md"
+    },
+    {
+      "basename": "Índice Back-End",
+      "path": "‎ Back-End/Índice Back-End.md"
+    },
+    {
+      "basename": "Índice Matemática",
+      "path": "Matemática/Índice Matemática.md"
+    },
+    {
+      "basename": "Boas Práticas do Versionamento",
+      "path": "‎ Software/Boas Práticas do Versionamento.md"
     },
     {
       "basename": "Conceitos Básicos de Versionamento",
@@ -17,32 +81,32 @@
       "path": "‎ Software/Versões de Pré-Lançamento (Pre-Release).md"
     },
     {
-      "basename": "Página Principal",
-      "path": "Página Principal.md"
+      "basename": "Comandos Git",
+      "path": "‎ Software/Comandos Git.md"
     },
     {
-      "basename": "Prova e Trabalho Ampli",
-      "path": "Organização/Datas e Prazos/Prova e Trabalho Ampli.md"
+      "basename": "Projetos",
+      "path": "Projetos/Brainstorm/Projetos.md"
     },
     {
-      "basename": "Prova Univesp",
-      "path": "Organização/Datas e Prazos/Prova Univesp.md"
+      "basename": "IA's",
+      "path": "Projetos/Brainstorm/IA's.md"
     },
     {
-      "basename": "Pegar PenDrive na Gabi",
-      "path": "Organização/Datas e Prazos/Pegar PenDrive na Gabi.md"
+      "basename": "RFM",
+      "path": "Projetos/Brainstorm/RFM.md"
     },
     {
-      "basename": "Rematrícula",
-      "path": "Organização/Datas e Prazos/Rematrícula.md"
+      "basename": "Pipeline_ELT",
+      "path": "Projetos/Brainstorm/Pipeline_ELT.md"
+    },
+    {
+      "basename": "Spotify-Playlister",
+      "path": "Projetos/Brainstorm/Spotify-Playlister.md"
     },
     {
       "basename": "Versionamento Semântico (SemVer)",
       "path": "‎ Software/Versionamento Semântico (SemVer).md"
-    },
-    {
-      "basename": "Índice Back-End",
-      "path": "‎ Back-End/Índice Back-End.md"
     },
     {
       "basename": "Índice Banco de Dados",
@@ -55,14 +119,6 @@
     {
       "basename": "Conceitos Básicos",
       "path": "‎ Front-End/Conceitos Básicos.md"
-    },
-    {
-      "basename": "Índice Front-End",
-      "path": "‎ Front-End/Índice Front-End.md"
-    },
-    {
-      "basename": "Índice Matemática",
-      "path": "Matemática/Índice Matemática.md"
     },
     {
       "basename": "Regras da Radiciação",
