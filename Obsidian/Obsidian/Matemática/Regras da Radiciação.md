@@ -14,7 +14,7 @@
 # 6. Multiplicação de constante nos expoentes
 ## $\sqrt[x]{a^y}=\sqrt[c\cdot \:x]{a^{c\cdot \:y}}$
 ---
-#flashcards/Math
+
 
 # Flashcards
 ## Qual a regra de radiciação para $\sqrt[n]{a^m}$? ;; $a^{\frac{m}{n}}$

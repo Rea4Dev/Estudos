@@ -49,8 +49,3 @@ Principal: Sim
 			4. [[text-align]]
 			5. [[font-style]]
 			6. [[Color]]
-
-
-
-- [[Flashcards Front-end]]
-https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element

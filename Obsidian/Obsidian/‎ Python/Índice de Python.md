@@ -166,11 +166,3 @@ Principal: Sim
 1. [[Memoization (lru_cache)]]
 2. [[Cython]]
 3. [[Concorrência vs Paralelismo]]
-
-```Python
-a = "Renan Bobão"
-a = a.replace("Bobão", "Fodão")
-print(a)
-```
-
-Texto _negrito_

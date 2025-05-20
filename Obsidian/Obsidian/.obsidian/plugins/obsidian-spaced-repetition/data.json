@@ -23,9 +23,9 @@
     ],
     "singleLineCardSeparator": ";;",
     "singleLineReversedCardSeparator": ";;;",
-    "multilineCardSeparator": "?",
-    "multilineReversedCardSeparator": "??",
-    "multilineCardEndMarker": "",
+    "multilineCardSeparator": "^",
+    "multilineReversedCardSeparator": "^^",
+    "multilineCardEndMarker": "%",
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [

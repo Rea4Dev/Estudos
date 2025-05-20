@@ -11,7 +11,7 @@
 ## $\left(a\cdot \:b\right)^x=a^x\cdot \:b^x$
 
 ---
-#flashcards/Math
+
 
 # Flashcards
 ## Qual regra de potenciação para o caso $a^x\cdot \:a^y$ ? ;; $a^{x+y}$

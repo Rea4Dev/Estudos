@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Orientação a Objeto",
-      "path": "‎ Python/Orientação a Objeto.md"
+      "basename": "Página Principal",
+      "path": "Página Principal.md"
+    },
+    {
+      "basename": "Flashcards",
+      "path": "Flashcards.md"
+    },
+    {
+      "basename": "Índice Matemática",
+      "path": "Matemática/Índice Matemática.md"
+    },
+    {
+      "basename": "Regras da Radiciação",
+      "path": "Matemática/Regras da Radiciação.md"
+    },
+    {
+      "basename": "Regras da Potenciação",
+      "path": "Matemática/Regras da Potenciação.md"
+    },
+    {
+      "basename": "Índice Front-End",
+      "path": "‎ Front-End/Índice Front-End.md"
+    },
+    {
+      "basename": "URL e URI",
+      "path": "‎ Front-End/URL e URI.md"
+    },
+    {
+      "basename": "Conceitos Básicos",
+      "path": "‎ Front-End/Conceitos Básicos.md"
     },
     {
       "basename": "Índice de Python",
       "path": "‎ Python/Índice de Python.md"
     },
     {
-      "basename": "Métodos Especiais",
-      "path": "‎ Python/Métodos Especiais.md"
+      "basename": "Orientação a Objeto",
+      "path": "‎ Python/Orientação a Objeto.md"
     },
     {
-      "basename": "Página Principal",
-      "path": "Página Principal.md"
+      "basename": "Métodos Especiais",
+      "path": "‎ Python/Métodos Especiais.md"
     },
     {
       "basename": "Como usar",
@@ -45,10 +73,6 @@
       "path": "Projetos/Estratégia Escolhida.md"
     },
     {
-      "basename": "Índice Front-End",
-      "path": "‎ Front-End/Índice Front-End.md"
-    },
-    {
       "basename": "Aninhando Elementos",
       "path": "‎ Front-End/Aninhando Elementos.md"
     },
@@ -59,10 +83,6 @@
     {
       "basename": "Índice Back-End",
       "path": "‎ Back-End/Índice Back-End.md"
-    },
-    {
-      "basename": "Índice Matemática",
-      "path": "Matemática/Índice Matemática.md"
     },
     {
       "basename": "Boas Práticas do Versionamento",
@@ -111,14 +131,6 @@
     {
       "basename": "Introdução ao Banco de Dados e SQL",
       "path": "‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md"
-    },
-    {
-      "basename": "Conceitos Básicos",
-      "path": "‎ Front-End/Conceitos Básicos.md"
-    },
-    {
-      "basename": "Regras da Radiciação",
-      "path": "Matemática/Regras da Radiciação.md"
     }
   ],
   "omittedPaths": [],
