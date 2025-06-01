@@ -12,3 +12,15 @@ Principal: Sim
 4. [[Semantic Commits]]
 
 # Paradigmas de Programação
+
+# Linux
+
+1. Comandos
+	1. [[Comandos de Navegação]]
+	2. [[Comandos de Manipulação de Arquivos]]
+	3. [[Comandos de Manipulação de Diretórios]]
+	4. [[Comandos de Manipulação de Texto]]
+	5. [[Comandos de Manipulação de Processos]]
+	6. [[Comandos de Manipulação de Usuários]]
+
+# VIM
