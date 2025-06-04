@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDatabase",
       "LiAtSign",
       "LiListTodo",
       "LiTestTube2",
-      "LiCodeXml",
-      "LiAperture"
+      "LiCodeXml"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "Matemática": "LiFunctionSquare",
   "Projetos": "LiTestTube2",
   "‎ Software": "LiCodeXml",
-  "To-Do.md": "LiListTodo"
+  "Organização/To-Do.md": "LiListTodo",
+  "Engenharia de Dados": "LiDatabase"
 }

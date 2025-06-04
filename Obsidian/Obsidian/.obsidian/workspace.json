@@ -41,16 +41,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organização/Engenharia de Dados/Meu RoadMap.md",
+                "file": "Página Principal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meu RoadMap"
+              "title": "Página Principal"
+            }
+          },
+          {
+            "id": "30865a13c15ee99c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engenharia de Dados/Índice Engenharia de Dados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Índice Engenharia de Dados"
+            }
+          },
+          {
+            "id": "b3c75eecb76da043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engenharia de Dados/Fundamentos da Engenharia de Dados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fundamentos da Engenharia de Dados"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -314,6 +342,36 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "af6884cbcc8d653b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
+          },
+          {
+            "id": "740af47b985bab90",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {},
+              "icon": "OZCAL_ICON",
+              "title": "OZ Calendar"
+            }
+          },
+          {
+            "id": "b6914f5f91449b6b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
@@ -337,14 +395,19 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "234f8095484de818",
+  "active": "b3c75eecb76da043",
   "lastOpenFiles": [
+    "Engenharia de Dados/Índice Engenharia de Dados.md",
+    "Engenharia de Dados/Fundamentos da Engenharia de Dados.md",
     "Página Principal.md",
+    "‎ Software/‎ Software.md",
+    "Engenharia de Dados",
+    "Organização/Como usar.md",
+    "‎ Software/Comandos Linux.md",
+    "Organização/To-Do.md",
     "Organização/Engenharia de Dados/Meu RoadMap.md",
     "Organização/Engenharia de Dados",
-    "‎ Software/‎ Software.md",
-    "Flashcards.md",
-    "Como usar.md",
+    "Organização/Flashcards.md",
     "Organização/Images/Pasted image 20250526173527.png",
     "Matemática/Índice Matemática.md",
     "Matemática/Regras da Radiciação.md",
@@ -357,7 +420,6 @@
     "‎ Python/Índice de Python.md",
     "‎ Python/Orientação a Objeto.md",
     "‎ Python/Métodos Especiais.md",
-    "To-Do.md",
     "Organização/Datas e Prazos/LinkedIn e afins ⚠️.md",
     "Organização/Datas e Prazos/Rematrícula ⚠️.md",
     "Organização/Datas e Prazos/Pegar PenDrive na Gabi ✔️.md",
@@ -367,9 +429,6 @@
     "‎ Python/Classes.md",
     "Projetos/Brainstorm/desktop.ini",
     "Projetos/desktop.ini",
-    "‎ Front-End/JavaScript/Índice de JavaScript.md",
-    "‎ Front-End/Switch-Case.md",
-    "Projetos/Estratégia Escolhida.md",
     "‎ Front-End/JavaScript",
     "Organização/Images/Pasted image 20250507175402.png",
     "Organização/Images/Pasted image 20250507175200.png",
@@ -379,7 +438,6 @@
     "Organização/Tópicos a Estudar/Sem título.canvas",
     "Organização/Tópicos a Estudar",
     "Organização/Images/back3.png",
-    "Organização/Datas e Prazos",
     "Organização/Images/Pasted image 20250505143150.png",
     "Sem título.canvas",
     "Organização/Images/Pasted image 20250429101122.png",

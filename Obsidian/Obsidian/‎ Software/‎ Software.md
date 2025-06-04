@@ -1,5 +1,4 @@
 ---
-Indice: Software
 Principal: Sim
 ---
 # Versionamento GitHub
@@ -13,14 +12,11 @@ Principal: Sim
 
 # Paradigmas de Programação
 
-# Linux
 
-1. Comandos
-	1. [[Comandos de Navegação]]
-	2. [[Comandos de Manipulação de Arquivos]]
-	3. [[Comandos de Manipulação de Diretórios]]
-	4. [[Comandos de Manipulação de Texto]]
-	5. [[Comandos de Manipulação de Processos]]
-	6. [[Comandos de Manipulação de Usuários]]
+# Linux
+```dataview
+list
+where Indice = "Software"
+```
 
 # VIM

@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Meu RoadMap",
-      "path": "Organização/Engenharia de Dados/Meu RoadMap.md"
+      "basename": "Fundamentos da Engenharia de Dados",
+      "path": "Engenharia de Dados/Fundamentos da Engenharia de Dados.md"
+    },
+    {
+      "basename": "Índice Engenharia de Dados",
+      "path": "Engenharia de Dados/Índice Engenharia de Dados.md"
     },
     {
       "basename": "Página Principal",
@@ -13,12 +17,24 @@
       "path": "‎ Software/‎ Software.md"
     },
     {
-      "basename": "Flashcards",
-      "path": "Flashcards.md"
+      "basename": "Como usar",
+      "path": "Organização/Como usar.md"
     },
     {
-      "basename": "Como usar",
-      "path": "Como usar.md"
+      "basename": "Comandos Linux",
+      "path": "‎ Software/Comandos Linux.md"
+    },
+    {
+      "basename": "To-Do",
+      "path": "Organização/To-Do.md"
+    },
+    {
+      "basename": "Meu RoadMap",
+      "path": "Organização/Engenharia de Dados/Meu RoadMap.md"
+    },
+    {
+      "basename": "Flashcards",
+      "path": "Organização/Flashcards.md"
     },
     {
       "basename": "Índice Matemática",
@@ -55,10 +71,6 @@
     {
       "basename": "Métodos Especiais",
       "path": "‎ Python/Métodos Especiais.md"
-    },
-    {
-      "basename": "To-Do",
-      "path": "To-Do.md"
     },
     {
       "basename": "Rematrícula ⚠️",
