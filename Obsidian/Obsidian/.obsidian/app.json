@@ -6,7 +6,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "defaultViewMode": "preview",
@@ -14,10 +14,10 @@
   "foldIndent": true,
   "showLineNumber": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Organização/Images",
+  "attachmentFolderPath": "Organizacao/Images",
   "userIgnoreFilters": [
-    "Organização/",
-    "Organização/Datas e Prazos/",
-    "Organização/Images/"
+    "Organizacao/",
+    "Organizacao/Images/",
+    "Organizacao/Datas e Prazos/"
   ]
 }

@@ -4,81 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "f96513ad81921f5b",
+        "id": "e40abd7f2ad0dccf",
         "type": "tabs",
         "children": [
           {
-            "id": "46d67933c6eae09a",
+            "id": "a0a57b96ec2ff52e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Página Principal.md",
-                "mode": "source",
-                "source": false
+                "file": "Engenharia de Computação/Prazos.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Página Principal"
+              "icon": "lucide-trello",
+              "title": "Prazos"
             }
           },
           {
-            "id": "b7be07ee3d124961",
+            "id": "0c8d580a77b14d03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Página Principal.md",
+                "file": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Desafio - O que são computadores Quânticos?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Página Principal"
-            }
-          },
-          {
-            "id": "234f8095484de818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Página Principal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Página Principal"
-            }
-          },
-          {
-            "id": "30865a13c15ee99c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engenharia de Dados/Índice Engenharia de Dados.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Índice Engenharia de Dados"
-            }
-          },
-          {
-            "id": "b3c75eecb76da043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engenharia de Dados/Fundamentos da Engenharia de Dados.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fundamentos da Engenharia de Dados"
+              "title": "Desafio - O que são computadores Quânticos?"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +54,7 @@
       {
         "id": "65a390071d78a954",
         "type": "tabs",
-        "dimension": 55.12195121951219,
+        "dimension": 56.019900497512445,
         "children": [
           {
             "id": "437254f253eae31d",
@@ -135,25 +99,57 @@
         ]
       },
       {
-        "id": "339a786c2b83992a",
+        "id": "0006b8ac1c1fc02e",
         "type": "tabs",
-        "dimension": 44.87804878048781,
+        "dimension": 43.98009950248756,
         "children": [
           {
-            "id": "cde0a4ac2e1c30a7",
+            "id": "41daa41572154701",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Engenharia de Computação/Flashcards EngComp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flashcards EngComp"
+            }
+          },
+          {
+            "id": "4b276259d53a9c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engenharia de Software/Flashcards EngSoft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flashcards EngSoft"
+            }
+          },
+          {
+            "id": "311cb3c5115fea7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adicionais/‎ Python/Flashcards Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flashcards Python"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 556.5
   },
   "right": {
     "id": "7bb7a38755faf7c0",
@@ -352,8 +348,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Fila de Notas para Revisar"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -372,12 +368,138 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "05d9a88beea93a1f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "76d6ad31493cd149",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c386ba40d8136425",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "77244f33a913e36f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9132d3ab6314eced",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "0ad66a04cd0b025c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "b662a3585d0f1096",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "1778611d25a497b9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "0b9678fb2666b8c1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "cf387403f6b12e56",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5456559bd8a43d93",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "b180a1a624d56454",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cde0a4ac2e1c30a7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -392,58 +514,59 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-spaced-repetition:Revisar flashcards": false,
-      "open-vscode:VSCode": false
+      "open-vscode:VSCode": false,
+      "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "b3c75eecb76da043",
+  "active": "5456559bd8a43d93",
   "lastOpenFiles": [
-    "Engenharia de Dados/Índice Engenharia de Dados.md",
-    "Engenharia de Dados/Fundamentos da Engenharia de Dados.md",
+    "Engenharia de Computação/Prazos.md",
+    "Engenharia de Computação/Algoritmos e Programação de Computadores I/Desafio - O que são computadores Quânticos?.md",
+    "Engenharia de Computação/Flashcards EngComp.md",
+    "Adicionais/‎ Python/Flashcards Python.md",
+    "Engenharia de Software/Flashcards EngSoft.md",
+    "Organizacao/Datas e Prazos/Atividades Univesp Semana 06 e 07.md",
+    "Organizacao/Datas e Prazos/Atividades Univesp Semana 05.md",
+    "Organizacao/Datas e Prazos/Atividades Univesp Semana 04.md",
+    "Organizacao/Datas e Prazos/Atividades Univesp Semana 03.md",
+    "Organizacao/Datas e Prazos/Atividades Univesp Semana 01.md",
+    "Organizacao/Datas e Prazos/Atividades Univesp Semana 02.md",
+    "Organizacao/Datas e Prazos/Rematrícula ⚠️.md",
+    "Engenharia de Software/Modelagem de Dados/1) Fundamentos de Bancos de Dados/A) Introducao aos SGBDs/Banco de Dados.md",
+    "Engenharia de Computação/Semana 01.md",
+    "Organizacao/Images/Pasted image 20250701220648.png",
+    "Organizacao/Images/Pasted image 20250721162955.png",
+    "Engenharia de Computação/Algoritmos e Programação de Computadores I/Prazos.canvas",
+    "Adicionais/‎ Software/Comandos Linux.md",
+    "Engenharia de Computação/Sistemas Computacionais",
+    "Engenharia de Computação/Introdução a Conceitos de Computação",
+    "Engenharia de Computação/Algoritmos e Programação de Computadores I",
+    "Engenharia de Software/Modelagem de Dados/1) Fundamentos de Bancos de Dados/A) Introducao aos SGBDs/SGBD.md",
+    "Página Inicial.md",
+    "Ramos.md",
+    "Adicionais/‎ Software/‎ Software.md",
+    "Organizacao/Outros/Fundamentos da Engenharia de Dados.md",
+    "Organizacao/Outros/Índice Engenharia de Dados.md",
+    "Organização/Images/Pasted image 20250701220531.png",
+    "Organização/Images",
+    "Organização",
+    "Organizacao/Images/lok.png",
+    "Organizacao/Images/back3.png",
+    "Organizacao/Images",
+    "Organização/Images/Pasted image 20250701214526.png",
+    "Organização/Images/Pasted image 20250701213451.png",
+    "Organização/Images/Pasted image 20250701213438.png",
+    "Organizacao/Outros/‎ Back-End/Índice Back-End.md",
+    "Engenharia de Software/Modelagem de Dados/1) Fundamentos de Bancos de Dados/C) Dados como apoio a tomada de decisão",
+    "Engenharia de Software/Modelagem de Dados/1) Fundamentos de Bancos de Dados/B) Banco de Dados Relacional",
+    "Engenharia de Software/Modelagem de Dados/1) Fundamentos de Bancos de Dados/A) Introducao aos SGBDs",
+    "Engenharia de Software/Modelagem de Dados/4) Normalização de Dados",
     "Página Principal.md",
-    "‎ Software/‎ Software.md",
-    "Engenharia de Dados",
-    "Organização/Como usar.md",
-    "‎ Software/Comandos Linux.md",
-    "Organização/To-Do.md",
+    "Kanban sem título 1.md",
+    "Organizacao/Como usar.md",
     "Organização/Engenharia de Dados/Meu RoadMap.md",
-    "Organização/Engenharia de Dados",
-    "Organização/Flashcards.md",
-    "Organização/Images/Pasted image 20250526173527.png",
-    "Matemática/Índice Matemática.md",
-    "Matemática/Regras da Radiciação.md",
-    "Matemática/Regras da Potenciação.md",
-    "‎ Front-End/Índice Front-End.md",
-    "‎ Front-End/Flashcards Front-end.md",
-    "‎ Front-End/URL e URI.md",
-    "‎ Front-End/Conceitos Básicos.md",
-    "Organização/Flashcards",
-    "‎ Python/Índice de Python.md",
-    "‎ Python/Orientação a Objeto.md",
-    "‎ Python/Métodos Especiais.md",
-    "Organização/Datas e Prazos/LinkedIn e afins ⚠️.md",
-    "Organização/Datas e Prazos/Rematrícula ⚠️.md",
-    "Organização/Datas e Prazos/Pegar PenDrive na Gabi ✔️.md",
-    "Organização/Datas e Prazos/Prova e Trabalho Ampli ✅.md",
-    "Organização/Datas e Prazos/Prova Univesp ✅.md",
-    "Organização/Datas e Prazos/Iniciar repositórios GitHub ⚠️.md",
-    "‎ Python/Classes.md",
-    "Projetos/Brainstorm/desktop.ini",
-    "Projetos/desktop.ini",
-    "‎ Front-End/JavaScript",
-    "Organização/Images/Pasted image 20250507175402.png",
-    "Organização/Images/Pasted image 20250507175200.png",
-    "Projetos/Brainstorm",
-    "Projetos",
-    "Organização/Datas e Prazos/desktop.ini",
     "Organização/Tópicos a Estudar/Sem título.canvas",
-    "Organização/Tópicos a Estudar",
-    "Organização/Images/back3.png",
-    "Organização/Images/Pasted image 20250505143150.png",
-    "Sem título.canvas",
-    "Organização/Images/Pasted image 20250429101122.png",
-    "Organização/Images/Pasted image 20250429101102.png",
-    "Organização/Images/Pasted image 20250429101028.png",
-    "Organização/Images/Pasted image 20250429100926.png",
-    "Organização/Images/Pasted image 20250429100601.png"
+    "Organização/Images/Pasted image 20250526173527.png",
+    "Organização/Images/Pasted image 20250507175402.png"
   ]
 }

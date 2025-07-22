@@ -4,7 +4,7 @@
   "dateSource": "yaml",
   "yamlKey": "date",
   "dateFormat": "YYYY-MM-DD",
-  "defaultFolder": "Organização/Datas e Prazos",
+  "defaultFolder": "Organizacao/Datas e Prazos",
   "defaultFileNamePrefix": "YYYY-MM-DD",
   "fixedCalendar": true,
   "showDestinationFolderDuringCreate": true,

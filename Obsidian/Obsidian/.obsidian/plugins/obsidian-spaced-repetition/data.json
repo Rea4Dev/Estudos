@@ -5,7 +5,10 @@
     "flashcardHardText": "Difícil",
     "reviewButtonDelay": 0,
     "flashcardTags": [
-      "#flashcards"
+      "#flashcards",
+      "#Python",
+      "#EngSoft",
+      "#EngComp"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
@@ -21,8 +24,8 @@
     "clozePatterns": [
       "==[123;;]answer[;;hint]=="
     ],
-    "singleLineCardSeparator": ";;",
-    "singleLineReversedCardSeparator": ";;;",
+    "singleLineCardSeparator": "::",
+    "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "^",
     "multilineReversedCardSeparator": "^^",
     "multilineCardEndMarker": "%",
