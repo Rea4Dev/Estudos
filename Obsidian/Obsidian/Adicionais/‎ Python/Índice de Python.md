@@ -51,7 +51,9 @@ Principal: Sim
 	3. [[Entrada e Saída]]
 	4. [[Operadores]]
 	5. [[Estruturas Condicionais]]
+		1. [[Else em Loops]]
 	6. [[Estruturas de Repetição]]
+		1. [[Estruturas de Controle de Fluxo]]
 	7. [[Funções]]
 	8. [[Módulos]]
 
@@ -93,7 +95,6 @@ Principal: Sim
 	    2. [[Typing Module]]
 
 ---
-
 # <p style="color: #C82F4B; text-align:center;font-size:40px;">Conceitos Avançados</p>
 1. [[Programação Assíncrona]]
 2. [[Metaprogramação]]
@@ -107,18 +108,6 @@ Principal: Sim
 	2. [[Pickle]]
 
 ---
-
-# <p style="color: #C82F4B; text-align:center;font-size:40px;">Bibliotecas Padrão</p>
-1. [[Datetime]]
-2. [[Pathlib]]
-3. [[CSV]]
-4. [[Subprocess]]
-5. [[Itertools]]
-6. [[Functools]]
-7. [[os/sys]]
-
----
-
 # <p style="color: #C82F4B; text-align:center;font-size:40px;">Ferramentas</p>
 1. [[Ambientes Virtuais]]
 	1. [[venv]]
@@ -130,38 +119,6 @@ Principal: Sim
 5. [[Formatters (Black/Flake8)]]
 
 ---
-
-# <p style="color: #C82F4B; text-align:center;font-size:40px;">Data Science</p>
-
-1. [[NumPy]]
-	1. [[Arrays Numéricos]]
-	2. [[Operações Vetorizadas]]
-2. [[Pandas Basics]]
-3. [[Visualização de Dados]]
-	1. [[Matplotlib]]
-	2. [[Seaborn]]
-	3. [[Plotly]]
-4. [[Análise Exploratória]]
-5. [[Limpeza de Dados]]
-6. [[Estatística Básica]]
-7. [[Scikit-learn]]
-	1. [[Pré-processamento]]
-	2. [[Modelos Básicos]]
-8. [[APIs para Dados (requests)]]
-9. [[Manipulação de DataFrames]]
-
----
-
-# <p style="color: #C82F4B; text-align:center;font-size:40px;">Ecossistema Python</p>
-1. [[Web Frameworks]]
-	1. [[FastAPI]]
-	2. [[Flask]]
-2. [[APIs REST]]
-3. [[Empacotamento (setuptools)]]
-4. [[Docker Integration]]
-
----
-
 # <p style="color: #C82F4B; text-align:center;font-size:40px;">Performance</p>
 1. [[Memoization (lru_cache)]]
 2. [[Cython]]

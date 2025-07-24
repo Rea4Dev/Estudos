@@ -45,53 +45,7 @@ for i in range(1, 6):
 
 ---
 
-# Uso do else em Loops
-
-Em Python, tanto o while quanto o for podem ser acompanhados de um bloco else. Esse bloco é executado quando o loop termina normalmente (ou seja, sem que haja uma interrupção com break).
-
-```python
-for i in range(3):
-    print(i)
-else:
-    print("Loop concluído sem interrupções!")
-```
-
-**Nota**: Se o loop for interrompido por um break, o bloco else não será executado.
-
----
-
-# Comandos de Controle de Fluxo
-
-## Break
-
-O comando break interrompe imediatamente o laço, saindo do loop mesmo que a condição ainda seja verdadeira ou que existam elementos restantes na sequência.
-```python
-for numero in range(1, 10):
-    if numero == 5:
-        break
-    print(numero)
-```
-
-## Continue
-
-O comando continue faz com que a iteração atual seja interrompida, passando para a próxima iteração do loop.
-```python
-for numero in range(1, 10):
-    if numero % 2 == 0:
-        continue
-    print(numero)
-```
-## Pass
-
-O comando pass não realiza nenhuma ação. Ele serve como um espaço reservado quando um comando é sintaticamente necessário, mas nenhuma ação precisa ser executada.
-```python
-for i in range(5):
-    pass  # Implementação futura
-```
-
----
-
-## List Comprehensions
+# List Comprehensions
 
 Embora não seja uma estrutura de repetição tradicional, as list comprehensions permitem criar listas de forma concisa e "pythônica" através da iteração.
 

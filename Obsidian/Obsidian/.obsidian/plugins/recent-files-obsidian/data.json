@@ -1,24 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "Desafio - O que são computadores Quânticos?",
-      "path": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Desafio - O que são computadores Quânticos?.md"
+      "basename": "Métodos de Listas",
+      "path": "Adicionais/‎ Python/Conteudos/Métodos de Listas.md"
+    },
+    {
+      "basename": "Índice de Python",
+      "path": "Adicionais/‎ Python/Índice de Python.md"
+    },
+    {
+      "basename": "Lista",
+      "path": "Adicionais/‎ Python/Conteudos/Lista.md"
+    },
+    {
+      "basename": "Estruturas de Repetição",
+      "path": "Adicionais/‎ Python/Conteudos/Estruturas de Repetição.md"
+    },
+    {
+      "basename": "Estruturas de Controle de Fluxo",
+      "path": "Adicionais/‎ Python/Estruturas de Controle de Fluxo.md"
+    },
+    {
+      "basename": "Estruturas de Controle",
+      "path": "Adicionais/‎ Python/Conteudos/Estruturas de Controle.md"
+    },
+    {
+      "basename": "Else em Loops",
+      "path": "Adicionais/‎ Python/Else em Loops.md"
+    },
+    {
+      "basename": "RoadMap",
+      "path": "Engenharia de Dados/RoadMap.md"
     },
     {
       "basename": "Prazos",
       "path": "Engenharia de Computação/Prazos.md"
     },
     {
+      "basename": "História da Computação",
+      "path": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Introdução a Conceitos de Computação/História da Computação.md"
+    },
+    {
+      "basename": "Computação, Informática e TI",
+      "path": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Introdução a Conceitos de Computação/Computação, Informática e TI.md"
+    },
+    {
+      "basename": "Computação Verde",
+      "path": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Introdução a Conceitos de Computação/Computação Verde.md"
+    },
+    {
+      "basename": "Como estudar",
+      "path": "Como estudar.md"
+    },
+    {
+      "basename": "Tipos de Computadores",
+      "path": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Introdução a Conceitos de Computação/Tipos de Computadores.md"
+    },
+    {
       "basename": "Flashcards EngComp",
       "path": "Engenharia de Computação/Flashcards EngComp.md"
     },
     {
-      "basename": "Flashcards Python",
-      "path": "Adicionais/‎ Python/Flashcards Python.md"
-    },
-    {
       "basename": "Flashcards EngSoft",
       "path": "Engenharia de Software/Flashcards EngSoft.md"
+    },
+    {
+      "basename": "Desafio - O que são computadores Quânticos?",
+      "path": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Desafio - O que são computadores Quânticos?.md"
     },
     {
       "basename": "Atividades Univesp Semana 06 e 07",
@@ -97,10 +145,6 @@
       "path": "Organizacao/To-Do.md"
     },
     {
-      "basename": "Índice de Python",
-      "path": "Adicionais/‎ Python/Índice de Python.md"
-    },
-    {
       "basename": "Índice Matemática",
       "path": "Organizacao/Outros/Matemática/Índice Matemática.md"
     },
@@ -113,16 +157,8 @@
       "path": "Organizacao/Outros/Matemática/Regras da Potenciação.md"
     },
     {
-      "basename": "Orientação a Objeto",
-      "path": "Adicionais/‎ Python/Orientação a Objeto.md"
-    },
-    {
-      "basename": "Métodos Especiais",
-      "path": "Adicionais/‎ Python/Métodos Especiais.md"
-    },
-    {
       "basename": "Acessando e Modificando Elementos de Listas",
-      "path": "Adicionais/‎ Python/Acessando e Modificando Elementos de Listas.md"
+      "path": "Adicionais/‎ Python/Conteudos/Acessando e Modificando Elementos de Listas.md"
     },
     {
       "basename": "Boas Práticas do Versionamento",

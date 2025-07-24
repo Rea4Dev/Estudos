@@ -1,20 +1,59 @@
-# Como utilizar?
+# 📜 Manifesto de Fixação de Conteúdos — v1.0
 
-Sempre após estudarmos e anotarmos algo, iremos criar Flashcards das coisas que acharmos importante e pertinente a ser lembrado em longo prazo. Devemos ter cuidado, pois é uma linha tênue entre a negligência e o exagero.
-
-Com o Flashcard feito, iremos diariamente resolver as questões. Sem muita culpa, esforço ou tempo, o intuito não é acertar, e sim gravar!
-
-Toda vez que reparar que errou muito um série de cards específicos a um assunto, após responder os flashcards, passe lá e de uma lida!
-
-## Sugestão pessoal
-
-Não crie manualmente Flashcards, isso é muito trabalhoso e custoso em tempo. Ao invés disso, pegue toda a página e mande para o GPT, peça a ele que faça os Flashcards no modelo que você utiliza.
-
-Geralmente o GPT irá fazer um ótimo trabalho. E caso uma coisa ou outra escape... bem, não há problemas, até porque *flashcards não são apenas inicialmente criados, é um processo eterno a cada vez que algo se prova ser digno de estar nele*!
-
-Então é isso, jogar para o GPT e ter a maturidade de futuramente sempre que algo deste tema falhar a memória, virar Flashcard.
+Sistema pessoal de consolidação do conhecimento, aplicado no Obsidian.md + extensão de Flashcards.
 
 ---
+
+## 🧠 Princípio Fundamental
+
+> "A memória falha, o sistema corrige."
+
+Sempre que terminar de estudar algo, **fica a seu critério** criar flashcards ou não.
+
+O que se torna **regra inegociável** é:
+
+> **Sempre que falhar em lembrar de algo estudado, investigue a origem dessa falha.**
+
+---
+
+## 🔍 Processo em caso de falha
+
+1. **Verifique se o assunto estava registrado no Obsidian.**
+
+   - ❌ **Não estava?**
+     - Você não tinha como lembrar.
+     - ➤ Registre o conteúdo agora no Obsidian.
+
+   - ✅ **Estava?**
+     - Sua memória falhou.
+     - ➤ Crie um flashcard **específico** sobre a informação que falhou.
+
+---
+
+## 🔄 Revisão e Manutenção
+
+A extensão de Flashcards cuidará da lógica de repetição (revisão espaçada) com base no seu desempenho. Confie nela.
+
+---
+
+## ⚠️ Pontos de Atenção
+
+- Nem sempre você errará o que está esquecendo.
+  - ➤ Considere revisões periódicas do conteúdo já estudado mesmo sem falhas detectadas.
+
+- Revisão não é punição. É refinamento.
+  - ➤ Relembrar é consolidar.
+
+---
+
+## ✍️ Atualizações Futuras
+
+Este manifesto é um organismo vivo.
+Sempre que uma melhoria for percebida, **registre e versione.**
+
+---
+
+> _"O conhecimento que não é revisado se apaga como traço na areia."_
 
 # Engenharia de Software
 ## Modelagem de Dados

@@ -28,21 +28,49 @@
             }
           },
           {
-            "id": "0c8d580a77b14d03",
+            "id": "1e1717f609930ab9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Desafio - O que são computadores Quânticos?.md",
+                "file": "Engenharia de Dados/RoadMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desafio - O que são computadores Quânticos?"
+              "title": "RoadMap"
+            }
+          },
+          {
+            "id": "a163c8dc07013bc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como estudar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Como estudar"
+            }
+          },
+          {
+            "id": "0aed9af7616d0959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adicionais/‎ Python/Conteudos/Métodos de Listas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Métodos de Listas"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 556.5
+    "width": 542.5
   },
   "right": {
     "id": "7bb7a38755faf7c0",
@@ -478,6 +506,46 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "90fae20e5c7e9421",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "2dde9d403646f99c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "13e4b1ab002aed88",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "8f0c406d900ccc22",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
@@ -486,11 +554,11 @@
         "currentTab": 5
       },
       {
-        "id": "b180a1a624d56454",
+        "id": "57e75721b877e9f6",
         "type": "tabs",
         "children": [
           {
-            "id": "cde0a4ac2e1c30a7",
+            "id": "d09f55ca154bc1c3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -509,44 +577,55 @@
     "hiddenItems": {
       "switcher:Abrir a troca rápida": false,
       "canvas:Criar novo canvas": false,
-      "graph:Abrir visualização em gráfico": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-spaced-repetition:Revisar flashcards": false,
       "open-vscode:VSCode": false,
+      "graph:Abrir visualização em gráfico": false,
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "5456559bd8a43d93",
+  "active": "0aed9af7616d0959",
   "lastOpenFiles": [
-    "Engenharia de Computação/Prazos.md",
-    "Engenharia de Computação/Algoritmos e Programação de Computadores I/Desafio - O que são computadores Quânticos?.md",
-    "Engenharia de Computação/Flashcards EngComp.md",
-    "Adicionais/‎ Python/Flashcards Python.md",
-    "Engenharia de Software/Flashcards EngSoft.md",
-    "Organizacao/Datas e Prazos/Atividades Univesp Semana 06 e 07.md",
-    "Organizacao/Datas e Prazos/Atividades Univesp Semana 05.md",
-    "Organizacao/Datas e Prazos/Atividades Univesp Semana 04.md",
-    "Organizacao/Datas e Prazos/Atividades Univesp Semana 03.md",
-    "Organizacao/Datas e Prazos/Atividades Univesp Semana 01.md",
-    "Organizacao/Datas e Prazos/Atividades Univesp Semana 02.md",
-    "Organizacao/Datas e Prazos/Rematrícula ⚠️.md",
-    "Engenharia de Software/Modelagem de Dados/1) Fundamentos de Bancos de Dados/A) Introducao aos SGBDs/Banco de Dados.md",
-    "Engenharia de Computação/Semana 01.md",
+    "Adicionais/‎ Python/Índice de Python.md",
+    "Adicionais/‎ Python/Conteudos/Lista.md",
+    "Adicionais/‎ Python/Conteudos/Estruturas de Repetição.md",
+    "Adicionais/‎ Python/Estruturas de Controle de Fluxo.md",
+    "Adicionais/‎ Python/Conteudos/Estruturas de Controle.md",
+    "Adicionais/‎ Python/Else em Loops.md",
+    "Adicionais/‎ Python/Índice de Python 1.md",
+    "Adicionais/‎ Python/Conteudos/PEP8 - Guia de Estilo para Código Python.md",
+    "Adicionais/‎ Python/Conteudos/PEP8 - Classes.md",
+    "Adicionais/‎ Python/Conteudos/Importações.md",
+    "Adicionais/‎ Python/Conteudos/Funções e métodos dunder.md",
+    "Adicionais/‎ Python/Conteudos/Valores Protegidos.md",
+    "Adicionais/‎ Python/Conteudos/Valores Privados.md",
+    "Adicionais/‎ Python/Conteudos/Type Hints.md",
+    "Adicionais/‎ Python/Conteudos/Tratamento de Exceções.md",
+    "Adicionais/‎ Python/Conteudos/Sintaxe Fundamental.md",
+    "Adicionais/‎ Python/Conteudos/Quebras de Linha.md",
+    "Adicionais/‎ Python/Conteudos/PEPs de Formatação do Código.md",
+    "Adicionais/‎ Python/Conteudos/PEP 257 - Docstrings.md",
+    "Adicionais/‎ Python/Conteudos/Pacotes.md",
+    "Adicionais/‎ Python/Conteudos/Orientação a Objeto.md",
+    "Adicionais/‎ Python/Conteudos/Métodos Especiais.md",
+    "Adicionais/‎ Python/Conteudos/Métodos de Listas.md",
+    "Adicionais/‎ Python/Conteudos/Métodos de Instância.md",
+    "Adicionais/‎ Python/Conteudos/Métodos de Classe e Estáticos.md",
+    "Adicionais/‎ Python/Conteudos/Métodos.md",
+    "Adicionais/‎ Python/Conteudos",
+    "Organizacao/Images/Pasted image 20250723172948.png",
+    "Organizacao/Images/Pasted image 20250723172233.png",
+    "Organizacao/Images/Pasted image 20250723171432.png",
+    "Organizacao/Images/Pasted image 20250723171009.png",
+    "Engenharia de Computação/Algoritmos e Programação de Computadores I/Introdução a Conceitos de Computação",
     "Organizacao/Images/Pasted image 20250701220648.png",
     "Organizacao/Images/Pasted image 20250721162955.png",
     "Engenharia de Computação/Algoritmos e Programação de Computadores I/Prazos.canvas",
-    "Adicionais/‎ Software/Comandos Linux.md",
     "Engenharia de Computação/Sistemas Computacionais",
     "Engenharia de Computação/Introdução a Conceitos de Computação",
     "Engenharia de Computação/Algoritmos e Programação de Computadores I",
-    "Engenharia de Software/Modelagem de Dados/1) Fundamentos de Bancos de Dados/A) Introducao aos SGBDs/SGBD.md",
-    "Página Inicial.md",
-    "Ramos.md",
-    "Adicionais/‎ Software/‎ Software.md",
-    "Organizacao/Outros/Fundamentos da Engenharia de Dados.md",
-    "Organizacao/Outros/Índice Engenharia de Dados.md",
     "Organização/Images/Pasted image 20250701220531.png",
     "Organização/Images",
     "Organização",
@@ -554,19 +633,8 @@
     "Organizacao/Images/back3.png",
     "Organizacao/Images",
     "Organização/Images/Pasted image 20250701214526.png",
-    "Organização/Images/Pasted image 20250701213451.png",
-    "Organização/Images/Pasted image 20250701213438.png",
-    "Organizacao/Outros/‎ Back-End/Índice Back-End.md",
     "Engenharia de Software/Modelagem de Dados/1) Fundamentos de Bancos de Dados/C) Dados como apoio a tomada de decisão",
     "Engenharia de Software/Modelagem de Dados/1) Fundamentos de Bancos de Dados/B) Banco de Dados Relacional",
-    "Engenharia de Software/Modelagem de Dados/1) Fundamentos de Bancos de Dados/A) Introducao aos SGBDs",
-    "Engenharia de Software/Modelagem de Dados/4) Normalização de Dados",
-    "Página Principal.md",
-    "Kanban sem título 1.md",
-    "Organizacao/Como usar.md",
-    "Organização/Engenharia de Dados/Meu RoadMap.md",
-    "Organização/Tópicos a Estudar/Sem título.canvas",
-    "Organização/Images/Pasted image 20250526173527.png",
-    "Organização/Images/Pasted image 20250507175402.png"
+    "Organização/Tópicos a Estudar/Sem título.canvas"
   ]
 }

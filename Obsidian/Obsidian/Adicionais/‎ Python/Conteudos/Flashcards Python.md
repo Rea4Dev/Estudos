@@ -55,33 +55,49 @@ Sempre que uma melhoria for percebida, **registre e versione.**
 
 > _"O conhecimento que não é revisado se apaga como traço na areia."_
 
-# Engenharia de Computação
-## Algoritmos e Programação de Computadores I
-#EngComp/Algoritmos_Prog_Comp1
+# Python
+## Experienciados
+#Python/Experienciados
 
-EC) 11aaee ?::Aaa
-
-EC) aaee?
+P1) Você se lembra como declarar funções com *parâmetros opcionais*?
 ^
-Raa
+```Python
+def devolver_frases(saudacao, humilhacao=" "):
+	if saudacao == "sim":
+		print("\n oi ", end="")
+	if humilhacao == "sim":
+	    print("bobão")
+
+devolver_frases("sim")
+devolver_frases("sim", "sim")
+```
+<!--SR:!2025-07-10,3,261-->
 %
 
-## Introdução a Conceitos de Computação
-#EngComp/Introducao_Conceitos_Computacao1
-
-EC) 22aaee ?::Bbb
-
-EC) aaee?
+P2) Você se lembra como escrevemos em arquivos?
 ^
-Raa
+```Python
+import os
+
+pasta_atual = os.path.dirname(__file__)
+arquivo = os.path.join(pasta_atual, 'exemplo.md')
+
+with open(arquivo, "w") as file:
+    file.write("Olá")
+```
+<!--SR:!2025-07-12,5,241-->
 %
 
-## Sistemas Computacionais
-#EngComp/Sistemas_Comp
-
-EC) 33aaee ?::Ccc
-
-EC) aaee?
+P3) Você se lembra da melhor maneira de trabalhar com *pasta atual*, *pasta pai* e *arquivo*?
 ^
-Raa
+```Python
+import os
+
+PASTA_ATUAL = os.path.dirname(__file__)
+PASTA_PAI = os.path.dirname(PASTA_ATUAL)
+ARQV = os.path.join(PASTA_DATA, 'arquivo.txt')
+```
+<!--SR:!2025-07-08,1,202-->
 %
+
+---
