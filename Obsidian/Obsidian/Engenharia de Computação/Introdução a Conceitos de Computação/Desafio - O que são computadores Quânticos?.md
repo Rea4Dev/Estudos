@@ -1,3 +1,8 @@
+---
+data_criacao: 21-07-2025
+flashcards: Não feito
+revisão: Não feita
+---
 # O que são computadores Quânticos
 
 ## Primeiras citações

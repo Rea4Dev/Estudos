@@ -1,3 +1,8 @@
+---
+data_criacao: 22-07-2025
+flashcards: Não feito
+revisão: Não feita
+---
 # Definição Computação
 
 Segundo  [ACM, Association for Computing Machinery - 1989](https://dl.acm.org/doi/pdf/10.1145/63238.63239) em "**Short Definition**" em "**A description of Computing**":

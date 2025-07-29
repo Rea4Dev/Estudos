@@ -1,3 +1,8 @@
+---
+data_criacao: 22-07-2025
+flashcards: Não feito
+revisão: Não feita
+---
 # Tipos de Computadores
 
 Podemos analisar e categorizar os computadores com base em três fatores:

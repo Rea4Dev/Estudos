@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e40abd7f2ad0dccf",
+        "id": "24dc93f08b846a52",
         "type": "tabs",
         "children": [
           {
-            "id": "a0a57b96ec2ff52e",
+            "id": "d14bf06bb868edf8",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -28,49 +28,21 @@
             }
           },
           {
-            "id": "1e1717f609930ab9",
+            "id": "61b2341c1d6df217",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Dados/RoadMap.md",
+                "file": "Engenharia de Computação/Sistemas Computacionais/O computador.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RoadMap"
-            }
-          },
-          {
-            "id": "a163c8dc07013bc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como estudar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Como estudar"
-            }
-          },
-          {
-            "id": "0aed9af7616d0959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adicionais/‎ Python/Conteudos/Métodos de Listas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Métodos de Listas"
+              "title": "O computador"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -546,6 +518,66 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9ece527ce93d97bb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "2748e393f4b03e47",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "8b8b457ec740dd19",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "426096e9d8464211",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "b950e51bf2833bff",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "3bf40e5c0036b712",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
@@ -586,40 +618,43 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "0aed9af7616d0959",
+  "active": "61b2341c1d6df217",
   "lastOpenFiles": [
+    "Engenharia de Computação/Introdução a Conceitos de Computação/Computação, Informática e TI.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/Desafio - O que são computadores Quânticos?.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/Tipos de Computadores.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/História da Computação.md",
+    "Engenharia de Computação/Flashcards EngComp.md",
+    "Engenharia de Computação/Sistemas Computacionais/O computador.md",
+    "Engenharia de Computação/Prazos.md",
+    "Engenharia de Computação/Algoritmos e Programação de Computadores I/Fluxogramas.md",
+    "Organizacao/Images/Pasted image 20250728163859.png",
+    "Engenharia de Computação/Algoritmos e Programação de Computadores I/Noção de Algoritmos.md",
+    "Organizacao/Modelos Obsidian/modelo_data.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/Computação Verde.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/Sem título 1.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/Sem título 2.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/Sem título 4.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/Sem título 5.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/Sem título 6.md",
+    "Organizacao/Modelos Obsidian/Sem título.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/Sem título 3.md",
+    "Organizacao/Modelos Obsidian/bb.md",
+    "Organizacao/Modelos Obsidian/a.md",
+    "Organizacao/Modelos Obsidian",
+    "Organizacao/Images/Pasted image 20250724172654.png",
+    "Adicionais/‎ Python/Conteudos/Métodos de Listas.md",
     "Adicionais/‎ Python/Índice de Python.md",
     "Adicionais/‎ Python/Conteudos/Lista.md",
     "Adicionais/‎ Python/Conteudos/Estruturas de Repetição.md",
     "Adicionais/‎ Python/Estruturas de Controle de Fluxo.md",
     "Adicionais/‎ Python/Conteudos/Estruturas de Controle.md",
-    "Adicionais/‎ Python/Else em Loops.md",
-    "Adicionais/‎ Python/Índice de Python 1.md",
-    "Adicionais/‎ Python/Conteudos/PEP8 - Guia de Estilo para Código Python.md",
-    "Adicionais/‎ Python/Conteudos/PEP8 - Classes.md",
-    "Adicionais/‎ Python/Conteudos/Importações.md",
-    "Adicionais/‎ Python/Conteudos/Funções e métodos dunder.md",
-    "Adicionais/‎ Python/Conteudos/Valores Protegidos.md",
-    "Adicionais/‎ Python/Conteudos/Valores Privados.md",
-    "Adicionais/‎ Python/Conteudos/Type Hints.md",
-    "Adicionais/‎ Python/Conteudos/Tratamento de Exceções.md",
-    "Adicionais/‎ Python/Conteudos/Sintaxe Fundamental.md",
-    "Adicionais/‎ Python/Conteudos/Quebras de Linha.md",
-    "Adicionais/‎ Python/Conteudos/PEPs de Formatação do Código.md",
-    "Adicionais/‎ Python/Conteudos/PEP 257 - Docstrings.md",
-    "Adicionais/‎ Python/Conteudos/Pacotes.md",
-    "Adicionais/‎ Python/Conteudos/Orientação a Objeto.md",
-    "Adicionais/‎ Python/Conteudos/Métodos Especiais.md",
-    "Adicionais/‎ Python/Conteudos/Métodos de Listas.md",
-    "Adicionais/‎ Python/Conteudos/Métodos de Instância.md",
-    "Adicionais/‎ Python/Conteudos/Métodos de Classe e Estáticos.md",
-    "Adicionais/‎ Python/Conteudos/Métodos.md",
     "Adicionais/‎ Python/Conteudos",
     "Organizacao/Images/Pasted image 20250723172948.png",
     "Organizacao/Images/Pasted image 20250723172233.png",
     "Organizacao/Images/Pasted image 20250723171432.png",
     "Organizacao/Images/Pasted image 20250723171009.png",
-    "Engenharia de Computação/Algoritmos e Programação de Computadores I/Introdução a Conceitos de Computação",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/Introdução a Conceitos de Computação",
     "Organizacao/Images/Pasted image 20250701220648.png",
     "Organizacao/Images/Pasted image 20250721162955.png",
     "Engenharia de Computação/Algoritmos e Programação de Computadores I/Prazos.canvas",
@@ -630,11 +665,8 @@
     "Organização/Images",
     "Organização",
     "Organizacao/Images/lok.png",
-    "Organizacao/Images/back3.png",
     "Organizacao/Images",
-    "Organização/Images/Pasted image 20250701214526.png",
     "Engenharia de Software/Modelagem de Dados/1) Fundamentos de Bancos de Dados/C) Dados como apoio a tomada de decisão",
-    "Engenharia de Software/Modelagem de Dados/1) Fundamentos de Bancos de Dados/B) Banco de Dados Relacional",
     "Organização/Tópicos a Estudar/Sem título.canvas"
   ]
 }

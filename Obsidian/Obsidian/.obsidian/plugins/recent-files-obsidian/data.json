@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "O computador",
+      "path": "Engenharia de Computação/Sistemas Computacionais/O computador.md"
+    },
+    {
+      "basename": "Computação, Informática e TI",
+      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/Computação, Informática e TI.md"
+    },
+    {
+      "basename": "Desafio - O que são computadores Quânticos?",
+      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/Desafio - O que são computadores Quânticos?.md"
+    },
+    {
+      "basename": "Tipos de Computadores",
+      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/Tipos de Computadores.md"
+    },
+    {
+      "basename": "História da Computação",
+      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/História da Computação.md"
+    },
+    {
+      "basename": "Flashcards EngComp",
+      "path": "Engenharia de Computação/Flashcards EngComp.md"
+    },
+    {
+      "basename": "Prazos",
+      "path": "Engenharia de Computação/Prazos.md"
+    },
+    {
+      "basename": "Fluxogramas",
+      "path": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Fluxogramas.md"
+    },
+    {
+      "basename": "Noção de Algoritmos",
+      "path": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Noção de Algoritmos.md"
+    },
+    {
+      "basename": "modelo_data",
+      "path": "Organizacao/Modelos Obsidian/modelo_data.md"
+    },
+    {
+      "basename": "Computação Verde",
+      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/Computação Verde.md"
+    },
+    {
       "basename": "Métodos de Listas",
       "path": "Adicionais/‎ Python/Conteudos/Métodos de Listas.md"
     },
@@ -33,40 +77,12 @@
       "path": "Engenharia de Dados/RoadMap.md"
     },
     {
-      "basename": "Prazos",
-      "path": "Engenharia de Computação/Prazos.md"
-    },
-    {
-      "basename": "História da Computação",
-      "path": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Introdução a Conceitos de Computação/História da Computação.md"
-    },
-    {
-      "basename": "Computação, Informática e TI",
-      "path": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Introdução a Conceitos de Computação/Computação, Informática e TI.md"
-    },
-    {
-      "basename": "Computação Verde",
-      "path": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Introdução a Conceitos de Computação/Computação Verde.md"
-    },
-    {
       "basename": "Como estudar",
       "path": "Como estudar.md"
     },
     {
-      "basename": "Tipos de Computadores",
-      "path": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Introdução a Conceitos de Computação/Tipos de Computadores.md"
-    },
-    {
-      "basename": "Flashcards EngComp",
-      "path": "Engenharia de Computação/Flashcards EngComp.md"
-    },
-    {
       "basename": "Flashcards EngSoft",
       "path": "Engenharia de Software/Flashcards EngSoft.md"
-    },
-    {
-      "basename": "Desafio - O que são computadores Quânticos?",
-      "path": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Desafio - O que são computadores Quânticos?.md"
     },
     {
       "basename": "Atividades Univesp Semana 06 e 07",
@@ -167,26 +183,6 @@
     {
       "basename": "Conceitos Básicos de Versionamento",
       "path": "Adicionais/‎ Software/Conceitos Básicos de Versionamento.md"
-    },
-    {
-      "basename": "Versões de Pré-Lançamento (Pre-Release)",
-      "path": "Adicionais/‎ Software/Versões de Pré-Lançamento (Pre-Release).md"
-    },
-    {
-      "basename": "Comandos Git",
-      "path": "Adicionais/‎ Software/Comandos Git.md"
-    },
-    {
-      "basename": "Versionamento Semântico (SemVer)",
-      "path": "Adicionais/‎ Software/Versionamento Semântico (SemVer).md"
-    },
-    {
-      "basename": "Índice Banco de Dados",
-      "path": "Organizacao/Outros/‎ Back-End/Banco de Dados/Índice Banco de Dados.md"
-    },
-    {
-      "basename": "Introdução ao Banco de Dados e SQL",
-      "path": "Organizacao/Outros/‎ Back-End/Banco de Dados/Relacional/Conceitos/Introdução ao Banco de Dados SQL/Introdução ao Banco de Dados e SQL.md"
     }
   ],
   "omittedPaths": [],

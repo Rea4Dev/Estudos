@@ -1,3 +1,8 @@
+---
+data_criacao: 22-07-2025
+flashcards: Não feito
+revisão: Não feita
+---
 # Computação Verde
 
 **Computação Verde**, ou *Tecnologia da Informação Verde*, é o estudo e a prática de políticas, tecnologias e procedimentos voltados para tornar o uso da computação mais sustentável, minimizando os impactos ambientais.
