@@ -50,6 +50,8 @@ Principal: Sim
 	2. [[Conversão de tipos]]
 	3. [[Entrada e Saída]]
 	4. [[Operadores]]
+		1. [[Ordem de precedencia]]
+		2. [[Divisão inteira]]
 	5. [[Estruturas Condicionais]]
 		1. [[Else em Loops]]
 	6. [[Estruturas de Repetição]]
@@ -69,11 +71,13 @@ Principal: Sim
 	4. [[Conjuntos (Sets)]]
 	5. [[Queue e Stack]]
 
-3. [[Orientação a Objeto]]
+3. [[Tipos de Dados]]
+
+4. [[Orientação a Objeto]]
 	1. [[Métodos Especiais]]
 
 
-4. [[Sintaxe Complementar]]
+5. [[Sintaxe Complementar]]
 	1. [[Operadores]]
 	    1. [[Operadores Bitwise]]
 	    2. [[Walrus Operator (:=)]]

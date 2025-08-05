@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Tipos de Dados",
+      "path": "Adicionais/‎ Python/Tipos de Dados.md"
+    },
+    {
+      "basename": "Índice de Python",
+      "path": "Adicionais/‎ Python/Índice de Python.md"
+    },
+    {
       "basename": "O computador",
       "path": "Engenharia de Computação/Sistemas Computacionais/O computador.md"
+    },
+    {
+      "basename": "Prazos",
+      "path": "Engenharia de Computação/Prazos.md"
+    },
+    {
+      "basename": "Métodos de Listas",
+      "path": "Adicionais/‎ Python/Conteudos/Métodos de Listas.md"
+    },
+    {
+      "basename": "Tupla",
+      "path": "Adicionais/‎ Python/Tupla.md"
+    },
+    {
+      "basename": "Lista",
+      "path": "Adicionais/‎ Python/Conteudos/Lista.md"
+    },
+    {
+      "basename": "Acessando e Modificando Elementos de Listas",
+      "path": "Adicionais/‎ Python/Conteudos/Acessando e Modificando Elementos de Listas.md"
+    },
+    {
+      "basename": "Manipulação de Strings",
+      "path": "Adicionais/‎ Python/Manipulação de Strings.md"
+    },
+    {
+      "basename": "Divisão inteira",
+      "path": "Adicionais/‎ Python/Divisão inteira.md"
+    },
+    {
+      "basename": "Ordem de precedencia",
+      "path": "Adicionais/‎ Python/Ordem de precedencia.md"
     },
     {
       "basename": "Computação, Informática e TI",
@@ -25,10 +65,6 @@
       "path": "Engenharia de Computação/Flashcards EngComp.md"
     },
     {
-      "basename": "Prazos",
-      "path": "Engenharia de Computação/Prazos.md"
-    },
-    {
       "basename": "Fluxogramas",
       "path": "Engenharia de Computação/Algoritmos e Programação de Computadores I/Fluxogramas.md"
     },
@@ -43,18 +79,6 @@
     {
       "basename": "Computação Verde",
       "path": "Engenharia de Computação/Introdução a Conceitos de Computação/Computação Verde.md"
-    },
-    {
-      "basename": "Métodos de Listas",
-      "path": "Adicionais/‎ Python/Conteudos/Métodos de Listas.md"
-    },
-    {
-      "basename": "Índice de Python",
-      "path": "Adicionais/‎ Python/Índice de Python.md"
-    },
-    {
-      "basename": "Lista",
-      "path": "Adicionais/‎ Python/Conteudos/Lista.md"
     },
     {
       "basename": "Estruturas de Repetição",
@@ -173,16 +197,8 @@
       "path": "Organizacao/Outros/Matemática/Regras da Potenciação.md"
     },
     {
-      "basename": "Acessando e Modificando Elementos de Listas",
-      "path": "Adicionais/‎ Python/Conteudos/Acessando e Modificando Elementos de Listas.md"
-    },
-    {
       "basename": "Boas Práticas do Versionamento",
       "path": "Adicionais/‎ Software/Boas Práticas do Versionamento.md"
-    },
-    {
-      "basename": "Conceitos Básicos de Versionamento",
-      "path": "Adicionais/‎ Software/Conceitos Básicos de Versionamento.md"
     }
   ],
   "omittedPaths": [],
