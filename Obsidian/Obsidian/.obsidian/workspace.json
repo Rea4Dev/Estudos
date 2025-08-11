@@ -4,87 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "24dc93f08b846a52",
+        "id": "3c0ab7724c22070d",
         "type": "tabs",
         "children": [
           {
-            "id": "61b2341c1d6df217",
+            "id": "360f8905c3ba075b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/Computação Verde.md",
+                "file": "Índice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Índice"
+            }
+          },
+          {
+            "id": "c12d1853b7691302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Índice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Índice"
+            }
+          },
+          {
+            "id": "4481a730d647f713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Software/Programação de Software/Linguagens/‎ Python/Índice de Python.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computação Verde"
-            }
-          },
-          {
-            "id": "0e4a134ab1693ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Dados, Informação e Conhecimento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dados, Informação e Conhecimento"
-            }
-          },
-          {
-            "id": "76184b60e1081b67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Dados, Informação e Conhecimento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dados, Informação e Conhecimento"
-            }
-          },
-          {
-            "id": "d587937764afb398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Textos - Codificação Binária.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Textos - Codificação Binária"
-            }
-          },
-          {
-            "id": "4d0ce99cecfb649e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Engenharia de Computação/Prazos.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Prazos"
+              "title": "Índice de Python"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Computação/Flashcards EngComp.md",
+                "file": "A Computacao/Engenharia de Computação/Flashcards EngComp.md",
                 "mode": "source",
                 "source": false
               },
@@ -650,8 +616,8 @@
             "state": {
               "type": "oz-calendar",
               "state": {},
-              "icon": "OZCAL_ICON",
-              "title": "OZ Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -690,12 +656,62 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "aaed9958c9bdae93",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "8fb57a186a34d7dc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "b1035bc6f184102a",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {},
+              "icon": "OZCAL_ICON",
+              "title": "OZ Calendar"
+            }
+          },
+          {
+            "id": "c8be1d7b029dfaf5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "7c6980fa91899009",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           },
           {
-            "id": "aaed9958c9bdae93",
+            "id": "43db538f0208c266",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -740,55 +756,54 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "437254f253eae31d",
+  "active": "43db538f0208c266",
   "lastOpenFiles": [
-    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Caso Linkedin.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Textos - Codificação Binária.md",
-    "Engenharia de Computação/Flashcards EngComp.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Dados, Informação e Conhecimento.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Dados Analógicos e Digitais.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/Tipos de Computadores.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/História da Computação.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/Desafio O que sao computadores Quanticos.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/Computação, Informática e TI.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/Computação Verde.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados",
-    "Engenharia de Computação/Prazos.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso",
-    "Adicionais/‎ Python/Índice de Python.md",
-    "Adicionais/‎ Python/Tipos de Dados.md",
-    "Adicionais/‎ Python/Conteudos/Conversão de tipos.md",
-    "Engenharia de Computação/Sistemas Computacionais/O computador.md",
-    "Adicionais/‎ Python/Conteudos/Métodos de Listas.md",
-    "Adicionais/‎ Python/Tupla.md",
-    "Adicionais/‎ Python/Conteudos/Lista.md",
-    "Adicionais/‎ Python/Conteudos/Acessando e Modificando Elementos de Listas.md",
-    "Adicionais/‎ Python/Manipulação de Strings.md",
-    "Adicionais/‎ Python/Divisão inteira.md",
-    "Adicionais/‎ Python/Ordem de precedencia.md",
-    "Adicionais/‎ Python/Operadores.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/Desafio - O que são computadores Quânticos?.md",
-    "Engenharia de Computação/Algoritmos e Programação de Computadores I/Fluxogramas.md",
+    "O Software/Programação de Software/Programação de Software.md",
+    "Índice.md",
+    "A Computacao/Engenharia de Computação/Engenharia de Computação.md",
+    "A Computacao/Engenharia de Computação/Algoritmos e Programação de Computadores I/Algoritmos e Programação de Computadores I.md",
+    "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/Introdução a Conceitos de Computação.md",
+    "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/Tipos de Computadores.md",
+    "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/Computação, Informática e TI.md",
+    "O Software/Desenvolvimento de Software/Desenvolvimento de Software.md",
+    "A Computacao/Engenharia de Computação/Flashcards EngComp.md",
+    "A Computacao/Engenharia de Computação/Sistemas Computacionais/Sistemas Computacionais.md",
+    "A Computacao/Linux/Linux.md",
+    "A Computacao/Computacao.md",
+    "O Software/Software.md",
+    "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/História da Computação.md",
+    "O Software/Desenvolvimento de Software/Git/Git.md",
+    "O Software/Programação de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md",
+    "O Software/Programação de Software/Linguagens/‎ Python/Índice de Python.md",
+    "Organizacao/Manifesto de Fixação de Conteudos v1.0.md",
+    "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/O que sao computadores Quanticos.md",
+    "Organizacao/Lixeira (deletar pos 30 dias)",
+    "Organizacao/Lixeira (deletar pos 30 dias)/Fase de Planejamento de Testes.md",
+    "Organizacao/Lixeira (deletar pos 30 dias)/Objetivos/Compreensão do contexto de aplicação.md",
+    "2. Software/Programação de Software/Testes e Manutenção de Software/Conceitos/Interpretação de Benefícios.md",
+    "2. Software/Programação de Software/Testes e Manutenção de Software/Conceitos/Interpretação de Fundamentos.md",
+    "Organizacao/Lixeira (deletar pos 30 dias)/Índice.md",
+    "Organizacao/Lixeira (deletar pos 30 dias)/Fase de Encerramento e Relatorio (Validacao de Testes).md",
+    "Organizacao/Images/Pasted image 20250811133456.png",
+    "Organizacao/Images/Pasted image 20250811132128.png",
+    "Organizacao/Images/Pasted image 20250811131804.png",
+    "O Software/Processos de Software",
+    "O Software/Programação de Software/Backend",
+    "O Software/Programação de Software/Linguagens",
+    "Computação/desktop.ini",
+    "A Computacao",
+    "O Software",
+    "Desenvolvimento de Software/desktop.ini",
+    "O Software/Desenvolvimento de Software",
+    "Sem título/desktop.ini",
     "Organizacao/Images/Pasted image 20250728163859.png",
-    "Engenharia de Computação/Algoritmos e Programação de Computadores I/Noção de Algoritmos.md",
-    "Organizacao/Modelos Obsidian",
     "Organizacao/Images/Pasted image 20250724172654.png",
-    "Adicionais/‎ Python/Conteudos",
     "Organizacao/Images/Pasted image 20250723172948.png",
     "Organizacao/Images/Pasted image 20250723172233.png",
     "Organizacao/Images/Pasted image 20250723171432.png",
     "Organizacao/Images/Pasted image 20250723171009.png",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/Introdução a Conceitos de Computação",
     "Organizacao/Images/Pasted image 20250701220648.png",
-    "Organizacao/Images/Pasted image 20250721162955.png",
     "Engenharia de Computação/Algoritmos e Programação de Computadores I/Prazos.canvas",
-    "Engenharia de Computação/Sistemas Computacionais",
-    "Engenharia de Computação/Introdução a Conceitos de Computação",
-    "Engenharia de Computação/Algoritmos e Programação de Computadores I",
-    "Organização/Images/Pasted image 20250701220531.png",
-    "Organização/Images",
-    "Organização",
-    "Organizacao/Images/lok.png",
     "Organização/Tópicos a Estudar/Sem título.canvas"
   ]
 }

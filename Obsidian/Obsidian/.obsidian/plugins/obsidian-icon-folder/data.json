@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiRecycle",
+      "🖥",
       "⚙",
       "LiSquareDashedBottomCode",
-      "LiCodepen",
-      "LiCodeXml",
-      "LiCode"
+      "LiCodepen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,14 +35,6 @@
     "useInternalPlugins": false
   },
   "‎ Back-End/Banco de Dados/Não Relacional": "LiSquareDashedBottomCode",
-  "Engenharia de Software": "LiSquareDashedBottomCode",
-  "Engenharia de Dados": "LiCodepen",
-  "Engenharia de Computação": "⚙",
-  "Organizacao/To-Do.md": "LiListTodo",
-  "Organizacao/Outros/Matemática": "LiFunctionSquare",
-  "Organizacao/Outros/‎ Back-End": "LiServer",
-  "Organizacao/Outros/‎ Back-End/Banco de Dados": "LiDatabase",
-  "Organizacao/Outros/‎ Back-End/Banco de Dados/Relacional": "LiTable",
-  "Adicionais/‎ Software": "LiCodeXml",
-  "Adicionais/‎ Python": "LiCode"
+  "O Software": "LiCodeXml",
+  "A Computacao": "🖥"
 }
