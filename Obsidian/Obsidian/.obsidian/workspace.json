@@ -638,12 +638,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Fila de Notas para Revisar"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
             "id": "aaed9958c9bdae93",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "a231574c9ad2916f",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -688,7 +698,7 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "437254f253eae31d",
+  "active": "d587937764afb398",
   "lastOpenFiles": [
     "Engenharia de Computação/Prazos.md",
     "grelha.md",
