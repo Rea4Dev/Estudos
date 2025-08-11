@@ -706,12 +706,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "43db538f0208c266",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           },
           {
-            "id": "43db538f0208c266",
+            "id": "95af8f2358194b84",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -756,7 +766,7 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "43db538f0208c266",
+  "active": "95af8f2358194b84",
   "lastOpenFiles": [
     "O Software/Programação de Software/Programação de Software.md",
     "Índice.md",
