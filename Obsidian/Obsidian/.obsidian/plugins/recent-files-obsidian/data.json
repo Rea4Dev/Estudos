@@ -1,20 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Tipos de Dados",
-      "path": "Adicionais/‎ Python/Tipos de Dados.md"
+      "basename": "Prazos",
+      "path": "Engenharia de Computação/Prazos.md"
+    },
+    {
+      "basename": "Caso Linkedin",
+      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Caso Linkedin.md"
+    },
+    {
+      "basename": "Textos - Codificação Binária",
+      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Textos - Codificação Binária.md"
+    },
+    {
+      "basename": "Flashcards EngComp",
+      "path": "Engenharia de Computação/Flashcards EngComp.md"
+    },
+    {
+      "basename": "Dados, Informação e Conhecimento",
+      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Dados, Informação e Conhecimento.md"
+    },
+    {
+      "basename": "Dados Analógicos e Digitais",
+      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Dados Analógicos e Digitais.md"
+    },
+    {
+      "basename": "Tipos de Computadores",
+      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/Tipos de Computadores.md"
+    },
+    {
+      "basename": "História da Computação",
+      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/História da Computação.md"
+    },
+    {
+      "basename": "Desafio O que sao computadores Quanticos",
+      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/Desafio O que sao computadores Quanticos.md"
+    },
+    {
+      "basename": "Computação, Informática e TI",
+      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/Computação, Informática e TI.md"
+    },
+    {
+      "basename": "Computação Verde",
+      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/Computação Verde.md"
     },
     {
       "basename": "Índice de Python",
       "path": "Adicionais/‎ Python/Índice de Python.md"
     },
     {
-      "basename": "O computador",
-      "path": "Engenharia de Computação/Sistemas Computacionais/O computador.md"
+      "basename": "Tipos de Dados",
+      "path": "Adicionais/‎ Python/Tipos de Dados.md"
     },
     {
-      "basename": "Prazos",
-      "path": "Engenharia de Computação/Prazos.md"
+      "basename": "Conversão de tipos",
+      "path": "Adicionais/‎ Python/Conteudos/Conversão de tipos.md"
+    },
+    {
+      "basename": "O computador",
+      "path": "Engenharia de Computação/Sistemas Computacionais/O computador.md"
     },
     {
       "basename": "Métodos de Listas",
@@ -45,24 +89,8 @@
       "path": "Adicionais/‎ Python/Ordem de precedencia.md"
     },
     {
-      "basename": "Computação, Informática e TI",
-      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/Computação, Informática e TI.md"
-    },
-    {
       "basename": "Desafio - O que são computadores Quânticos?",
       "path": "Engenharia de Computação/Introdução a Conceitos de Computação/Desafio - O que são computadores Quânticos?.md"
-    },
-    {
-      "basename": "Tipos de Computadores",
-      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/Tipos de Computadores.md"
-    },
-    {
-      "basename": "História da Computação",
-      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/História da Computação.md"
-    },
-    {
-      "basename": "Flashcards EngComp",
-      "path": "Engenharia de Computação/Flashcards EngComp.md"
     },
     {
       "basename": "Fluxogramas",
@@ -75,10 +103,6 @@
     {
       "basename": "modelo_data",
       "path": "Organizacao/Modelos Obsidian/modelo_data.md"
-    },
-    {
-      "basename": "Computação Verde",
-      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/Computação Verde.md"
     },
     {
       "basename": "Estruturas de Repetição",
@@ -175,30 +199,6 @@
     {
       "basename": "Índice Back-End",
       "path": "Organizacao/Outros/‎ Back-End/Índice Back-End.md"
-    },
-    {
-      "basename": "Como usar",
-      "path": "Organizacao/Como usar.md"
-    },
-    {
-      "basename": "To-Do",
-      "path": "Organizacao/To-Do.md"
-    },
-    {
-      "basename": "Índice Matemática",
-      "path": "Organizacao/Outros/Matemática/Índice Matemática.md"
-    },
-    {
-      "basename": "Regras da Radiciação",
-      "path": "Organizacao/Outros/Matemática/Regras da Radiciação.md"
-    },
-    {
-      "basename": "Regras da Potenciação",
-      "path": "Organizacao/Outros/Matemática/Regras da Potenciação.md"
-    },
-    {
-      "basename": "Boas Práticas do Versionamento",
-      "path": "Adicionais/‎ Software/Boas Práticas do Versionamento.md"
     }
   ],
   "omittedPaths": [],

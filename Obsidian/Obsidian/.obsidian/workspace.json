@@ -8,7 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d14bf06bb868edf8",
+            "id": "61b2341c1d6df217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/Computação Verde.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computação Verde"
+            }
+          },
+          {
+            "id": "0e4a134ab1693ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Dados, Informação e Conhecimento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dados, Informação e Conhecimento"
+            }
+          },
+          {
+            "id": "76184b60e1081b67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Dados, Informação e Conhecimento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dados, Informação e Conhecimento"
+            }
+          },
+          {
+            "id": "d587937764afb398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Textos - Codificação Binária.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Textos - Codificação Binária"
+            }
+          },
+          {
+            "id": "4d0ce99cecfb649e",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -26,23 +82,9 @@
               "icon": "lucide-trello",
               "title": "Prazos"
             }
-          },
-          {
-            "id": "61b2341c1d6df217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adicionais/‎ Python/Tipos de Dados.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tipos de Dados"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5
+    "width": 422.5
   },
   "right": {
     "id": "7bb7a38755faf7c0",
@@ -358,8 +400,8 @@
             "state": {
               "type": "oz-calendar",
               "state": {},
-              "icon": "OZCAL_ICON",
-              "title": "OZ Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -588,6 +630,66 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "4d37e1495c3cf977",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "be9b27b3a17c8f7a",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {},
+              "icon": "OZCAL_ICON",
+              "title": "OZ Calendar"
+            }
+          },
+          {
+            "id": "f6ee9977e2ee9d7e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "06adbccc8579ffdd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "875bcf0cff9a89ff",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "11d3c905d6c181f1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
@@ -613,7 +715,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -622,18 +724,31 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
+      "graph:Abrir visualização em gráfico": false,
       "obsidian-spaced-repetition:Revisar flashcards": false,
       "open-vscode:VSCode": false,
-      "graph:Abrir visualização em gráfico": false,
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "61b2341c1d6df217",
+  "active": "11d3c905d6c181f1",
   "lastOpenFiles": [
-    "Adicionais/‎ Python/Índice de Python.md",
-    "Engenharia de Computação/Sistemas Computacionais/O computador.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Caso Linkedin.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Textos - Codificação Binária.md",
+    "Engenharia de Computação/Flashcards EngComp.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Dados, Informação e Conhecimento.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Dados Analógicos e Digitais.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/Tipos de Computadores.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/História da Computação.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/Desafio O que sao computadores Quanticos.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/Computação, Informática e TI.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/Computação Verde.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases",
     "Engenharia de Computação/Prazos.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados",
+    "Adicionais/‎ Python/Índice de Python.md",
     "Adicionais/‎ Python/Tipos de Dados.md",
+    "Adicionais/‎ Python/Conteudos/Conversão de tipos.md",
+    "Engenharia de Computação/Sistemas Computacionais/O computador.md",
     "Adicionais/‎ Python/Conteudos/Métodos de Listas.md",
     "Adicionais/‎ Python/Tupla.md",
     "Adicionais/‎ Python/Conteudos/Lista.md",
@@ -642,21 +757,10 @@
     "Adicionais/‎ Python/Divisão inteira.md",
     "Adicionais/‎ Python/Ordem de precedencia.md",
     "Adicionais/‎ Python/Operadores.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/Computação, Informática e TI.md",
     "Engenharia de Computação/Introdução a Conceitos de Computação/Desafio - O que são computadores Quânticos?.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/Tipos de Computadores.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/História da Computação.md",
-    "Engenharia de Computação/Flashcards EngComp.md",
     "Engenharia de Computação/Algoritmos e Programação de Computadores I/Fluxogramas.md",
     "Organizacao/Images/Pasted image 20250728163859.png",
     "Engenharia de Computação/Algoritmos e Programação de Computadores I/Noção de Algoritmos.md",
-    "Organizacao/Modelos Obsidian/modelo_data.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/Computação Verde.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/Sem título 1.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/Sem título 2.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/Sem título 4.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/Sem título 5.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/Sem título 6.md",
     "Organizacao/Modelos Obsidian",
     "Organizacao/Images/Pasted image 20250724172654.png",
     "Adicionais/‎ Python/Conteudos",
@@ -675,8 +779,6 @@
     "Organização/Images",
     "Organização",
     "Organizacao/Images/lok.png",
-    "Organizacao/Images",
-    "Engenharia de Software/Modelagem de Dados/1) Fundamentos de Bancos de Dados/C) Dados como apoio a tomada de decisão",
     "Organização/Tópicos a Estudar/Sem título.canvas"
   ]
 }

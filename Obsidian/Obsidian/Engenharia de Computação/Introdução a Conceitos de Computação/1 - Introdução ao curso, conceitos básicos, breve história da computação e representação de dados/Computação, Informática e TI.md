@@ -18,6 +18,8 @@ Computação é denominada uma **área-meio** por ser utilizada como **suporte o
 
 Entretanto, a computação *também é uma área-fim* porque *estuda e melhora* a *usabilidade, capacidade e desempenho* de sistemas computacionais"
 
+---
+
 # Definição Informática
 
 Sendo o Michaelis Moderno Dicionário da Língua Portuguesa (2016):
@@ -27,6 +29,8 @@ Sendo o Michaelis Moderno Dicionário da Língua Portuguesa (2016):
 ## Conclusão
 
 A computação/informática é uma ciência e arte que tem por objetivo *coletar*, *produzir*, *processar* e *analisar dados*, produzindo informação que, por sua vez, **pode gerar conhecimento**.
+
+---
 
 # TI
 

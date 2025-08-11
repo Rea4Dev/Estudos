@@ -77,6 +77,8 @@ Suas aplicações são voltadas para o **ambiente corporativo e científico**, a
 
 - análise econômica e predição de mercados
 
+---
+
 # Impactos na IA e Machine Learning
 
 A computação quântica pode acelerar algoritmos de *IA* e _machine learning_ ao explorar **paralelismo massivo** e **operações quânticas especiais**. Principais impactos:
@@ -92,6 +94,8 @@ A computação quântica pode acelerar algoritmos de *IA* e _machine learning_ a
 
 No entanto, **a maioria das aplicações ainda está em fase de pesquisa**. Os ganhos só se aplicam em cenários muito específicos, e os modelos quânticos ainda sofrem com ruído e baixa escalabilidade.
 
+---
+
 # Problemas da Computação Quântica
 
 Apesar do potencial, a computação quântica ainda enfrenta *grandes obstáculos*:
@@ -101,6 +105,8 @@ Apesar do potencial, a computação quântica ainda enfrenta *grandes obstáculo
 - *Fragilidade dos qubits:* qualquer interferência externa pode causar _decoerência_, corrompendo os dados e invalidando os cálculos.
 
 - *Segurança digital:* existe o temor de que, no futuro, computadores quânticos possam quebrar algoritmos de criptografia clássica (como RSA), comprometendo sistemas bancários, comunicações e senhas. Por isso, já existem iniciativas em *criptografia pós-quântica*.
+
+---
 
 # A computação Híbrida
 
