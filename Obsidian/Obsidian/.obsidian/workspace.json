@@ -693,6 +693,16 @@
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
+          },
+          {
+            "id": "aaed9958c9bdae93",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
           }
         ],
         "currentTab": 5
@@ -730,21 +740,21 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "11d3c905d6c181f1",
+  "active": "437254f253eae31d",
   "lastOpenFiles": [
-    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Caso Linkedin.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Textos - Codificação Binária.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Caso Linkedin.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Textos - Codificação Binária.md",
     "Engenharia de Computação/Flashcards EngComp.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Dados, Informação e Conhecimento.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Dados Analógicos e Digitais.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/Tipos de Computadores.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/História da Computação.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/Desafio O que sao computadores Quanticos.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/Computação, Informática e TI.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados/Computação Verde.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Dados, Informação e Conhecimento.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Dados Analógicos e Digitais.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/Tipos de Computadores.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/História da Computação.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/Desafio O que sao computadores Quanticos.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/Computação, Informática e TI.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/Computação Verde.md",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados",
     "Engenharia de Computação/Prazos.md",
-    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso, conceitos básicos, breve história da computação e representação de dados",
+    "Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso",
     "Adicionais/‎ Python/Índice de Python.md",
     "Adicionais/‎ Python/Tipos de Dados.md",
     "Adicionais/‎ Python/Conteudos/Conversão de tipos.md",
