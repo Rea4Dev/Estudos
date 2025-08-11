@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiRecycle",
-      "🖥",
       "⚙",
       "LiSquareDashedBottomCode",
-      "LiCodepen"
+      "LiCodepen",
+      "LiCodeXml",
+      "LiCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,6 +35,5 @@
     "useInternalPlugins": false
   },
   "‎ Back-End/Banco de Dados/Não Relacional": "LiSquareDashedBottomCode",
-  "O Software": "LiCodeXml",
-  "A Computacao": "🖥"
+  "Organizacao/To-Do.md": "LiListTodo"
 }
