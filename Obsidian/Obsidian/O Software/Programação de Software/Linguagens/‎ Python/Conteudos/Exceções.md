@@ -1,4 +1,4 @@
-[[Índice de Python|Voltar]]
+[[Python|Voltar]]
 
 Nomes de exceções devem usar `CamelCase` e terminar com "Error".
 

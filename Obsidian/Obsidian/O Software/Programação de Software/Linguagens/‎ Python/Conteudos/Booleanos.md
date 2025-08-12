@@ -1,4 +1,4 @@
-[[Índice de Python|Voltar]]
+[[Python|Voltar]]
 
 Sugere-se prefixos como `is`, `has`, `can` para booleanos.
 

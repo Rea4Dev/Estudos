@@ -1,4 +1,4 @@
-[[Índice de Python|Voltar]]
+[[Python|Voltar]]
 
 Letras minúsculas (underscores são desencorajados)
 

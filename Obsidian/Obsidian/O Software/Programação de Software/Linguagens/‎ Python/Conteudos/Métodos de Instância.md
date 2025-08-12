@@ -1,4 +1,4 @@
-[[Índice de Python|Voltar]]
+[[Python|Voltar]]
 
 Use `self` como primeiro parâmetro obrigatório em métodos de instância.
 

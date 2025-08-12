@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "grelha",
-      "path": "grelha.md"
+      "basename": "Java",
+      "path": "O Software/Programação de Software/Linguagens/Java/Java.md"
+    },
+    {
+      "basename": "Metodos",
+      "path": "O Software/Programação de Software/Linguagens/Java/Metodos.md"
+    },
+    {
+      "basename": "Variaveis",
+      "path": "O Software/Programação de Software/Linguagens/Java/Variaveis.md"
     },
     {
       "basename": "Índice",
       "path": "Índice.md"
+    },
+    {
+      "basename": "JVM, WORA, JDK e JRE",
+      "path": "O Software/Programação de Software/Linguagens/Java/JVM, WORA, JDK e JRE.md"
     },
     {
       "basename": "Engenharia de Computação",
@@ -41,8 +53,8 @@
       "path": "O Software/Programação de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md"
     },
     {
-      "basename": "Índice de Python",
-      "path": "O Software/Programação de Software/Linguagens/‎ Python/Índice de Python.md"
+      "basename": "Python",
+      "path": "O Software/Programação de Software/Linguagens/‎ Python/Python.md"
     },
     {
       "basename": "Manifesto de Fixação de Conteudos v1.0",

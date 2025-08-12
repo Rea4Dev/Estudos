@@ -41,30 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados, sistemas de numeração e conversão de bases/Dados, Informação e Conhecimento.md",
+                "file": "O Software/Programação de Software/Linguagens/Java/Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dados, Informação e Conhecimento"
-            }
-          },
-          {
-            "id": "d587937764afb398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grelha.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "grelha"
+              "title": "Java"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -658,6 +644,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c9e6be1dbab734cd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
@@ -698,10 +694,30 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "d587937764afb398",
+  "active": "76184b60e1081b67",
   "lastOpenFiles": [
-    "Engenharia de Computação/Prazos.md",
+    "O Software/Programação de Software/Linguagens/Java/Metodos.md",
+    "O Software/Programação de Software/Linguagens/Java/Java.md",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/Depertador.java",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/Depertador.class",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/App.java",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/App.class",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/lib",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/README.md",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos",
+    "O Software/Programação de Software/Linguagens/Java/Variaveis.md",
+    "Índice.md",
+    "O Software/Programação de Software/Linguagens/Java/JVM, WORA, JDK e JRE.md",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/01/bin/App.class",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/01/bin",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/01/README.md",
+    "Organizacao/Images/Pasted image 20250812093049.png",
+    "Organizacao/Images/Pasted image 20250812092908.png",
+    "Organizacao/Images/Pasted image 20250812092700.png",
     "grelha.md",
+    "Engenharia de Computação/Prazos.md",
     "O Software/Programação de Software/Linguagens/‎ Python/Funções/PEP 8 - Funções e Variáveis.md",
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Valores Protegidos.md",
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Valores Privados.md",
@@ -719,23 +735,6 @@
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Métodos de Listas.md",
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Métodos de Instância.md",
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Métodos de Classe e Estáticos.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Método __init__.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Método get e set.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Mandamentos.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/List Comprehensions.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Lista.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Funções e métodos dunder.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Iterando sobre Listas.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Funções",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos",
-    "O Software/Programação de Software/Linguagens/‎ Python",
-    "O Software/Programação de Software/Linguagens/Java",
-    "O Software/Programação de Software/Testes e Manutenção de Software",
-    "O Software/Programação de Software/Linguagens",
-    "O Software/Desenvolvimento de Software/Git",
-    "O Software/Programação de Software",
-    "O Software/Desenvolvimento de Software",
-    "O Software",
     "Organizacao/Images/Pasted image 20250728163859.png",
     "Organizacao/Images/Pasted image 20250724172654.png",
     "Organizacao/Images/Pasted image 20250723172948.png",
@@ -743,10 +742,7 @@
     "Organizacao/Images/Pasted image 20250723171432.png",
     "Organizacao/Images/Pasted image 20250723171009.png",
     "Organizacao/Images/Pasted image 20250701220648.png",
-    "Organizacao/Images/Pasted image 20250721162955.png",
     "Engenharia de Computação/Algoritmos e Programação de Computadores I/Prazos.canvas",
-    "Organização/Images/Pasted image 20250701220531.png",
-    "Organizacao/Images/lok.png",
     "Organização/Tópicos a Estudar/Sem título.canvas"
   ]
 }

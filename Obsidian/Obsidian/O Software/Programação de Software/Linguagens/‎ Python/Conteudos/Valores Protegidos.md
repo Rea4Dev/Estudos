@@ -1,4 +1,4 @@
-[[Índice de Python|Voltar]]
+[[Python|Voltar]]
 
 Com **dois underscores** (`__dado`) ativam _name mangling_ (diferente de "privado").
 

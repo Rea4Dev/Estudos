@@ -45,6 +45,8 @@ revisão: Não feita
 	1. [[Backend]]
 	
 	2. [[Linguagens]]
+		1. [[Python]]
+		2. [[Java]]
 	
 	3. [[Testes e Manutenção de Software]]
 	

@@ -1,4 +1,4 @@
-[[Índice de Python|Voltar]]
+[[Python|Voltar]]
 
 PEP significa Proposta de Aprimoramento Python. Seguir essas diretrizes facilita a manutenção e a colaboração em projetos Python.
 

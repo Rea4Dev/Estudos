@@ -1,4 +1,4 @@
-[[Índice de Python|Voltar]]
+[[Python|Voltar]]
 
 ## 📌 Comparações e Booleanos
 - Use `is`/`is not` para comparações com `None` ou booleanos.
