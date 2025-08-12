@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Software/Programação de Software/Linguagens/Java/Java.md",
+                "file": "O Software/Programação de Software/Linguagens/Java/Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java"
+              "title": "Classes"
             }
           }
         ],
@@ -696,8 +696,9 @@
   },
   "active": "76184b60e1081b67",
   "lastOpenFiles": [
-    "O Software/Programação de Software/Linguagens/Java/Metodos.md",
     "O Software/Programação de Software/Linguagens/Java/Java.md",
+    "O Software/Programação de Software/Linguagens/Java/Classes.md",
+    "O Software/Programação de Software/Linguagens/Java/Metodos.md",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/Depertador.java",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/Depertador.class",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/App.java",
@@ -734,7 +735,6 @@
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Métodos Especiais.md",
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Métodos de Listas.md",
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Métodos de Instância.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Métodos de Classe e Estáticos.md",
     "Organizacao/Images/Pasted image 20250728163859.png",
     "Organizacao/Images/Pasted image 20250724172654.png",
     "Organizacao/Images/Pasted image 20250723172948.png",
