@@ -4,15 +4,17 @@ flashcards: Não feito
 revisão: Não feita
 ---
 ```Java
-public class Depertador{
+public class Despertador{    /* Classe */
+	int horas;               /* Instância de Classe */
+	int minutos;
+	int soneca;
 
-    public static void main(String[] args) {
-        String mensagemDaFunção = agendarAlarme(12, 30);
-        System.out.println(mensagemDaFunção);
-    }
+	void ativarSoneca(){    /* Método */
+		System.out.println("Só mais " + soneca + " minutinhos")
+	}
 
-    public static String agendarAlarme(int hora, int min){
-        return "Alarme agendado para " + hora + ":" + min;
-    }
+	String agendarAlarme() {
+		return "Alarme configurado para" + hora + ":" + minutos;
+	}
 }
 ```
