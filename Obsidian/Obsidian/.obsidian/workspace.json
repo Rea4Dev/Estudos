@@ -654,6 +654,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "faa786063a49d45a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
@@ -694,7 +704,7 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "76184b60e1081b67",
+  "active": "faa786063a49d45a",
   "lastOpenFiles": [
     "O Software/Programação de Software/Linguagens/Java/Java.md",
     "O Software/Programação de Software/Linguagens/Java/Classes.md",
