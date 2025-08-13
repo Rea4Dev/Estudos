@@ -31,3 +31,7 @@ Desta forma, para nomear pacotes com **Nome Completo Qualificado**, seguimos a c
 ```Java
 package <sigla país>.com.<empresa>.<nome do projeto>;
 ```
+
+![[Pasted image 20250813133845.png | center]]
+
+> Classes dentro do mesmo pacote podem chamar metodos uma das outras!
