@@ -659,6 +659,9 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "faa786063a49d45a",
+=======
             "id": "56dec97cba860840",
             "type": "leaf",
             "state": {
@@ -670,6 +673,7 @@
           },
           {
             "id": "357a60482f285480",
+>>>>>>> 32b40098ba821e139d7af683f69f7b3709e08fd6
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -714,7 +718,11 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
+<<<<<<< HEAD
+  "active": "faa786063a49d45a",
+=======
   "active": "0e4a134ab1693ee4",
+>>>>>>> 32b40098ba821e139d7af683f69f7b3709e08fd6
   "lastOpenFiles": [
     "O Software/Programação de Software/Linguagens/Java/Java.md",
     "O Software/Programação de Software/Linguagens/Java/Tipos Primitivos.md",
