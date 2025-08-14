@@ -1,5 +1,7 @@
 package br.com.rengcarv.relogio;
 
+import br.com.rengcarv.notificacao.Notificacoes;
+
 public class Depertador {
     public static void main(String[] args) {
         String mensagemDaFunção = agendarAlarme(12, 30);
@@ -9,4 +11,6 @@ public class Depertador {
     public static String agendarAlarme(int hora, int min){
         return "Alarme agendado para " + hora + ":" + min;
     }
+
+    Notificacoes mensagem;
 }

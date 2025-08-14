@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Software/Programação de Software/Linguagens/Java/Pacotes Java.md",
+                "file": "O Software/Programação de Software/Linguagens/Java/Tipos Primitivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pacotes Java"
+              "title": "Tipos Primitivos"
             }
           },
           {
@@ -716,21 +716,24 @@
   },
   "active": "0e4a134ab1693ee4",
   "lastOpenFiles": [
-    "Organizacao/Images/Pasted image 20250813133845.png",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/relogio/Temporizador.class",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/br/com/rengcarv/relogio/Temporizador.java",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/relogio/Cronometro.class",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/br/com/rengcarv/relogio/Cronometro.java",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/relogio/Cronometro.iava",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/br/com/rengcarv/relogio/Cronometro.iava",
-    "Organizacao/Images/Pasted image 20250813132823.png",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/relogio/Depertador.class",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/br/com/rengcarv/relogio/Depertador.java",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/relogio",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv",
     "O Software/Programação de Software/Linguagens/Java/Java.md",
-    "O Software/Programação de Software/Linguagens/Java/Estruturas Básicas do Java.md",
+    "O Software/Programação de Software/Linguagens/Java/Tipos Primitivos.md",
+    "O Software/Programação de Software/Linguagens/Java/Importando pacotes.md",
+    "Organizacao/Images/Pasted image 20250813154404.png",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/notificacao/Notificacoes.class",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/br/com/rengcarv/notificacao/Notificacoes.java",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/notificacao",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/br/com/rengcarv/notificacao",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/relogio/bt/com/rengcarv/notificacao",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/br/com/rengcarv/relogio/bt/com/rengcarv/notificacao",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/relogio/bt/com/rengcarv",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/relogio/bt/com",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/relogio/bt",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/br/com/rengcarv/relogio/bt/com/rengcarv",
     "O Software/Programação de Software/Linguagens/Java/Pacotes Java.md",
+    "Organizacao/Images/Pasted image 20250813133845.png",
+    "Organizacao/Images/Pasted image 20250813132823.png",
+    "O Software/Programação de Software/Linguagens/Java/Estruturas Básicas do Java.md",
     "Organizacao/Images/Pasted image 20250813115112.png",
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Pacotes.md",
     "O Software/Programação de Software/Linguagens/Java/Classes.md",
@@ -757,11 +760,8 @@
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/PEP8 - Guia de Estilo para Código Python.md",
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/PEP 257 - Docstrings.md",
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Métodos.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Orientação a Objeto.md",
     "Organizacao/Images/Pasted image 20250728163859.png",
     "Organizacao/Images/Pasted image 20250724172654.png",
-    "Organizacao/Images/Pasted image 20250723172948.png",
-    "Organizacao/Images/Pasted image 20250723172233.png",
     "Engenharia de Computação/Algoritmos e Programação de Computadores I/Prazos.canvas",
     "Organização/Tópicos a Estudar/Sem título.canvas"
   ]
