@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Software/Programação de Software/Linguagens/Java/Tipos Primitivos.md",
+                "file": "O Software/Programação de Software/Linguagens/Java/Tipos de referencia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos Primitivos"
+              "title": "Tipos de referencia"
             }
           },
           {
@@ -659,9 +659,6 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "faa786063a49d45a",
-=======
             "id": "56dec97cba860840",
             "type": "leaf",
             "state": {
@@ -673,7 +670,6 @@
           },
           {
             "id": "357a60482f285480",
->>>>>>> 32b40098ba821e139d7af683f69f7b3709e08fd6
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -718,13 +714,20 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-<<<<<<< HEAD
-  "active": "faa786063a49d45a",
-=======
   "active": "0e4a134ab1693ee4",
->>>>>>> 32b40098ba821e139d7af683f69f7b3709e08fd6
   "lastOpenFiles": [
+    "Organizacao/Images/Pasted image 20250814105522.png",
+    "Organizacao/Images/Pasted image 20250814105445.png",
+    "Organizacao/Images/Pasted image 20250814105327.png",
     "O Software/Programação de Software/Linguagens/Java/Java.md",
+    "Índice.md",
+    "O Software/Programação de Software/Linguagens/Java/Metodo Construtor.md",
+    "Organizacao/Images/Pasted image 20250814104135.png",
+    "Organizacao/Images/Pasted image 20250814104027.png",
+    "Organizacao/Images/Pasted image 20250814104009.png",
+    "O Software/Programação de Software/Linguagens/Java/Metodos.md",
+    "O Software/Programação de Software/Linguagens/Java/Tipos de referencia.md",
+    "Organizacao/Images/Pasted image 20250814102505.png",
     "O Software/Programação de Software/Linguagens/Java/Tipos Primitivos.md",
     "O Software/Programação de Software/Linguagens/Java/Importando pacotes.md",
     "Organizacao/Images/Pasted image 20250813154404.png",
@@ -745,16 +748,10 @@
     "Organizacao/Images/Pasted image 20250813115112.png",
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Pacotes.md",
     "O Software/Programação de Software/Linguagens/Java/Classes.md",
-    "O Software/Programação de Software/Linguagens/Java/Metodos.md",
-    "Índice.md",
-    "Organizacao/Images/Pasted image 20250813091706.png",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/README.md",
     "O Software/Programação de Software/Linguagens/Java/Variaveis.md",
     "O Software/Programação de Software/Linguagens/Java/JVM, WORA, JDK e JRE.md",
     "O Software/Programação de Software/Linguagens/Java/Pratico/01/README.md",
-    "Organizacao/Images/Pasted image 20250812093049.png",
-    "Organizacao/Images/Pasted image 20250812092908.png",
-    "Organizacao/Images/Pasted image 20250812092700.png",
     "grelha.md",
     "Engenharia de Computação/Prazos.md",
     "O Software/Programação de Software/Linguagens/‎ Python/Funções/PEP 8 - Funções e Variáveis.md",
@@ -765,11 +762,6 @@
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Sintaxe Fundamental.md",
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/PEPs de Formatação do Código.md",
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/PEP8 - Classes.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/PEP8 - Guia de Estilo para Código Python.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/PEP 257 - Docstrings.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Métodos.md",
-    "Organizacao/Images/Pasted image 20250728163859.png",
-    "Organizacao/Images/Pasted image 20250724172654.png",
     "Engenharia de Computação/Algoritmos e Programação de Computadores I/Prazos.canvas",
     "Organização/Tópicos a Estudar/Sem título.canvas"
   ]
