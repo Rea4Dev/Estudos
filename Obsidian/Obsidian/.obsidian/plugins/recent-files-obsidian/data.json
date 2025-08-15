@@ -1,18 +1,39 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
+=======
+      "basename": "Tipos de referencia",
+      "path": "O Software/Programação de Software/Linguagens/Java/Tipos de referencia.md"
+    },
+    {
+>>>>>>> 2dbbee80b043ec6d87ef5d728216787e40a5f6e5
       "basename": "Java",
       "path": "O Software/Programação de Software/Linguagens/Java/Java.md"
+    },
+    {
+<<<<<<< HEAD
+      "basename": "Metodos",
+      "path": "O Software/Programação de Software/Linguagens/Java/Metodos.md"
+    },
+    {
+=======
+>>>>>>> 2dbbee80b043ec6d87ef5d728216787e40a5f6e5
+      "basename": "Índice",
+      "path": "Índice.md"
+    },
+    {
+<<<<<<< HEAD
+=======
+      "basename": "Metodo Construtor",
+      "path": "O Software/Programação de Software/Linguagens/Java/Metodo Construtor.md"
     },
     {
       "basename": "Metodos",
       "path": "O Software/Programação de Software/Linguagens/Java/Metodos.md"
     },
     {
-      "basename": "Índice",
-      "path": "Índice.md"
-    },
-    {
+>>>>>>> 2dbbee80b043ec6d87ef5d728216787e40a5f6e5
       "basename": "Tipos Primitivos",
       "path": "O Software/Programação de Software/Linguagens/Java/Tipos Primitivos.md"
     },
