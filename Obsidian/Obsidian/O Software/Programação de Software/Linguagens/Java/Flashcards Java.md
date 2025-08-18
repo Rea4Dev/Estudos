@@ -64,7 +64,7 @@ Sempre que uma melhoria for percebida, **registre e versione.**
 ## Java
 #Software/Programacao/Linguagens/Java
 
-EC) Faça um Hello World::![[Pasted image 20250818100114.png]]
+J1) Se apresente, com nome e idade::![[Pasted image 20250818105630.png]]
 
 EC) aaee?
 X^X

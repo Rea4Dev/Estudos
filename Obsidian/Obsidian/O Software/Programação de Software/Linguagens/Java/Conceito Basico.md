@@ -9,7 +9,7 @@ Como conteitos básicos do Java, temos:
 ```Java
 package br.com.rengcarv.hello;
 
-public class Hello{
+public class HelloWorld{
 
 }
 ```
@@ -19,10 +19,10 @@ public class Hello{
 ```Java
 package br.com.rengcarv.hello;
 
-public class Hello{
-	public static void main (String[] args){
-	
-	}
+public class HelloWorld{
+    public static void main(String[] args){
+
+    }
 }
 ```
 
@@ -44,7 +44,9 @@ args[1] = "Gabriel"
 
 Você poderia usar algo assim
 ```Java
-public class Hello {
+package br.com.rengcarv.hello;
+
+public class HelloWorld {
     public static void main(String[] args) {
         if (args.length > 0) {
             System.out.println("Olá, " + args[0] + "!");

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md",
+                "file": "O Software/Programação de Software/Linguagens/Java/Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceito Basico"
+              "title": "Java"
             }
           }
         ]
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md",
+                "file": "O Software/Programação de Software/Linguagens/Java/Flashcards Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Conceito Basico"
+              "title": "Links inversos para Flashcards Java"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md",
+                "file": "O Software/Programação de Software/Linguagens/Java/Flashcards Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Conceito Basico"
+              "title": "Links de saída para Flashcards Java"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md",
+                "file": "O Software/Programação de Software/Linguagens/Java/Flashcards Java.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Conceito Basico"
+              "title": "Sumário de Flashcards Java"
             }
           },
           {
@@ -213,26 +213,32 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "20f4a45b0f43e7fc",
+  "active": "978cb4b507692696",
   "lastOpenFiles": [
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello/Pessoa.class",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/hello/Pessoa.java",
+    "Organizacao/Images/Pasted image 20250818105630.png",
     "O Software/Programação de Software/Linguagens/Java/Java.md",
+    "O Software/Programação de Software/Linguagens/Java/Tipos Primitivos.md",
+    "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md",
+    "O Software/Programação de Software/Linguagens/Java/Flashcards Java.md",
+    "Organizacao/Images/Pasted image 20250818105135.png",
+    "Organizacao/Images/Pasted image 20250818104717.png",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello/HelloWorld.class",
     "O Software/Programação de Software/Linguagens/Java/Como compilar Java.md",
+    "Organizacao/Images/Pasted image 20250818104214.png",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/hello/HelloWorld.java",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello/Hello.class",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/hello/Hello.java",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/hello",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/Hello/Hello.class",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/Hello/Hello.java",
     "Índice.md",
-    "O Software/Programação de Software/Linguagens/Java/Flashcards Java.md",
     "Organizacao/Images/Pasted image 20250818100114.png",
     "A Computacao/Engenharia de Computação/Flashcards EngComp.md",
-    "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md",
     "Organizacao/Manifesto de Fixação de Conteudos v1.0.md",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/Hello/hello.class",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/Hello",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/Hello/hello.java",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/Hello",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/Hello(01)/hello.class",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/Hello(01)",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/Hello(01)/hello.java",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/Hello(01)",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Calculadora/README.md",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/README.md",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos - Copy/README.md"
