@@ -6,9 +6,7 @@
     "reviewButtonDelay": 0,
     "flashcardTags": [
       "#flashcards",
-      "#Python",
-      "#EngSoft",
-      "#EngComp"
+      "#Software"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,

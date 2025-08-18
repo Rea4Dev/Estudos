@@ -59,29 +59,29 @@ Sempre que uma melhoria for percebida, **registre e versione.**
 ## Algoritmos e Programação de Computadores I
 #EngComp/Algoritmos_Prog_Comp1
 
-EC) 11aaee ?::Aaa
+EC) 11aaee ?:X:Aaa
 
 EC) aaee?
-^
+X^X
 Raa
-%
+X%X
 
 ## Introdução a Conceitos de Computação
 #EngComp/Introducao_Conceitos_Computacao1
 
-EC) 22aaee ?::Bbb
+EC) 22aaee ?X:X:Bbb
 
 EC) aaee?
-^
+X^X
 Raa
-%
+X%X
 
 ## Sistemas Computacionais
 #EngComp/Sistemas_Comp
 
-EC) 33aaee ?::Ccc
+EC) 33aaee ?X:X:Ccc
 
 EC) aaee?
-^
+X^X
 Raa
-%
+X%X

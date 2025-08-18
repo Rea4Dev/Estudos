@@ -1,8 +1,11 @@
 # Java 17.0.12
 
+0. [[Flashcards Java]]
+
 1. [[Estruturas Básicas do Java]]
 	1. [[JVM, WORA, JDK e JRE]]
 	2. [[Conceito Basico]]
+		1. [[Como compilar Java]]
 	3. [[Variaveis]]
 	4. [[Tipos Primitivos]]
 	5. [[Pacotes Java]]

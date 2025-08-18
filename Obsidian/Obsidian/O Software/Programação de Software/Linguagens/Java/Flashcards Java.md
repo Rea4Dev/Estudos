@@ -1,3 +1,8 @@
+---
+data_criacao: 18-08-2025
+flashcards: Não feito
+revisão: Não feita
+---
 # 📜 Manifesto de Fixação de Conteúdos — v1.0
 
 Sistema pessoal de consolidação do conhecimento, aplicado no Obsidian.md + extensão de Flashcards.
@@ -55,49 +60,13 @@ Sempre que uma melhoria for percebida, **registre e versione.**
 
 > _"O conhecimento que não é revisado se apaga como traço na areia."_
 
-# Python
-## Experienciados
-#Python/Experienciados
+# Programação de Software
+## Java
+#Software/Programacao/Linguagens/Java
 
-P1) Você se lembra como declarar funções com *parâmetros opcionais*?
-^
-```Python
-def devolver_frases(saudacao, humilhacao=" "):
-	if saudacao == "sim":
-		print("\n oi ", end="")
-	if humilhacao == "sim":
-	    print("bobão")
+EC) Faça um Hello World::![[Pasted image 20250818100114.png]]
 
-devolver_frases("sim")
-devolver_frases("sim", "sim")
-```
-<!--SR:!2025-07-10,3,261-->
-%
-
-P2) Você se lembra como escrevemos em arquivos?
-^
-```Python
-import os
-
-pasta_atual = os.path.dirname(__file__)
-arquivo = os.path.join(pasta_atual, 'exemplo.md')
-
-with open(arquivo, "w") as file:
-    file.write("Olá")
-```
-<!--SR:!2025-07-12,5,241-->
-%
-
-P3) Você se lembra da melhor maneira de trabalhar com *pasta atual*, *pasta pai* e *arquivo*?
-^
-```Python
-import os
-
-PASTA_ATUAL = os.path.dirname(__file__)
-PASTA_PAI = os.path.dirname(PASTA_ATUAL)
-ARQV = os.path.join(PASTA_DATA, 'arquivo.txt')
-```
-<!--SR:!2025-07-08,1,202-->
-%
-
----
+EC) aaee?
+X^X
+Raa
+X%X

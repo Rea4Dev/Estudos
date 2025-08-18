@@ -9,8 +9,24 @@
       "path": "O Software/Programação de Software/Linguagens/Java/Java.md"
     },
     {
+      "basename": "Como compilar Java",
+      "path": "O Software/Programação de Software/Linguagens/Java/Como compilar Java.md"
+    },
+    {
       "basename": "Índice",
       "path": "Índice.md"
+    },
+    {
+      "basename": "Flashcards Java",
+      "path": "O Software/Programação de Software/Linguagens/Java/Flashcards Java.md"
+    },
+    {
+      "basename": "Flashcards EngComp",
+      "path": "A Computacao/Engenharia de Computação/Flashcards EngComp.md"
+    },
+    {
+      "basename": "Manifesto de Fixação de Conteudos v1.0",
+      "path": "Organizacao/Manifesto de Fixação de Conteudos v1.0.md"
     }
   ],
   "omittedPaths": [],
