@@ -4,8 +4,26 @@ flashcards: Não feito
 revisão: Não feita
 ---
 Como conteitos básicos do Java, temos:
-- Java exige que **todo código esteja dentro de uma classe**.
-- O ponto de entrada do programa é o método `public static void main(String[] args)`.
-- O *nome* do arquivo deve ser igual ao nome da classe pública.
 
-(faça um hello world, continue o que o gpt pede, dps pergunte pq esse String { } )
+1.  Java exige que **todo código esteja dentro de uma classe**.
+```Java
+package br.com.rengcarv.hello;
+
+public class Hello{
+
+}
+```
+
+2. O ponto de entrada do programa é o método `public static void main(String[] args)`.
+3. O *nome* do arquivo deve ser igual ao nome da classe pública.
+```Java
+package br.com.rengcarv.hello;
+
+public class Hello{
+	public static void main (String[] args){
+	
+	}
+}
+```
+
+(faça um hello world, continue o que o gpt pede, dps pergunte pq esse String { }  e pq tem que chamar o package)

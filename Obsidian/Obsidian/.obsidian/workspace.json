@@ -1,64 +1,24 @@
 {
   "main": {
-    "id": "def3bfcb4a58481b",
+    "id": "3eba10bd69c1b650",
     "type": "split",
     "children": [
       {
-        "id": "737c015eef8e6607",
+        "id": "b06024fc92e495f0",
         "type": "tabs",
         "children": [
           {
-            "id": "fd7c25ad1599eb0d",
+            "id": "978cb4b507692696",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md",
-=======
-                "file": "O Software/Programação de Software/Linguagens/Java/Java.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Java"
-=======
-              "title": "Computação Verde"
-            }
-          },
-          {
-            "id": "0e4a134ab1693ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O Software/Programação de Software/Linguagens/Java/Tipos de referencia.md",
->>>>>>> 51063a8a73999a1c3b357f24c45cc85fc0e8952b
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
               "title": "Conceito Basico"
-=======
-              "title": "Tipos de referencia"
-            }
-          },
-          {
-            "id": "76184b60e1081b67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O Software/Programação de Software/Linguagens/Java/Metodos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metodos"
->>>>>>> 2dbbee80b043ec6d87ef5d728216787e40a5f6e5
->>>>>>> 51063a8a73999a1c3b357f24c45cc85fc0e8952b
             }
           }
         ]
@@ -67,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b87d7e7f6e9ef8e7",
+    "id": "8bc25c8cc51d4ac4",
     "type": "split",
     "children": [
       {
-        "id": "9564dd798988fca8",
+        "id": "a35ba68f995a2b44",
         "type": "tabs",
         "children": [
           {
-            "id": "6c927cc171cd1277",
+            "id": "7413da54083c49be",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -88,7 +48,7 @@
             }
           },
           {
-            "id": "350eac250ec95cd0",
+            "id": "429d06a5a678d9e3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -105,7 +65,7 @@
             }
           },
           {
-            "id": "6e48c138d748a928",
+            "id": "475f2b31946c3b7b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -121,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "2cec25921b883755",
+    "id": "a2dfa0064902da43",
     "type": "split",
     "children": [
       {
-        "id": "d573ad02d7cc68a5",
+        "id": "e7e7da7960c9b4df",
         "type": "tabs",
         "children": [
           {
-            "id": "61e7beda825052d4",
+            "id": "57b7fced08ba2653",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Conceito Basico"
             }
           },
           {
-            "id": "a4e27812581ab336",
+            "id": "1839b6531a7787e7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Conceito Basico"
             }
           },
           {
-            "id": "82a627c012738180",
+            "id": "01bd956c923d291c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -175,511 +137,38 @@
             }
           },
           {
-            "id": "8cd4d9a25ace44af",
+            "id": "dcc4f8702db8c64c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Conceito Basico"
             }
           },
           {
-            "id": "f3816f18c2c324fa",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "332f8f5088f97869",
-            "type": "leaf",
-            "state": {
-              "type": "oz-calendar",
-              "state": {},
-              "icon": "OZCAL_ICON",
-              "title": "OZ Calendar"
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "7d3ee78fba1e959b",
-=======
-            "id": "93c12b192b3962d3",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "b483d85468767a48",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "d8e65f0a6018f065",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "12eaeb078ab7282c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "c53cabc394249837",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "5d22f9c0628876fa",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "5faf711fc0cbbd26",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "9ba8d982cb278bc3",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "c699f450f8c0a04f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "b60c8a8799b09664",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "af6884cbcc8d653b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "740af47b985bab90",
-            "type": "leaf",
-            "state": {
-              "type": "oz-calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "b6914f5f91449b6b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "05d9a88beea93a1f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "76d6ad31493cd149",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "c386ba40d8136425",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "77244f33a913e36f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "9132d3ab6314eced",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "0ad66a04cd0b025c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "b662a3585d0f1096",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "1778611d25a497b9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "0b9678fb2666b8c1",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "cf387403f6b12e56",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "5456559bd8a43d93",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "90fae20e5c7e9421",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "2dde9d403646f99c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "13e4b1ab002aed88",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "8f0c406d900ccc22",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "9ece527ce93d97bb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "2748e393f4b03e47",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "8b8b457ec740dd19",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "426096e9d8464211",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "b950e51bf2833bff",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "3bf40e5c0036b712",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "0014d086c93f40c6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "4d37e1495c3cf977",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "be9b27b3a17c8f7a",
-            "type": "leaf",
-            "state": {
-              "type": "oz-calendar",
-              "state": {},
-              "icon": "OZCAL_ICON",
-              "title": "OZ Calendar"
-            }
-          },
-          {
-            "id": "f6ee9977e2ee9d7e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "06adbccc8579ffdd",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "875bcf0cff9a89ff",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "11d3c905d6c181f1",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "aaed9958c9bdae93",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "a231574c9ad2916f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "c9e6be1dbab734cd",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "56dec97cba860840",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "357a60482f285480",
->>>>>>> 2dbbee80b043ec6d87ef5d728216787e40a5f6e5
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "84e5f3916e276588",
+            "id": "c375e1d04aaca4f2",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
+            }
+          },
+          {
+            "id": "75159b3268113d57",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {},
+              "icon": "OZCAL_ICON",
+              "title": "OZ Calendar"
             }
           }
         ],
@@ -702,69 +191,16 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-<<<<<<< HEAD
-  "active": "61b2341c1d6df217",
-=======
-<<<<<<< HEAD
-  "active": "fd7c25ad1599eb0d",
+  "active": "978cb4b507692696",
   "lastOpenFiles": [
-    "O Software/Programação de Software/Linguagens/Java/Metodos.md",
-    "O Software/Programação de Software/Linguagens/Java/Java.md",
-    "Índice.md",
-    "Sem título 1",
-    "Sem título"
-=======
-  "active": "0e4a134ab1693ee4",
->>>>>>> 51063a8a73999a1c3b357f24c45cc85fc0e8952b
-  "lastOpenFiles": [
-    "O Software/Programação de Software/Linguagens/Java/Java.md",
-    "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md",
-    "Índice.md",
-    "O Software/Programação de Software/Linguagens/Java/Tipos Primitivos.md",
-    "O Software/Programação de Software/Linguagens/Java/Tipos de referencia.md",
-    "A Computacao/Engenharia de Computação/Prazos.md",
-    "O Software/Programação de Software/Linguagens/Java/Metodo Construtor.md",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/celular/Celular.class",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/br/com/rengcarv/celular/Celular.java",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/celular/mai.class",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/br/com/rengcarv/celular/mai.java",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/notificacao/Notificacoes.class",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/celular/Celular.class",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/calculadora/Calculadora.class",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/celular",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/br/com/rengcarv/celular",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/br/com/rengcarv/calculadora/Calculadora.java",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/calculadora",
-    "Organizacao/Images/Pasted image 20250814105522.png",
-    "Organizacao/Images/Pasted image 20250814105445.png",
-    "Organizacao/Images/Pasted image 20250814105327.png",
-    "Organizacao/Images/Pasted image 20250814104135.png",
-    "Organizacao/Images/Pasted image 20250814104027.png",
-    "Organizacao/Images/Pasted image 20250814104009.png",
-    "O Software/Programação de Software/Linguagens/Java/Metodos.md",
-    "Organizacao/Images/Pasted image 20250814102505.png",
-    "O Software/Programação de Software/Linguagens/Java/Importando pacotes.md",
-    "Organizacao/Images/Pasted image 20250813154404.png",
-    "O Software/Programação de Software/Linguagens/Java/Pacotes Java.md",
-    "Organizacao/Images/Pasted image 20250813133845.png",
-    "Organizacao/Images/Pasted image 20250813132823.png",
-    "O Software/Programação de Software/Linguagens/Java/Estruturas Básicas do Java.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Pacotes.md",
-    "O Software/Programação de Software/Linguagens/Java/Classes.md",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/README.md",
-    "O Software/Programação de Software/Linguagens/Java/Variaveis.md",
-    "O Software/Programação de Software/Linguagens/Java/JVM, WORA, JDK e JRE.md",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/01/README.md",
-    "grelha.md",
-    "Engenharia de Computação/Prazos.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Funções/PEP 8 - Funções e Variáveis.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Valores Protegidos.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Valores Privados.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Type Hints.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Quebras de Linha.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Sintaxe Fundamental.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/PEPs de Formatação do Código.md",
-    "Engenharia de Computação/Algoritmos e Programação de Computadores I/Prazos.canvas",
-    "Organização/Tópicos a Estudar/Sem título.canvas"
->>>>>>> 2dbbee80b043ec6d87ef5d728216787e40a5f6e5
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/hello/Hello.class",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/br/com/rengcarv/hello/Hello.java",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/bin/br/com/rengcarv/hello",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos/src/br/com/rengcarv/hello",
+    "O Software/Programação de Software/Linguagens/Java/Java.md",
+    "Índice.md"
   ]
 }
