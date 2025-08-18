@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Software/Programação de Software/Testes e Manutenção de Software/Níveis de teste.md",
+                "file": "O Software/Programação de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Níveis de teste"
+              "title": "Testes e Manutenção de Software"
             }
           },
           {
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O Software/Programação de Software/Testes e Manutenção de Software/Níveis de teste.md",
+                "file": "O Software/Programação de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Níveis de teste"
+              "title": "Links inversos para Testes e Manutenção de Software"
             }
           },
           {
@@ -164,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O Software/Programação de Software/Testes e Manutenção de Software/Níveis de teste.md",
+                "file": "O Software/Programação de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Níveis de teste"
+              "title": "Links de saída para Testes e Manutenção de Software"
             }
           },
           {
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O Software/Programação de Software/Testes e Manutenção de Software/Níveis de teste.md",
+                "file": "O Software/Programação de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Níveis de teste"
+              "title": "Sumário de Testes e Manutenção de Software"
             }
           },
           {
@@ -244,8 +244,8 @@
   },
   "active": "0c9392ba786c70f9",
   "lastOpenFiles": [
-    "O Software/Programação de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md",
     "O Software/Programação de Software/Testes e Manutenção de Software/Níveis de teste.md",
+    "O Software/Programação de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md",
     "O Software/Programação de Software/Testes e Manutenção de Software/Conceitos e definições básicas.md",
     "A Computacao/Engenharia de Computação/Prazos.md",
     "O Software/Programação de Software/Testes e Manutenção de Software/Testes Flashcards.md",
