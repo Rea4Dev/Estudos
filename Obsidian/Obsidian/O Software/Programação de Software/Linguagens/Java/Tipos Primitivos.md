@@ -22,6 +22,8 @@ Modificáveis com modificadores de tipo:
 - `int`: 32 bits <small>(numeros grandes)</small>
 - `long`: 64 bits <small>(para numeros muito grandes)</small>
 
+Obs: Não use "byte" sem uma aplicação específica que precise disso. Se você decidir aplicar byte em códigos normais, só estará sujando o código, pois qualquer operação com byte será convertida para int pela JVM, tirando qualquer tipo de "ganho".
+
 ```Java
 byte nota = 10;
 short distancia = 20143;

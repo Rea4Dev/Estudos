@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "fe8a0f61985ab8bf",
     "type": "split",
     "children": [
@@ -15,23 +16,86 @@
               "state": {},
               "icon": "lucide-file",
               "title": "Nova aba"
+=======
+    "id": "3eba10bd69c1b650",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3e14db9631dc453",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c9392ba786c70f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Software/Programação de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Testes e Manutenção de Software"
+            }
+          },
+          {
+            "id": "20f4a45b0f43e7fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Software/Programação de Software/Testes e Manutenção de Software/Conceitos e definições básicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conceitos e definições básicas"
+            }
+          },
+          {
+            "id": "7a1a3b7aca1a7d67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Software/Programação de Software/Linguagens/Java/Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java"
+>>>>>>> c241289871fff4ae516f0c04da48e1945c841d04
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "6e26938d08158d30",
     "type": "split",
     "children": [
       {
         "id": "7caaaa8d2d9b681e",
+=======
+    "id": "8bc25c8cc51d4ac4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a35ba68f995a2b44",
+>>>>>>> c241289871fff4ae516f0c04da48e1945c841d04
         "type": "tabs",
+        "dimension": 38.29268292682927,
         "children": [
           {
+<<<<<<< HEAD
             "id": "ca299052f23c4dd3",
+=======
+            "id": "7413da54083c49be",
+>>>>>>> c241289871fff4ae516f0c04da48e1945c841d04
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +108,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "ded7f42963be97f2",
+=======
+            "id": "429d06a5a678d9e3",
+>>>>>>> c241289871fff4ae516f0c04da48e1945c841d04
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +129,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "3059ee71071c971e",
+=======
+            "id": "475f2b31946c3b7b",
+>>>>>>> c241289871fff4ae516f0c04da48e1945c841d04
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -71,12 +143,49 @@
             }
           }
         ]
+      },
+      {
+        "id": "a8f404020390277f",
+        "type": "tabs",
+        "dimension": 61.70731707317073,
+        "children": [
+          {
+            "id": "978cb4b507692696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Software/Programação de Software/Linguagens/Java/Flashcards Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flashcards Java"
+            }
+          },
+          {
+            "id": "625db1addd77ede2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Software/Programação de Software/Testes e Manutenção de Software/Testes Flashcards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Testes Flashcards"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "bff3060372cd61fc",
     "type": "split",
     "children": [
@@ -86,10 +195,22 @@
         "children": [
           {
             "id": "d888ec798b2baf12",
+=======
+    "id": "a2dfa0064902da43",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7e7da7960c9b4df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57b7fced08ba2653",
+>>>>>>> c241289871fff4ae516f0c04da48e1945c841d04
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "O Software/Programação de Software/Linguagens/Java/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +220,33 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Java"
             }
           },
           {
+<<<<<<< HEAD
             "id": "fdd87f24b14b4600",
+=======
+            "id": "1839b6531a7787e7",
+>>>>>>> c241289871fff4ae516f0c04da48e1945c841d04
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "O Software/Programação de Software/Linguagens/Java/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Java"
             }
           },
           {
+<<<<<<< HEAD
             "id": "4a2b3f37330f9c48",
+=======
+            "id": "01bd956c923d291c",
+>>>>>>> c241289871fff4ae516f0c04da48e1945c841d04
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,21 +261,30 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "4cfe326b8968f8d4",
+=======
+            "id": "dcc4f8702db8c64c",
+>>>>>>> c241289871fff4ae516f0c04da48e1945c841d04
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "O Software/Programação de Software/Linguagens/Java/Java.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Java"
             }
           },
           {
+<<<<<<< HEAD
             "id": "5872b3a274ad2268",
+=======
+            "id": "c375e1d04aaca4f2",
+>>>>>>> c241289871fff4ae516f0c04da48e1945c841d04
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -155,7 +294,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "5e31c6e275c39fcd",
+=======
+            "id": "75159b3268113d57",
+>>>>>>> c241289871fff4ae516f0c04da48e1945c841d04
             "type": "leaf",
             "state": {
               "type": "oz-calendar",
@@ -184,6 +327,44 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
+<<<<<<< HEAD
   "active": "5872b3a274ad2268",
   "lastOpenFiles": []
+=======
+  "active": "7a1a3b7aca1a7d67",
+  "lastOpenFiles": [
+    "O Software/Programação de Software/Linguagens/Java/Metodo Construtor.md",
+    "O Software/Programação de Software/Linguagens/Java/Java.md",
+    "Índice.md",
+    "O Software/Programação de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md",
+    "O Software/Programação de Software/Testes e Manutenção de Software/Níveis de teste.md",
+    "O Software/Programação de Software/Testes e Manutenção de Software/Conceitos e definições básicas.md",
+    "A Computacao/Engenharia de Computação/Prazos.md",
+    "O Software/Programação de Software/Testes e Manutenção de Software/Testes Flashcards.md",
+    "O Software/Programação de Software/Linguagens/Java/Flashcards Java.md",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello/Pessoa.class",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/hello/Pessoa.java",
+    "Organizacao/Images/Pasted image 20250818105630.png",
+    "O Software/Programação de Software/Linguagens/Java/Tipos Primitivos.md",
+    "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md",
+    "Organizacao/Images/Pasted image 20250818105135.png",
+    "Organizacao/Images/Pasted image 20250818104717.png",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello/HelloWorld.class",
+    "O Software/Programação de Software/Linguagens/Java/Como compilar Java.md",
+    "Organizacao/Images/Pasted image 20250818104214.png",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/hello/HelloWorld.java",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello/Hello.class",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/hello/Hello.java",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/hello",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/Hello/Hello.class",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/Hello/Hello.java",
+    "Organizacao/Images/Pasted image 20250818100114.png",
+    "A Computacao/Engenharia de Computação/Flashcards EngComp.md",
+    "Organizacao/Manifesto de Fixação de Conteudos v1.0.md",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Calculadora/README.md",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/README.md",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Metodos - Copy/README.md"
+  ]
+>>>>>>> c241289871fff4ae516f0c04da48e1945c841d04
 }

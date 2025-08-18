@@ -1,189 +1,60 @@
 {
   "recentFiles": [
     {
-<<<<<<< HEAD
-=======
-      "basename": "Tipos de referencia",
-      "path": "O Software/Programação de Software/Linguagens/Java/Tipos de referencia.md"
-    },
-    {
->>>>>>> 2dbbee80b043ec6d87ef5d728216787e40a5f6e5
       "basename": "Java",
       "path": "O Software/Programação de Software/Linguagens/Java/Java.md"
     },
     {
-<<<<<<< HEAD
-      "basename": "Metodos",
-      "path": "O Software/Programação de Software/Linguagens/Java/Metodos.md"
-    },
-    {
-=======
->>>>>>> 2dbbee80b043ec6d87ef5d728216787e40a5f6e5
-      "basename": "Índice",
-      "path": "Índice.md"
-    },
-    {
-<<<<<<< HEAD
-=======
       "basename": "Metodo Construtor",
       "path": "O Software/Programação de Software/Linguagens/Java/Metodo Construtor.md"
     },
     {
-      "basename": "Metodos",
-      "path": "O Software/Programação de Software/Linguagens/Java/Metodos.md"
-    },
-    {
->>>>>>> 2dbbee80b043ec6d87ef5d728216787e40a5f6e5
-      "basename": "Tipos Primitivos",
-      "path": "O Software/Programação de Software/Linguagens/Java/Tipos Primitivos.md"
-    },
-    {
-      "basename": "Importando pacotes",
-      "path": "O Software/Programação de Software/Linguagens/Java/Importando pacotes.md"
-    },
-    {
-      "basename": "Pacotes Java",
-      "path": "O Software/Programação de Software/Linguagens/Java/Pacotes Java.md"
-    },
-    {
-      "basename": "Estruturas Básicas do Java",
-      "path": "O Software/Programação de Software/Linguagens/Java/Estruturas Básicas do Java.md"
-    },
-    {
-      "basename": "Pacotes",
-      "path": "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Pacotes.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "O Software/Programação de Software/Linguagens/Java/Classes.md"
-    },
-    {
-      "basename": "Variaveis",
-      "path": "O Software/Programação de Software/Linguagens/Java/Variaveis.md"
-    },
-    {
-      "basename": "JVM, WORA, JDK e JRE",
-      "path": "O Software/Programação de Software/Linguagens/Java/JVM, WORA, JDK e JRE.md"
-    },
-    {
-      "basename": "Engenharia de Computação",
-      "path": "A Computacao/Engenharia de Computação/Engenharia de Computação.md"
-    },
-    {
-      "basename": "Tipos de Computadores",
-      "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/Tipos de Computadores.md"
-    },
-    {
-      "basename": "Computação, Informática e TI",
-      "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/Computação, Informática e TI.md"
-    },
-    {
-      "basename": "Desenvolvimento de Software",
-      "path": "O Software/Desenvolvimento de Software/Desenvolvimento de Software.md"
-    },
-    {
-      "basename": "Flashcards EngComp",
-      "path": "A Computacao/Engenharia de Computação/Flashcards EngComp.md"
-    },
-    {
-      "basename": "História da Computação",
-      "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/História da Computação.md"
-    },
-    {
-      "basename": "Git",
-      "path": "O Software/Desenvolvimento de Software/Git/Git.md"
+      "basename": "Índice",
+      "path": "Índice.md"
     },
     {
       "basename": "Testes e Manutenção de Software",
       "path": "O Software/Programação de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md"
     },
     {
-      "basename": "Python",
-      "path": "O Software/Programação de Software/Linguagens/‎ Python/Python.md"
+      "basename": "Níveis de teste",
+      "path": "O Software/Programação de Software/Testes e Manutenção de Software/Níveis de teste.md"
     },
     {
-      "basename": "Manifesto de Fixação de Conteudos v1.0",
-      "path": "Organizacao/Manifesto de Fixação de Conteudos v1.0.md"
-    },
-    {
-      "basename": "O que sao computadores Quanticos",
-      "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/O que sao computadores Quanticos.md"
+      "basename": "Conceitos e definições básicas",
+      "path": "O Software/Programação de Software/Testes e Manutenção de Software/Conceitos e definições básicas.md"
     },
     {
       "basename": "Prazos",
       "path": "A Computacao/Engenharia de Computação/Prazos.md"
     },
     {
-      "basename": "Caso Linkedin",
-      "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Caso Linkedin.md"
+      "basename": "Testes Flashcards",
+      "path": "O Software/Programação de Software/Testes e Manutenção de Software/Testes Flashcards.md"
     },
     {
-      "basename": "Textos - Codificação Binária",
-      "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Textos - Codificação Binária.md"
+      "basename": "Flashcards Java",
+      "path": "O Software/Programação de Software/Linguagens/Java/Flashcards Java.md"
     },
     {
-      "basename": "Dados, Informação e Conhecimento",
-      "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Dados, Informação e Conhecimento.md"
+      "basename": "Tipos Primitivos",
+      "path": "O Software/Programação de Software/Linguagens/Java/Tipos Primitivos.md"
     },
     {
-      "basename": "Dados Analógicos e Digitais",
-      "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Dados Analógicos e Digitais.md"
+      "basename": "Conceito Basico",
+      "path": "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md"
     },
     {
-      "basename": "Computação Verde",
-      "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/Computação Verde.md"
+      "basename": "Como compilar Java",
+      "path": "O Software/Programação de Software/Linguagens/Java/Como compilar Java.md"
     },
     {
-      "basename": "Tipos de Dados",
-      "path": "O Software/Programação de Software/Linguagens/‎ Python/Tipos de Dados.md"
+      "basename": "Flashcards EngComp",
+      "path": "A Computacao/Engenharia de Computação/Flashcards EngComp.md"
     },
     {
-      "basename": "Conversão de tipos",
-      "path": "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Conversão de tipos.md"
-    },
-    {
-      "basename": "O computador",
-      "path": "A Computacao/Engenharia de Computação/Sistemas Computacionais/O computador.md"
-    },
-    {
-      "basename": "Métodos de Listas",
-      "path": "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Métodos de Listas.md"
-    },
-    {
-      "basename": "Tupla",
-      "path": "O Software/Programação de Software/Linguagens/‎ Python/Tupla.md"
-    },
-    {
-      "basename": "Lista",
-      "path": "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Lista.md"
-    },
-    {
-      "basename": "Acessando e Modificando Elementos de Listas",
-      "path": "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Acessando e Modificando Elementos de Listas.md"
-    },
-    {
-      "basename": "Manipulação de Strings",
-      "path": "O Software/Programação de Software/Linguagens/‎ Python/Manipulação de Strings.md"
-    },
-    {
-      "basename": "Divisão inteira",
-      "path": "O Software/Programação de Software/Linguagens/‎ Python/Divisão inteira.md"
-    },
-    {
-      "basename": "Ordem de precedencia",
-      "path": "O Software/Programação de Software/Linguagens/‎ Python/Ordem de precedencia.md"
-    },
-    {
-      "basename": "Desafio - O que são computadores Quânticos?",
-      "path": "Engenharia de Computação/Introdução a Conceitos de Computação/Desafio - O que são computadores Quânticos?.md"
-    },
-    {
-      "basename": "Fluxogramas",
-      "path": "A Computacao/Engenharia de Computação/Algoritmos e Programação de Computadores I/Fluxogramas.md"
-    },
-    {
-      "basename": "Noção de Algoritmos",
-      "path": "A Computacao/Engenharia de Computação/Algoritmos e Programação de Computadores I/Noção de Algoritmos.md"
+      "basename": "Manifesto de Fixação de Conteudos v1.0",
+      "path": "Organizacao/Manifesto de Fixação de Conteudos v1.0.md"
     }
   ],
   "omittedPaths": [],

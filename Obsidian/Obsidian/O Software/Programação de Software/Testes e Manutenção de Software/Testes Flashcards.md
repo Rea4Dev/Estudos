@@ -1,3 +1,8 @@
+---
+data_criacao: 18-08-2025
+flashcards: Não feito
+revisão: Não feita
+---
 # 📜 Manifesto de Fixação de Conteúdos — v1.0
 
 Sistema pessoal de consolidação do conhecimento, aplicado no Obsidian.md + extensão de Flashcards.
@@ -55,31 +60,11 @@ Sempre que uma melhoria for percebida, **registre e versione.**
 
 > _"O conhecimento que não é revisado se apaga como traço na areia."_
 
-# Engenharia de Computação
-## Algoritmos e Programação de Computadores I
-#EngComp/Algoritmos_Prog_Comp1
+# Programação de Software
+## Testes
+#Software/Programacao/Testes
 
-EC) 11aaee ?:X:Aaa
-
-EC) aaee?
-X^X
-Raa
-X%X
-
-## Introdução a Conceitos de Computação
-#EngComp/Introducao_Conceitos_Computacao1
-
-EC) 22aaee ?X:X:Bbb
-
-EC) aaee?
-X^X
-Raa
-X%X
-
-## Sistemas Computacionais
-#EngComp/Sistemas_Comp
-
-EC) 33aaee ?X:X:Ccc
+J1) Se apresente, com nome e idade::arroz
 
 EC) aaee?
 X^X
