@@ -1,18 +1,34 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "Conceito Basico",
       "path": "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md"
+=======
+<<<<<<< HEAD
+=======
+      "basename": "Tipos de referencia",
+      "path": "O Software/Programação de Software/Linguagens/Java/Tipos de referencia.md"
+>>>>>>> 51063a8a73999a1c3b357f24c45cc85fc0e8952b
     },
     {
+>>>>>>> 2dbbee80b043ec6d87ef5d728216787e40a5f6e5
       "basename": "Java",
       "path": "O Software/Programação de Software/Linguagens/Java/Java.md"
     },
     {
+<<<<<<< HEAD
+      "basename": "Metodos",
+      "path": "O Software/Programação de Software/Linguagens/Java/Metodos.md"
+    },
+    {
+=======
+>>>>>>> 2dbbee80b043ec6d87ef5d728216787e40a5f6e5
       "basename": "Índice",
       "path": "Índice.md"
     },
     {
+<<<<<<< HEAD
       "basename": "Tipos Primitivos",
       "path": "O Software/Programação de Software/Linguagens/Java/Tipos Primitivos.md"
     },
@@ -25,6 +41,10 @@
       "path": "A Computacao/Engenharia de Computação/Prazos.md"
     },
     {
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 51063a8a73999a1c3b357f24c45cc85fc0e8952b
       "basename": "Metodo Construtor",
       "path": "O Software/Programação de Software/Linguagens/Java/Metodo Construtor.md"
     },
@@ -33,6 +53,14 @@
       "path": "O Software/Programação de Software/Linguagens/Java/Metodos.md"
     },
     {
+<<<<<<< HEAD
+=======
+>>>>>>> 2dbbee80b043ec6d87ef5d728216787e40a5f6e5
+      "basename": "Tipos Primitivos",
+      "path": "O Software/Programação de Software/Linguagens/Java/Tipos Primitivos.md"
+    },
+    {
+>>>>>>> 51063a8a73999a1c3b357f24c45cc85fc0e8952b
       "basename": "Importando pacotes",
       "path": "O Software/Programação de Software/Linguagens/Java/Importando pacotes.md"
     },

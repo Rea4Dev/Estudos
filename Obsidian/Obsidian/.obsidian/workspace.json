@@ -1,24 +1,64 @@
 {
   "main": {
-    "id": "019cbe43bd164159",
+    "id": "def3bfcb4a58481b",
     "type": "split",
     "children": [
       {
-        "id": "24dc93f08b846a52",
+        "id": "737c015eef8e6607",
         "type": "tabs",
         "children": [
           {
-            "id": "61b2341c1d6df217",
+            "id": "fd7c25ad1599eb0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md",
+=======
+                "file": "O Software/Programação de Software/Linguagens/Java/Java.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+<<<<<<< HEAD
+              "title": "Java"
+=======
+              "title": "Computação Verde"
+            }
+          },
+          {
+            "id": "0e4a134ab1693ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Software/Programação de Software/Linguagens/Java/Tipos de referencia.md",
+>>>>>>> 51063a8a73999a1c3b357f24c45cc85fc0e8952b
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Conceito Basico"
+=======
+              "title": "Tipos de referencia"
+            }
+          },
+          {
+            "id": "76184b60e1081b67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Software/Programação de Software/Linguagens/Java/Metodos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metodos"
+>>>>>>> 2dbbee80b043ec6d87ef5d728216787e40a5f6e5
+>>>>>>> 51063a8a73999a1c3b357f24c45cc85fc0e8952b
             }
           }
         ]
@@ -27,16 +67,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d61faca49ebac9b4",
+    "id": "b87d7e7f6e9ef8e7",
     "type": "split",
     "children": [
       {
-        "id": "65a390071d78a954",
+        "id": "9564dd798988fca8",
         "type": "tabs",
-        "dimension": 56.019900497512445,
         "children": [
           {
-            "id": "437254f253eae31d",
+            "id": "6c927cc171cd1277",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +88,7 @@
             }
           },
           {
-            "id": "d2f0c76555b830b0",
+            "id": "350eac250ec95cd0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +105,7 @@
             }
           },
           {
-            "id": "41064b878729a128",
+            "id": "6e48c138d748a928",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,43 +115,25 @@
             }
           }
         ]
-      },
-      {
-        "id": "0006b8ac1c1fc02e",
-        "type": "tabs",
-        "dimension": 43.98009950248756,
-        "children": [
-          {
-            "id": "311cb3c5115fea7a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 300
   },
   "right": {
-    "id": "7bb7a38755faf7c0",
+    "id": "2cec25921b883755",
     "type": "split",
     "children": [
       {
-        "id": "b87220a1459571c6",
+        "id": "d573ad02d7cc68a5",
         "type": "tabs",
         "children": [
           {
-            "id": "d0f6ece76e6bd759",
+            "id": "61e7beda825052d4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "‎ Software/Conceitos Básicos de Versionamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,25 +143,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Conceitos Básicos de Versionamento"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "61b0b2aa8c06569a",
+            "id": "a4e27812581ab336",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "‎ Software/Conceitos Básicos de Versionamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Conceitos Básicos de Versionamento"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "3d416af808714fcd",
+            "id": "82a627c012738180",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,22 +175,21 @@
             }
           },
           {
-            "id": "abe1a5cbaf25003a",
+            "id": "8cd4d9a25ace44af",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "‎ Software/Conceitos Básicos de Versionamento.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Conceitos Básicos de Versionamento"
+              "title": "Sumário"
             }
           },
           {
-            "id": "07aa1e81c32dcc10",
+            "id": "f3816f18c2c324fa",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -180,7 +199,7 @@
             }
           },
           {
-            "id": "bf3a7a439535c3cf",
+            "id": "332f8f5088f97869",
             "type": "leaf",
             "state": {
               "type": "oz-calendar",
@@ -190,6 +209,9 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "7d3ee78fba1e959b",
+=======
             "id": "93c12b192b3962d3",
             "type": "leaf",
             "state": {
@@ -641,6 +663,7 @@
           },
           {
             "id": "357a60482f285480",
+>>>>>>> 2dbbee80b043ec6d87ef5d728216787e40a5f6e5
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -661,41 +684,38 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "57e75721b877e9f6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d09f55ca154bc1c3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "graph:Abrir visualização em gráfico": false,
       "obsidian-spaced-repetition:Revisar flashcards": false,
       "open-vscode:VSCode": false,
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
+<<<<<<< HEAD
   "active": "61b2341c1d6df217",
+=======
+<<<<<<< HEAD
+  "active": "fd7c25ad1599eb0d",
+  "lastOpenFiles": [
+    "O Software/Programação de Software/Linguagens/Java/Metodos.md",
+    "O Software/Programação de Software/Linguagens/Java/Java.md",
+    "Índice.md",
+    "Sem título 1",
+    "Sem título"
+=======
+  "active": "0e4a134ab1693ee4",
+>>>>>>> 51063a8a73999a1c3b357f24c45cc85fc0e8952b
   "lastOpenFiles": [
     "O Software/Programação de Software/Linguagens/Java/Java.md",
     "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md",
@@ -745,5 +765,6 @@
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/PEPs de Formatação do Código.md",
     "Engenharia de Computação/Algoritmos e Programação de Computadores I/Prazos.canvas",
     "Organização/Tópicos a Estudar/Sem título.canvas"
+>>>>>>> 2dbbee80b043ec6d87ef5d728216787e40a5f6e5
   ]
 }
