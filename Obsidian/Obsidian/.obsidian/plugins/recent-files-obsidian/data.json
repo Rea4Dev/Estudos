@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Índice",
+      "path": "Índice.md"
+    },
+    {
+      "basename": "PDA",
+      "path": "A Computacao/Engenharia de Computação/PDA.md"
+    },
+    {
+      "basename": "Testes Flashcards",
+      "path": "O Software/Programação de Software/Testes e Manutenção de Software/Testes Flashcards.md"
+    },
+    {
+      "basename": "Flashcards Java",
+      "path": "O Software/Programação de Software/Linguagens/Java/Flashcards Java.md"
+    },
+    {
       "basename": "Create",
       "path": "O Software/Programação de Software/Linguagens/SQL/Create.md"
     },
@@ -25,16 +41,8 @@
       "path": "O Software/Programação de Software/Linguagens/SQL/SQL.md"
     },
     {
-      "basename": "Índice",
-      "path": "Índice.md"
-    },
-    {
       "basename": "RoadMap",
       "path": "Organizacao/RoadMap.md"
-    },
-    {
-      "basename": "PDA",
-      "path": "A Computacao/Engenharia de Computação/PDA.md"
     },
     {
       "basename": "Prazos",
@@ -59,14 +67,6 @@
     {
       "basename": "Conceitos e definições básicas",
       "path": "O Software/Programação de Software/Testes e Manutenção de Software/Conceitos e definições básicas.md"
-    },
-    {
-      "basename": "Testes Flashcards",
-      "path": "O Software/Programação de Software/Testes e Manutenção de Software/Testes Flashcards.md"
-    },
-    {
-      "basename": "Flashcards Java",
-      "path": "O Software/Programação de Software/Linguagens/Java/Flashcards Java.md"
     },
     {
       "basename": "Tipos Primitivos",

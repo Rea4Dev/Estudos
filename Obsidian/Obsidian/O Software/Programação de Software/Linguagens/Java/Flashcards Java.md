@@ -65,6 +65,7 @@ Sempre que uma melhoria for percebida, **registre e versione.**
 #Software/Programacao/Linguagens/Java
 
 J1) Se apresente, com nome e idade::![[Pasted image 20250818105630.png]]
+<!--SR:!2025-08-22,3,250-->
 
 EC) aaee?
 X^X

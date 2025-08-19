@@ -64,7 +64,7 @@ Sempre que uma melhoria for percebida, **registre e versione.**
 ## Testes
 #Software/Programacao/Testes
 
-J1) Se apresente, com nome e idade::arroz
+J1) Se apresente, com nome e idade:X:arroz
 
 EC) aaee?
 X^X
