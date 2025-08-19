@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Create",
+      "path": "O Software/Programação de Software/Linguagens/SQL/Create.md"
+    },
+    {
+      "basename": "CRUD SQL",
+      "path": "O Software/Programação de Software/Linguagens/SQL/CRUD SQL.md"
+    },
+    {
+      "basename": "Delete",
+      "path": "O Software/Programação de Software/Linguagens/SQL/Delete.md"
+    },
+    {
+      "basename": "Update",
+      "path": "O Software/Programação de Software/Linguagens/SQL/Update.md"
+    },
+    {
+      "basename": "Read",
+      "path": "O Software/Programação de Software/Linguagens/SQL/Read.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "O Software/Programação de Software/Linguagens/SQL/SQL.md"
+    },
+    {
+      "basename": "Índice",
+      "path": "Índice.md"
+    },
+    {
+      "basename": "RoadMap",
+      "path": "Organizacao/RoadMap.md"
+    },
+    {
+      "basename": "PDA",
+      "path": "A Computacao/Engenharia de Computação/PDA.md"
+    },
+    {
+      "basename": "Prazos",
+      "path": "A Computacao/Engenharia de Computação/Prazos.md"
+    },
+    {
+      "basename": "Testes e Manutenção de Software",
+      "path": "O Software/Programação de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md"
+    },
+    {
       "basename": "Java",
       "path": "O Software/Programação de Software/Linguagens/Java/Java.md"
     },
@@ -9,24 +53,12 @@
       "path": "O Software/Programação de Software/Linguagens/Java/Metodo Construtor.md"
     },
     {
-      "basename": "Índice",
-      "path": "Índice.md"
-    },
-    {
-      "basename": "Testes e Manutenção de Software",
-      "path": "O Software/Programação de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md"
-    },
-    {
       "basename": "Níveis de teste",
       "path": "O Software/Programação de Software/Testes e Manutenção de Software/Níveis de teste.md"
     },
     {
       "basename": "Conceitos e definições básicas",
       "path": "O Software/Programação de Software/Testes e Manutenção de Software/Conceitos e definições básicas.md"
-    },
-    {
-      "basename": "Prazos",
-      "path": "A Computacao/Engenharia de Computação/Prazos.md"
     },
     {
       "basename": "Testes Flashcards",

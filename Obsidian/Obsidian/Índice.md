@@ -13,7 +13,7 @@ revisão: Não feita
 > <br>
 > - Aderir ao Sistema Dopaminérgico
 > <br>
-> - Horários Progressivos
+> - Horários Progressivos (lazer opcional e sem culpa)
 
 # Computacao
 1. [[Engenharia de Computação]]
@@ -47,6 +47,7 @@ revisão: Não feita
 	2. [[Linguagens]]
 		1. [[Python]]
 		2. [[Java]]
+		3. [[SQL]]
 	
 	3. [[Testes e Manutenção de Software]]
 	
