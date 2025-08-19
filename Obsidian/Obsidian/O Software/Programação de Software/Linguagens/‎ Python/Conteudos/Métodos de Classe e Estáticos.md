@@ -1,4 +1,4 @@
-[[Python|Voltar]]
+[[Índice Python|Voltar]]
 
 Métodos de classe usam `cls` como primeiro parâmetro.
 `Exemplo`

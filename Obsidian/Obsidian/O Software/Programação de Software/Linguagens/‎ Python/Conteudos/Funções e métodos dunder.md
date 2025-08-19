@@ -1,4 +1,4 @@
-[[Python|Voltar]]
+[[Índice Python|Voltar]]
 
 Métodos especiais (como `__init__`) usam **dois underscores** no início e fim.
 

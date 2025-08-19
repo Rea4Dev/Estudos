@@ -1,4 +1,4 @@
-[[Python|Voltar]]
+[[Índice Python|Voltar]]
 
 ## 📌 Formatação de Strings
 

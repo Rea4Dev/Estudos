@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dcf7f312ff7e9ad7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Índice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Índice"
-            }
-          },
-          {
             "id": "8aa0c816a71209be",
             "type": "leaf",
             "state": {
@@ -54,9 +40,93 @@
               "icon": "lucide-file",
               "title": "Sobrescrita de Métodos e toString()"
             }
+          },
+          {
+            "id": "c47b209f90a0df98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Conceitos e definições básicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conceitos e definições básicas"
+            }
+          },
+          {
+            "id": "84a77388115f0e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Índice Teste de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Índice Teste de Software"
+            }
+          },
+          {
+            "id": "a4fc30e26bce0763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Índice Engenharia de Computação"
+            }
+          },
+          {
+            "id": "338c1d325d87e155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Software/Processos de Software/Índice Processos de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Índice Processos de Software"
+            }
+          },
+          {
+            "id": "412e3ab24fa18a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "da04b58e3b1d185b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -68,7 +138,7 @@
       {
         "id": "dcf0ac2b83d1b0df",
         "type": "tabs",
-        "dimension": 25.48780487804878,
+        "dimension": 52.4390243902439,
         "children": [
           {
             "id": "73727964fc938c9f",
@@ -115,7 +185,7 @@
       {
         "id": "0ff08052ac25fbc3",
         "type": "tabs",
-        "dimension": 74.51219512195122,
+        "dimension": 47.5609756097561,
         "children": [
           {
             "id": "0d7c64a3d36f6520",
@@ -123,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Software/Programação de Software/Linguagens/Java/Flashcards Java.md",
+                "file": "Organizacao/Flashcards/Flashcards Java.md",
                 "mode": "source",
                 "source": false
               },
@@ -135,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "e05dfaedcd2cf914",
@@ -258,36 +328,44 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "0d7c64a3d36f6520",
+  "active": "da04b58e3b1d185b",
   "lastOpenFiles": [
-    "Organizacao/Images/Pasted image 20250819104436.png",
-    "O Software/Programação de Software/Linguagens/Java/Java.md",
-    "Índice.md",
-    "O Software/Programação de Software/Linguagens/Java/Sobrescrita de Métodos e toString().md",
-    "O Software/Programação de Software/Linguagens/Java/Metodo Construtor.md",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello/Pessoa.class",
-    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello/HelloWorld.class",
-    "O Software/Programação de Software/Linguagens/‎ Python/Python.md",
-    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Espaçamento e Identações.md",
-    "O Software/Processos de Software/8. Processos de Apoio/d. Treinamento e Capacitacao/desktop.ini",
-    "O Software/Processos de Software/8. Processos de Apoio/c. Revisoes e Inspecoes Tecnicas/desktop.ini",
-    "O Software/Processos de Software/8. Processos de Apoio/b. Integracao Continua - Entrega Continua (CI - CD)/desktop.ini",
-    "O Software/Processos de Software/8. Processos de Apoio/a. Configuracao e Controle de Versoes/desktop.ini",
-    "O Software/Processos de Software/8. Processos de Apoio/desktop.ini",
-    "O Software/Processos de Software/6. Documentação e Artefatos de Processos/d. Documentacao de Qualidade e Conformidade/desktop.ini",
-    "O Software/Processos de Software/6. Documentação e Artefatos de Processos/c. Relatorios e Metricas/desktop.ini",
-    "O Software/Processos de Software/6. Documentação e Artefatos de Processos/b. Modelos/desktop.ini",
-    "A Computacao/Engenharia de Computação/PDA.md",
-    "O Software/Programação de Software/Testes e Manutenção de Software/Testes Flashcards.md",
-    "O Software/Programação de Software/Linguagens/Java/Flashcards Java.md",
-    "O Software/Programação de Software/Linguagens/SQL/Create.md",
-    "O Software/Programação de Software/Linguagens/SQL/CRUD SQL.md",
-    "O Software/Programação de Software/Linguagens/SQL/Delete.md",
-    "O Software/Programação de Software/Linguagens/SQL/Update.md",
-    "O Software/Programação de Software/Linguagens/SQL/Read.md",
-    "O Software/Programação de Software/Linguagens/SQL/SQL.md",
-    "Organizacao/RoadMap.md",
-    "A Computacao/Engenharia de Computação/Prazos.md",
-    "O Software/Programação de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md"
+    "O Software/Processos de Software/Índice Processos de Software.md",
+    "O Software/Processos de Software/Sem título.md",
+    "Homepage.md",
+    "O Software/1. Índices Software/Índice Desenvolvimento de Software.md",
+    "O Software/1. Índices Software/Índice Programação de Software.md",
+    "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
+    "O Software/Programação de Software/Linguagens/SQL/Índice SQL.md",
+    "O Software/Programação de Software/Linguagens/Java/Índice Java.md",
+    "Organizacao/Modelo padrão para índices.md",
+    "O Software/1. Índices Software/Índice Python.md",
+    "O Software/Arquitetura de Software/Índice Arquitetura de Software.md",
+    "A Computacao/1. Índices Computação/Índice Linux.md",
+    "Organizacao/Flashcards/Índice Flashcards.md",
+    "O Software/Desenvolvimento de Software/Versionamento/Índice Versionamento.md",
+    "Organizacao/Flashcards",
+    "Organizacao/Manifesto Metodologia de Abordagem Diária.md",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Manutenção de Software/Índice.md",
+    "O Software/ㅤÍndices/desktop.ini",
+    "Organizacao/Flashcards/Flashcards Java.md",
+    "O Software/1. Índices Software",
+    "A Computacao/Índices/desktop.ini",
+    "A Computacao/1. Índices Computação",
+    "Índice Geral.md",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Índice Teste de Software.md",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Índice Qualidade de Software.md",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Conceitos e definições básicas.md",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Testes Flashcards.md",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Teste unitário.md",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Teste de sistema.md",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Teste de integração.md",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Garantia de Qualidade/Controle de Qualidade",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Manutenção de Software/desktop.ini",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Garantia de Qualidade/desktop.ini",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Garantia de Qualidade/New folder",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Gestão de Configuração",
+    "Organizacao/Images/Pasted image 20250819104436.png"
   ]
 }

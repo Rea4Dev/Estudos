@@ -1,4 +1,4 @@
-[[Python|Voltar]]
+[[Índice Python|Voltar]]
 
 O método _ _ init _ _ () em Python é um ``método construtor`` usado para *inicializar objetos quando eles são criados* a partir de uma classe.
 

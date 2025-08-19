@@ -1,7 +1,4 @@
----
-Indice: Python
-Principal: Sim
----
+
 # <p style="color: #C82F4B; text-align:center;font-size:40px;">PEP 8 - Guia de Estilo para Códigos Python</p>
 1. [[PEPs de Formatação do Código]]
 	1. [[Espaçamento e Identações]]

@@ -1,4 +1,4 @@
-[[Python|Voltar]]
+[[Índice Python|Voltar]]
 
  Utilizam de `UPPER_CASE` 
 

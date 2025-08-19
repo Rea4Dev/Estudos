@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArrowDownNarrowWide",
+      "LiAlignJustify",
       "🖥",
       "⚙",
-      "LiSquareDashedBottomCode",
-      "LiCodepen",
-      "LiCodeXml"
+      "LiSquareDashedBottomCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,21 @@
   "‎ Back-End/Banco de Dados/Não Relacional": "LiSquareDashedBottomCode",
   "Organizacao/To-Do.md": "LiListTodo",
   "O Software": "LiCodeXml",
-  "A Computacao": "🖥"
+  "O Software/Desenvolvimento de Software/Qualidade de Software/Manutenção de Software/Índice.md": "LiAlignJustify",
+  "O Software/Desenvolvimento de Software/Qualidade de Software/Índice Qualidade de Software.md": "LiAlignJustify",
+  "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Índice Teste de Software.md": "LiAlignJustify",
+  "O Software/1. Índices Software": "LiArrowDownNarrowWide",
+  "O Software/1. Índices Software/Índice Desenvolvimento de Software.md": "LiAlignJustify",
+  "Organizacao/Flashcards/Índice Flashcards.md": "LiAlignJustify",
+  "A Computacao": "🖥",
+  "A Computacao/1. Índices Computação": "LiArrowDownNarrowWide",
+  "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md": "LiAlignJustify",
+  "A Computacao/1. Índices Computação/Índice Linux.md": "LiAlignJustify",
+  "O Software/Desenvolvimento de Software/Versionamento/Índice Versionamento.md": "LiAlignJustify",
+  "O Software/Arquitetura de Software/Índice Arquitetura de Software.md": "LiAlignJustify",
+  "O Software/Processos de Software/Índice Processos de Software.md": "LiAlignJustify",
+  "O Software/1. Índices Software/Índice Python.md": "LiAlignJustify",
+  "O Software/1. Índices Software/Índice Programação de Software.md": "LiAlignJustify",
+  "O Software/Programação de Software/Linguagens/Java/Índice Java.md": "LiAlignJustify",
+  "O Software/Programação de Software/Linguagens/SQL/Índice SQL.md": "LiAlignJustify"
 }
