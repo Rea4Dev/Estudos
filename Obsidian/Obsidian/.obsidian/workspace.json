@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Índice.md",
+                "file": "O Software/Programação de Software/Linguagens/‎ Python/Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Índice"
+              "title": "Python"
             }
           }
         ],
@@ -236,8 +236,11 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "73727964fc938c9f",
+  "active": "b2b4245f4d65e4ab",
   "lastOpenFiles": [
+    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Espaçamento e Identações.md",
+    "O Software/Programação de Software/Linguagens/‎ Python/Python.md",
+    "Índice.md",
     "O Software/Processos de Software/8. Processos de Apoio/d. Treinamento e Capacitacao/desktop.ini",
     "O Software/Processos de Software/8. Processos de Apoio/c. Revisoes e Inspecoes Tecnicas/desktop.ini",
     "O Software/Processos de Software/8. Processos de Apoio/b. Integracao Continua - Entrega Continua (CI - CD)/desktop.ini",
@@ -248,7 +251,6 @@
     "O Software/Processos de Software/6. Documentação e Artefatos de Processos/b. Modelos/desktop.ini",
     "O Software/Processos de Software/6. Documentação e Artefatos de Processos/a. Planos/desktop.ini",
     "O Software/Processos de Software/6. Documentação e Artefatos de Processos/desktop.ini",
-    "O Software/Processos de Software/5. Eng de Req Contexto de Processo/e. Gerenciamento de Requisitos/desktop.ini",
     "A Computacao/Engenharia de Computação/PDA.md",
     "O Software/Programação de Software/Testes e Manutenção de Software/Testes Flashcards.md",
     "O Software/Programação de Software/Linguagens/Java/Flashcards Java.md",
@@ -258,7 +260,6 @@
     "O Software/Programação de Software/Linguagens/SQL/Update.md",
     "O Software/Programação de Software/Linguagens/SQL/Read.md",
     "O Software/Programação de Software/Linguagens/SQL/SQL.md",
-    "Índice.md",
     "Organizacao/RoadMap.md",
     "A Computacao/Engenharia de Computação/Prazos.md",
     "O Software/Programação de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md",
