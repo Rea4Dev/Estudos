@@ -1,16 +1,25 @@
+
 package br.com.rengcarv.hello;
 
 public class Pessoa{
-    String nome;
-    int idade;
+    private String nome;
+    private int idade;
 
-    public void criar(String nome, int idade){
+    public Pessoa(String nome, int idade){
         this.nome = nome;
         this.idade = idade;
     }
 
+    public String getNome(){
+        return nome;
+    }
+
+    public int getIdade(){
+        return idade;
+    }
+
+    @Override
     public String toString(){
-        String texto = "Sou " + nome + " e tenho " + idade + " anos";
-        return texto;
+        return "Sou " + nome + " e tenho " + idade + " anos";
     }
 }

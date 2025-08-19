@@ -64,8 +64,7 @@ Sempre que uma melhoria for percebida, **registre e versione.**
 ## Java
 #Software/Programacao/Linguagens/Java
 
-J1) Se apresente, com nome e idade::![[Pasted image 20250818105630.png]]
-<!--SR:!2025-08-22,3,250-->
+J1) Crie uma classe Pessoa em Java (com nome e idade) e use-a na classe HelloWorld para imprimir os dados de uma pessoa::![[Pasted image 20250819104436.png]]
 
 EC) aaee?
 X^X
