@@ -4,25 +4,25 @@ flashcards: Não feito
 revisão: Não feita
 ---
 # Dados
-## Definição segundo a perspectiva científica da computação:
 
-> [!Definição]  
-> **Dados** são _representações simbólicas de fatos, conceitos ou instruções_, de forma adequada ao processamento, comunicação ou interpretação por seres humanos ou máquinas.
-> 
-> Fonte: IEEE Standard Glossary of Software Engineering Terminology (IEEE 610.12-1990)
+## Definição
 
-## Definição do ponto de vista informacional:
+``Segundo a perspectiva científica da computação:``
+> **Dados** são _representações simbólicas de fatos, conceitos ou instruções_, de forma adequada ao processamento, comunicação ou interpretação por seres humanos ou máquinas. <small style="font-size:70%">Fonte: IEEE Standard Glossary of Software Engineering Terminology (IEEE 610.12-1990)</small>
 
+``Do ponto de vista informacional:``
 > Dados representam os _elementos conhecidos de um problema_, mas **são desprovidos de significado quando considerados isoladamente**. São _valores brutos_, sem contexto ou estrutura interpretativa.
-### Exemplo:
+## Exemplo:
+
  `20`, `'Rea'`, `True`, `'2025-08-05'`
 Sozinhos, esses valores não dizem muita coisa. Eles apenas existem como _unidades atômicas_ de representação.
 
 ## Características dos Dados
 
-- **Podem ser quantificados ou qualificados**
-- **Não têm, por si só, utilidade ou valor prático**
-- **Ganham significado apenas quando processados ou interpretados dentro de um contexto**
+- Podem ser *quantificados* ou *qualificados*
+- Não têm, por si só, utilidade ou valor prático
+- Ganham **significado apenas quando processados ou interpretados** dentro de um contexto
+
 
 ---
 
@@ -58,10 +58,10 @@ Claude Shannon, ao criar a Teoria da Informação, tratava "informação" como o
 
 ## Características do Conhecimento
 
-- **Integra diversas informações em um todo coerente**
-- **Requer interpretação, contexto e experiência**
-- **Possui elevado significado e utilidade para o suporte à tomada de decisões**
-- **É contextual, dinâmico e orientado à ação**
+- Integra diversas informações em um todo coerente
+- Requer interpretação, contexto e experiência
+- Possui elevado significado e utilidade para o suporte à tomada de decisões
+- É contextual, dinâmico e orientado à ação
 
 ---
 

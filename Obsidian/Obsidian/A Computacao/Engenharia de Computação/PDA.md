@@ -3,8 +3,8 @@ data_criacao: 18-08-2025
 flashcards: Não feito
 revisão: Não feita
 ---
-18 -> A2
-19 -> I2 (e exercicios 4)
+18 -> A2 ✔️
+19 -> I2 (e exercicios 4) 
 20 -> S2
 
 21 -> A3
