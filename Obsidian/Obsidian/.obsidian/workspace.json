@@ -157,8 +157,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Fila de Notas para Revisar"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -169,6 +169,16 @@
               "state": {},
               "icon": "OZCAL_ICON",
               "title": "OZ Calendar"
+            }
+          },
+          {
+            "id": "44eb92a3ece0dc47",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           }
         ],
@@ -192,7 +202,7 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "d1f44f4341308055",
+  "active": "44eb92a3ece0dc47",
   "lastOpenFiles": [
     "Homepage.md"
   ]
