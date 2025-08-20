@@ -28,17 +28,73 @@
             }
           },
           {
-            "id": "da04b58e3b1d185b",
+            "id": "b2b4245f4d65e4ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizacao/RoadMap.md",
+                "file": "O Software/Programação de Software/Linguagens/Java/Sobrescrita de Métodos e toString().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RoadMap"
+              "title": "Sobrescrita de Métodos e toString()"
+            }
+          },
+          {
+            "id": "c47b209f90a0df98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Conceitos e definições básicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conceitos e definições básicas"
+            }
+          },
+          {
+            "id": "84a77388115f0e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Índice Teste de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Índice Teste de Software"
+            }
+          },
+          {
+            "id": "a4fc30e26bce0763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Índice Engenharia de Computação"
+            }
+          },
+          {
+            "id": "338c1d325d87e155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Software/Processos de Software/Índice Processos de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Índice Processos de Software"
             }
           },
           {
@@ -47,12 +103,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Software/Programação de Software/Linguagens/SQL/Índice SQL.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
               "title": "Homepage"
             }
           },
@@ -62,18 +117,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Software/Programação de Software/Linguagens/SQL/Índice SQL.md",
+                "file": "A Computacao/1. Índices Computação/Conversão de Bases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-=======
->>>>>>> 0da886fdb1041f294aeb32a1c56b670ff6021c36
-              "title": "Índice SQL"
+              "title": "Conversão de Bases"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -231,8 +284,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -251,31 +304,12 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-<<<<<<< HEAD
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "9645ae499563aaae",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "b9130e39ec24852c",
-=======
               "icon": "lucide-file",
               "title": "Plugin desativado"
             }
           },
           {
             "id": "53f43e67e508a961",
->>>>>>> 3d6545313988e3848c2efda722e7d54732913b4b
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -293,7 +327,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -305,50 +338,30 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-<<<<<<< HEAD
   "active": "da04b58e3b1d185b",
-=======
-<<<<<<< HEAD
-  "active": "b9130e39ec24852c",
   "lastOpenFiles": [
-    "O Software/1. Índices Software/Índice Programação de Software.md",
-    "Homepage.md",
-    "A Computacao/1. Índices Computação/Som - Codificação Binária.md",
-    "Organizacao/Images/Pasted image 20250819193742.png",
+    "Organizacao/Images/Pasted image 20250820120846.png",
+    "Organizacao/Images/Pasted image 20250820120720.png",
+    "Organizacao/Images/Pasted image 20250820120633.png",
     "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
-    "A Computacao/1. Índices Computação/Imagens - Codificação Binária.md",
-    "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Textos - Codificação Binária.md",
-    "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Dados Analógicos e Digitais.md",
-    "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Dados, Informação e Conhecimento.md",
-    "A Computacao/1. Índices Computação/Algoritmos e Programação de Computadores I.md",
-    "A Computacao/Engenharia de Computação/PDA.md",
-    "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/História da Computação.md",
-    "Organizacao/RoadMap.md",
-    "Organizacao/Flashcards/Flashcards Java.md",
-=======
-  "active": "0d7c64a3d36f6520",
->>>>>>> 0da886fdb1041f294aeb32a1c56b670ff6021c36
-  "lastOpenFiles": [
-    "O Software/1. Índices Software/Índice Programação de Software.md",
+    "A Computacao/1. Índices Computação/Conversão de Bases.md",
+    "A Computacao/1. Índices Computação/Sistemas de Numeração.md",
+    "Organizacao/Images/Pasted image 20250820115544.png",
+    "Organizacao/Images/Pasted image 20250820114115.png",
     "Homepage.md",
+    "O Software/Programação de Software/Linguagens/SQL/Índice SQL.md",
+    "Organizacao/Images/Pasted image 20250819193742.png",
+    "A Computacao/1. Índices Computação/Som - Codificação Binária.md",
+    "A Computacao/1. Índices Computação/Imagens - Codificação Binária.md",
+    "O Software/1. Índices Software/Índice Programação de Software.md",
     "Organizacao/Flashcards/Flashcards Java.md",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello/Pessoa.class",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello/HelloWorld.class",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/hello/Pessoa.java",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/hello/HelloWorld.java",
-<<<<<<< HEAD
     "O Software/Processos de Software/Índice Processos de Software.md",
     "O Software/Processos de Software/Sem título.md",
     "O Software/1. Índices Software/Índice Desenvolvimento de Software.md",
-    "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
-=======
-    "Homepage.md",
->>>>>>> 3d6545313988e3848c2efda722e7d54732913b4b
-    "O Software/Processos de Software/Índice Processos de Software.md",
-    "O Software/Processos de Software/Sem título.md",
-    "O Software/1. Índices Software/Índice Desenvolvimento de Software.md",
->>>>>>> 0da886fdb1041f294aeb32a1c56b670ff6021c36
-    "O Software/Programação de Software/Linguagens/SQL/Índice SQL.md",
     "O Software/Programação de Software/Linguagens/Java/Índice Java.md",
     "Organizacao/Modelo padrão para índices.md",
     "O Software/1. Índices Software/Índice Python.md",
@@ -358,21 +371,15 @@
     "O Software/Desenvolvimento de Software/Versionamento/Índice Versionamento.md",
     "Organizacao/Flashcards",
     "Organizacao/Manifesto Metodologia de Abordagem Diária.md",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Manutenção de Software/Índice.md",
     "O Software/ㅤÍndices/desktop.ini",
     "O Software/1. Índices Software",
     "A Computacao/Índices/desktop.ini",
     "A Computacao/1. Índices Computação",
-<<<<<<< HEAD
-=======
     "Índice Geral.md",
     "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Índice Teste de Software.md",
     "O Software/Desenvolvimento de Software/Qualidade de Software/Índice Qualidade de Software.md",
     "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Conceitos e definições básicas.md",
-    "O Software/Desenvolvimento de Software/Qualidade de Software/Testes e Manutenção de Software/Testes e Manutenção de Software.md",
-    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Testes Flashcards.md",
-    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Teste unitário.md",
-    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Teste de sistema.md",
->>>>>>> 3d6545313988e3848c2efda722e7d54732913b4b
     "O Software/Desenvolvimento de Software/Qualidade de Software/Garantia de Qualidade/Controle de Qualidade",
     "Organizacao/Images/Pasted image 20250819104436.png"
   ]
