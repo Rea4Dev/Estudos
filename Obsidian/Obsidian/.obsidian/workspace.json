@@ -304,6 +304,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "53f43e67e508a961",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
@@ -328,11 +338,15 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "da04b58e3b1d185b",
+  "active": "0d7c64a3d36f6520",
   "lastOpenFiles": [
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello/Pessoa.class",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello/HelloWorld.class",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/hello/Pessoa.java",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/hello/HelloWorld.java",
+    "Homepage.md",
     "O Software/Processos de Software/Índice Processos de Software.md",
     "O Software/Processos de Software/Sem título.md",
-    "Homepage.md",
     "O Software/1. Índices Software/Índice Desenvolvimento de Software.md",
     "O Software/1. Índices Software/Índice Programação de Software.md",
     "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
@@ -360,12 +374,8 @@
     "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Testes Flashcards.md",
     "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Teste unitário.md",
     "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Teste de sistema.md",
-    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Teste de integração.md",
     "O Software/Desenvolvimento de Software/Qualidade de Software/Garantia de Qualidade/Controle de Qualidade",
     "O Software/Desenvolvimento de Software/Qualidade de Software/Manutenção de Software/desktop.ini",
-    "O Software/Desenvolvimento de Software/Qualidade de Software/Garantia de Qualidade/desktop.ini",
-    "O Software/Desenvolvimento de Software/Qualidade de Software/Garantia de Qualidade/New folder",
-    "O Software/Desenvolvimento de Software/Qualidade de Software/Gestão de Configuração",
     "Organizacao/Images/Pasted image 20250819104436.png"
   ]
 }

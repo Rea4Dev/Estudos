@@ -65,6 +65,7 @@ Sempre que uma melhoria for percebida, **registre e versione.**
 #Software/Programacao/Linguagens/Java
 
 J1) Crie uma classe Pessoa em Java (com nome e idade) e use-a na classe HelloWorld para imprimir os dados de uma pessoa::![[Pasted image 20250819104436.png]]
+<!--SR:!2025-08-23,4,270-->
 
 EC) aaee?
 X^X
