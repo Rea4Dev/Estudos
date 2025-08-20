@@ -17,6 +17,7 @@
 # Índice Engenharia de Computação
 - [[Flashcards EngComp]]
 - [[Prazos]]
+- [[PDA]]
 
 -  [[Introdução a Conceitos de Computação]]
 	1. [[Computação, Informática e TI]]
@@ -24,6 +25,12 @@
 	3. [[História da Computação]]
 	4. [[O que sao computadores Quanticos]]
 	5. [[Computação Verde]]
+	
+	6. [[Dados, Informação e Conhecimento]]
+	7. [[Dados Analógicos e Digitais]]
+	8. [[Textos - Codificação Binária]]
+	9. [[Imagens - Codificação Binária]]
+	10. [[Som - Codificação Binária]]
 
 -  [[Algoritmos e Programação de Computadores I]]
 	1. [[Noção de Algoritmos]]

@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Índice SQL",
+      "path": "O Software/Programação de Software/Linguagens/SQL/Índice SQL.md"
+    },
+    {
+      "basename": "Índice Programação de Software",
+      "path": "O Software/1. Índices Software/Índice Programação de Software.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Homepage.md"
+    },
+    {
+      "basename": "Som - Codificação Binária",
+      "path": "A Computacao/1. Índices Computação/Som - Codificação Binária.md"
+    },
+    {
+      "basename": "Índice Engenharia de Computação",
+      "path": "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md"
+    },
+    {
+      "basename": "Imagens - Codificação Binária",
+      "path": "A Computacao/1. Índices Computação/Imagens - Codificação Binária.md"
+    },
+    {
+      "basename": "Textos - Codificação Binária",
+      "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Textos - Codificação Binária.md"
+    },
+    {
+      "basename": "Dados Analógicos e Digitais",
+      "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Dados Analógicos e Digitais.md"
+    },
+    {
+      "basename": "Dados, Informação e Conhecimento",
+      "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Dados, Informação e Conhecimento.md"
+    },
+    {
+      "basename": "PDA",
+      "path": "A Computacao/Engenharia de Computação/PDA.md"
+    },
+    {
+      "basename": "História da Computação",
+      "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/1 - Introdução ao curso/História da Computação.md"
+    },
+    {
+      "basename": "RoadMap",
+      "path": "Organizacao/RoadMap.md"
+    },
+    {
+      "basename": "Flashcards Java",
+      "path": "Organizacao/Flashcards/Flashcards Java.md"
     },
     {
       "basename": "Índice Processos de Software",
@@ -11,18 +59,6 @@
     {
       "basename": "Índice Desenvolvimento de Software",
       "path": "O Software/1. Índices Software/Índice Desenvolvimento de Software.md"
-    },
-    {
-      "basename": "Índice Programação de Software",
-      "path": "O Software/1. Índices Software/Índice Programação de Software.md"
-    },
-    {
-      "basename": "Índice Engenharia de Computação",
-      "path": "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md"
-    },
-    {
-      "basename": "Índice SQL",
-      "path": "O Software/Programação de Software/Linguagens/SQL/Índice SQL.md"
     },
     {
       "basename": "Índice Java",
@@ -61,10 +97,6 @@
       "path": "O Software/Desenvolvimento de Software/Qualidade de Software/Manutenção de Software/Índice.md"
     },
     {
-      "basename": "Flashcards Java",
-      "path": "Organizacao/Flashcards/Flashcards Java.md"
-    },
-    {
       "basename": "Índice Teste de Software",
       "path": "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Índice Teste de Software.md"
     },
@@ -89,10 +121,6 @@
       "path": "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Espaçamento e Identações.md"
     },
     {
-      "basename": "PDA",
-      "path": "A Computacao/Engenharia de Computação/PDA.md"
-    },
-    {
       "basename": "Create",
       "path": "O Software/Programação de Software/Linguagens/SQL/Create.md"
     },
@@ -111,10 +139,6 @@
     {
       "basename": "Read",
       "path": "O Software/Programação de Software/Linguagens/SQL/Read.md"
-    },
-    {
-      "basename": "RoadMap",
-      "path": "Organizacao/RoadMap.md"
     },
     {
       "basename": "Prazos",

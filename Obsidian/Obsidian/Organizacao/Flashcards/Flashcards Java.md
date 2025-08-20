@@ -1,8 +1,3 @@
----
-data_criacao: 18-08-2025
-flashcards: Não feito
-revisão: Não feita
----
 # 📜 Manifesto de Fixação de Conteúdos — v1.0
 
 Sistema pessoal de consolidação do conhecimento, aplicado no Obsidian.md + extensão de Flashcards.
