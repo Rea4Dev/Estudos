@@ -117,12 +117,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "O Software/Programação de Software/Linguagens/SQL/Índice SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Índice SQL"
             }
           }
         ],
@@ -338,17 +338,18 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "0d7c64a3d36f6520",
+  "active": "da04b58e3b1d185b",
   "lastOpenFiles": [
+    "O Software/1. Índices Software/Índice Programação de Software.md",
+    "Homepage.md",
+    "Organizacao/Flashcards/Flashcards Java.md",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello/Pessoa.class",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/bin/br/com/rengcarv/hello/HelloWorld.class",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/hello/Pessoa.java",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/src/br/com/rengcarv/hello/HelloWorld.java",
-    "Homepage.md",
     "O Software/Processos de Software/Índice Processos de Software.md",
     "O Software/Processos de Software/Sem título.md",
     "O Software/1. Índices Software/Índice Desenvolvimento de Software.md",
-    "O Software/1. Índices Software/Índice Programação de Software.md",
     "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
     "O Software/Programação de Software/Linguagens/SQL/Índice SQL.md",
     "O Software/Programação de Software/Linguagens/Java/Índice Java.md",
@@ -362,7 +363,6 @@
     "Organizacao/Manifesto Metodologia de Abordagem Diária.md",
     "O Software/Desenvolvimento de Software/Qualidade de Software/Manutenção de Software/Índice.md",
     "O Software/ㅤÍndices/desktop.ini",
-    "Organizacao/Flashcards/Flashcards Java.md",
     "O Software/1. Índices Software",
     "A Computacao/Índices/desktop.ini",
     "A Computacao/1. Índices Computação",
@@ -375,7 +375,6 @@
     "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Teste unitário.md",
     "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Teste de sistema.md",
     "O Software/Desenvolvimento de Software/Qualidade de Software/Garantia de Qualidade/Controle de Qualidade",
-    "O Software/Desenvolvimento de Software/Qualidade de Software/Manutenção de Software/desktop.ini",
     "Organizacao/Images/Pasted image 20250819104436.png"
   ]
 }
