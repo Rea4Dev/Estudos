@@ -31,6 +31,8 @@
 	8. [[Textos - Codificação Binária]]
 	9. [[Imagens - Codificação Binária]]
 	10. [[Som - Codificação Binária]]
+	11. [[Sistemas de Numeração]]
+		1. [[Conversão de Bases]]
 
 -  [[Algoritmos e Programação de Computadores I]]
 	1. [[Noção de Algoritmos]]
