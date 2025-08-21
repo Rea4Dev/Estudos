@@ -314,6 +314,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "ace71c51d8819d4e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
@@ -338,7 +348,7 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "da04b58e3b1d185b",
+  "active": "ace71c51d8819d4e",
   "lastOpenFiles": [
     "Organizacao/Images/Pasted image 20250820120846.png",
     "Organizacao/Images/Pasted image 20250820120720.png",
