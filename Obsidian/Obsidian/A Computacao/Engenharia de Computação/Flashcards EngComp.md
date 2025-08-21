@@ -70,30 +70,36 @@ X%X
 #Comp/EngComp/Introducao_Conceitos_Computacao
 
 Comp1) Converta o *binário 1011* para **decimal**::A resposta é `11`.
+<!--SR:!2025-08-22,1,234-->
 
 Comp2) Converta o octal 230,4 para decimal
 ^
-A resposta é `152,5`. 
+A resposta é `152,5`.
+<!--SR:!2025-08-25,4,274--> 
 %
 
 Comp3) Converta o hexa 4BF para decimal
 ^
-A resposta é `1215`. 
+A resposta é `1215`.
+<!--SR:!2025-08-25,4,274--> 
 %
 
 Comp4) Converta o 12,4 decimal para binário (três números após a vírgula)
 ^
 A resposta é `1100,011`.
+<!--SR:!2025-08-25,4,274-->
 %
 
 Comp5) Converta o 1215,53 decimal para hexadecimal (três números após a vírgula)
 ^
 A resposta é `4BF,87A`.
+<!--SR:!2025-08-25,4,270-->
 %
 
 Comp6) Converta o decimal 342,625 para octal
-^  
-A resposta é `526,5`.  
+^
+A resposta é `526,5`.
+<!--SR:!2025-08-25,4,270-->
 %
 
 ## Sistemas Computacionais
