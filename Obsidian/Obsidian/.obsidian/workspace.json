@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Flashcards EngComp"
             }
+          },
+          {
+            "id": "4371c2c298eb1ec8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,8 +205,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -215,8 +225,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -225,12 +235,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
             "id": "7c6bd7cf2803638e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "f727e233a45402fd",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -268,7 +288,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -280,13 +299,13 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "b359d05b33968ae1",
+  "active": "4371c2c298eb1ec8",
   "lastOpenFiles": [
+    "A Computacao/Engenharia de Computação/Flashcards EngComp.md",
     "A Computacao/1. Índices Computação/Conversão de Bases.md",
     "A Computacao/1. Índices Computação/Sistemas de Numeração.md",
     "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
     "Homepage.md",
-    "A Computacao/Engenharia de Computação/Flashcards EngComp.md",
     "Organizacao/Images/Pasted image 20250820172210.png",
     "Organizacao/Images/Pasted image 20250820165520.png",
     "Organizacao/Flashcards/Índice Flashcards.md",
