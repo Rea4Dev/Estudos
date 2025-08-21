@@ -8,110 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8aa0c816a71209be",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "A Computacao/Engenharia de Computação/Prazos.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Prazos"
-            }
-          },
-          {
-            "id": "b2b4245f4d65e4ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O Software/Programação de Software/Linguagens/Java/Sobrescrita de Métodos e toString().md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sobrescrita de Métodos e toString()"
-            }
-          },
-          {
-            "id": "c47b209f90a0df98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Conceitos e definições básicas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conceitos e definições básicas"
-            }
-          },
-          {
-            "id": "84a77388115f0e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Índice Teste de Software.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Índice Teste de Software"
-            }
-          },
-          {
-            "id": "a4fc30e26bce0763",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Índice Engenharia de Computação"
-            }
-          },
-          {
-            "id": "338c1d325d87e155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O Software/Processos de Software/Índice Processos de Software.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Índice Processos de Software"
-            }
-          },
-          {
-            "id": "412e3ab24fa18a61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
             "id": "da04b58e3b1d185b",
             "type": "leaf",
             "state": {
@@ -124,9 +20,23 @@
               "icon": "lucide-file",
               "title": "Conversão de Bases"
             }
+          },
+          {
+            "id": "b359d05b33968ae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Computacao/Engenharia de Computação/Flashcards EngComp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flashcards EngComp"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e05dfaedcd2cf914",
@@ -284,8 +195,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -304,12 +215,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
             "id": "53f43e67e508a961",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "7c6bd7cf2803638e",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -320,6 +241,26 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "028722132360598b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "412e3ab24fa18a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -327,6 +268,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -338,17 +280,21 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "da04b58e3b1d185b",
+  "active": "b359d05b33968ae1",
   "lastOpenFiles": [
+    "A Computacao/1. Índices Computação/Conversão de Bases.md",
+    "A Computacao/1. Índices Computação/Sistemas de Numeração.md",
+    "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
+    "Homepage.md",
+    "A Computacao/Engenharia de Computação/Flashcards EngComp.md",
+    "Organizacao/Images/Pasted image 20250820172210.png",
+    "Organizacao/Images/Pasted image 20250820165520.png",
+    "Organizacao/Flashcards/Índice Flashcards.md",
     "Organizacao/Images/Pasted image 20250820120846.png",
     "Organizacao/Images/Pasted image 20250820120720.png",
     "Organizacao/Images/Pasted image 20250820120633.png",
-    "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
-    "A Computacao/1. Índices Computação/Conversão de Bases.md",
-    "A Computacao/1. Índices Computação/Sistemas de Numeração.md",
     "Organizacao/Images/Pasted image 20250820115544.png",
     "Organizacao/Images/Pasted image 20250820114115.png",
-    "Homepage.md",
     "O Software/Programação de Software/Linguagens/SQL/Índice SQL.md",
     "Organizacao/Images/Pasted image 20250819193742.png",
     "A Computacao/1. Índices Computação/Som - Codificação Binária.md",
@@ -367,7 +313,6 @@
     "O Software/1. Índices Software/Índice Python.md",
     "O Software/Arquitetura de Software/Índice Arquitetura de Software.md",
     "A Computacao/1. Índices Computação/Índice Linux.md",
-    "Organizacao/Flashcards/Índice Flashcards.md",
     "O Software/Desenvolvimento de Software/Versionamento/Índice Versionamento.md",
     "Organizacao/Flashcards",
     "Organizacao/Manifesto Metodologia de Abordagem Diária.md",
@@ -379,7 +324,6 @@
     "Índice Geral.md",
     "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Índice Teste de Software.md",
     "O Software/Desenvolvimento de Software/Qualidade de Software/Índice Qualidade de Software.md",
-    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Conceitos e definições básicas.md",
     "O Software/Desenvolvimento de Software/Qualidade de Software/Garantia de Qualidade/Controle de Qualidade",
     "Organizacao/Images/Pasted image 20250819104436.png"
   ]

@@ -59,27 +59,47 @@ Sempre que uma melhoria for percebida, **registre e versione.**
 ## Algoritmos e Programação de Computadores I
 #EngComp/Algoritmos_Prog_Comp1
 
-EC) 11aaee ?:X:Aaa
+Comp) 11aaee ?:X:Aaa
 
-EC) aaee?
+Comp) aaee?
 X^X
 Raa
 X%X
 
 ## Introdução a Conceitos de Computação
-#EngComp/Introducao_Conceitos_Computacao1
+#Comp/EngComp/Introducao_Conceitos_Computacao
 
-EC) 22aaee ?X:X:Bbb
+Comp1) Converta o *binário 1011* para **decimal**::A resposta é `11`.
 
-EC) aaee?
-X^X
-Raa
-X%X
+Comp2) Converta o octal 230,4 para decimal
+^
+A resposta é `152,5`. 
+%
+
+Comp3) Converta o hexa 4BF para decimal
+^
+A resposta é `1215`. 
+%
+
+Comp4) Converta o 12,4 decimal para binário (três números após a vírgula)
+^
+A resposta é `1100,011`.
+%
+
+Comp5) Converta o 1215,53 decimal para hexadecimal (três números após a vírgula)
+^
+A resposta é `4BF,87A`.
+%
+
+Comp6) Converta o decimal 342,625 para octal
+^  
+A resposta é `526,5`.  
+%
 
 ## Sistemas Computacionais
 #EngComp/Sistemas_Comp
 
-EC) 33aaee ?X:X:Ccc
+Comp) 33aaee ?X:X:Ccc
 
 EC) aaee?
 X^X

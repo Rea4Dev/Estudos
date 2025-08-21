@@ -6,7 +6,8 @@
     "reviewButtonDelay": 0,
     "flashcardTags": [
       "#flashcards",
-      "#Software"
+      "#Software",
+      "#Comp"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
