@@ -36,6 +36,7 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "525779d538805d2d",
             "type": "leaf",
             "state": {
@@ -47,6 +48,15 @@
               },
               "icon": "lucide-file",
               "title": "PDA"
+=======
+            "id": "4371c2c298eb1ec8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+>>>>>>> 7407185ed011c1b037d3bc5b2dca621c554da9ff
             }
           }
         ],
@@ -209,8 +219,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -229,8 +239,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -239,8 +249,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -249,6 +259,7 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+<<<<<<< HEAD
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
@@ -265,6 +276,14 @@
           },
           {
             "id": "6a80b71f7b216331",
+=======
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "f727e233a45402fd",
+>>>>>>> 7407185ed011c1b037d3bc5b2dca621c554da9ff
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -302,7 +321,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -314,6 +332,7 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
+<<<<<<< HEAD
   "active": "525779d538805d2d",
   "lastOpenFiles": [
     "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
@@ -321,6 +340,15 @@
     "A Computacao/Engenharia de Computação/Flashcards EngComp.md",
     "A Computacao/1. Índices Computação/Conversão de Bases.md",
     "A Computacao/1. Índices Computação/Sistemas de Numeração.md",
+=======
+  "active": "4371c2c298eb1ec8",
+  "lastOpenFiles": [
+    "A Computacao/Engenharia de Computação/Flashcards EngComp.md",
+    "A Computacao/1. Índices Computação/Conversão de Bases.md",
+    "A Computacao/1. Índices Computação/Sistemas de Numeração.md",
+    "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
+    "Homepage.md",
+>>>>>>> 7407185ed011c1b037d3bc5b2dca621c554da9ff
     "Organizacao/Images/Pasted image 20250820172210.png",
     "Organizacao/Images/Pasted image 20250820165520.png",
     "Organizacao/Flashcards/Índice Flashcards.md",
