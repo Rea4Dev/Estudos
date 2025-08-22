@@ -3,33 +3,26 @@ data_criacao: 18-08-2025
 flashcards: Não feito
 revisão: Não feita
 ---
-18 -> A2 ✔️
-19 -> I2 (e exercicios 4) 
-20 -> S2
+25 -> A2 ✔️
+26 -> I2 (e exercicios 4) 
+27 -> S2
 
-21 -> A3
-22 -> I3
-23 -> S3
+28 -> A3
+29 -> I3
+30 -> S3
 
-24 -> A4
-25 -> I4
-26 -> S4 (e exercicios 5)
+31 -> A4
+1 -> I4
+2 -> S4 (e exercicios 5)
 
-27 -> A5
-28 -> I5
-29 -> S5
+3 -> A5
+4 -> I5
+5 -> S5
 
-30 -> A6
-31 -> I6
-01 -> S6
+6 -> A6
+7 -> I6
+8 -> S6
 
-02 -> A7
-03 -> I7 (e exercicios 6/7)
-04 -> S7
-05 - 
-06 - 
-07 - 
-08 - 
-09 - 
-10 - 
-11 -
+9 -> A7
+10 -> I7 (e exercicios 6/7)
+11 -> S7
