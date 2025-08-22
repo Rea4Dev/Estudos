@@ -1,5 +1,6 @@
 1. [[Banco de Dados]]
 	1. [[Modelo Relacional]]
+		1. [[Coluna (campo)]]
 	2. [[Relacional vs Não Relacional]] 
 	3. [[SGBD]]
 

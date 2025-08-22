@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Modelo Relacional",
+      "path": "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Modelo Relacional.md"
+    },
+    {
+      "basename": "Introdução ao Banco de Dados e SQL",
+      "path": "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Introdução ao Banco de Dados e SQL.md"
+    },
+    {
+      "basename": "Coluna (campo)",
+      "path": "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Coluna (campo).md"
+    },
+    {
+      "basename": "Índice Arquitetura de Software",
+      "path": "O Software/Arquitetura de Software/Índice Arquitetura de Software.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Homepage.md"
+    },
+    {
+      "basename": "RoadMap",
+      "path": "Organizacao/RoadMap.md"
+    },
+    {
+      "basename": "Entidades",
+      "path": "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Entidades.md"
+    },
+    {
+      "basename": "Elementos DER e Paralelos",
+      "path": "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Elementos DER e Paralelos.md"
+    },
+    {
+      "basename": "Mundo Real",
+      "path": "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Mundo Real.md"
+    },
+    {
+      "basename": "SGBD",
+      "path": "O Software/Arquitetura de Software/Modelagem de Banco de Dados/SGBD.md"
+    },
+    {
+      "basename": "Relacional vs Não Relacional",
+      "path": "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Relacional vs Não Relacional.md"
+    },
+    {
+      "basename": "Banco de Dados",
+      "path": "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Banco de Dados.md"
     },
     {
       "basename": "PDA",
@@ -59,10 +103,6 @@
     {
       "basename": "Índice Python",
       "path": "O Software/1. Índices Software/Índice Python.md"
-    },
-    {
-      "basename": "Índice Arquitetura de Software",
-      "path": "O Software/Arquitetura de Software/Índice Arquitetura de Software.md"
     },
     {
       "basename": "Índice Linux",
@@ -123,10 +163,6 @@
     {
       "basename": "Read",
       "path": "O Software/Programação de Software/Linguagens/SQL/Read.md"
-    },
-    {
-      "basename": "RoadMap",
-      "path": "Organizacao/RoadMap.md"
     },
     {
       "basename": "Prazos",
