@@ -1,0 +1,428 @@
+{
+  "main": {
+    "id": "c6ac7f122f7ce4a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b999b88dcb2604b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aab3800a9757531",
+            "type": "leaf",
+            "state": {
+              "type": "3d-graph-view-global",
+              "state": {},
+              "icon": "orbit",
+              "title": "Global 3D Graph"
+            }
+          },
+          {
+            "id": "d0104d8d60c78a81",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "ddd49d6b0f3530f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudos/Livros.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Livros"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78d544de8bec4699",
+    "type": "split",
+    "children": [
+      {
+        "id": "4956243f9b32b545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b77a6f98554cd374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "ccbefba3e4610e0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "901e1d8ef624a617",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "174ecb7d8d9327a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9049eda46a925ac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "242901a0a4f7f466",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estudos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Estudos"
+            }
+          },
+          {
+            "id": "a11c405870d26afa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estudos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Estudos"
+            }
+          },
+          {
+            "id": "8dc336fad99846b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3c8b91af77e5f894",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Estudos.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Estudos"
+            }
+          },
+          {
+            "id": "29403eed50a4a29b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "303b0f7e9091ebcc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c70b3cd2de0827f1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "6b6267607e4b10b2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "8690eead4fabdfd8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "8ba36ff3b4b2b974",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "480f71de8ba16354",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5d8393e3b37e33fd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "661427d50aae77b4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "2d0a85709538d794",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "cb4ab0a5c0e09701",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "61e0c6ef69b863b7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5dcefd2c2fff6959",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "501505c43892425e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "6752f82c7890d423",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5932d0dfb67ee293",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "0023d2ec08f4816e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "9cc88c359ba58b8a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "288dd96e99f2a179",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
+          }
+        ],
+        "currentTab": 22
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false,
+      "3d-graph-new:Global 3D Graph": false
+    }
+  },
+  "active": "9aab3800a9757531",
+  "lastOpenFiles": [
+    "Pessoais/Pessoais.md",
+    "Estudos.md",
+    "Bitcoin.md",
+    "Atribuições.md",
+    "Acompanhar.md",
+    "Estudos/Livros.md",
+    "Atribuições/Hoje.md",
+    "Atribuições/Roteiro de Testes.md",
+    "Atribuições/Projeto AFDX.md",
+    "Atribuições/Kaizen/Kaizen.md",
+    "Images/Pasted image 20241025205608.png",
+    "Images/Pasted image 20241025205439.png",
+    "Images/Pasted image 20241025201422.png",
+    "Images/Pasted image 20241025201353.png",
+    "Images/Pasted image 20241025201326.png",
+    "Pessoais/Imigração EUA.md",
+    "Pessoais",
+    "Atribuições/Levantamento Ativos.md",
+    "Images/Pasted image 20241024085350.png",
+    "Atribuições/Kaizen/Kaizen de produto.md",
+    "Atribuições/Kaizen/Kaizen de Célula.md",
+    "Atribuições/Kaizen",
+    "Image Align 1.css",
+    "Image Align.css",
+    "Atribuições/Kaizen/On-Track.md",
+    "Images",
+    "Images/Pasted image 20241023150842.png",
+    "Images/Pasted image 20241023150831.png",
+    "Acompanhar/E-mail pessoal.md",
+    "Estudos/Sub",
+    "Acompanhar/Reclame Aqui.md",
+    "Acompanhar/E-mail corporativo.md",
+    "Acompanhar",
+    "Estudos/Linguagem C.md",
+    "Estudos/Python.md",
+    "Estudos/Ampli.md",
+    "Estudos/Matéria 03.md",
+    "Estudos/Matéria 02.md",
+    "Estudos/Matéria 01.md",
+    "Estudos/Cálculo.md",
+    "Estudos/Embarcados.md",
+    "Estudos",
+    "Atribuições",
+    "Imagens/Pasted image 20241022181002.png",
+    "2. Lógica de Programação/2.6 Tipos de Dados Básicos/desktop.ini",
+    "Imagens/Pasted image 20241020140256.png",
+    "Esquemático.canvas"
+  ]
+}
