@@ -70,7 +70,7 @@ X%X
 #Comp/EngComp/Introducao_Conceitos_Computacao
 
 Comp1) Converta o *binário 1011* para **decimal**::A resposta é `11`.
-<!--SR:!2025-08-22,1,234-->
+<!--SR:!2025-08-25,3,254-->
 
 Comp2) Converta o octal 230,4 para decimal
 ^
