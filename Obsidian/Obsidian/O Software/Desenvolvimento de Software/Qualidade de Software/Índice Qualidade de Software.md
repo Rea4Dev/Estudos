@@ -10,4 +10,7 @@ revisão: Não feita
 # Índice Qualidade de Software
 
 - [[Índice Teste de Software]]
-- 
+- [[Índice Manutenção de Software]]
+- [[Índice Garantia da Qualidade]]
+	- [[Controle de Qualidade]]
+- [[Gestão de Configuração]]

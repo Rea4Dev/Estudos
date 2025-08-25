@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Readme",
+      "path": "Readme.md"
+    },
+    {
+      "basename": "Índice Qualidade de Software",
+      "path": "O Software/Desenvolvimento de Software/Qualidade de Software/Índice Qualidade de Software.md"
+    },
+    {
+      "basename": "Índice Desenvolvimento de Software",
+      "path": "O Software/1. Índices Software/Índice Desenvolvimento de Software.md"
+    },
+    {
+      "basename": "Índice Teste de Software",
+      "path": "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Índice Teste de Software.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "Índice Arquitetura de Software",
+      "path": "O Software/Arquitetura de Software/Índice Arquitetura de Software.md"
+    },
+    {
       "basename": "Flashcards EngComp",
       "path": "A Computacao/Engenharia de Computação/Flashcards EngComp.md"
     },
     {
       "basename": "Índice Flashcards",
       "path": "Organizacao/Flashcards/Índice Flashcards.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
     },
     {
       "basename": "Conversão de Bases",
@@ -31,10 +51,6 @@
     {
       "basename": "Coluna (campo)",
       "path": "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Coluna (campo).md"
-    },
-    {
-      "basename": "Índice Arquitetura de Software",
-      "path": "O Software/Arquitetura de Software/Índice Arquitetura de Software.md"
     },
     {
       "basename": "RoadMap",
@@ -89,10 +105,6 @@
       "path": "O Software/Processos de Software/Índice Processos de Software.md"
     },
     {
-      "basename": "Índice Desenvolvimento de Software",
-      "path": "O Software/1. Índices Software/Índice Desenvolvimento de Software.md"
-    },
-    {
       "basename": "Índice Java",
       "path": "O Software/Programação de Software/Linguagens/Java/Índice Java.md"
     },
@@ -119,14 +131,6 @@
     {
       "basename": "Índice",
       "path": "O Software/Desenvolvimento de Software/Qualidade de Software/Manutenção de Software/Índice.md"
-    },
-    {
-      "basename": "Índice Teste de Software",
-      "path": "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Índice Teste de Software.md"
-    },
-    {
-      "basename": "Índice Qualidade de Software",
-      "path": "O Software/Desenvolvimento de Software/Qualidade de Software/Índice Qualidade de Software.md"
     },
     {
       "basename": "Conceitos e definições básicas",
