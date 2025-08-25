@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Modelo Relacional.md",
+                "file": "A Computacao/Engenharia de Computação/Flashcards EngComp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo Relacional"
+              "title": "Flashcards EngComp"
             }
           }
         ]
@@ -157,8 +157,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -177,12 +177,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
             "id": "56103bf2044aa294",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "ff8c48f284f938ab",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -226,7 +236,6 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
       "obsidian-spaced-repetition:Revisar flashcards": false,
       "open-vscode:VSCode": false,
       "obsidian-kanban:Criar um novo quadro": false
@@ -234,12 +243,22 @@
   },
   "active": "a7498f9972621253",
   "lastOpenFiles": [
-    "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Introdução ao Banco de Dados e SQL.md",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/br/desktop.ini",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/br/com/rengcarv/hello/HelloWorld.java",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/br/com/rengcarv/hello",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/br/com/rengcarv",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/br/com",
+    "O Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/br",
+    "Organizacao/Flashcards/Índice Flashcards.md",
+    "Homepage.md",
+    "A Computacao/Engenharia de Computação/Flashcards EngComp.md",
+    "A Computacao/1. Índices Computação/Conversão de Bases.md",
+    "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
     "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Modelo Relacional.md",
+    "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Introdução ao Banco de Dados e SQL.md",
     "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Coluna (campo).md",
     "Organizacao/Images/Pasted image 20250822141750.png",
     "O Software/Arquitetura de Software/Índice Arquitetura de Software.md",
-    "Homepage.md",
     "Organizacao/RoadMap.md",
     "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Entidades.md",
     "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Elementos DER e Paralelos.md",

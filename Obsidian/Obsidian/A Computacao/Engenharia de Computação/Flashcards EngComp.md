@@ -70,36 +70,55 @@ X%X
 #Comp/EngComp/Introducao_Conceitos_Computacao
 
 Comp1) Converta o *binário 1011* para **decimal**::A resposta é `11`.
-<!--SR:!2025-08-25,3,254-->
+<!--SR:!2025-09-05,11,274-->
 
 Comp2) Converta o octal 230,4 para decimal
 ^
 A resposta é `152,5`.
-<!--SR:!2025-08-25,4,274--> 
+<!--SR:!2025-08-27,2,254--> 
 %
 
 Comp3) Converta o hexa 4BF para decimal
 ^
 A resposta é `1215`.
-<!--SR:!2025-08-25,4,274--> 
+<!--SR:!2025-08-27,2,254-->
 %
 
 Comp4) Converta o 12,4 decimal para binário (três números após a vírgula)
 ^
 A resposta é `1100,011`.
-<!--SR:!2025-08-25,4,274-->
+<!--SR:!2025-09-05,11,274-->
 %
 
 Comp5) Converta o 1215,53 decimal para hexadecimal (três números após a vírgula)
 ^
 A resposta é `4BF,87A`.
-<!--SR:!2025-08-25,4,270-->
+<!--SR:!2025-09-05,11,270-->
 %
 
 Comp6) Converta o decimal 342,625 para octal
 ^
 A resposta é `526,5`.
-<!--SR:!2025-08-25,4,270-->
+<!--SR:!2025-09-09,15,290-->
+%
+
+Comp7) Como convertemos de qualquer base Universal para Decimal?
+^
+Através de somatório - UDS (universal decimal somatório).
+<!--SR:!2025-08-29,4,277-->
+%
+
+Comp8) Como convertemos de Decimal para qualquer base Universal?
+^
+Através de divisões - DUD (decimal universal divisões).
+<!--SR:!2025-08-29,4,277-->
+%
+
+Comp9) Quais são as duas formas de converter bases para parte fracionaria?
+^
+DUD - multiplicar o fracionário pela base colhendo o inteiro
+UDS - UDS
+<!--SR:!2025-08-29,4,281--> 
 %
 
 ## Sistemas Computacionais
