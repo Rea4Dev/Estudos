@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Como compilar Java",
+      "path": "O Software/Programação de Software/Linguagens/Java/Como compilar Java.md"
+    },
+    {
+      "basename": "Índice Java",
+      "path": "O Software/Programação de Software/Linguagens/Java/Índice Java.md"
+    },
+    {
+      "basename": "Índice Programação de Software",
+      "path": "O Software/1. Índices Software/Índice Programação de Software.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "Flashcards Java",
+      "path": "Organizacao/Flashcards/Flashcards Java.md"
+    },
+    {
+      "basename": "Índice Processos de Software",
+      "path": "O Software/Processos de Software/Índice Processos de Software.md"
+    },
+    {
+      "basename": "Readme",
+      "path": "Readme.md"
+    },
+    {
       "basename": "Flashcards EngComp",
       "path": "A Computacao/Engenharia de Computação/Flashcards EngComp.md"
     },
     {
       "basename": "Índice Flashcards",
       "path": "Organizacao/Flashcards/Índice Flashcards.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
     },
     {
       "basename": "Codificação Binária - Números",
@@ -25,16 +49,8 @@
       "path": "A Computacao/Engenharia de Computação/PDA.md"
     },
     {
-      "basename": "Readme",
-      "path": "Readme.md"
-    },
-    {
       "basename": "RoadMap",
       "path": "Organizacao/RoadMap.md"
-    },
-    {
-      "basename": "Flashcards Java",
-      "path": "Organizacao/Flashcards/Flashcards Java.md"
     },
     {
       "basename": "Índice Qualidade de Software",
@@ -45,16 +61,8 @@
       "path": "O Software/Programação de Software/Linguagens/Java/Importando pacotes.md"
     },
     {
-      "basename": "Índice Java",
-      "path": "O Software/Programação de Software/Linguagens/Java/Índice Java.md"
-    },
-    {
       "basename": "Metodo Construtor",
       "path": "O Software/Programação de Software/Linguagens/Java/Metodo Construtor.md"
-    },
-    {
-      "basename": "Índice Programação de Software",
-      "path": "O Software/1. Índices Software/Índice Programação de Software.md"
     },
     {
       "basename": "Índice Desenvolvimento de Software",
@@ -115,10 +123,6 @@
     {
       "basename": "Índice SQL",
       "path": "O Software/Programação de Software/Linguagens/SQL/Índice SQL.md"
-    },
-    {
-      "basename": "Índice Processos de Software",
-      "path": "O Software/Processos de Software/Índice Processos de Software.md"
     },
     {
       "basename": "Modelo padrão para índices",
@@ -187,10 +191,6 @@
     {
       "basename": "Conceito Basico",
       "path": "O Software/Programação de Software/Linguagens/Java/Conceito Basico.md"
-    },
-    {
-      "basename": "Como compilar Java",
-      "path": "O Software/Programação de Software/Linguagens/Java/Como compilar Java.md"
     },
     {
       "basename": "Manifesto de Fixação de Conteudos v1.0",
