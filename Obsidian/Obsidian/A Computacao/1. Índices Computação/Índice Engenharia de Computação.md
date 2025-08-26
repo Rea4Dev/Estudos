@@ -33,6 +33,7 @@
 	10. [[Som - Codificação Binária]]
 	11. [[Sistemas de Numeração]]
 		1. [[Conversão de Bases]]
+		2. [[Codificação Binária - Números]]
 
 -  [[Algoritmos e Programação de Computadores I]]
 	1. [[Noção de Algoritmos]]

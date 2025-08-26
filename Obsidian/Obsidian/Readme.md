@@ -25,12 +25,16 @@ A Computação
 O Software
 ├── Arquitetura de Software
 ├   └── Modelagem de Banco de Dados
-├   └── Desenvolvimento de Software
-├   └── Processos de Software
-├   └── Programação de Software
 ├── Desenvolvimento de Software
+├   └── Qualidade de Software
+├       └── Garantia da Qualidade
+├       └── Gestão de Configuração
+├       └── Manutenção de Software
+├       └── Teste de Software 
+├   └── Versionamento
 ├── Processos de Software
 ├── Programação de Software
+├   └── Linguagens
 ```
 
 ## Gestor de Conhecimento

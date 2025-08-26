@@ -121,6 +121,9 @@ UDS - UDS
 <!--SR:!2025-08-29,4,281--> 
 %
 
+Como ler binários visualmente?:: Considerando que cada posição representa uma **potência de 2** da direita para a esquerda (2^0, 2^1, 2^2, ...).
+
+
 ## Sistemas Computacionais
 #EngComp/Sistemas_Comp
 
