@@ -4,8 +4,9 @@ flashcards: Não feito
 revisão: Não feita
 ---
 25 -> A2 ✔️
-26 -> I2 (e exercicios 4) 
-27 -> S2
+26 -> I2 ✔️
+27 -> S2 + (exercicios semana **5**, 6, 7 ,8)
+*cuidado, da semana 5 vence EXATAMENTE dia 27 às 11:59*
 
 28 -> A3
 29 -> I3
@@ -13,7 +14,7 @@ revisão: Não feita
 
 31 -> A4
 1 -> I4
-2 -> S4 (e exercicios 5)
+2 -> S4
 
 3 -> A5
 4 -> I5
@@ -24,5 +25,5 @@ revisão: Não feita
 8 -> S6
 
 9 -> A7
-10 -> I7 (e exercicios 6/7)
+10 -> I7
 11 -> S7

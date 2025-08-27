@@ -121,9 +121,55 @@ UDS - UDS
 <!--SR:!2025-08-29,4,281--> 
 %
 
-Como ler binários visualmente?:: Considerando que cada posição representa uma **potência de 2** da direita para a esquerda (2^0, 2^1, 2^2, ...).
+Comp10) Como ler binários visualmente?:: Considerando que cada posição representa uma **potência de 2** da direita para a esquerda (2^0, 2^1, 2^2, ...).
 <!--SR:!2025-08-30,4,282-->
 
+Comp11) Descreva a ideia do complemento de 1, dê um exemplo e diga qual o problema dele::![[Pasted image 20250826184153.png]]
+
+Comp12) Descreva a ideia e o motivo do complemento de 2, diga como usá-lo, sua faixa, dê um exemplo para 4 bits e diga quais as vantagens
+^
+# 🔹 Complemento de Dois (C2)
+
+- **Ideia**: método padrão para representar números inteiros com sinal na computação.
+- **Motivo**: elimina o problema do "zero duplo" e facilita operações aritméticas em hardware.
+- **Como**:  com base na quantidade de bits, a metade superior do espaço total que teria (quando MSB = 1) é reinterpretada somente para números negativos.
+
+> [!Importante]  MSB - Most Significant Bit
+> Em números binários com sinal (C2), o **MSB (bit mais significativo)** indica o **sinal**.
+> 
+> - `0` → número **positivo**
+>     
+> - `1` → número **negativo**
+
+> [!Warning] Importante: o intervalo depende da quantidade de bits!
+> Em $n$ bits **complemento de dois**: valores vão de
+$-2^{\,{(n-1)}}$   <small>até</small>   $+2^{\,{(n-1)}} - 1$.
+>- Com **4 bits (1 nibble)** → valores possíveis: **-8 até +7**.
+>- Com **8 bits (1 byte)** → valores possíveis: **-128 até +127**.
+><br>Obs: O expoente "n-1" é por conta do índice e o "-1"  é por conta do zero.
+
+## Como calcular um número negativo:
+
+1. Representa o número positivo em binário (com **N bits**).
+2. Inverte todos os bits (como no complemento de um).
+3. Soma **1** ao resultado.
+
+``Exemplo (em 4 bits)``: -3
+
+- +3         → `0011`
+- Inverte  → `1100`
+- Soma 1 → `1101`
+
+✅ Logo, **-3 em 4 bits C2 = 1101**
+
+## Vantagens do C2
+
+- Apenas **um zero** (`0000`).
+- Operações de **soma e subtração** funcionam direto no hardware.
+- Implementação simples e eficiente.
+%
+
+Comp13) Fale sobre o MSB::MSB significa Bit mais Significativo, ele é o bit mais a esquerda e o bit de maior peso $2^{{(n-1)}}$.<br>Em Complemento de 2, quando 1 ele indica negativo e quando 0 ele indica positivo.
 
 ## Sistemas Computacionais
 #EngComp/Sistemas_Comp
