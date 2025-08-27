@@ -18,3 +18,6 @@ revisão: Não feita
 ``Benefício``: defeitos são encontrados cedo, quando mais baratos de corrigir.
 
 ``Exemplo``: testar se a função calcular_imposto() retorna o valor esperado com diferentes entradas.
+
+---
+

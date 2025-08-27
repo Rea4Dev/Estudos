@@ -47,17 +47,3 @@ Qualidade de Software é um subconjunto de Teste de Software.
 *Meio* (integração e sistema) → menos numerosos, mais caros.
 
 *Topo* (aceitação) → mais poucos, geralmente manuais/semiautomatizados.
-
-# 📝 Dicas de estudo
-
-- Sempre associe nível ↔ artefato:
-
-- Unitário ↔ código-fonte.
-
-- Integração ↔ design de componentes/interfaces.
-
-- Sistema ↔ requisitos funcionais/não funcionais.
-
-- Aceitação ↔ requisitos de usuário/contrato.
-
-**Pergunte-se**: “Que risco é mais provável aqui?” → isso define prioridade dos testes.
