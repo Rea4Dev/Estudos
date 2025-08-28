@@ -75,13 +75,13 @@ Comp1) Converta o *binário 1011* para **decimal**::A resposta é `11`.
 Comp2) Converta o octal 230,4 para decimal
 ^
 A resposta é `152,5`.
-<!--SR:!2025-08-27,2,254--> 
+<!--SR:!2025-09-03,7,274-->
 %
 
 Comp3) Converta o hexa 4BF para decimal
 ^
 A resposta é `1215`.
-<!--SR:!2025-08-27,2,254-->
+<!--SR:!2025-09-01,5,254-->
 %
 
 Comp4) Converta o 12,4 decimal para binário (três números após a vírgula)
@@ -124,7 +124,31 @@ UDS - UDS
 Comp10) Como ler binários visualmente?:: Considerando que cada posição representa uma **potência de 2** da direita para a esquerda (2^0, 2^1, 2^2, ...).
 <!--SR:!2025-08-30,4,282-->
 
-Comp11) Descreva a ideia do complemento de 1, dê um exemplo e diga qual o problema dele::![[Pasted image 20250826184153.png]]
+Comp11) Descreva a ideia do complemento de 1, dê um exemplo e diga qual o problema dele
+^
+
+---
+
+# 🔹 Complemento de Um (C1)
+
+- **Ideia**: inverter todos os bits de um número positivo para representar o negativo.
+
+## Exemplo em 4 bits:
+
+- `+5` → `0101`
+- `-5` em C1 → `1010` (inversão bit a bit)
+
+>[!Warning] Problema
+>Gera **duas representações para o zero** (positivo e negativo).
+>- `0000` → zero positivo
+>  - `1111` → zero negativo
+>  
+>  Isso gera ambiguidade e complica operações aritméticas.
+
+---
+<!--SR:!2025-08-31,4,284-->
+%
+
 
 Comp12) Descreva a ideia e o motivo do complemento de 2, diga como usá-lo, sua faixa, dê um exemplo para 4 bits e diga quais as vantagens
 ^
@@ -136,9 +160,9 @@ Comp12) Descreva a ideia e o motivo do complemento de 2, diga como usá-lo, sua 
 
 > [!Importante]  MSB - Most Significant Bit
 > Em números binários com sinal (C2), o **MSB (bit mais significativo)** indica o **sinal**.
-> 
+>
 > - `0` → número **positivo**
->     
+>
 > - `1` → número **negativo**
 
 > [!Warning] Importante: o intervalo depende da quantidade de bits!
@@ -167,9 +191,11 @@ $-2^{\,{(n-1)}}$   <small>até</small>   $+2^{\,{(n-1)}} - 1$.
 - Apenas **um zero** (`0000`).
 - Operações de **soma e subtração** funcionam direto no hardware.
 - Implementação simples e eficiente.
+<!--SR:!2025-08-30,3,265-->
 %
 
 Comp13) Fale sobre o MSB::MSB significa Bit mais Significativo, ele é o bit mais a esquerda e o bit de maior peso $2^{{(n-1)}}$.<br>Em Complemento de 2, quando 1 ele indica negativo e quando 0 ele indica positivo.
+<!--SR:!2025-08-30,3,265-->
 
 ## Sistemas Computacionais
 #EngComp/Sistemas_Comp

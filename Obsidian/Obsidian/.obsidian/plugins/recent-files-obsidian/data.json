@@ -41,8 +41,8 @@
       "path": "A Computacao/1. Índices Computação/Codificação Binária - Números.md"
     },
     {
-      "basename": "Complemento de Um (C1)",
-      "path": "A Computacao/1. Índices Computação/Complemento de Um (C1).md"
+      "basename": "Complemento de Dois (C2)",
+      "path": "A Computacao/1. Índices Computação/Complemento de Dois (C2).md"
     },
     {
       "basename": "Índice Engenharia de Computação",
@@ -73,10 +73,6 @@
       "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Dados, Informação e Conhecimento.md"
     },
     {
-      "basename": "Como compilar Java",
-      "path": "O Software/Programação de Software/Linguagens/Java/Como compilar Java.md"
-    },
-    {
       "basename": "Índice Java",
       "path": "O Software/Programação de Software/Linguagens/Java/Índice Java.md"
     },
@@ -91,10 +87,6 @@
     {
       "basename": "Índice Processos de Software",
       "path": "O Software/Processos de Software/Índice Processos de Software.md"
-    },
-    {
-      "basename": "Índice Flashcards",
-      "path": "Organizacao/Flashcards/Índice Flashcards.md"
     },
     {
       "basename": "RoadMap",
