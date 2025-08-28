@@ -20,7 +20,7 @@
 
 -  [[Flashcards Java]]
 
--  [[Estruturas Básicas do Java]]
+-  <span style="color: #FF5F4B;">Estruturas Básicas do Java</span>
 	1. [[JVM, WORA, JDK e JRE]]
 	2. [[Conceito Basico]]
 		1. [[Como compilar Java]]
@@ -29,7 +29,7 @@
 	5. [[Pacotes Java]]
 		1. [[Importando pacotes]]
 
--  [[Classes, objetos e construtores]]
+-  <span style="color: #FF5F4B;">Classes, objetos e construtores</span>
 	1. [[Metodos]]
 		1. [[Metodo Construtor]]
 	2. [[Classes]]
