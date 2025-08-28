@@ -12,5 +12,5 @@ Isso gera o arquivo **Hello.class**
 
 2. Execute o .class
 ```Bash
-java Hello
+java Hello.java
 ```

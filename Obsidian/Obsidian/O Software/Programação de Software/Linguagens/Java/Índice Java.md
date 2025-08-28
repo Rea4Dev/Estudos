@@ -28,12 +28,14 @@
 	4. [[Tipos Primitivos]]
 	5. [[Pacotes Java]]
 		1. [[Importando pacotes]]
+	6. [[Operadores Java]] 
 
 -  <span style="color: #FF5F4B;">Classes, objetos e construtores</span>
 	1. [[Metodos]]
 		1. [[Metodo Construtor]]
 	2. [[Classes]]
 	3. [[Tipos de referencia]]
+		1. [[Usos avançados this]]
 	4. [[Sobrescrita de Métodos e toString()]]
 
  - [[Encapsulamento]]

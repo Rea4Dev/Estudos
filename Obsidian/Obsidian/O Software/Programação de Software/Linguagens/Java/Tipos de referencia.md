@@ -35,3 +35,10 @@ Ao utilizar o construtor para instanciar, a variável passa a armazenar uma refe
 Assim, o objeto existe na memória e pode ser manipulado.
 
 ![[Pasted image 20250814105522.png | center]]
+
+## A palavra-chave this
+
+Em Java, a palavra-chave this é uma referência ao próprio objeto que está executando o código no momento.
+Ou seja, dentro de uma classe, this aponta para a instância atual.
+
+Também há usos mais avançados, veja em [[Usos avançados this]].

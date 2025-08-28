@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Tipos de referencia",
-      "path": "O Software/Programação de Software/Linguagens/Java/Tipos de referencia.md"
+      "basename": "Sem título",
+      "path": "Sem título.md"
+    },
+    {
+      "basename": "Operadores Java",
+      "path": "O Software/Programação de Software/Linguagens/Java/Operadores Java.md"
+    },
+    {
+      "basename": "Comandos VIM",
+      "path": "A Computacao/1. Índices Computação/Comandos VIM.md"
     },
     {
       "basename": "Índice Java",
       "path": "O Software/Programação de Software/Linguagens/Java/Índice Java.md"
+    },
+    {
+      "basename": "Metodo Construtor",
+      "path": "O Software/Programação de Software/Linguagens/Java/Metodo Construtor.md"
+    },
+    {
+      "basename": "Como compilar Java",
+      "path": "O Software/Programação de Software/Linguagens/Java/Como compilar Java.md"
+    },
+    {
+      "basename": "Índice Linux",
+      "path": "A Computacao/1. Índices Computação/Índice Linux.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "Pacotes Java",
+      "path": "O Software/Programação de Software/Linguagens/Java/Pacotes Java.md"
+    },
+    {
+      "basename": "Tipos de referencia",
+      "path": "O Software/Programação de Software/Linguagens/Java/Tipos de referencia.md"
+    },
+    {
+      "basename": "Usos avançados this",
+      "path": "O Software/Programação de Software/Linguagens/Java/Usos avançados this.md"
     },
     {
       "basename": "Teste unitário",
@@ -31,10 +67,6 @@
     {
       "basename": "Índice Desenvolvimento de Software",
       "path": "O Software/1. Índices Software/Índice Desenvolvimento de Software.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
     },
     {
       "basename": "Readme",
@@ -101,10 +133,6 @@
       "path": "O Software/Programação de Software/Linguagens/Java/Importando pacotes.md"
     },
     {
-      "basename": "Metodo Construtor",
-      "path": "O Software/Programação de Software/Linguagens/Java/Metodo Construtor.md"
-    },
-    {
       "basename": "Índice Arquitetura de Software",
       "path": "O Software/Arquitetura de Software/Índice Arquitetura de Software.md"
     },
@@ -165,36 +193,12 @@
       "path": "O Software/1. Índices Software/Índice Python.md"
     },
     {
-      "basename": "Índice Linux",
-      "path": "A Computacao/1. Índices Computação/Índice Linux.md"
-    },
-    {
       "basename": "Índice Versionamento",
       "path": "O Software/Desenvolvimento de Software/Versionamento/Índice Versionamento.md"
     },
     {
       "basename": "Manifesto Metodologia de Abordagem Diária",
       "path": "Organizacao/Manifesto Metodologia de Abordagem Diária.md"
-    },
-    {
-      "basename": "Índice",
-      "path": "O Software/Desenvolvimento de Software/Qualidade de Software/Manutenção de Software/Índice.md"
-    },
-    {
-      "basename": "Sobrescrita de Métodos e toString()",
-      "path": "O Software/Programação de Software/Linguagens/Java/Sobrescrita de Métodos e toString().md"
-    },
-    {
-      "basename": "Espaçamento e Identações",
-      "path": "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Espaçamento e Identações.md"
-    },
-    {
-      "basename": "Create",
-      "path": "O Software/Programação de Software/Linguagens/SQL/Create.md"
-    },
-    {
-      "basename": "CRUD SQL",
-      "path": "O Software/Programação de Software/Linguagens/SQL/CRUD SQL.md"
     }
   ],
   "omittedPaths": [],
