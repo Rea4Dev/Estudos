@@ -50,17 +50,17 @@
             }
           },
           {
-            "id": "66bed54facaec5cb",
+            "id": "22b3fd4351ba7818",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Acessando e Modificando Elementos de Listas.md",
-                "mode": "preview",
+                "file": "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Mock.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acessando e Modificando Elementos de Listas"
+              "title": "Mock"
             }
           }
         ],
@@ -321,6 +321,26 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "35c9088a0643870e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "b06290aa7792f094",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
@@ -366,13 +386,18 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "66bed54facaec5cb",
+  "active": "b06290aa7792f094",
   "lastOpenFiles": [
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Índice Teste de Software.md",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Mock.md",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Teste unitário.md",
+    "Organizacao/Images/Pasted image 20250901122047.png",
+    "A Computacao/1. Índices Computação/Operações Lógicas e Tabela Verdade.md",
+    "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Acessando e Modificando Elementos de Listas.md",
     "O Software/1. Índices Software/Índice Python.md",
     "O Software/1. Índices Software/Índice Programação de Software.md",
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Lista.md",
     "Homepage.md",
-    "A Computacao/1. Índices Computação/Operações Lógicas e Tabela Verdade.md",
     "Organizacao/Images/Pasted image 20250828232447.png",
     "Organizacao/Images/Pasted image 20250828232056.png",
     "Organizacao/Images/Pasted image 20250828232053.png",
@@ -382,7 +407,6 @@
     "Organizacao/Images/Pasted image 20250828230331.png",
     "Organizacao/Images/Pasted image 20250828230141.png",
     "Organizacao/Images/Pasted image 20250828225547.png",
-    "Organizacao/Images/Pasted image 20250828225213.png",
     "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
     "A Computacao/1. Índices Computação/Codificação Binária - Números.md",
     "Organizacao/Modelos Obsidian/modelo_data.md",
@@ -409,10 +433,6 @@
     "O Software/Programação de Software/Linguagens/Java/Tipos de referencia.md",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Emb",
     "O Software/Programação de Software/Linguagens/Java/Pratico/New folder",
-    "O Software/Programação de Software/Linguagens/Java/Usos avançados this.md",
-    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Índice Teste de Software.md",
-    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Conceitos e definições básicas.md",
-    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Níveis de teste.md",
     "O Software/Programação de Software/Linguagens/Java/Pratico/exbus/src/br/com/rengcarv/hello/Pessoa.java"
   ]
 }

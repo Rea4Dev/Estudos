@@ -64,4 +64,4 @@ pode ser lido como: _“garantir que a resposta seja 4”_.
 ## Executando pytest
 
 Podemos executar no terminal `pytest` para executar todos os testes que fizemos. Entretanto, se rodar-mos `pytest -s -v` teremos mais informações.
-![[Pasted image 20250827141824.png]]
+![[Pasted image 20250901122047.png | center]]

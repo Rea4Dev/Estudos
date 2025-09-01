@@ -15,6 +15,8 @@ revisão: Não feita
 	1. [[Conceitos e definições básicas]]
 	2. [[Níveis de teste]]
 		- [[Teste unitário]]
+			- [[Teste em erros]]
+			- [[Mock]]
 	    - [[Teste de integração]]
 	    - [[Teste de sistema]]
 	    - [[Teste de aceitação]]
