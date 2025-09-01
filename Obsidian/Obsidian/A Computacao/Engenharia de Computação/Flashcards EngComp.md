@@ -197,6 +197,39 @@ $-2^{\,{(n-1)}}$   <small>até</small>   $+2^{\,{(n-1)}} - 1$.
 Comp13) Fale sobre o MSB::MSB significa Bit mais Significativo, ele é o bit mais a esquerda e o bit de maior peso $2^{{(n-1)}}$.<br>Em Complemento de 2, quando 1 ele indica negativo e quando 0 ele indica positivo.
 <!--SR:!2025-08-30,3,265-->
 
+Comp14) Pense em um dispositivo embarcado, com memória e processamento limitados, que opera na *base 10* com *4 dígitos na mantissa* e expoente assumindo valores {-3, -2, -1, 0, 1, 2, 3}.  Digamos que queremos representar o número -17,945 nele e diga qual o maior e menor numero::![[Pasted image 20250828193928.png | center | 400]]<br>![[Pasted image 20250828192230.png | center | 400]]
+Comp15) Armazene o sinal do decimal (-17,945) em binário
+^
+![[Pasted image 20250828200833.png]]
+![[Pasted image 20250828200849.png]]
+![[Pasted image 20250828200906.png]]
+![[Pasted image 20250828200942.png]]
+%
+
+Comp16) Realize as operações binárias<br>![[Pasted image 20250828212628.png]]
+^
+A) 101110
+B) 111010001
+C) 111110
+D) 1011
+%
+
+Comp17) Realize as operações binárias<br>![[Pasted image 20250828215428.png]]
+^
+A) 0110
+B) 00011
+C) 011010
+D) 0111011001
+%
+
+Comp18) Realize as operações binárias<br>![[Pasted image 20250828221312.png]]
+^
+![[Pasted image 20250828221353.png]]
+%
+
+Comp19) Divida o binário 1111 por 101::11
+
+Comp20) ![[Pasted image 20250828222522.png]]::![[Pasted image 20250828222549.png]]
 ## Sistemas Computacionais
 #EngComp/Sistemas_Comp
 

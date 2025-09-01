@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Acessando e Modificando Elementos de Listas",
+      "path": "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Acessando e Modificando Elementos de Listas.md"
+    },
+    {
+      "basename": "Índice Python",
+      "path": "O Software/1. Índices Software/Índice Python.md"
+    },
+    {
+      "basename": "Índice Programação de Software",
+      "path": "O Software/1. Índices Software/Índice Programação de Software.md"
+    },
+    {
+      "basename": "Lista",
+      "path": "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Lista.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "Operações Lógicas e Tabela Verdade",
+      "path": "A Computacao/1. Índices Computação/Operações Lógicas e Tabela Verdade.md"
+    },
+    {
+      "basename": "Índice Engenharia de Computação",
+      "path": "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md"
+    },
+    {
+      "basename": "Codificação Binária - Números",
+      "path": "A Computacao/1. Índices Computação/Codificação Binária - Números.md"
+    },
+    {
+      "basename": "modelo_data",
+      "path": "Organizacao/Modelos Obsidian/modelo_data.md"
+    },
+    {
+      "basename": "PDA",
+      "path": "A Computacao/Engenharia de Computação/PDA.md"
+    },
+    {
+      "basename": "Flashcards EngComp",
+      "path": "A Computacao/Engenharia de Computação/Flashcards EngComp.md"
+    },
+    {
+      "basename": "Notação de Ponto Flutuante",
+      "path": "A Computacao/1. Índices Computação/Notação de Ponto Flutuante.md"
+    },
+    {
+      "basename": "Complemento de Um (C1)",
+      "path": "A Computacao/1. Índices Computação/Complemento de Um (C1).md"
+    },
+    {
+      "basename": "Complemento de Dois (C2)",
+      "path": "A Computacao/1. Índices Computação/Complemento de Dois (C2).md"
+    },
+    {
       "basename": "Sem título",
       "path": "Sem título.md"
     },
@@ -27,10 +83,6 @@
     {
       "basename": "Índice Linux",
       "path": "A Computacao/1. Índices Computação/Índice Linux.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
     },
     {
       "basename": "Pacotes Java",
@@ -73,26 +125,6 @@
       "path": "Readme.md"
     },
     {
-      "basename": "Complemento de Dois (C2)",
-      "path": "A Computacao/1. Índices Computação/Complemento de Dois (C2).md"
-    },
-    {
-      "basename": "Codificação Binária - Números",
-      "path": "A Computacao/1. Índices Computação/Codificação Binária - Números.md"
-    },
-    {
-      "basename": "Complemento de Dois (C2)",
-      "path": "A Computacao/1. Índices Computação/Complemento de Dois (C2).md"
-    },
-    {
-      "basename": "Índice Engenharia de Computação",
-      "path": "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md"
-    },
-    {
-      "basename": "PDA",
-      "path": "A Computacao/Engenharia de Computação/PDA.md"
-    },
-    {
       "basename": "Sinal e magnitude (bit de sinal)",
       "path": "A Computacao/1. Índices Computação/Sinal e magnitude (bit de sinal).md"
     },
@@ -101,20 +133,12 @@
       "path": "A Computacao/1. Índices Computação/Notação por excesso.md"
     },
     {
-      "basename": "Flashcards EngComp",
-      "path": "A Computacao/Engenharia de Computação/Flashcards EngComp.md"
-    },
-    {
       "basename": "Dados Analógicos e Digitais",
       "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Dados Analógicos e Digitais.md"
     },
     {
       "basename": "Dados, Informação e Conhecimento",
       "path": "A Computacao/Engenharia de Computação/Introdução a Conceitos de Computação/2 - Representação de dados/Dados, Informação e Conhecimento.md"
-    },
-    {
-      "basename": "Índice Programação de Software",
-      "path": "O Software/1. Índices Software/Índice Programação de Software.md"
     },
     {
       "basename": "Flashcards Java",
@@ -175,30 +199,6 @@
     {
       "basename": "Banco de Dados",
       "path": "O Software/Arquitetura de Software/Modelagem de Banco de Dados/Banco de Dados.md"
-    },
-    {
-      "basename": "Sistemas de Numeração",
-      "path": "A Computacao/1. Índices Computação/Sistemas de Numeração.md"
-    },
-    {
-      "basename": "Índice SQL",
-      "path": "O Software/Programação de Software/Linguagens/SQL/Índice SQL.md"
-    },
-    {
-      "basename": "Modelo padrão para índices",
-      "path": "Organizacao/Modelo padrão para índices.md"
-    },
-    {
-      "basename": "Índice Python",
-      "path": "O Software/1. Índices Software/Índice Python.md"
-    },
-    {
-      "basename": "Índice Versionamento",
-      "path": "O Software/Desenvolvimento de Software/Versionamento/Índice Versionamento.md"
-    },
-    {
-      "basename": "Manifesto Metodologia de Abordagem Diária",
-      "path": "Organizacao/Manifesto Metodologia de Abordagem Diária.md"
     }
   ],
   "omittedPaths": [],

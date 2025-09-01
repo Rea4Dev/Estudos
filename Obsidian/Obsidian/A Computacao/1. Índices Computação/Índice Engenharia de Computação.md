@@ -34,6 +34,14 @@
 	11. [[Sistemas de Numeração]]
 		1. [[Conversão de Bases]]
 		2. [[Codificação Binária - Números]]
+	
+	12. [[Notação de Ponto Flutuante]]
+	13. [[Operações aritméticas binário]]
+		1. [[Soma]]
+		2. [[Subtração]]
+		3. [[Multiplicação]]
+		4. [[Divisão]]
+	14. [[Operações Lógicas e Tabela Verdade]]
 
 -  [[Algoritmos e Programação de Computadores I]]
 	1. [[Noção de Algoritmos]]
