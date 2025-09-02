@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "PDA",
+      "path": "A Computacao/Engenharia de Computação/PDA.md"
+    },
+    {
+      "basename": "Flashcards EngComp",
+      "path": "A Computacao/Engenharia de Computação/Flashcards EngComp.md"
+    },
+    {
+      "basename": "Operações Lógicas e Tabela Verdade",
+      "path": "A Computacao/1. Índices Computação/Operações Lógicas e Tabela Verdade.md"
+    },
+    {
       "basename": "Mock",
       "path": "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Mock.md"
+    },
+    {
+      "basename": "Índice Engenharia de Computação",
+      "path": "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
     },
     {
       "basename": "Índice Teste de Software",
@@ -11,10 +31,6 @@
     {
       "basename": "Teste unitário",
       "path": "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Teste unitário.md"
-    },
-    {
-      "basename": "Operações Lógicas e Tabela Verdade",
-      "path": "A Computacao/1. Índices Computação/Operações Lógicas e Tabela Verdade.md"
     },
     {
       "basename": "Acessando e Modificando Elementos de Listas",
@@ -33,28 +49,12 @@
       "path": "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Lista.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Homepage.md"
-    },
-    {
-      "basename": "Índice Engenharia de Computação",
-      "path": "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md"
-    },
-    {
       "basename": "Codificação Binária - Números",
       "path": "A Computacao/1. Índices Computação/Codificação Binária - Números.md"
     },
     {
       "basename": "modelo_data",
       "path": "Organizacao/Modelos Obsidian/modelo_data.md"
-    },
-    {
-      "basename": "PDA",
-      "path": "A Computacao/Engenharia de Computação/PDA.md"
-    },
-    {
-      "basename": "Flashcards EngComp",
-      "path": "A Computacao/Engenharia de Computação/Flashcards EngComp.md"
     },
     {
       "basename": "Notação de Ponto Flutuante",

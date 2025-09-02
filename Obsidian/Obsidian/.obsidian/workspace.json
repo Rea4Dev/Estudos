@@ -63,8 +63,7 @@
               "title": "Mock"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -341,6 +340,46 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "72aa8c316ae67f00",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "bb8e611e82d38194",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "b4f83c8e8fe21e26",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "f0c8842a78bde9b3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
@@ -386,18 +425,22 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "b06290aa7792f094",
+  "active": "207d23e8baaac1a7",
   "lastOpenFiles": [
-    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Índice Teste de Software.md",
+    "A Computacao/Engenharia de Computação/Flashcards EngComp.md",
+    "A Computacao/1. Índices Computação/Operações Lógicas e Tabela Verdade.md",
+    "Organizacao/Images/Pasted image 20250901210943.png",
     "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Mock.md",
+    "A Computacao/Engenharia de Computação/PDA.md",
+    "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
+    "Homepage.md",
+    "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Índice Teste de Software.md",
     "O Software/Desenvolvimento de Software/Qualidade de Software/Teste de Software/Teste unitário.md",
     "Organizacao/Images/Pasted image 20250901122047.png",
-    "A Computacao/1. Índices Computação/Operações Lógicas e Tabela Verdade.md",
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Acessando e Modificando Elementos de Listas.md",
     "O Software/1. Índices Software/Índice Python.md",
     "O Software/1. Índices Software/Índice Programação de Software.md",
     "O Software/Programação de Software/Linguagens/‎ Python/Conteudos/Lista.md",
-    "Homepage.md",
     "Organizacao/Images/Pasted image 20250828232447.png",
     "Organizacao/Images/Pasted image 20250828232056.png",
     "Organizacao/Images/Pasted image 20250828232053.png",
@@ -406,12 +449,8 @@
     "Organizacao/Images/Pasted image 20250828230844.png",
     "Organizacao/Images/Pasted image 20250828230331.png",
     "Organizacao/Images/Pasted image 20250828230141.png",
-    "Organizacao/Images/Pasted image 20250828225547.png",
-    "A Computacao/1. Índices Computação/Índice Engenharia de Computação.md",
     "A Computacao/1. Índices Computação/Codificação Binária - Números.md",
     "Organizacao/Modelos Obsidian/modelo_data.md",
-    "A Computacao/Engenharia de Computação/PDA.md",
-    "A Computacao/Engenharia de Computação/Flashcards EngComp.md",
     "A Computacao/1. Índices Computação/Notação de Ponto Flutuante.md",
     "A Computacao/1. Índices Computação/Complemento de Um (C1).md",
     "A Computacao/1. Índices Computação/Complemento de Dois (C2).md",
@@ -430,7 +469,6 @@
     "O Software/Programação de Software/Linguagens/Java/Pratico/Emb/src/br/com",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Emb/src/br",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Emb/src",
-    "O Software/Programação de Software/Linguagens/Java/Tipos de referencia.md",
     "O Software/Programação de Software/Linguagens/Java/Pratico/Emb",
     "O Software/Programação de Software/Linguagens/Java/Pratico/New folder",
     "O Software/Programação de Software/Linguagens/Java/Pratico/exbus/src/br/com/rengcarv/hello/Pessoa.java"

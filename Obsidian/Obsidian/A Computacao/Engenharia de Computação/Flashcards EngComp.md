@@ -81,7 +81,7 @@ A resposta é `152,5`.
 Comp3) Converta o hexa 4BF para decimal
 ^
 A resposta é `1215`.
-<!--SR:!2025-09-01,5,254-->
+<!--SR:!2025-09-14,13,254-->
 %
 
 Comp4) Converta o 12,4 decimal para binário (três números após a vírgula)
@@ -105,24 +105,24 @@ A resposta é `526,5`.
 Comp7) Como convertemos de qualquer base Universal para Decimal?
 ^
 Através de somatório - UDS (universal decimal somatório).
-<!--SR:!2025-08-29,4,277-->
+<!--SR:!2025-09-16,15,297-->
 %
 
 Comp8) Como convertemos de Decimal para qualquer base Universal?
 ^
 Através de divisões - DUD (decimal universal divisões).
-<!--SR:!2025-08-29,4,277-->
+<!--SR:!2025-09-16,15,297-->
 %
 
 Comp9) Quais são as duas formas de converter bases para parte fracionaria?
 ^
 DUD - multiplicar o fracionário pela base colhendo o inteiro
 UDS - UDS
-<!--SR:!2025-08-29,4,281--> 
+<!--SR:!2025-09-17,16,301--> 
 %
 
 Comp10) Como ler binários visualmente?:: Considerando que cada posição representa uma **potência de 2** da direita para a esquerda (2^0, 2^1, 2^2, ...).
-<!--SR:!2025-08-30,4,282-->
+<!--SR:!2025-09-17,16,302-->
 
 Comp11) Descreva a ideia do complemento de 1, dê um exemplo e diga qual o problema dele
 ^
@@ -142,11 +142,11 @@ Comp11) Descreva a ideia do complemento de 1, dê um exemplo e diga qual o probl
 >Gera **duas representações para o zero** (positivo e negativo).
 >- `0000` → zero positivo
 >  - `1111` → zero negativo
->  
+>
 >  Isso gera ambiguidade e complica operações aritméticas.
 
 ---
-<!--SR:!2025-08-31,4,284-->
+<!--SR:!2025-09-17,16,304-->
 %
 
 
@@ -191,19 +191,21 @@ $-2^{\,{(n-1)}}$   <small>até</small>   $+2^{\,{(n-1)}} - 1$.
 - Apenas **um zero** (`0000`).
 - Operações de **soma e subtração** funcionam direto no hardware.
 - Implementação simples e eficiente.
-<!--SR:!2025-08-30,3,265-->
+<!--SR:!2025-09-08,7,265-->
 %
 
 Comp13) Fale sobre o MSB::MSB significa Bit mais Significativo, ele é o bit mais a esquerda e o bit de maior peso $2^{{(n-1)}}$.<br>Em Complemento de 2, quando 1 ele indica negativo e quando 0 ele indica positivo.
-<!--SR:!2025-08-30,3,265-->
+<!--SR:!2025-09-12,11,285-->
 
 Comp14) Pense em um dispositivo embarcado, com memória e processamento limitados, que opera na *base 10* com *4 dígitos na mantissa* e expoente assumindo valores {-3, -2, -1, 0, 1, 2, 3}.  Digamos que queremos representar o número -17,945 nele e diga qual o maior e menor numero::![[Pasted image 20250828193928.png | center | 400]]<br>![[Pasted image 20250828192230.png | center | 400]]
+<!--SR:!2025-09-02,1,251-->
 Comp15) Armazene o sinal do decimal (-17,945) em binário
 ^
 ![[Pasted image 20250828200833.png]]
 ![[Pasted image 20250828200849.png]]
 ![[Pasted image 20250828200906.png]]
 ![[Pasted image 20250828200942.png]]
+<!--SR:!2025-09-02,1,251-->
 %
 
 Comp16) Realize as operações binárias<br>![[Pasted image 20250828212628.png]]
@@ -212,6 +214,7 @@ A) 101110
 B) 111010001
 C) 111110
 D) 1011
+<!--SR:!2025-09-02,1,245-->
 %
 
 Comp17) Realize as operações binárias<br>![[Pasted image 20250828215428.png]]
@@ -220,16 +223,60 @@ A) 0110
 B) 00011
 C) 011010
 D) 0111011001
+<!--SR:!2025-09-04,3,265-->
 %
 
 Comp18) Realize as operações binárias<br>![[Pasted image 20250828221312.png]]
 ^
 ![[Pasted image 20250828221353.png]]
+<!--SR:!2025-09-05,4,285-->
 %
 
 Comp19) Divida o binário 1111 por 101::11
+<!--SR:!2025-09-05,4,285-->
 
 Comp20) ![[Pasted image 20250828222522.png]]::![[Pasted image 20250828222549.png]]
+<!--SR:!2025-09-02,1,251-->
+
+Comp21) Em operações lógicas, fale sobre a implicação
+^
+### Implicação
+
+Na implicação verificamos a veracidade da implicação. Respeitamos que só podemos verificar a implicação como falsa se o primeiro elemento for verificado como verdadeiro e o consequente como falso, pois quando não o conseguimos verificar então assumimos que a implicação é verdadeira.
+
+![[Pasted image 20250828230844.png | center | 400]]
+
+%
+
+Comp22) Em operações lógicas, fale sobre a bicondição
+^
+### Bicondição
+
+Na bicondição, fazemos a implicação de A->B e armazenamos o resultado. Depois de B->A e armazenamos o resultado.
+Aplicamos "e" em ambos resultados no final.
+
+`Dica`: Sempre que os valores verdade
+
+![[Pasted image 20250828231335.png | center | 400]]
+
+%
+
+Comp23) Em operações lógicas, fale sobre a tautologia
+^
+## Tautologia, Lei de Morgan
+
+~(A V B) é equivalente a (~A ^ ~B)
+
+![[Pasted image 20250828232022.png]]
+
+%
+
+Comp24) Em operações lógicas, fale sobre a contradição
+^
+## Contradição
+
+![[Pasted image 20250828232447.png]]
+$
 ## Sistemas Computacionais
 #EngComp/Sistemas_Comp
 
